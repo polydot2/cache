@@ -23,9 +23,9 @@ def _get_category(url):
             "pubDate" : date, 
             "image": "https://picsum.photos/200/300?grayscale", 
             "logo" : "https://picsum.photos/32/32?grayscale",
-            "site_name" = "",
-            "url" = "",
-            "description" = ""
+            "site_name" : "",
+            "url" : "",
+            "description" : ""
         })
 
     for x in items:
