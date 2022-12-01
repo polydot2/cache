@@ -22,9 +22,9 @@ def _get_category(url):
             "link" : link, 
             "pubDate" : date, 
             "image": "https://picsum.photos/200/300?grayscale", 
-            "logo" : "https://picsum.photos/32/32?grayscale"
-            "site_name" = ""
-            "url" = ""
+            "logo" : "https://picsum.photos/32/32?grayscale",
+            "site_name" = "",
+            "url" = "",
             "description" = ""
         })
 
