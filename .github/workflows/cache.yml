@@ -9,6 +9,10 @@ on:
   - cron: '0 17 * * *'
 jobs:
   build:
+    permissions:
+      contents: read
+      pages: write
+      id-token: write
     environment:
         name: github-pages
         url: ${{ steps.deployment.outputs.page_url }}
