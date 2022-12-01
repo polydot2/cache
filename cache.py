@@ -6,7 +6,7 @@ import opengraph_py3
 import os
 
 def _get_category(url):
-    print("GET for " + str(url))
+    #print("GET for " + str(url))
 
     data = requests.get(url)
 
@@ -16,7 +16,8 @@ def _get_category(url):
     for x in myroot.findall('channel/item'):
         title = x.find('title').text
         link = x.find('link').text
-        items.append({"title" : title, "link" : link})
+        date = x.find('pubDate').text
+        items.append({"title" : title, "link" : link, "pubDate" : date})
 
     for x in items:
         try:
