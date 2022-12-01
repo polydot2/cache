@@ -1,5 +1,5 @@
 # .github/workflows/scheduled-builds.yml
-name: Push horoscope
+name: Cache
 
 on:
   workflow_dispatch:
