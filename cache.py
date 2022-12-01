@@ -3,6 +3,7 @@ import xml.etree.ElementTree as ET
 import json
 import datetime
 import opengraph_py3
+import os
 
 def _get_category(url):
     print("GET for " + str(url))
@@ -40,8 +41,8 @@ def _printcache(name, url):
     objectJson = {"content": result}
     objectJson['timestamp'] = datetime.datetime.now()
 
-    json.dump(objectJson, open('./cache/'+name+'.json', 'w'), indent='\t', default = myconverter)
-
+    path = 'cache/'+name+'.json'
+    json.dump(objectJson, open(os.path.join(os.path.dirname(__file__), path), 'w'), indent='\t', default = myconverter)
 
 ### main ###
 
