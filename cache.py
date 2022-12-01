@@ -17,7 +17,16 @@ def _get_category(url):
         title = x.find('title').text
         link = x.find('link').text
         date = x.find('pubDate').text
-        items.append({"title" : title, "link" : link, "pubDate" : date})
+        items.append({
+            "title" : title, 
+            "link" : link, 
+            "pubDate" : date, 
+            "image": "https://picsum.photos/200/300?grayscale", 
+            "logo" : "https://picsum.photos/32/32?grayscale"
+            "site_name" = ""
+            "url" = ""
+            "description" = ""
+        })
 
     for x in items:
         try:
@@ -28,12 +37,8 @@ def _get_category(url):
             x["description"] = og["description"]
             x["logo"] = og["logo"]
         except Exception as err:
-            x["image"] = "https://picsum.photos/200/300?grayscale"
-            x["site_name"] = ""
-            x["url"] = ""
-            x["description"] = ""
-            x["logo"] = "https://picsum.photos/32/32?grayscale"
-    
+            print("error")
+            
     return items
 
 def myconverter(o):
