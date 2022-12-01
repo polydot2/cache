@@ -3,10 +3,6 @@ name: Cache
 
 on:
   workflow_dispatch:
-  schedule:
-  - cron: '00 4 * * *'
-  - cron: '00 12 * * *'
-  - cron: '00 19 * * *'
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -16,7 +12,7 @@ jobs:
         with:
           python-version: '3.x'
           cache: 'pip' # caching pip dependencies
-      - name: Install dependencies
+      - name: Install dependencies & play script
         env:
           ACCOUNT_JSON: ${{ secrets.HOROSCOPE_ACCOUNT_JSON }}
         run: |
@@ -24,8 +20,5 @@ jobs:
           pip install requests
           pip install opengraph_py3
           python  ${{ github.workspace }}/cache.py
-      - uses: EndBug/add-and-commit@v9
-        with:
-          message: 'update'
-          add: '*.json --force'
-          cwd: ${{ github.workspace }}
+      - name: Git Auto Commit
+      - uses: stefanzweifel/git-auto-commit-action@v4.15.4
