@@ -40,7 +40,7 @@ def _printcache(name, url):
     objectJson = {"content": result}
     objectJson['timestamp'] = datetime.datetime.now()
 
-    json.dump(objectJson, open(name+'.json', 'w'), indent='\t', default = myconverter)
+    json.dump(objectJson, open('cache/'+name+'.json', 'w'), indent='\t', default = myconverter)
 
 
 ### main ###
