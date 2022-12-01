@@ -25,10 +25,14 @@ def _get_category(url):
             x["image"] = og["image"]
             x["site_name"] = og["site_name"]
             x["url"] = og["url"]
+            x["description"] = og["description"]
+            x["logo"] = og["logo"]
         except Exception as err:
             x["image"] = "https://picsum.photos/200/300?grayscale"
             x["site_name"] = ""
             x["url"] = ""
+            x["description"] = ""
+            x["logo"] = "https://picsum.photos/32/32?grayscale"
     
     return items
 
