@@ -25,7 +25,7 @@ def _get_category(url):
             x["url"] = og["url"]
         except Exception as err:
             x["image"] = "https://picsum.photos/200/300?grayscale"
-            x["site_name"] = "Le monde"
+            x["site_name"] = ""
             x["url"] = ""
     
     return items
@@ -40,7 +40,7 @@ def _printcache(name, url):
     objectJson = {"content": result}
     objectJson['timestamp'] = datetime.datetime.now()
 
-    json.dump(objectJson, open('cache/'+name+'.json', 'w'), indent='\t', default = myconverter)
+    json.dump(objectJson, open('./cache/'+name+'.json', 'w'), indent='\t', default = myconverter)
 
 
 ### main ###
