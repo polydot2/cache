@@ -4,9 +4,7 @@ name: Cache
 on:
   workflow_dispatch:
   schedule:
-  - cron: '0 1 * * *'
-  - cron: '0 9 * * *'
-  - cron: '0 17 * * *'
+  - cron: '0 */4 * * *'
 jobs:
   build:
     permissions:
