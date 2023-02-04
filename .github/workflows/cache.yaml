@@ -27,6 +27,7 @@ jobs:
         run: |
           python -m pip install --upgrade pip
           pip install requests
+          pip install lxml
           pip install beautifulsoup4
           python  ${{ github.workspace }}/cache.py
       - name: Git Auto Commit
