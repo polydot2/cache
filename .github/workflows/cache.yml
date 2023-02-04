@@ -2,8 +2,7 @@
 name: Cache
 
 on:
-  push:
-    branches: [ main ]
+ workflow_dispatch:
 jobs:
   build:
     permissions:
