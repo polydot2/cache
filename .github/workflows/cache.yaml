@@ -1,0 +1,42 @@
+# .github/workflows/scheduled-builds.yml
+name: Cache
+
+on:
+  workflow_dispatch:
+  schedule:
+  - cron: '0 */4 * * *'
+jobs:
+  build:
+    permissions:
+      contents: write
+      pages: write
+      id-token: write
+    environment:
+        name: github-pages
+        url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'
+          cache: 'pip' # caching pip dependencies
+      - name: Install dependencies & play script
+        env:
+          ACCOUNT_JSON: ${{ secrets.HOROSCOPE_ACCOUNT_JSON }}
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests
+          pip install beautifulsoup4
+          python  ${{ github.workspace }}/cache.py
+      - name: Git Auto Commit
+        uses: stefanzweifel/git-auto-commit-action@v4.15.4
+      - name: Setup Pages
+        uses: actions/configure-pages@v2
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v1
+        with:
+          path: './cache'
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v1
