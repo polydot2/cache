@@ -2,13 +2,14 @@ import requests
 import xml.etree.ElementTree as ET
 import json
 import datetime
-import opengraph_py3
 import os
+import re
+from bs4 import BeautifulSoup
 
 def _get_category(url):
     #print("GET for " + str(url))
 
-    data = requests.get(url)
+    data = requests.get(url, cookies = {'CONSENT' : 'YES+'})
 
     items = []
 
@@ -30,14 +31,22 @@ def _get_category(url):
 
     for x in items:
         try:
-            og = opengraph_py3.OpenGraph(url=x["link"])
-            x["image"] = og["image"]
-            x["site_name"] = og["site_name"]
-            x["url"] = og["url"]
-            x["description"] = og["description"]
-            x["logo"] = og["logo"]
+            html = requests.get(x["link"], cookies = {'CONSENT' : 'YES+'}).content
+            doc = BeautifulSoup(html, features="lxml")
+            ogs = doc.html.head.findAll(property=re.compile(r'^og'))
+
+            meta = {}
+            for og in ogs:
+                if og.has_attr('content'):
+                    meta[og['property'][3:]]=og['content']
+
+            x["image"] = meta["image"]
+            x["site_name"] = meta["site_name"]
+            x["url"] = meta["url"]
+            x["link"] = meta["url"]
+            x["description"] = meta["description"]
         except Exception as err:
-            print("error")
+            print(err)
             
     return items
 
