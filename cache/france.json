@@ -1,64 +1,134 @@
 {
 	"content": [
 		{
-			"title": "R\u00e9forme des retraites : l'intersyndicale appelle \u00e0 une nouvelle journ\u00e9e de mobilisation jeudi 13 avril - franceinfo",
-			"link": "https://www.francetvinfo.fr/economie/retraite/reforme-des-retraites/direct-reforme-des-retraites-a-l-approche-de-la-decision-du-conseil-constitutionnel-les-syndicats-organisent-une-11e-journee-d-action_5755334.html",
-			"pubDate": "Thu, 06 Apr 2023 21:59:48 GMT",
-			"image": "https://www.francetvinfo.fr/image/765pxg2z9-fc8d/1500/843/31249166.jpg",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "Franceinfo",
-			"url": "https://www.francetvinfo.fr/economie/retraite/reforme-des-retraites/direct-reforme-des-retraites-a-l-approche-de-la-decision-du-conseil-constitutionnel-les-syndicats-organisent-une-11e-journee-d-action_5755334.html",
-			"description": ""
-		},
-		{
-			"title": "Chantage \u00e0 la sextape: le maire de Saint-\u00c9tienne Ga\u00ebl Perdriau mis en examen - BFMTV",
-			"link": "https://www.bfmtv.com/saint-etienne/chantage-a-la-sextape-le-maire-de-saint-etienne-gael-perdriau-mis-en-examen_AD-202304060762.html",
-			"pubDate": "Thu, 06 Apr 2023 20:13:00 GMT",
-			"image": "https://images.bfmtv.com/EeqLrPf0j8RGFPRcLQw7gBQl7TU=/0x106:2048x1258/2048x0/images/Gael-Perdriau-1536609.jpg",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "BFMTV",
-			"url": "https://www.bfmtv.com/saint-etienne/chantage-a-la-sextape-le-maire-de-saint-etienne-gael-perdriau-mis-en-examen_AD-202304060762.html",
-			"description": "Ga\u00ebl Perdriau est accus\u00e9 d'\u00eatre le commanditaire d'une sextape pour exercer un chantage sur son ancien premier adjoint. Son avocat a annonc\u00e9 qu'il avait \u00e9t\u00e9 mis en examen ce jeudi."
-		},
-		{
-			"title": "Cheminot mort apr\u00e8s avoir go\u00fbt\u00e9 un \u00e9trange liquide : il y avait de la coca\u00efne dans le cubi de punch - LaDepeche.fr",
-			"link": "https://www.ladepeche.fr/2023/04/06/cheminot-mort-apres-goute-un-etrange-liquide-il-y-avait-de-la-cocaine-dans-le-cubi-de-punch-11116956.php",
-			"pubDate": "Thu, 06 Apr 2023 16:51:00 GMT",
-			"image": "https://images.ladepeche.fr/api/v1/images/view/642ef83da9cc253c794cb289/large/image.jpg?v=1",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "ladepeche.fr",
-			"url": "https://www.ladepeche.fr/2023/04/06/cheminot-mort-apres-goute-un-etrange-liquide-il-y-avait-de-la-cocaine-dans-le-cubi-de-punch-11116956.php",
-			"description": "\"Le bag-in-box incrimin\u00e9 contenait de la coca\u00efne et du L\u00e9vamisole, produit anti-parasitaire inscrit sur la liste II des substances v\u00e9n\u00e9neuses, r\u00e9guli\u00e8rement utilis\u00e9 comme produit de coupe par les trafiquants de..."
-		},
-		{
-			"title": "Service d\u2019ordre intersyndical gaz\u00e9 et affrontements entre police et black bloc : direct de la 11\u00e8me journ\u00e9e de mobilisation - Rue89 Strasbourg",
-			"link": "https://www.rue89strasbourg.com/blocage-et-manifestations-la-11e-journee-de-mobilisation-contre-la-reforme-des-retraites-en-direct-261674",
-			"pubDate": "Thu, 06 Apr 2023 15:06:22 GMT",
-			"image": "https://www.rue89strasbourg.com/wp-content/uploads/2023/04/matraque-630x354.png__rs",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "Rue89 Strasbourg",
-			"url": "https://www.rue89strasbourg.com/blocage-et-manifestations-la-11e-journee-de-mobilisation-contre-la-reforme-des-retraites-en-direct-261674",
-			"description": "Pour la 11e journ\u00e9e de gr\u00e8ves et de manifestation contre la r\u00e9forme des retraites, la r\u00e9daction de Rue89 Strasbourg rend compte en direct des actions,"
-		},
-		{
-			"title": "Les d\u00e9put\u00e9s \u00e9cologistes obtiennent une aide pour les propri\u00e9taires de maisons fissur\u00e9es mais \u00e9chouent \u00e0 faire interdire les vols en jets priv\u00e9s - Le Monde",
-			"link": "https://www.lemonde.fr/politique/article/2023/04/07/les-deputes-ecologistes-obtiennent-une-aide-pour-les-proprietaires-de-maisons-fissurees-mais-echouent-a-faire-interdire-les-vols-en-jets-prives_6168587_823448.html",
-			"pubDate": "Fri, 07 Apr 2023 01:46:26 GMT",
-			"image": "https://img.lemde.fr/2023/02/16/0/0/5836/3890/1440/960/60/0/8f34c57_5493865-01-06.jpg",
+			"title": "Elisabeth Borne appelle \u00e0 \u00ab respecter une p\u00e9riode de convalescence \u00bb apr\u00e8s la r\u00e9forme des retraites et se d\u00e9marque d'Emmanuel Macron - Le Monde",
+			"link": "https://www.lemonde.fr/politique/article/2023/04/07/crise-des-retraites-elisabeth-borne-appelle-a-respecter-une-periode-de-convalescence-et-se-demarque-d-emmanuel-macron_6168598_823448.html",
+			"pubDate": "Fri, 07 Apr 2023 03:10:29 GMT",
+			"image": "https://img.lemde.fr/2023/04/06/0/0/6720/4480/1440/960/60/0/e118479_1680763391092-cbi1116040.jpg",
 			"logo": "https://picsum.photos/32/32?grayscale",
 			"site_name": "Le Monde.fr",
-			"url": "https://www.lemonde.fr/politique/article/2023/04/07/les-deputes-ecologistes-obtiennent-une-aide-pour-les-proprietaires-de-maisons-fissurees-mais-echouent-a-faire-interdire-les-vols-en-jets-prives_6168587_823448.html",
-			"description": "D\u00e9pos\u00e9e par Sandrine Rousseau, la proposition de loi modifie les crit\u00e8res de reconnaissance de l\u2019\u00e9tat de catastrophe naturelle li\u00e9e \u00e0 une s\u00e9cheresse, susceptible d\u2019entra\u00eener un ph\u00e9nom\u00e8ne de retrait-gonflement des sols argileux."
+			"url": "https://www.lemonde.fr/politique/article/2023/04/07/crise-des-retraites-elisabeth-borne-appelle-a-respecter-une-periode-de-convalescence-et-se-demarque-d-emmanuel-macron_6168598_823448.html",
+			"description": "Alors que depuis la Chine, le chef de l\u2019Etat a renouvel\u00e9 ses critiques contre la CFDT et insiste sur sa l\u00e9gitimit\u00e9 \u00e0 r\u00e9former, la premi\u00e8re ministre, en sursis \u00e0 Matignon, appelle \u00e0 l\u2019inverse \u00e0 ne pas \u00ab\u00a0brusquer les choses\u00a0\u00bb."
 		},
 		{
-			"title": "LDH menac\u00e9e, adversaires disqualifi\u00e9s, contre-v\u00e9rit\u00e9s : Darmanin accus\u00e9 d'\"ab\u00eemer\" la d\u00e9mocratie - FRANCE 24",
-			"link": "https://news.google.com/rss/articles/CBMiqQFodHRwczovL3d3dy5mcmFuY2UyNC5jb20vZnIvZnJhbmNlLzIwMjMwNDA2LWxkaC1tZW5hYyVDMyVBOWUtYWR2ZXJzYWlyZXMtZGlzcXVhbGlmaSVDMyVBOXMtY29udHJlLXYlQzMlQTlyaXQlQzMlQTlzLWRhcm1hbmluLWFjY3VzJUMzJUE5LWQtYWIlQzMlQUVtZXItbGEtZCVDMyVBOW1vY3JhdGll0gGpAWh0dHBzOi8vYW1wLmZyYW5jZTI0LmNvbS9mci9mcmFuY2UvMjAyMzA0MDYtbGRoLW1lbmFjJUMzJUE5ZS1hZHZlcnNhaXJlcy1kaXNxdWFsaWZpJUMzJUE5cy1jb250cmUtdiVDMyVBOXJpdCVDMyVBOXMtZGFybWFuaW4tYWNjdXMlQzMlQTktZC1hYiVDMyVBRW1lci1sYS1kJUMzJUE5bW9jcmF0aWU?oc=5",
-			"pubDate": "Thu, 06 Apr 2023 16:31:06 GMT",
-			"image": "https://picsum.photos/200/300?grayscale",
+			"title": "Jets priv\u00e9s : une \u00ab \u00e9cocontribution revue \u00e0 la hausse \u00bb en 2024, annonce Beaune - Le Parisien",
+			"link": "https://www.leparisien.fr/economie/jets-prives-une-ecocontribution-revue-a-la-hausse-en-2024-annonce-beaune-07-04-2023-C6IC3YWSSZBPXIOLOO4ZAUS3LA.php",
+			"pubDate": "Fri, 07 Apr 2023 05:49:00 GMT",
+			"image": "https://www.leparisien.fr/resizer/OvKeZCYDE6k_oHqpT6aeRaFkkGo=/1200x675/cloudfront-eu-central-1.images.arcpublishing.com/leparisien/W33MC6UA2BHLZGYUOVQWGAOMAE.jpg",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "leparisien.fr",
+			"url": "https://www.leparisien.fr/economie/jets-prives-une-ecocontribution-revue-a-la-hausse-en-2024-annonce-beaune-07-04-2023-C6IC3YWSSZBPXIOLOO4ZAUS3LA.php",
+			"description": "Dans la loi de finances pour 2023, un \u00ab\u00a0rel\u00e8vement de 70\u00a0% de la taxe sur les carburants de l\u2019aviation priv\u00e9e\u00a0\u00bb a \u00e9t\u00e9 mis en place."
+		},
+		{
+			"title": "EN DIRECT - Retraites: pour \u00c9lisabeth Borne, \"il ne faut pas que les syndicats sortent humili\u00e9s de cette s\u00e9quence\" - BFM Business",
+			"link": "https://www.bfmtv.com/economie/economie-social/social/en-direct-reforme-des-retraites-le-bras-de-fer-continue-entre-les-syndicats-et-le-gouvernement-a-l-approche-de-la-decision-du-conseil-constitutionnel_LN-202304070038.html",
+			"pubDate": "Fri, 07 Apr 2023 07:25:28 GMT",
+			"image": "https://images.bfmtv.com/HjB4SQnodh8bg-U6VQCvASDdPj0=/0x53:1024x629/1024x0/images/Olivier-Dussopt-et-Elisabeth-Borne-a-Matignon-le-5-avril-2023-1611668.jpg",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "BFM BUSINESS",
+			"url": "https://www.bfmtv.com/economie/economie-social/social/en-direct-reforme-des-retraites-le-bras-de-fer-continue-entre-les-syndicats-et-le-gouvernement-a-l-approche-de-la-decision-du-conseil-constitutionnel_LN-202304070038.html",
+			"description": "Les manifestants sont \u00e0 nouveau descendus dans la rue jeudi, un peu moins nombreux, pour la 11\u00e8me fois contre la r\u00e9forme des retraites alors que les discussions entre syndicats et gouvernement sont dans l'impasse, \u00e0 une semaine de la d\u00e9cision du Conseil constitutionnel."
+		},
+		{
+			"title": "Week-end de P\u00e2ques : bouchons, trafic SNCF, vols annul\u00e9s... \u00e0 quoi faut-il s'attendre ? - LaDepeche.fr",
+			"link": "https://www.ladepeche.fr/2023/04/07/week-end-de-paques-bouchons-trafic-sncf-vols-annules-a-quoi-faut-il-sattendre-11118374.php",
+			"pubDate": "Fri, 07 Apr 2023 06:20:00 GMT",
+			"image": "https://images.ladepeche.fr/api/v1/images/view/642fb5ec10d96439dc7b71eb/large/image.jpg?v=1",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "ladepeche.fr",
+			"url": "https://www.ladepeche.fr/2023/04/07/week-end-de-paques-bouchons-trafic-sncf-vols-annules-a-quoi-faut-il-sattendre-11118374.php",
+			"description": "\u00c0 l'occasion du week-end de P\u00e2ques, et des trois jours de repos, une partie des Fran\u00e7ais vont partir. Que pr\u00e9voit Bison Fut\u00e9 sur les routes ? Des trains et des vols sont-ils annul\u00e9s ? Faisons le point."
+		},
+		{
+			"title": "Mise en examen de Ga\u00ebl Perdriau : plac\u00e9 sous contr\u00f4le judiciaire, il \"peut poursuivre son activit\u00e9 de maire\", assure son avocat - franceinfo",
+			"link": "https://www.francetvinfo.fr/france/auvergne-rhone-alpes/loire/saint-etienne/mise-en-examen-de-gael-perdriau-place-sous-controle-judiciaire-il-peut-poursuivre-son-activite-de-maire-assure-son-avocat_5757194.html",
+			"pubDate": "Fri, 07 Apr 2023 05:01:15 GMT",
+			"image": "https://www.francetvinfo.fr/pictures/w7ZRRpPeZuaf-sSdhT5_0b6YJJI/1500x843/2023/04/07/642f9d26b254f_000-32k68rd.jpg",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "Franceinfo",
+			"url": "https://www.francetvinfo.fr/france/auvergne-rhone-alpes/loire/saint-etienne/mise-en-examen-de-gael-perdriau-place-sous-controle-judiciaire-il-peut-poursuivre-son-activite-de-maire-assure-son-avocat_5757194.html",
+			"description": "Apr\u00e8s sa mise en examen, le maire de Saint-Etienne, Ga\u00ebl Perdriau peut toujours se rendre \u00e0 la mairie et travailler assure son avocat jeudi sur franceinfo. Christophe Ingrain estime que, d\u00e9sormais, son client \"va avoir tous les moyens de se d\u00e9fendre et de prouver son innocence\"."
+		},
+		{
+			"title": "Sainte-Soline : apr\u00e8s les blessures, la peur de l'h\u00f4pital - Mediapart",
+			"link": "https://www.mediapart.fr/journal/france/060423/sainte-soline-apres-les-blessures-la-peur-de-l-hopital",
+			"pubDate": "Thu, 06 Apr 2023 17:10:43 GMT",
+			"image": "https://static.mediapart.fr/etmagine/og/journal/files/2023/04/06/plaie-hanche.jpg",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "Mediapart",
+			"url": "https://www.mediapart.fr/journal/france/060423/sainte-soline-apres-les-blessures-la-peur-de-l-hopital",
+			"description": "De nombreuses personnes bless\u00e9es \u00e0 Sainte-Soline lors de la manifestation contre les m\u00e9gabassines le 25 mars ont fui les h\u00f4pitaux les plus proches par peur de se faire arr\u00eater ou ficher par la police\u2026"
+		},
+		{
+			"title": "Maisons fissur\u00e9es : que contient la loi pour mieux indemniser les victimes de la s\u00e9cheresse, adopt\u00e9e \u00e0 l'Assembl\u00e9e - Midi Libre",
+			"link": "https://www.midilibre.fr/2023/04/07/maisons-fissurees-que-contient-la-loi-pour-mieux-indemniser-les-victimes-de-la-secheresse-adoptee-a-lassemblee-11118315.php",
+			"pubDate": "Fri, 07 Apr 2023 05:31:00 GMT",
+			"image": "https://images.midilibre.fr/api/v1/images/view/642fa5fef9dcac33a82bf666/large/image.jpg?v=1",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "midilibre.fr",
+			"url": "https://www.midilibre.fr/2023/04/07/maisons-fissurees-que-contient-la-loi-pour-mieux-indemniser-les-victimes-de-la-secheresse-adoptee-a-lassemblee-11118315.php",
+			"description": "Ce jeudi 6 avril, l'Assembl\u00e9e nationale a adopt\u00e9 en premi\u00e8re lecture une proposition de loi visant \u00e0 mieux prot\u00e9ger les propri\u00e9taires de maisons fissur\u00e9es \u00e0 cause de la s\u00e9cheresse.\u00a0"
+		},
+		{
+			"title": "Violences conjugales : Laura Rapp, seule face \u00e0 son bourreau - Paris Match",
+			"link": "https://news.google.com/rss/articles/CBMiZmh0dHBzOi8vd3d3LnBhcmlzbWF0Y2guY29tL2FjdHUvc29jaWV0ZS92aW9sZW5jZXMtY29uanVnYWxlcy1sYXVyYS1yYXBwLXNldWxlLWZhY2Utc29uLWJvdXJyZWF1LTIyMzkwNtIBAA?oc=5",
+			"pubDate": "Fri, 07 Apr 2023 04:45:08 GMT",
+			"image": "https://www.parismatch.com/lmnr/var/pm/public/media/image/2023/04/06/19/sc_dsc_9879_0.jpg?VersionId=xLLvQscsCn70c_RSI3ZgKfH6yPy5pD8U",
 			"logo": "https://picsum.photos/32/32?grayscale",
 			"site_name": "",
 			"url": "",
 			"description": ""
+		},
+		{
+			"title": "R\u00e9forme des retraites: le gouvernement \"vit dans une r\u00e9alit\u00e9 parall\u00e8le\" pour la CGT, mobilisation en baisse \u00e0 Nice et Toulon... Suivez notre direct - Nice matin",
+			"link": "https://www.nicematin.com/social/reforme-des-retraites-des-heurts-a-paris-mobilisation-en-baisse-dans-le-var-et-les-alpes-maritimes-suivez-notre-direct-839372",
+			"pubDate": "Thu, 06 Apr 2023 12:23:00 GMT",
+			"image": "https://fyooyzbm.filerobot.com/v7/maxmatinnews548902-jeYWZKFb.jpg?vh=6c23d5&ci_seal=fb004e5bd1",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "Nice-Matin",
+			"url": "https://www.nicematin.com/social/reforme-des-retraites-des-heurts-a-paris-mobilisation-en-baisse-dans-le-var-et-les-alpes-maritimes-suivez-notre-direct-839372",
+			"description": "Les manifestants oppos\u00e9s \u00e0 la r\u00e9forme des retraites ne comptent pas abandonner le combat. Pour cette onzi\u00e8me journ\u00e9e de mobilisation, ils ont r\u00e9pondu pr\u00e9sent, m\u00eame si la participation tend \u00e0 s'essoufler. \r\nDans les Alpes-Maritimes,\u00a0deux rassemblements ont eu lieu. A Nice en milieu de matin\u00e9e, r\u00e9unis"
+		},
+		{
+			"title": "Violences des identitaires \u00e0 Bordeaux : \u00abFaut-il attendre que \u00e7a d\u00e9g\u00e9n\u00e8re ?\u00bb - Lib\u00e9ration",
+			"link": "https://news.google.com/rss/articles/CBMijQFodHRwczovL3d3dy5saWJlcmF0aW9uLmZyL3NvY2lldGUvdmlvbGVuY2VzLWRlcy1pZGVudGl0YWlyZXMtYS1ib3JkZWF1eC1mYXV0LWlsLWF0dGVuZHJlLXF1ZS1jYS1kZWdlbmVyZS0yMDIzMDQwN19ZTTZDNDRCRUs1Qk1ITk5STEtNUTZGUVVNUS_SAQA?oc=5",
+			"pubDate": "Fri, 07 Apr 2023 05:37:29 GMT",
+			"image": "https://www.liberation.fr/resizer/5V7yUnAOi2Jxdk8j89Ux0F6i7Wg=/1200x630/filters:format(jpg):quality(70)/cloudfront-eu-central-1.images.arcpublishing.com/liberation/DOV4NTYXCFCCDBB4SE3PDUL46Y.jpg",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "Lib\u00e9ration",
+			"url": "",
+			"description": ""
+		},
+		{
+			"title": "\"Divagation politique\", \"lente d\u00e9rive\"... Le rapport accablant autour de la gestion de la politique nucl\u00e9aire en France - franceinfo",
+			"link": "https://www.francetvinfo.fr/societe/nucleaire/divagation-politique-lente-derive-le-rapport-accablant-autour-de-la-gestion-de-la-politique-nucleaire-en-france_5757344.html",
+			"pubDate": "Fri, 07 Apr 2023 07:08:49 GMT",
+			"image": "https://www.francetvinfo.fr/pictures/FgPr59OcqZmgO3ixQxUwYwES14g/1500x843/2023/02/27/63fc90c4b8b7f_maxradiofr023707.jpg",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "Franceinfo",
+			"url": "https://www.francetvinfo.fr/societe/nucleaire/divagation-politique-lente-derive-le-rapport-accablant-autour-de-la-gestion-de-la-politique-nucleaire-en-france_5757344.html",
+			"description": "Apr\u00e8s 88 auditions, dont celles de deux anciens pr\u00e9sidents de la R\u00e9publique, la commission d\u2019enqu\u00eate parlementaire sur l\u2019ind\u00e9pendance \u00e9nerg\u00e9tique de la France a rendu son rapport."
+		},
+		{
+			"title": "D\u00e9c\u00e8s d'un ouvrier du Grand Paris Express : \"\u00c7a devient vraiment les chantiers de la mort\", d\u00e9nonce la CGT b\u00e2timent - franceinfo",
+			"link": "https://www.francetvinfo.fr/faits-divers/accident/deces-d-un-ouvrier-du-grand-paris-express-ca-devient-vraiment-les-chantiers-de-la-mort-denonce-la-cgt-batiment_5757257.html",
+			"pubDate": "Fri, 07 Apr 2023 05:55:11 GMT",
+			"image": "https://www.francetvinfo.fr/pictures/yAfm_GSgWLLZw0-yXoZF1EM1RY0/1500x843/2023/04/07/642fa869c5cd3_000-93d6tf.jpg",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "Franceinfo",
+			"url": "https://www.francetvinfo.fr/faits-divers/accident/deces-d-un-ouvrier-du-grand-paris-express-ca-devient-vraiment-les-chantiers-de-la-mort-denonce-la-cgt-batiment_5757257.html",
+			"description": "Un nouvel accident mortel sur le chantier du Grand Paris Express, le cinqui\u00e8me depuis le d\u00e9but des travaux, en 2020. La CGT tire \u00e0 nouveau la sonnette d\u2019alarme sur le manque de contr\u00f4les."
+		},
+		{
+			"title": "Le sarcophage de Rams\u00e8s II \u00e0 Paris: pourquoi l'exposition \"L'or des pharaons\" est historique - BFMTV",
+			"link": "https://www.bfmtv.com/culture/le-sarcophage-de-ramses-ii-a-paris-pourquoi-l-exposition-l-or-des-pharaons-est-historique_GN-202304070026.html",
+			"pubDate": "Fri, 07 Apr 2023 04:00:00 GMT",
+			"image": "https://images.bfmtv.com/D-e1kJhf_-fUHgladwePBPqnZT0=/0x106:2048x1258/2048x0/images/Le-sarcophage-de-Ramses-II-1610915.jpg",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "BFMTV",
+			"url": "https://www.bfmtv.com/culture/le-sarcophage-de-ramses-ii-a-paris-pourquoi-l-exposition-l-or-des-pharaons-est-historique_GN-202304070026.html",
+			"description": "Le sarcophage de Rams\u00e8s II a fait un rare voyage vers la France pour \u00eatre le clou de l'exposition Rams\u00e8s - L'or des pharaons, \u00e0 la Villette, o\u00f9 il restera jusqu'au 6 septembre. "
 		},
 		{
 			"title": "Soup\u00e7ons de pr\u00e9paration d'attentat : un adolescent de 14 ans mis en examen - Sud Ouest",
@@ -71,27 +141,57 @@
 			"description": "Un adolescent, passionn\u00e9 d\u2019explosifs \u00ab\u00a0depuis son plus jeune \u00e2ge\u00a0\u00bb, a \u00e9t\u00e9 mis en examen pour association de malfaiteurs terroriste en vue de pr\u00e9parer des crimes d\u2019atteintes aux personnes"
 		},
 		{
-			"title": "Un ouvrier de 22 ans meurt sur le chantier du Grand Paris Express - Le Parisien",
-			"link": "https://www.leparisien.fr/val-d-oise-95/triangle-de-gonesse-mort-dun-ouvrier-de-22-ans-sur-le-chantier-de-la-ligne-17-du-grand-paris-express-06-04-2023-AW4GRZB6HZECPM5X7GBPSQTPKA.php",
-			"pubDate": "Thu, 06 Apr 2023 16:35:00 GMT",
-			"image": "https://www.leparisien.fr/resizer/WCTsJ1bDUTxbdLrfPI2T-n-aTJM=/1200x675/cloudfront-eu-central-1.images.arcpublishing.com/leparisien/6GTCNXQOZ5EL7GR4Q4VYIKPLSE.jpg",
+			"title": "Fuite d\u2019ammoniaque \u00e0 Maisons-Alfort : deux bless\u00e9s l\u00e9gers \u00e9vacu\u00e9s, des \u00e9coles ferm\u00e9es ce vendredi - Le Parisien",
+			"link": "https://www.leparisien.fr/val-de-marne-94/fuite-dammoniaque-a-maisons-alfort-deux-blesses-legers-evacues-06-04-2023-P2JDMZJGHJEHHFEMTKDCTT772U.php",
+			"pubDate": "Thu, 06 Apr 2023 23:01:12 GMT",
+			"image": "https://www.leparisien.fr/resizer/cfFB68OzwnyqsCrq2MT_mMU0nOw=/1200x675/cloudfront-eu-central-1.images.arcpublishing.com/leparisien/IL66IZWIN5H6VE3NYR263OYGEE.jpg",
 			"logo": "https://picsum.photos/32/32?grayscale",
 			"site_name": "leparisien.fr",
-			"url": "https://www.leparisien.fr/val-d-oise-95/triangle-de-gonesse-mort-dun-ouvrier-de-22-ans-sur-le-chantier-de-la-ligne-17-du-grand-paris-express-06-04-2023-AW4GRZB6HZECPM5X7GBPSQTPKA.php",
-			"description": "Selon les premiers \u00e9l\u00e9ments recueillis, le jeune homme, qui \u0153uvrait sur la ligne 17, au niveau du Triangle de Gonesse (Val-d\u2019Oise), aurait \u00e9"
+			"url": "https://www.leparisien.fr/val-de-marne-94/fuite-dammoniaque-a-maisons-alfort-deux-blesses-legers-evacues-06-04-2023-P2JDMZJGHJEHHFEMTKDCTT772U.php",
+			"description": "Deux personnes sont en urgence relative apr\u00e8s que deux fuites dans une cuve d\u2019ammoniaque se sont d\u00e9clar\u00e9es dans l\u2019usine Biospringer \u00e0 Maison"
 		},
 		{
-			"title": "Proc\u00e8s des attentats de Bruxelles : L\u2019objectif initial \u00e9tait de refrapper la France, confie Mohamed Abrini - 20 Minutes",
-			"link": "https://www.20minutes.fr/justice/4031500-20230406-proces-attentats-bruxelles-objectif-initial-refrapper-france-confie-mohamed-abrini",
-			"pubDate": "Thu, 06 Apr 2023 11:17:28 GMT",
-			"image": "https://img.20mn.fr/q37WeT6hSuiK3DsSRTgb7Sk/1200x768_mandatory-credit-photo-by-shutterstock-13858717e-this-drawing-by-jonathan-de-cesare-shows-accused-mohamed-abrini-during-his-testimony-at-a-session-of-the-trial-of-the-attacks-of-march-22-2016-at-the-brussels-capital-assizes-court-wednesday-05-april-2023-at-the-justitia-site-in-haren-brussels-on-march-22-2016-32-people-were-killed-and-324-got-injured-in-suicide-bombings-at-zaventem-national-airport-and-maalbeek-maelbeek-metro-station-which-were-claimed-by-isil-brussels-justice-assizes-terror-attacks-wednesday-brussels-belgium-05-apr-2023-shutterstock-editorial-brussels-justice-assizes-terro-13858717e-2304051310",
+			"title": "Trottinettes \u00e9lectriques : pol\u00e9mique, dangerosit\u00e9... est-ce la fin de ce moyen de transport ? - LaDepeche.fr",
+			"link": "https://www.ladepeche.fr/2023/04/07/trottinettes-electriques-polemique-dangerosite-est-ce-la-fin-de-ce-moyen-de-transport-11110641.php",
+			"pubDate": "Fri, 07 Apr 2023 05:01:00 GMT",
+			"image": "https://images.ladepeche.fr/api/v1/images/view/642e896c244f110692359fa8/large/image.jpg?v=4",
 			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "www.20minutes.fr",
-			"url": "https://www.20minutes.fr/justice/4031500-20230406-proces-attentats-bruxelles-objectif-initial-refrapper-france-confie-mohamed-abrini",
-			"description": "Le djihadiste a aussi expliqu\u00e9 pourquoi il avait renonc\u00e9 \u00e0 se faire exploser"
+			"site_name": "ladepeche.fr",
+			"url": "https://www.ladepeche.fr/2023/04/07/trottinettes-electriques-polemique-dangerosite-est-ce-la-fin-de-ce-moyen-de-transport-11110641.php",
+			"description": "Les Parisiens se sont prononc\u00e9s dimanche dernier contre le maintien des trottinettes \u00e9lectriques en libre-service dans la capitale. Une nouvelle controverse pour ce moyen de transport, r\u00e9put\u00e9 dangereux. Le d\u00e9but de la..."
 		},
 		{
-			"title": "Jusqu'\u00e0 un an de prison ferme requis contre les \u00ab cow-boys \u00bb de la CSI 93 - 20 Minutes",
+			"title": "R\u00e9forme des retraites : \u00e0 Rouen, la circulation fluide, le lyc\u00e9e Jeanne-d'Arc toujours bloqu\u00e9 - Paris-Normandie",
+			"link": "https://www.paris-normandie.fr/id403523/article/2023-04-07/reforme-des-retraites-circulation-perturbee-lentree-de-rouen",
+			"pubDate": "Fri, 07 Apr 2023 05:28:07 GMT",
+			"image": "https://prmeng.rosselcdn.net/sites/default/files/dpistyles_v2/ena_16_9_extra_big/2023/04/07/node_403523/39473054/public/2023/04/07/B9733958128Z.1_20230407085351_000%2BGIMMI4J44.1-0.jpg?itok=U89MccWF1680853368",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "Paris-Normandie",
+			"url": "https://www.paris-normandie.fr/id403523/article/2023-04-07/reforme-des-retraites-circulation-perturbee-lentree-de-rouen",
+			"description": "Vendredi 7 avril 2023, les opposants \u00e0 la r\u00e9forme des retraites effectuaient une nouvelle action \u00e0 l\u2019entr\u00e9e de Rouen, perturbant la circulation. En d\u00e9but de matin\u00e9e, le lyc\u00e9e Jeanne-d\u2019Arc \u00e9tait toujours bloqu\u00e9 en centre-ville."
+		},
+		{
+			"title": "\u00c9lisabeth Borne en Aveyron : voici le programme de la visite ce vendredi de la Premi\u00e8re ministre - Centre Presse Aveyron",
+			"link": "https://www.centrepresseaveyron.fr/2023/04/07/elisabeth-borne-en-aveyron-voici-le-programme-de-la-visite-ce-vendredi-de-la-premiere-ministre-11118368.php",
+			"pubDate": "Fri, 07 Apr 2023 07:02:00 GMT",
+			"image": "https://images.centrepresseaveyron.fr/api/v1/images/view/642fbf4cae006f334b745f37/large/image.jpg?v=1",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "centrepresseaveyron.fr",
+			"url": "https://www.centrepresseaveyron.fr/2023/04/07/elisabeth-borne-en-aveyron-voici-le-programme-de-la-visite-ce-vendredi-de-la-premiere-ministre-11118368.php",
+			"description": "La Premi\u00e8re ministre se d\u00e9place en Aveyron ce vendredi 7 avril, accompagn\u00e9e de Fran\u00e7ois Braun ministre de la Sant\u00e9 et de la Pr\u00e9vention et de Mme Agn\u00e8s Firmin Le Bodo, ministre d\u00e9l\u00e9gu\u00e9e, charg\u00e9e de l'organisation..."
+		},
+		{
+			"title": "M\u00e9t\u00e9o : douceur autour de la M\u00e9diterran\u00e9e, de la neige en montagne... les pr\u00e9visions de ce vendredi 7 avril - Midi Libre",
+			"link": "https://www.midilibre.fr/2023/04/07/meteo-douceur-autour-de-la-mediterranee-de-la-neige-en-montagne-les-previsions-de-ce-vendredi-7-avril-11117189.php",
+			"pubDate": "Fri, 07 Apr 2023 05:01:00 GMT",
+			"image": "https://images.midilibre.fr/api/v1/images/view/642f0b24804696588f10c57e/large/image.jpg?v=1",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "midilibre.fr",
+			"url": "https://www.midilibre.fr/2023/04/07/meteo-douceur-autour-de-la-mediterranee-de-la-neige-en-montagne-les-previsions-de-ce-vendredi-7-avril-11117189.php",
+			"description": "Comme chaque jour, Midi Libre fait le point sur les pr\u00e9visions m\u00e9t\u00e9orologiques en France et en r\u00e9gion. Voici ce qui nous attend ce vendredi 7 avril.\u00a0"
+		},
+		{
+			"title": "Seine-Saint-Denis : Jusqu\u2019\u00e0 un an de prison ferme requis contre les \u00ab cowboys \u00bb de la CSI 93 - 20 Minutes",
 			"link": "https://www.20minutes.fr/justice/4031615-20230407-seine-saint-denis-jusqu-an-prison-ferme-requis-contre-cowboys-csi-93",
 			"pubDate": "Thu, 06 Apr 2023 23:20:33 GMT",
 			"image": "https://img.20mn.fr/zITNHbX1R3Ox6hCl8XbbCSk/1200x768_a-photograph-taken-on-april-2-2020-shows-the-logo-of-the-police-csi-93-unit-in-saint-ouen-near-paris-during-a-patrol-controling-outings-authorisations-on-the-seventeen-day-of-a-lockdown-aimed-at-curbing-the-spread-of-the-epidemic-covid-19-caused-by-the-novel-coronavirus-violence-falsification-of-reports-and-seizures-of-narcotics-four-police-officers-from-the-security-and-intervention-company-csi-of-seine-saint-denis-are-involved-in-a-vast-scandal-they-will-be-presented-on-july-2-2020-to-a-judge-at-bobigny-court-on-the-outskirts-of-paris-photo-by-ludovic-marin-afp",
@@ -101,14 +201,54 @@
 			"description": "Des peines allant jusqu'\u00e0 deux ans de prison, dont un avec sursis, ont \u00e9t\u00e9 requises jeudi contre quatre policiers de la compagnie de s\u00e9curisation et d'intervention de Seine-Saint-Denis"
 		},
 		{
+			"title": "Disparition d'Eric Foray : apr\u00e8s son cr\u00e2ne l'\u00e9t\u00e9 dernier, les enqu\u00eateurs retrouvent son v\u00e9hicule et ses \"restes\" sept ans plus tard - L'Ind\u00e9pendant",
+			"link": "https://www.lindependant.fr/2023/04/07/disparition-deric-foray-apres-son-crane-lete-dernier-les-enqueteurs-retrouvent-son-vehicule-et-ses-restes-sept-ans-apres-11118370.php",
+			"pubDate": "Fri, 07 Apr 2023 06:36:00 GMT",
+			"image": "https://images.lindependant.fr/api/v1/images/view/642fb842d8a28a4827638126/large/image.jpg?v=1",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "lindependant.fr",
+			"url": "https://www.lindependant.fr/2023/04/07/disparition-deric-foray-apres-son-crane-lete-dernier-les-enqueteurs-retrouvent-son-vehicule-et-ses-restes-sept-ans-apres-11118370.php",
+			"description": "Les analyses devraient permettre de formellement identifier le corps, de d\u00e9terminer les circonstances de son d\u00e9c\u00e8s et de faire un lien avec Nordahl Lelandais ?.\u00a0"
+		},
+		{
+			"title": "LDH menac\u00e9e, adversaires disqualifi\u00e9s, contre-v\u00e9rit\u00e9s : Darmanin accus\u00e9 d'\"ab\u00eemer\" la d\u00e9mocratie - FRANCE 24",
+			"link": "https://news.google.com/rss/articles/CBMiqQFodHRwczovL3d3dy5mcmFuY2UyNC5jb20vZnIvZnJhbmNlLzIwMjMwNDA2LWxkaC1tZW5hYyVDMyVBOWUtYWR2ZXJzYWlyZXMtZGlzcXVhbGlmaSVDMyVBOXMtY29udHJlLXYlQzMlQTlyaXQlQzMlQTlzLWRhcm1hbmluLWFjY3VzJUMzJUE5LWQtYWIlQzMlQUVtZXItbGEtZCVDMyVBOW1vY3JhdGll0gGpAWh0dHBzOi8vYW1wLmZyYW5jZTI0LmNvbS9mci9mcmFuY2UvMjAyMzA0MDYtbGRoLW1lbmFjJUMzJUE5ZS1hZHZlcnNhaXJlcy1kaXNxdWFsaWZpJUMzJUE5cy1jb250cmUtdiVDMyVBOXJpdCVDMyVBOXMtZGFybWFuaW4tYWNjdXMlQzMlQTktZC1hYiVDMyVBRW1lci1sYS1kJUMzJUE5bW9jcmF0aWU?oc=5",
+			"pubDate": "Thu, 06 Apr 2023 16:31:06 GMT",
+			"image": "https://picsum.photos/200/300?grayscale",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "",
+			"url": "",
+			"description": ""
+		},
+		{
 			"title": "Lorient - R\u00e9forme des retraites : une op\u00e9ration escargot se pr\u00e9pare sur la RN165 entre Quimperl\u00e9 et Lorient - Le T\u00e9l\u00e9gramme",
 			"link": "https://www.letelegramme.fr/morbihan/lorient/reforme-des-retraites-une-operation-escargot-se-prepare-sur-la-rn165-entre-quimperle-et-lorient-06-04-2023-13312882.php",
 			"pubDate": "Thu, 06 Apr 2023 11:01:00 GMT",
-			"image": "https://www.letelegramme.fr/images/2023/04/06/les-syndicats-quimperlois-s-appretent-a-prendre-la-voie_7424955_1000x526.jpg?v=1",
+			"image": "https://www.letelegramme.fr/images/2023/04/06/il-est-13-h-15-quand-un-petit-convoi-de-vehicules-quitte_7427727_1000x526.jpg?v=1",
 			"logo": "https://picsum.photos/32/32?grayscale",
 			"site_name": "Le Telegramme",
 			"url": "https://www.letelegramme.fr/morbihan/lorient/reforme-des-retraites-une-operation-escargot-se-prepare-sur-la-rn165-entre-quimperle-et-lorient-06-04-2023-13312882.php",
 			"description": "Alors que les cort\u00e8ges contre la r\u00e9forme des retraites se dispersent, les manifestants s\u2019appr\u00eatent \u00e0 lancer une op\u00e9ration escargot sur la RN165, entre Quimperl\u00e9 et Lorient."
+		},
+		{
+			"title": "Une m\u00e8re et son b\u00e9b\u00e9 poignard\u00e9s : le suspect est mis en examen - Ouest-France",
+			"link": "https://news.google.com/rss/articles/CBMikgFodHRwczovL3d3dy5vdWVzdC1mcmFuY2UuZnIvc29jaWV0ZS9mYWl0cy1kaXZlcnMvdW5lLW1lcmUtZXQtc29uLWJlYmUtcG9pZ25hcmRlcy1sZS1zdXNwZWN0LWVzdC1taXMtZW4tZXhhbWVuLTNhZjM0MmIzLTAzMzgtNGU5ZS05NWRjLTA2OThmOGJlMmQwYtIBAA?oc=5",
+			"pubDate": "Thu, 06 Apr 2023 23:26:41 GMT",
+			"image": "https://picsum.photos/200/300?grayscale",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "",
+			"url": "",
+			"description": ""
+		},
+		{
+			"title": "Cheminot mort apr\u00e8s avoir go\u00fbt\u00e9 un \u00e9trange liquide : il y avait de la coca\u00efne dans le cubi de punch - LaDepeche.fr",
+			"link": "https://www.ladepeche.fr/2023/04/06/cheminot-mort-apres-goute-un-etrange-liquide-il-y-avait-de-la-cocaine-dans-le-cubi-de-punch-11116956.php",
+			"pubDate": "Thu, 06 Apr 2023 16:51:00 GMT",
+			"image": "https://images.ladepeche.fr/api/v1/images/view/642ef83da9cc253c794cb289/large/image.jpg?v=1",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "ladepeche.fr",
+			"url": "https://www.ladepeche.fr/2023/04/06/cheminot-mort-apres-goute-un-etrange-liquide-il-y-avait-de-la-cocaine-dans-le-cubi-de-punch-11116956.php",
+			"description": "\"Le bag-in-box incrimin\u00e9 contenait de la coca\u00efne et du L\u00e9vamisole, produit anti-parasitaire inscrit sur la liste II des substances v\u00e9n\u00e9neuses, r\u00e9guli\u00e8rement utilis\u00e9 comme produit de coupe par les trafiquants de..."
 		},
 		{
 			"title": "Fusillades \u00e0 Marseille : un jeune de 18 ans pr\u00e9sent\u00e9 \u00e0 un juge d'instruction - franceinfo",
@@ -121,26 +261,6 @@
 			"description": "Trois hommes, \u00e2g\u00e9s de 16, 21 et 23 ans, ont \u00e9t\u00e9 tu\u00e9s dans les fusillades survenues ce week-end dans la cit\u00e9 phoc\u00e9enne."
 		},
 		{
-			"title": "En 1976, Rams\u00e8s II \u00e9tait accueilli en France tel un chef d'\u00c9tat - Edition du soir Ouest-France - 06/04/2023 - L'\u00e9dition du soir",
-			"link": "https://news.google.com/rss/articles/CBMimQFodHRwczovL3d3dy5vdWVzdC1mcmFuY2UuZnIvbGVkaXRpb25kdXNvaXIvMjAyMy0wNC0wNi9lbi0xOTc2LXJhbXNlcy1paS1ldGFpdC1hY2N1ZWlsbGktZW4tZnJhbmNlLXRlbC11bi1jaGVmLWQtZXRhdC03ODk2ODhlOS0yYjcxLTQ1ZWEtYTZmOS1jNzllNTBmYTcwYTjSAQA?oc=5",
-			"pubDate": "Thu, 06 Apr 2023 19:07:30 GMT",
-			"image": "https://picsum.photos/200/300?grayscale",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "",
-			"url": "",
-			"description": ""
-		},
-		{
-			"title": "Gr\u00e8ve du 6 avril : l'auvent de La Rotonde incendi\u00e9 par des black blocs \u00e0 Paris (vid\u00e9o) - CNEWS",
-			"link": "https://www.cnews.fr/france/2023-04-06/greve-du-6-avril-lauvent-de-la-rotonde-incendie-par-des-black-blocs-paris-video",
-			"pubDate": "Thu, 06 Apr 2023 16:15:55 GMT",
-			"image": "https://static.cnews.fr/sites/default/files/video_13_642ed24e60918_0.jpg",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "CNEWS",
-			"url": "https://www.cnews.fr/france/2023-04-06/greve-du-6-avril-lauvent-de-la-rotonde-incendie-par-des-black-blocs-paris-video",
-			"description": "L'auvent de la c\u00e9l\u00e8bre brasserie parisienne \u00abLa Rotonde\u00bb, situ\u00e9e boulevard du Montparnasse (6e), a \u00e9t\u00e9 incendi\u00e9 par des \u00e9l\u00e9ments radicaux, pendant la manifestation contre la r\u00e9forme des retraites, ce jeudi 6 avril \u00e0 Paris. A la suite de tensions, en marge de la manifestation parisienne contre la r\u00e9forme des retraites, la brasserie parisienne \u00abLa Rotonde\u00bb, dans le 6e arrondissement de la capitale, a \u00e9t\u00e9 prise \u00e0 partie."
-		},
-		{
 			"title": "Retraites : ils coupent le courant dans un lyc\u00e9e de Dordogne, des milliers d'euros de nourriture \u00e0 la poubelle - France Bleu",
 			"link": "https://www.francebleu.fr/infos/economie-social/retraites-ils-coupent-le-courant-dans-un-lycee-de-dordogne-des-milliers-d-euros-de-nourriture-a-la-poubelle-1763293",
 			"pubDate": "Thu, 06 Apr 2023 16:44:36 GMT",
@@ -151,14 +271,14 @@
 			"description": "En marge de la manifestation contre la r\u00e9forme des retraites, la CGT Energie a coup\u00e9 le courant au lyc\u00e9e Laure-Gatet \u00e0 P\u00e9rigueux ce jeudi 6 avril. Les techniciens n'ont pas pu intervenir, plusieurs milliers d'euros de nourriture ont \u00e9t\u00e9 jet\u00e9es, et il n'y aura pas cours ce vendredi. "
 		},
 		{
-			"title": "Disparition d'Eric Foray, potentielle victime de Nordahl Lelandais : voiture, restes humains... le point sur l'enqu\u00eate - Midi Libre",
-			"link": "https://www.midilibre.fr/2023/04/06/disparition-deric-foray-potentielle-victime-de-nordahl-lelandais-voiture-restes-humains-le-point-sur-lenquete-11117229.php",
-			"pubDate": "Thu, 06 Apr 2023 19:15:00 GMT",
-			"image": "https://images.midilibre.fr/api/v1/images/view/642f1a1048453944e270f465/large/image.jpg?v=1",
+			"title": "Vendredi saint : signification, tradition du poisson\u2026 Tout ce qu\u2019il faut savoir sur cette f\u00eate chr\u00e9tienne - CNEWS",
+			"link": "https://www.cnews.fr/france/2023-04-07/vendredi-saint-signification-tradition-du-poisson-tout-ce-quil-faut-savoir-sur",
+			"pubDate": "Fri, 07 Apr 2023 06:01:19 GMT",
+			"image": "https://static.cnews.fr/sites/default/files/000_97944l-taille1200_642ef55953117.jpg",
 			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "midilibre.fr",
-			"url": "https://www.midilibre.fr/2023/04/06/disparition-deric-foray-potentielle-victime-de-nordahl-lelandais-voiture-restes-humains-le-point-sur-lenquete-11117229.php",
-			"description": "\u00c9ric Foray, 47 ans, a disparu dans la Dr\u00f4me en 2016. Son cr\u00e2ne, retrouv\u00e9 dans le Vercors l'\u00e9t\u00e9 dernier, et son identification avait \u00e9t\u00e9 officialis\u00e9e par le parquet en janvier. Ce jeudi 6 avril, il fait \u00e9tat de..."
+			"site_name": "CNEWS",
+			"url": "https://www.cnews.fr/france/2023-04-07/vendredi-saint-signification-tradition-du-poisson-tout-ce-quil-faut-savoir-sur",
+			"description": "Le Vendredi saint est c\u00e9l\u00e9br\u00e9 aujourd'hui, vendredi 7 avril, par les catholiques du monde entier. Il pr\u00e9c\u00e8de la f\u00eate de P\u00e2ques, et marque la crucifixion de J\u00e9sus. Une journ\u00e9e comm\u00e9morant la Passion du Christ. Le Vendredi saint est c\u00e9l\u00e9br\u00e9 ce vendredi 7 avril par les catholiques du monde entier. Cette date, toujours situ\u00e9e le vendredi pr\u00e9c\u00e9dent P\u00e2ques, marque pour les fid\u00e8les un temps de recueillement et de restrictions."
 		},
 		{
 			"title": "Martine Froger, la dissidente du PS \u00e9lue dans l'Ari\u00e8ge n'\u00e9tait pas la bienvenue en manif' ce jeudi - Le HuffPost",
@@ -171,34 +291,24 @@
 			"description": "L\u2019\u00e9lue PS, au c\u0153ur d\u2019une guerre des gauches depuis qu\u2019elle a battu la candidate de la Nupes \u00e0 une l\u00e9gislative partielle dans l\u2019Ari\u00e8ge, a \u00e9t\u00e9 copieusement insult\u00e9e \u00e0 Foix."
 		},
 		{
-			"title": "Deux-S\u00e8vres : 16 maires de communes autour de Sainte-Soline signent une lettre ouverte pour d\u00e9noncer les violences autour du projet de m\u00e9ga-bassines - franceinfo",
-			"link": "https://www.francetvinfo.fr/monde/environnement/mega-bassine/deux-sevres-16-maires-de-communes-autour-de-sainte-soline-signent-une-lettre-ouverte-pour-denoncer-les-violences-autour-du-projet-de-mega-bassines_5756297.html",
-			"pubDate": "Thu, 06 Apr 2023 18:20:42 GMT",
-			"image": "https://www.francetvinfo.fr/pictures/heZk0pd8_yI0dfK3zxeA2KpKnMA/1500x843/2023/04/06/642f0ae6069b8_maxbestof258938.jpg",
+			"title": "Gr\u00e8ve du 6 avril \u00e0 Caen : plus de 20 000 manifestants dans les rues de Caen - actu.fr",
+			"link": "https://news.google.com/rss/articles/CBMicmh0dHBzOi8vYWN0dS5mci9ub3JtYW5kaWUvY2Flbl8xNDExOC9ncmV2ZS1kdS02LWF2cmlsLWEtY2Flbi1zdWl2ZXotbGVzLWJsb2NhZ2VzLWV0LWxhLW1hbmlmZXN0YXRpb25fNTg3MTQ5NzQuaHRtbNIBAA?oc=5",
+			"pubDate": "Thu, 06 Apr 2023 16:54:19 GMT",
+			"image": "https://picsum.photos/200/300?grayscale",
 			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "Franceinfo",
-			"url": "https://www.francetvinfo.fr/monde/environnement/mega-bassine/deux-sevres-16-maires-de-communes-autour-de-sainte-soline-signent-une-lettre-ouverte-pour-denoncer-les-violences-autour-du-projet-de-mega-bassines_5756297.html",
-			"description": "Le maire de Sainte-Soline ainsi que 15 autres \u00e9lus des communes alentour veulent exprimer \"la peur\" de leurs administr\u00e9s, ainsi que \"l'invasion\" de leurs villages et la \"d\u00e9gradation des biens des particuliers et des infrastructures\", dans une lettre ouverte jeudi, rapporte France Bleu Poitou."
+			"site_name": "",
+			"url": "",
+			"description": ""
 		},
 		{
-			"title": "Le vote sur les trottinettes en libre-service a co\u00fbt\u00e9 390.000 euros - 20 Minutes",
-			"link": "https://www.20minutes.fr/paris/4031494-20230406-vote-trottinettes-libre-service-coute-390-000-euros",
-			"pubDate": "Thu, 06 Apr 2023 11:19:54 GMT",
-			"image": "https://img.20mn.fr/zXzC8BydSDKGvVkQ8OSIASk/1200x768_after-a-local-referendum-revealing-a-massive-rejection-of-self-service-scooters-in-paris-paris-france-03-04-2023-louai-1400-04430-credit-louai-barakat-sipa-2304031804",
+			"title": "\"Mouse jacking\" : attention \u00e0 cette redoutable technique utilis\u00e9e pour voler votre voiture en moins d'une minute sans effraction - L'Ind\u00e9pendant",
+			"link": "https://www.lindependant.fr/2023/04/07/mouse-jacking-attention-a-cette-redoutable-technique-utilisee-pour-voler-votre-voiture-en-moins-dune-minute-sans-effraction-11116857.php",
+			"pubDate": "Fri, 07 Apr 2023 04:03:00 GMT",
+			"image": "https://images.lindependant.fr/api/v1/images/view/642eef082eda282acc3dba99/large/image.jpg?v=1",
 			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "www.20minutes.fr",
-			"url": "https://www.20minutes.fr/paris/4031494-20230406-vote-trottinettes-libre-service-coute-390-000-euros",
-			"description": "Le r\u00e9f\u00e9rendum a conclu \u00e0 l'interdiction des trottinettes en libre-service dans la capitale"
-		},
-		{
-			"title": "Manifestations du 6 avril : Quimper, Vannes, Rennes\u2026 R\u00e9cit d'une journ\u00e9e d'affrontements en Bretagne - Le T\u00e9l\u00e9gramme",
-			"link": "https://www.letelegramme.fr/economie/retraites/manifestations-du-6-avril-quimper-vannes-rennes-recit-d-une-journee-d-affrontements-en-bretagne-06-04-2023-13313236.php",
-			"pubDate": "Thu, 06 Apr 2023 17:20:00 GMT",
-			"image": "https://www.letelegramme.fr/images/2023/04/06/a-brest-quelques-tensions-ont-eu-lieu-entre-certains_7426657_1000x526.jpg?v=1",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "Le Telegramme",
-			"url": "https://www.letelegramme.fr/economie/retraites/manifestations-du-6-avril-quimper-vannes-rennes-recit-d-une-journee-d-affrontements-en-bretagne-06-04-2023-13313236.php",
-			"description": "La onzi\u00e8me journ\u00e9e de manifestation contre la r\u00e9forme des retraites, ce jeudi, a provoqu\u00e9 quelques affrontements dans plusieurs villes bretonnes comme Rennes, Brest, Quimper et Vannes. R\u00e9cit de cette journ\u00e9e sous tension."
+			"site_name": "lindependant.fr",
+			"url": "https://www.lindependant.fr/2023/04/07/mouse-jacking-attention-a-cette-redoutable-technique-utilisee-pour-voler-votre-voiture-en-moins-dune-minute-sans-effraction-11116857.php",
+			"description": "Le \"mouse jacking\" est une nouvelle technique de vol de voitures qui commence \u00e0 se r\u00e9pandre en France."
 		},
 		{
 			"title": "Premi\u00e8re journ\u00e9e \u00ab tendue \u00bb au proc\u00e8s en appel des agressions sexuelles de la jeune Sha\u00efna - Sud Ouest",
@@ -221,24 +331,14 @@
 			"description": "Le num\u00e9ro du magazine de charme Playboy avec Marl\u00e8ne Schiappa en couverture sort en kiosque ce jeudi. Son r\u00e9dacteur en chef a d\u00e9taill\u00e9 les coulisses de cet entretien scandale"
 		},
 		{
-			"title": "Gr\u00e8ve du 6 avril \u00e0 Caen : plus de 20 000 manifestants dans les rues de Caen - actu.fr",
-			"link": "https://news.google.com/rss/articles/CBMicmh0dHBzOi8vYWN0dS5mci9ub3JtYW5kaWUvY2Flbl8xNDExOC9ncmV2ZS1kdS02LWF2cmlsLWEtY2Flbi1zdWl2ZXotbGVzLWJsb2NhZ2VzLWV0LWxhLW1hbmlmZXN0YXRpb25fNTg3MTQ5NzQuaHRtbNIBAA?oc=5",
-			"pubDate": "Thu, 06 Apr 2023 16:54:19 GMT",
-			"image": "https://picsum.photos/200/300?grayscale",
+			"title": "Saint-Brieuc - Manif pour les retraites : plus de 4 000 personnes et une ambiance tr\u00e8s festive \u00e0 Saint-Brieuc - Le T\u00e9l\u00e9gramme",
+			"link": "https://www.letelegramme.fr/cotes-darmor/saint-brieuc/reforme-des-retraites-nouvelle-action-des-lyceens-ce-jeudi-6-avril-a-saint-brieuc-06-04-2023-13312623.php",
+			"pubDate": "Thu, 06 Apr 2023 14:05:00 GMT",
+			"image": "https://www.letelegramme.fr/images/2023/04/06/manif-pour-les-retraites-plus-de-4-000-personnes-et-une-ambi_7425837_1000x526.jpg?v=1",
 			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "",
-			"url": "",
-			"description": ""
-		},
-		{
-			"title": "Faut-il interdire les jets priv\u00e9s? Le point sur les chiffres fous de l'a\u00e9roport de Nice C\u00f4te d'Azur - Nice matin",
-			"link": "https://www.nicematin.com/faits-de-societe/faut-il-interdire-les-jets-prives-le-point-sur-les-chiffres-fous-de-laeroport-de-nice-cote-dazur-839494",
-			"pubDate": "Thu, 06 Apr 2023 13:45:00 GMT",
-			"image": "https://fyooyzbm.filerobot.com/v7/image-rcaxxq20_eo_jets-prives-eKRgqagx.jpg?vh=53c0f2&ci_seal=5d0dae8ab1",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "Nice-Matin",
-			"url": "https://www.nicematin.com/faits-de-societe/faut-il-interdire-les-jets-prives-le-point-sur-les-chiffres-fous-de-laeroport-de-nice-cote-dazur-839494",
-			"description": "Faut-il interdire les jets priv\u00e9s? La proposition de loi port\u00e9e par le d\u00e9put\u00e9 \u00e9cologiste Julien Bayou est d\u00e9battue ce jeudi \u00e0 l'Assembl\u00e9e nationale.\u00a0 \r\nL'issue de ce d\u00e9bat fait peu de doute. Le ministre de la Transition \u00e9cologique, Christophe B\u00e9chu, a d'ores et d\u00e9j\u00e0 estim\u00e9 qu'une interdiction des je"
+			"site_name": "Le Telegramme",
+			"url": "https://www.letelegramme.fr/cotes-darmor/saint-brieuc/reforme-des-retraites-nouvelle-action-des-lyceens-ce-jeudi-6-avril-a-saint-brieuc-06-04-2023-13312623.php",
+			"description": "Onzi\u00e8me journ\u00e9e d\u2019action contre la r\u00e9forme des retraites ce jeudi 6\u00a0avril \u00e0 Saint-Brieuc. Ce matin, deux lyc\u00e9es \u00e9taient bloqu\u00e9s et la circulation filtr\u00e9e au Carpont. Quant \u00e0 la manif de cet apr\u00e8s-midi, la r\u00e9daction du T\u00e9l\u00e9gramme a estim\u00e9 le cort\u00e8ge \u00e0 4 000 personnes. La CFDT, elle, en annonce 7 5 00."
 		},
 		{
 			"title": "Dissolution de la Brav-M : la p\u00e9tition sign\u00e9e plus de 260 000 fois a \u00e9t\u00e9 class\u00e9e par les d\u00e9put\u00e9s - Lib\u00e9ration",
@@ -251,54 +351,14 @@
 			"description": ""
 		},
 		{
-			"title": "Energie : le rapport acide de l'Assembl\u00e9e sur 30 ans de \u00ab divagation politique \u00bb - Les \u00c9chos",
-			"link": "https://www.lesechos.fr/industrie-services/energie-environnement/energie-le-rapport-acide-de-lassemblee-sur-30-ans-de-divagation-politique-1932927",
-			"pubDate": "Thu, 06 Apr 2023 10:26:43 GMT",
-			"image": "https://media.lesechos.com/api/v1/images/view/642e9ebe1f70372f553b1fba/1280x720/0703731784818-web-tete.jpg",
+			"title": "Deux-S\u00e8vres : 16 maires de communes autour de Sainte-Soline signent une lettre ouverte pour d\u00e9noncer les violences autour du projet de m\u00e9ga-bassines - franceinfo",
+			"link": "https://www.francetvinfo.fr/monde/environnement/mega-bassine/deux-sevres-16-maires-de-communes-autour-de-sainte-soline-signent-une-lettre-ouverte-pour-denoncer-les-violences-autour-du-projet-de-mega-bassines_5756297.html",
+			"pubDate": "Thu, 06 Apr 2023 18:20:42 GMT",
+			"image": "https://www.francetvinfo.fr/pictures/heZk0pd8_yI0dfK3zxeA2KpKnMA/1500x843/2023/04/06/642f0ae6069b8_maxbestof258938.jpg",
 			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "Les Echos",
-			"url": "https://www.lesechos.fr/industrie-services/energie-environnement/energie-le-rapport-acide-de-lassemblee-sur-30-ans-de-divagation-politique-1932927",
-			"description": "La commission d'enqu\u00eate parlementaire sur la souverainet\u00e9 \u00e9nerg\u00e9tique d\u00e9nonce une politique \u00ab\u00a0inconsciente et incons\u00e9quente\u00a0\u00bb. Europe, nucl\u00e9aire, renouvelables, recherche\u2026 ses propositions sont nombreuses."
-		},
-		{
-			"title": "R\u00e9forme des retraites : entre 11.000 et 30.000 manifestants en Dr\u00f4me et Ard\u00e8che - France Bleu",
-			"link": "https://www.francebleu.fr/infos/economie-social/en-direct-suivez-la-11e-journee-de-mobilisation-retraites-en-drome-et-en-ardeche-6958500",
-			"pubDate": "Thu, 06 Apr 2023 15:00:19 GMT",
-			"image": "https://www.francebleu.fr/s3/cruiser-production/2023/04/5a9a8432-a36f-48cc-a5b9-853fd20fd3da/1200x680_sc_whatsapp-image-2023-04-06-at-15-18-51.jpg",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "ici, par France Bleu et France 3",
-			"url": "https://www.francebleu.fr/infos/economie-social/en-direct-suivez-la-11e-journee-de-mobilisation-retraites-en-drome-et-en-ardeche-6958500",
-			"description": "Onze manifestations contre la r\u00e9forme des retraites ont eu lieu ce jeudi 6 avril en Dr\u00f4me et en Ard\u00e8che, pour la 11e journ\u00e9e de mobilisation. La participation reste \u00e9lev\u00e9e mais l'\u00e9rosion se poursuit."
-		},
-		{
-			"title": "La popularit\u00e9 d'Emmanuel Macron et \u00c9lisabeth Borne chute fortement selon un sondage - BFMTV",
-			"link": "https://www.bfmtv.com/politique/elysee/la-popularite-d-emmanuel-macron-et-elisabeth-borne-chute-fortement-selon-un-sondage_AD-202304060538.html",
-			"pubDate": "Thu, 06 Apr 2023 15:20:00 GMT",
-			"image": "https://images.bfmtv.com/hssTzqKAOAaIgOnEp3lwRy69c6M=/0x0:2048x1152/2048x0/images/La-Premiere-ministre-Elisabeth-Borne-et-le-president-de-la-Republique-Emmanuel-Macron-le-18-juin-2022-a-Suresnes-Hauts-de-Seine-1434797.jpg",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "BFMTV",
-			"url": "https://www.bfmtv.com/politique/elysee/la-popularite-d-emmanuel-macron-et-elisabeth-borne-chute-fortement-selon-un-sondage_AD-202304060538.html",
-			"description": "La Premi\u00e8re ministre n'avait jusque-l\u00e0 jamais atteint ce niveau d'impopularit\u00e9 depuis son arriv\u00e9e \u00e0 Matignon, d'apr\u00e8s un sondage Elabe. Celle du pr\u00e9sident a chut\u00e9 de 7 points en un mois."
-		},
-		{
-			"title": "Sainte-Soline : apr\u00e8s les blessures, la peur de l'h\u00f4pital - Mediapart",
-			"link": "https://www.mediapart.fr/journal/france/060423/sainte-soline-apres-les-blessures-la-peur-de-l-hopital",
-			"pubDate": "Thu, 06 Apr 2023 17:10:43 GMT",
-			"image": "https://static.mediapart.fr/etmagine/og/journal/files/2023/04/06/plaie-hanche.jpg",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "Mediapart",
-			"url": "https://www.mediapart.fr/journal/france/060423/sainte-soline-apres-les-blessures-la-peur-de-l-hopital",
-			"description": "De nombreuses personnes bless\u00e9es \u00e0 Sainte-Soline lors de la manifestation contre les m\u00e9gabassines le 25 mars ont fui les h\u00f4pitaux les plus proches par peur de se faire arr\u00eater ou ficher par la police\u2026"
-		},
-		{
-			"title": "Collecte des d\u00e9chets \u00e0 Nantes : les ripeurs de V\u00e9olia obtiennent gain de cause en justice - Ouest-France",
-			"link": "https://news.google.com/rss/articles/CBMirQFodHRwczovL3d3dy5vdWVzdC1mcmFuY2UuZnIvcGF5cy1kZS1sYS1sb2lyZS9uYW50ZXMtNDQwMDAvY29sbGVjdGUtZGVzLWRlY2hldHMtbGVzLXJpcGV1cnMtZGUtdmVvbGlhLW9idGllbm5lbnQtZ2Fpbi1kZS1jYXVzZS1lbi1qdXN0aWNlLTM0MDU1MzA0LWQ0OTItMTFlZC1iNTA3LWMxYmU4OTUzMzFhZtIBAA?oc=5",
-			"pubDate": "Thu, 06 Apr 2023 16:35:18 GMT",
-			"image": "https://picsum.photos/200/300?grayscale",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "",
-			"url": "",
-			"description": ""
+			"site_name": "Franceinfo",
+			"url": "https://www.francetvinfo.fr/monde/environnement/mega-bassine/deux-sevres-16-maires-de-communes-autour-de-sainte-soline-signent-une-lettre-ouverte-pour-denoncer-les-violences-autour-du-projet-de-mega-bassines_5756297.html",
+			"description": "Le maire de Sainte-Soline ainsi que 15 autres \u00e9lus des communes alentour veulent exprimer \"la peur\" de leurs administr\u00e9s, ainsi que \"l'invasion\" de leurs villages et la \"d\u00e9gradation des biens des particuliers et des infrastructures\", dans une lettre ouverte jeudi, rapporte France Bleu Poitou."
 		},
 		{
 			"title": "Des d\u00e9put\u00e9s sanctionn\u00e9s pour avoir port\u00e9 des micros-cravates pour une \u00e9mission de Laurent Delahousse sur France 2 - OZAP",
@@ -311,14 +371,54 @@
 			"description": "L'\u00e9mission coince \u00e0 l'h\u00e9micycle. Hier, le bureau de l'Assembl\u00e9e nationale a d\u00e9cid\u00e9 de sanctionner des d\u00e9put\u00e9s ayant enfreint les r\u00e8gles du Palais Bourbon ces derni\u00e8res semaines. Parmi les personnes co"
 		},
 		{
-			"title": "PHOTOS. La d\u00e9molition de la Muraille de Chine, immense barre d'immeubles de Clermont-Ferrand, a d\u00e9but\u00e9 - France 3 R\u00e9gions",
-			"link": "https://france3-regions.francetvinfo.fr/auvergne-rhone-alpes/puy-de-dome/clermont-ferrand/photos-la-demolition-de-la-muraille-de-chine-immense-barre-d-immeubles-de-clermont-ferrand-a-debute-2748742.html",
-			"pubDate": "Thu, 06 Apr 2023 15:26:58 GMT",
-			"image": "https://france3-regions.francetvinfo.fr/image/ay6ny4dQ9Aku97rhU95U3TgvEZg/930x620/regions/2023/04/06/642eda2718fba_muraille-2.jpg",
+			"title": "Fin de vie : la France a-t-elle gagn\u00e9 plus de 2000 lits de soins palliatifs en trois ans, comme l'affirme Emmanuel Macron ? - Le Figaro",
+			"link": "https://www.lefigaro.fr/actualite-france/fin-de-vie-la-france-a-t-elle-gagne-plus-de-2000-lits-de-soins-palliatifs-en-trois-ans-comme-l-affirme-emmanuel-macron-20230406",
+			"pubDate": "Thu, 06 Apr 2023 09:24:01 GMT",
+			"image": "https://i.f1g.fr/media/cms/1200x630_crop/2023/04/04/66943cc24e5db444005cd8974ad3772bbebd9aacd361a0e563dd47659ff81f54.jpg",
 			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "France 3 Auvergne-Rh\u00f4ne-Alpes",
-			"url": "https://france3-regions.francetvinfo.fr/auvergne-rhone-alpes/puy-de-dome/clermont-ferrand/photos-la-demolition-de-la-muraille-de-chine-immense-barre-d-immeubles-de-clermont-ferrand-a-debute-2748742.html",
-			"description": "C'est l'un des plus importants chantiers de ce type men\u00e9 en Europe. Une pelleteuse a commenc\u00e9 d\u00e9but avril les travaux de d\u00e9construction de la Muraille de Chine, une longue barre d'immeubles de Clermont-Ferrand. Avec ses 320..."
+			"site_name": "LEFIGARO",
+			"url": "https://www.lefigaro.fr/actualite-france/fin-de-vie-la-france-a-t-elle-gagne-plus-de-2000-lits-de-soins-palliatifs-en-trois-ans-comme-l-affirme-emmanuel-macron-20230406",
+			"description": "LA V\u00c9RIFICATION - Le chef de l'\u00c9tat a assur\u00e9 que la France avait 9526 lits de soins palliatifs \u00e0 disposition en 2022, contre 7500 trois ans plus t\u00f4t. Soit une hausse affich\u00e9e de 27%."
+		},
+		{
+			"title": "[En vid\u00e9o] La Muraille de Chine de Clermont-Ferrand commence \u00e0 dispara\u00eetre - Clermont-Ferrand (63000) - La Montagne",
+			"link": "https://www.lamontagne.fr/clermont-ferrand-63000/actualites/la-muraille-de-chine-de-clermont-ferrand-commence-a-disparaitre_14290522/",
+			"pubDate": "Thu, 06 Apr 2023 15:03:00 GMT",
+			"image": "https://img.lamontagne.fr/2HT9okRrAGCQcGOgCvcaZCFptCK_X1Xa6mF3uk6Uv64/fit/657/438/sm/0/bG9jYWw6Ly8vMDAvMDAvMDYvNDUvNDYvMjAwMDAwNjQ1NDY1Mg.jpg",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "www.lamontagne.fr",
+			"url": "https://www.lamontagne.fr/clermont-ferrand-63000/actualites/la-muraille-de-chine-de-clermont-ferrand-commence-a-disparaitre_14290522/",
+			"description": "Vid\u00e9e d\u00e9finitivement de ses habitants fin 2022, la Muraille de Chine de Clermont-Ferrand voit ses derniers jours arriver. Dans 14 semaines, elle ne dominera plus la ville du haut de ses 40 m\u00e8tres depuis le plateau Saint-Jacques. Un dernier adieu lui a \u00e9t\u00e9 rendu ce jeudi 6 avril, au matin."
+		},
+		{
+			"title": "Les r\u00e9quisitions de gr\u00e9vistes de TotalEnergies \u00e0 la raffinerie de Gonfreville suspendues par la justice - Le Monde",
+			"link": "https://www.lemonde.fr/economie/article/2023/04/06/carburants-la-justice-suspend-les-requisitions-de-grevistes-de-totalenergies-de-gonfreville_6168559_3234.html",
+			"pubDate": "Thu, 06 Apr 2023 16:54:26 GMT",
+			"image": "https://img.lemde.fr/2023/03/23/0/0/3500/2333/1440/960/60/0/5b857d2_par20-france-pensions-petrol-0323-1a.jpg",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "Le Monde.fr",
+			"url": "https://www.lemonde.fr/economie/article/2023/04/06/carburants-la-justice-suspend-les-requisitions-de-grevistes-de-totalenergies-de-gonfreville_6168559_3234.html",
+			"description": "La justice a suspendu jeudi les r\u00e9quisitions qui avaient lieu depuis le d\u00e9but de la semaine \u00e0 la raffinerie de Gonfreville-L\u2019Orcher, en Normandie. \u00ab\u00a0C\u2019est un coup d\u2019arr\u00eat envoy\u00e9 \u00e0 la pr\u00e9fecture et au gouvernement\u00a0\u00bb, selon un des avocats de la CGT."
+		},
+		{
+			"title": "Manifestations du 6 avril : Quimper, Vannes, Rennes\u2026 R\u00e9cit d'une journ\u00e9e d'affrontements en Bretagne - Le T\u00e9l\u00e9gramme",
+			"link": "https://www.letelegramme.fr/economie/retraites/manifestations-du-6-avril-quimper-vannes-rennes-recit-d-une-journee-d-affrontements-en-bretagne-06-04-2023-13313236.php",
+			"pubDate": "Thu, 06 Apr 2023 17:20:00 GMT",
+			"image": "https://www.letelegramme.fr/images/2023/04/06/a-brest-quelques-tensions-ont-eu-lieu-entre-certains_7426657_1000x526.jpg?v=1",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "Le Telegramme",
+			"url": "https://www.letelegramme.fr/economie/retraites/manifestations-du-6-avril-quimper-vannes-rennes-recit-d-une-journee-d-affrontements-en-bretagne-06-04-2023-13313236.php",
+			"description": "La onzi\u00e8me journ\u00e9e de manifestation contre la r\u00e9forme des retraites, ce jeudi, a provoqu\u00e9 quelques affrontements dans plusieurs villes bretonnes comme Rennes, Brest, Quimper et Vannes. R\u00e9cit de cette journ\u00e9e sous tension."
+		},
+		{
+			"title": "Incompr\u00e9hension, col\u00e8re, d\u00e9go\u00fbt\u2026 L'image d'Emmanuel Macron \u00e0 la rue selon Viavoice - Lib\u00e9ration",
+			"link": "https://news.google.com/rss/articles/CBMilQFodHRwczovL3d3dy5saWJlcmF0aW9uLmZyL3BvbGl0aXF1ZS9pbmNvbXByZWhlbnNpb24tZXQtY29sZXJlLWxpbWFnZS1kZS1kZW1tYW51ZWwtbWFjcm9uLWEtbGEtcnVlLXNlbG9uLXZpYXZvaWNlLTIwMjMwNDA2X0RNSFUzT1VZUkpHR1hFNExUNUVIVE9aVUxFL9IBAA?oc=5",
+			"pubDate": "Thu, 06 Apr 2023 16:50:00 GMT",
+			"image": "https://www.liberation.fr/resizer/tCVexAyBYv1DccqpZ6w_284Ovv0=/1200x630/filters:format(jpg):quality(70)/cloudfront-eu-central-1.images.arcpublishing.com/liberation/MUONIAILERBP5E2K3PY3XE5G5E.png",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "Lib\u00e9ration",
+			"url": "",
+			"description": ""
 		},
 		{
 			"title": "Deux morts \u00e0 Bois-Guillaume : la femme a \u00e9t\u00e9 poignard\u00e9e - actu.fr",
@@ -331,59 +431,19 @@
 			"description": ""
 		},
 		{
-			"title": "Fin de vie : la France a-t-elle gagn\u00e9 plus de 2000 lits de soins palliatifs en trois ans, comme l'affirme Emmanuel Macron ? - Le Figaro",
-			"link": "https://www.lefigaro.fr/actualite-france/fin-de-vie-la-france-a-t-elle-gagne-plus-de-2000-lits-de-soins-palliatifs-en-trois-ans-comme-l-affirme-emmanuel-macron-20230406",
-			"pubDate": "Thu, 06 Apr 2023 09:24:01 GMT",
-			"image": "https://i.f1g.fr/media/cms/1200x630_crop/2023/04/04/66943cc24e5db444005cd8974ad3772bbebd9aacd361a0e563dd47659ff81f54.jpg",
+			"title": "Quitter Bordeaux : la nouvelle tendance chez les Bordelais - France 3 R\u00e9gions",
+			"link": "https://france3-regions.francetvinfo.fr/nouvelle-aquitaine/gironde/bordeaux/quitter-bordeaux-la-nouvelle-tendance-chez-les-bordelais-2748838.html",
+			"pubDate": "Thu, 06 Apr 2023 16:47:02 GMT",
+			"image": "https://france3-regions.francetvinfo.fr/image/71MMkn2NODao5XFh5Go6J-tC6is/930x620/regions/2023/04/06/642ef593b21a3_1.jpg",
 			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "LEFIGARO",
-			"url": "https://www.lefigaro.fr/actualite-france/fin-de-vie-la-france-a-t-elle-gagne-plus-de-2000-lits-de-soins-palliatifs-en-trois-ans-comme-l-affirme-emmanuel-macron-20230406",
-			"description": "LA V\u00c9RIFICATION - Le chef de l'\u00c9tat a assur\u00e9 que la France avait 9526 lits de soins palliatifs \u00e0 disposition en 2022, contre 7500 trois ans plus t\u00f4t. Soit une hausse affich\u00e9e de 27%."
+			"site_name": "France 3 Nouvelle-Aquitaine",
+			"url": "https://france3-regions.francetvinfo.fr/nouvelle-aquitaine/gironde/bordeaux/quitter-bordeaux-la-nouvelle-tendance-chez-les-bordelais-2748838.html",
+			"description": "Selon un dernier sondage effectu\u00e9 aupr\u00e8s des Bordelais, 63% d'entre eux souhaiteraient quitter leur ville. Un d\u00e9samour provoqu\u00e9, entre autres, par la recherche d'espace, et d\u2019un environnement plus calme et moins pollu\u00e9."
 		},
 		{
-			"title": "Carburant : la justice suspend les r\u00e9quisitions \u00e0 la raffinerie TotalEnergies de Gonfreville-l'Orcher - France Bleu",
-			"link": "https://www.francebleu.fr/infos/economie-social/carburant-requisitions-suspendues-a-la-raffinerie-totalenergies-de-gonfreville-l-orcher-2582750",
-			"pubDate": "Thu, 06 Apr 2023 11:07:07 GMT",
-			"image": "https://www.francebleu.fr/s3/cruiser-production/2023/04/fd628421-1a89-4f13-bb0b-a066283090e8/1200x680_sc_sc-frbprjvwcaeuba3.jpg",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "ici, par France Bleu et France 3",
-			"url": "https://www.francebleu.fr/infos/economie-social/carburant-requisitions-suspendues-a-la-raffinerie-totalenergies-de-gonfreville-l-orcher-2582750",
-			"description": "Le Tribunal administratif de Rouen suspend l'arr\u00eat\u00e9 de r\u00e9quisitions de salari\u00e9s de la raffinerie TotalEnergies de Gonfreville-l'Orcher (Seine-Maritime) ce jeudi, estimant qu'il s'agit d'une \"atteinte grave et manifestement ill\u00e9gale au droit de gr\u00e8ve\". Les exp\u00e9ditions sont de nouveau interrompues."
-		},
-		{
-			"title": "Mieux connues, les Zones \u00e0 Faibles Emissions (ZFE) sont de plus en plus rejet\u00e9es par les automobilistes - BFMTV",
-			"link": "https://www.bfmtv.com/auto/mieux-connues-les-zones-a-faibles-emissions-zfe-sont-de-plus-en-plus-rejetees-par-les-automobilistes_AV-202304060516.html",
-			"pubDate": "Thu, 06 Apr 2023 14:45:34 GMT",
-			"image": "https://images.bfmtv.com/r7hSOhJNAyiQiJE6qhZmNVxcsys=/0x547:1536x1411/1536x0/images/ZFE-panneau-Paris-1411968.jpg",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "BFMTV",
-			"url": "https://www.bfmtv.com/auto/mieux-connues-les-zones-a-faibles-emissions-zfe-sont-de-plus-en-plus-rejetees-par-les-automobilistes_AV-202304060516.html",
-			"description": "Pr\u00e8s d\u2019un Fran\u00e7ais sur deux sait d\u00e9finir une Zone \u00e0 Faibles \u00c9missions (ZFE) selon une \u00e9tude. Mais mieux inform\u00e9s sur leurs cons\u00e9quences, les automobilistes s'y opposent de plus en plus. "
-		},
-		{
-			"title": "Hausse de prix : Un \u00ab panier inflation \u00bb pour cinq fruits et l\u00e9gumes de saison vot\u00e9 par l\u2019Assembl\u00e9e nationale - 20 Minutes",
-			"link": "https://www.20minutes.fr/societe/4031543-20230406-hausse-prix-panier-inflation-cinq-fruits-legumes-saison-vote-assemblee-nationale",
-			"pubDate": "Thu, 06 Apr 2023 14:03:30 GMT",
-			"image": "https://img.20mn.fr/qOiyfkDkQUeDTjupCnoOeyk/1200x768_food-cans-are-displayed-in-a-stall-with-low-prices-next-to-a-label-reading-essential-and-nutrition-basket-blocked-prices-at-a-carrefour-hypermarket-in-villeneuve-la-garenne-in-the-northern-suburbs-of-paris-on-march-29-2023-photo-by-thomas-samson-afp",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "www.20minutes.fr",
-			"url": "https://www.20minutes.fr/societe/4031543-20230406-hausse-prix-panier-inflation-cinq-fruits-legumes-saison-vote-assemblee-nationale",
-			"description": "Le sort des amendements communiste et LFI demeure incertain, lors du vote global du texte et durant la suite de la navette parlementaire"
-		},
-		{
-			"title": "Fongicide : des tomates en grappes contamin\u00e9es rappel\u00e9es dans toute la France - CNEWS",
-			"link": "https://www.cnews.fr/france/2023-04-06/fongicide-des-tomates-en-grappes-contaminees-rappelees-dans-toute-la-france",
-			"pubDate": "Thu, 06 Apr 2023 18:07:24 GMT",
-			"image": "https://static.cnews.fr/sites/default/files/tom-hermans-nm6qrtnvkn8-unsplash-taille1200_642ee9d8b412f.jpg",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "CNEWS",
-			"url": "https://www.cnews.fr/france/2023-04-06/fongicide-des-tomates-en-grappes-contaminees-rappelees-dans-toute-la-france",
-			"description": "Des tomates en grappes vendues dans toute la France font l\u2019objet d\u2019un rappel des autorit\u00e9s, en raison d\u2019une teneur trop \u00e9lev\u00e9e d\u2019un fongicide. Attention si vous avez achet\u00e9 des tomates en grappes ces derni\u00e8res semaines : elles pourraient \u00eatre contamin\u00e9es. La plate-forme gouvernementale Rappel Conso a publi\u00e9 une alerte lundi 3 avril concernant un lot de tomates en grappes, vendues dans toute la France, dont la teneur en chlorothalonil, un fongicide, est trop \u00e9lev\u00e9e.\u00a0"
-		},
-		{
-			"title": "\u00c9tudiant touch\u00e9 au testicule par un tir de flash-ball \u00e0 Rennes : une enqu\u00eate criminelle ouverte - Ouest-France \u00e9ditions locales",
-			"link": "https://news.google.com/rss/articles/CBMisgFodHRwczovL3d3dy5vdWVzdC1mcmFuY2UuZnIvYnJldGFnbmUvcmVubmVzLTM1MDAwL2V0dWRpYW50LWJyZXRvbi10b3VjaGUtYXUtdGVzdGljdWxlLXBhci11bi10aXItZGUtZmxhc2gtYmFsbC11bmUtZW5xdWV0ZS1jcmltaW5lbGxlLW91dmVydGUtM2EyZGJjYjgtZDQ5Yi0xMWVkLWI1MDctYzFiZTg5NTMzMWFm0gEA?oc=5",
-			"pubDate": "Thu, 06 Apr 2023 17:46:15 GMT",
+			"title": "R\u00e9forme des retraites. \u00c0 Nantes, des opposants bloquent le d\u00e9p\u00f4t des tramways : la ligne 1 coup\u00e9e - Ouest-France",
+			"link": "https://news.google.com/rss/articles/CBMivAFodHRwczovL3d3dy5vdWVzdC1mcmFuY2UuZnIvcGF5cy1kZS1sYS1sb2lyZS9uYW50ZXMtNDQwMDAvcmVmb3JtZS1kZXMtcmV0cmFpdGVzLWEtbmFudGVzLWRlcy1vcHBvc2FudHMtYmxvcXVlbnQtbGUtZGVwb3QtZGVzLXRyYW13YXlzLWxhLWxpZ25lLTEtY291cGVlLWJmZDgzNzIyLWQ0M2ItMTFlZC04YjAwLTE3MjhhNzNmNGM4NdIBAA?oc=5",
+			"pubDate": "Thu, 06 Apr 2023 05:49:37 GMT",
 			"image": "https://picsum.photos/200/300?grayscale",
 			"logo": "https://picsum.photos/32/32?grayscale",
 			"site_name": "",
@@ -391,44 +451,64 @@
 			"description": ""
 		},
 		{
-			"title": "La Mairie de Paris lance une nouvelle consultation pour r\u00e9server une voie au covoiturage sur le p\u00e9riph\u00e9rique - 20 Minutes",
-			"link": "https://www.20minutes.fr/paris/4031380-20230405-mairie-paris-lance-nouvelle-consultation-reserver-voie-covoiturage-peripherique",
-			"pubDate": "Wed, 05 Apr 2023 15:49:45 GMT",
-			"image": "https://img.20mn.fr/t4e4idFmT5iwBL4mZ_s3_ik/1200x768_le-23-juillet-2018-a-paris-le-boulevard-peripherique-parisien-vu-depuis-la-porte-de-vincennes-vers-17-h-30",
+			"title": "R\u00e9forme des retraites : \"on a \u00e9t\u00e9 attaqu\u00e9 par la police\" d\u00e9nonce le service d'ordre des syndicats \u00e0 Strasbourg - France Bleu",
+			"link": "https://www.francebleu.fr/infos/faits-divers-justice/reforme-des-retraites-on-a-ete-attaque-par-la-police-denonce-le-service-d-ordre-des-syndicats-a-strasbourg-3578872",
+			"pubDate": "Thu, 06 Apr 2023 16:58:42 GMT",
+			"image": "https://www.francebleu.fr/s3/cruiser-production/2023/04/e6805ce6-6327-4f7a-b12a-ee815edc8c50/1200x680_sc_crs-cgt.jpg",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "ici, par France Bleu et France 3",
+			"url": "https://www.francebleu.fr/infos/faits-divers-justice/reforme-des-retraites-on-a-ete-attaque-par-la-police-denonce-le-service-d-ordre-des-syndicats-a-strasbourg-3578872",
+			"description": "Le service d'ordre de l'intersyndicale s'est fait gazer \u00e0 Strasbourg ce jeudi 6 avril pendant la manifestation contre la r\u00e9forme des retraites. La CGT compte interpeller la pr\u00e9fecture. D'apr\u00e8s le syndicat, ce n'\u00e9tait jamais arriv\u00e9 dans la capitale alsacienne."
+		},
+		{
+			"title": "Niche parlementaire des \u00e9cologistes : l'Assembl\u00e9e nationale rejette la cr\u00e9ation d'une \u00abprime alimentaire\u00bb - CNEWS",
+			"link": "https://www.cnews.fr/france/2023-04-06/niche-parlementaire-des-ecologistes-lassemblee-nationale-rejette-la-creation-dune",
+			"pubDate": "Thu, 06 Apr 2023 19:47:16 GMT",
+			"image": "https://static.cnews.fr/sites/default/files/0cyriellechatelainniche-taille1200_642ef2d9ad400_0.jpg",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "CNEWS",
+			"url": "https://www.cnews.fr/france/2023-04-06/niche-parlementaire-des-ecologistes-lassemblee-nationale-rejette-la-creation-dune",
+			"description": "Les d\u00e9put\u00e9s \u00e9cologistes ont essuy\u00e9 un premier revers ce jeudi 6 avril avec le rejet d'une \u00abprime alimentaire\u00bb et d'une interdiction des nitrites dans la charcuterie, lors de leur journ\u00e9e r\u00e9serv\u00e9e \u00e0 l'Assembl\u00e9e nationale. Un premier \u00e9chec. A l\u2019occasion de sa niche parlementaire ce jeudi 6 avril, le groupe \u00e9cologiste \u00e0 l'Assembl\u00e9e nationale pr\u00e9sentait une proposition de loi visant \u00e0 favoriser l\u2019acc\u00e8s \u00e0 une alimentation saine. Un texte qui a \u00e9t\u00e9 rejet\u00e9 \u00e0 121 voix contre 138."
+		},
+		{
+			"title": "Rennes : Un manifestant perd un testicule apr\u00e8s avoir \u00e9t\u00e9 touch\u00e9 selon lui par un tir de LBD - 20 Minutes",
+			"link": "https://www.20minutes.fr/faits_divers/4031592-20230406-rennes-manifestant-perd-testicule-apres-avoir-touche-selon-tir-lbd",
+			"pubDate": "Thu, 06 Apr 2023 17:12:27 GMT",
+			"image": "https://img.20mn.fr/79G0Tc4rTa-Bsp2TAoKuFg/1200x768_des-policiers-et-un-lbd-lors-d-une-manifestation-de-gilets-jaunes-a-paris-illustration",
 			"logo": "https://picsum.photos/32/32?grayscale",
 			"site_name": "www.20minutes.fr",
-			"url": "https://www.20minutes.fr/paris/4031380-20230405-mairie-paris-lance-nouvelle-consultation-reserver-voie-covoiturage-peripherique",
-			"description": "La consultation aura lieu par voie \u00e9lectronique du 17 avril au 28 mai et sera ouverte \u00e0 tous les usagers du p\u00e9riph\u00e9rique, parisiens ou non"
+			"url": "https://www.20minutes.fr/faits_divers/4031592-20230406-rennes-manifestant-perd-testicule-apres-avoir-touche-selon-tir-lbd",
+			"description": "Le jeune homme de 22 ans a d\u00e9pos\u00e9 plainte et une enqu\u00eate p\u00e9nale a \u00e9t\u00e9 ouverte"
 		},
 		{
-			"title": "Rebondissement dans l'affaire de la Madone de Brando - Corse Matin",
-			"link": "https://www.corsematin.com/articles/rebondissement-dans-laffaire-de-la-madone-de-brando-140033",
-			"pubDate": "Thu, 06 Apr 2023 16:20:00 GMT",
-			"image": "https://d2p1ubzgqn8tkf.cloudfront.net/article/1262247/md_7520c570ecf365920c570ecf3fc20cv_.jpg",
+			"title": "Collecte des d\u00e9chets \u00e0 Nantes : les ripeurs de V\u00e9olia obtiennent gain de cause en justice - Ouest-France",
+			"link": "https://news.google.com/rss/articles/CBMirQFodHRwczovL3d3dy5vdWVzdC1mcmFuY2UuZnIvcGF5cy1kZS1sYS1sb2lyZS9uYW50ZXMtNDQwMDAvY29sbGVjdGUtZGVzLWRlY2hldHMtbGVzLXJpcGV1cnMtZGUtdmVvbGlhLW9idGllbm5lbnQtZ2Fpbi1kZS1jYXVzZS1lbi1qdXN0aWNlLTM0MDU1MzA0LWQ0OTItMTFlZC1iNTA3LWMxYmU4OTUzMzFhZtIBAA?oc=5",
+			"pubDate": "Thu, 06 Apr 2023 16:35:18 GMT",
+			"image": "https://picsum.photos/200/300?grayscale",
 			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "Corse Matin",
-			"url": "https://www.corsematin.com/articles/rebondissement-dans-laffaire-de-la-madone-de-brando-140033",
-			"description": "Coup de th\u00e9\u00e2tre dans le dossier dit de \"la Madone de Brando\". Ce jeudi apr\u00e8s-midi, la maison de vente aux ench\u00e8res De Baecque et associ\u00e9s a transmis \u00e0 la r\u00e9daction de Corse-Matin un communiqu\u00e9 de presse dans lequel elle annonce sa d\u00e9cision de conserv..."
+			"site_name": "",
+			"url": "",
+			"description": ""
 		},
 		{
-			"title": "Saint-Brieuc - Manif pour les retraites : plus de 4 000 personnes et une ambiance tr\u00e8s festive \u00e0 Saint-Brieuc - Le T\u00e9l\u00e9gramme",
-			"link": "https://www.letelegramme.fr/cotes-darmor/saint-brieuc/reforme-des-retraites-nouvelle-action-des-lyceens-ce-jeudi-6-avril-a-saint-brieuc-06-04-2023-13312623.php",
-			"pubDate": "Thu, 06 Apr 2023 14:05:00 GMT",
-			"image": "https://www.letelegramme.fr/images/2023/04/06/manif-pour-les-retraites-plus-de-4-000-personnes-et-une-ambi_7425837_1000x526.jpg?v=1",
+			"title": "DIRECT. R\u00e9forme des retraites : 111 personnes ont \u00e9t\u00e9 interpell\u00e9es en France lors de la onzi\u00e8me journ\u00e9e de mobilisation - franceinfo",
+			"link": "https://www.francetvinfo.fr/economie/retraite/reforme-des-retraites/direct-reforme-des-retraites-111-personnes-ont-ete-interpellees-en-france-lors-de-la-onzieme-journee-de-mobilisation_5757188.html",
+			"pubDate": "Fri, 07 Apr 2023 07:41:30 GMT",
+			"image": "https://www.francetvinfo.fr/image/765py16j2-bf4f/1500/843/31252244.jpg",
 			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "Le Telegramme",
-			"url": "https://www.letelegramme.fr/cotes-darmor/saint-brieuc/reforme-des-retraites-nouvelle-action-des-lyceens-ce-jeudi-6-avril-a-saint-brieuc-06-04-2023-13312623.php",
-			"description": "Onzi\u00e8me journ\u00e9e d\u2019action contre la r\u00e9forme des retraites ce jeudi 6\u00a0avril \u00e0 Saint-Brieuc. Ce matin, deux lyc\u00e9es \u00e9taient bloqu\u00e9s et la circulation filtr\u00e9e au Carpont. Quant \u00e0 la manif de cet apr\u00e8s-midi, la r\u00e9daction du T\u00e9l\u00e9gramme a estim\u00e9 le cort\u00e8ge \u00e0 4 000 personnes. La CFDT, elle, en annonce 7 5 00."
+			"site_name": "Franceinfo",
+			"url": "https://www.francetvinfo.fr/economie/retraite/reforme-des-retraites/direct-reforme-des-retraites-111-personnes-ont-ete-interpellees-en-france-lors-de-la-onzieme-journee-de-mobilisation_5757188.html",
+			"description": ""
 		},
 		{
-			"title": "\u00ab Le Petit Prince \u00bb f\u00eate ses 80 ans : 5 choses \u00e0 savoir sur ce ph\u00e9nom\u00e8ne litt\u00e9raire - La Croix",
-			"link": "https://www.la-croix.com/Culture/Le-Petit-Prince-fete-80-ans-5-choses-savoir-phenomene-litteraire-2023-04-06-1201262348",
-			"pubDate": "Thu, 06 Apr 2023 06:06:06 GMT",
-			"image": "https://i.la-croix.com/1400x933/smart/2023/04/06/1201262348/Affiche-lexposition-A-rencontre-Petit-Prince-Louvrage-80-6-avril_0.jpg",
+			"title": "Enqu\u00eate ouverte sur les faux Brav-M chez Hanouna - Lib\u00e9ration",
+			"link": "https://news.google.com/rss/articles/CBMihgFodHRwczovL3d3dy5saWJlcmF0aW9uLmZyL3NvY2lldGUvcG9saWNlLWp1c3RpY2UvZW5xdWV0ZS1vdXZlcnRlLXN1ci1sZXMtZmF1eC1icmF2LW0tY2hlei1oYW5vdW5hLTIwMjMwNDA1X080S1hQR0lQUlpDSURJTllLNlVNT1lTREVBL9IBAA?oc=5",
+			"pubDate": "Wed, 05 Apr 2023 19:39:00 GMT",
+			"image": "https://www.liberation.fr/resizer/-NWRbLlNGiFUmKs0yZyDF8cgiK8=/1200x630/filters:format(jpg):quality(70):focal(1747x1352:1757x1362)/cloudfront-eu-central-1.images.arcpublishing.com/liberation/APDNSNBWQJDBRLNAEMCM35QYUM.jpg",
 			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "La Croix",
-			"url": "https://www.la-croix.com/Culture/Le-Petit-Prince-fete-80-ans-5-choses-savoir-phenomene-litteraire-2023-04-06-1201262348",
-			"description": "Ph\u00e9nom\u00e8ne \u00e9ditorial plan\u00e9taire, Le Petit Prince f\u00eate ses 80\u00a0ans ce 6\u00a0avril. L\u2019ouvrage d\u2019Antoine de Saint-Exup\u00e9ry s\u2019est vendu \u00e0 plus de 150\u00a0millions d\u2019exemplaires devenant l\u2019un des livres les plus traduits au monde."
+			"site_name": "Lib\u00e9ration",
+			"url": "",
+			"description": ""
 		},
 		{
 			"title": "Esp\u00e9rance de vie : les Fran\u00e7ais ont plus de chances de devenir centenaires que le reste des Europ\u00e9ens - franceinfo",
@@ -441,22 +521,82 @@
 			"description": "C'est une des conclusions de la derni\u00e8re enqu\u00eate de l'Insee sur les 100 ans et plus. Ils sont 30 000 dans notre pays. Un chiffre \u00e9lev\u00e9 par rapport \u00e0 nos voisins, notamment gr\u00e2ce \u00e0 notre alimentation."
 		},
 		{
-			"title": "Marseille: des manifestants envahissent les rails \u00e0 la gare Saint-Charles, le trafic reprend doucement - BFM Marseille",
-			"link": "https://www.bfmtv.com/marseille/marseille-des-manifestants-envahissent-les-rails-a-la-gare-saint-charles-des-retards-a-prevoir_AN-202304060473.html",
-			"pubDate": "Thu, 06 Apr 2023 13:26:02 GMT",
-			"image": "https://images.bfmtv.com/fy09tBWxTcTmpNHvBVRRHv6bPiA=/0x192:2048x1344/2048x0/images/Manifestation-gare-saint-charles-Marseille-1612380.jpg",
+			"title": "Lannion. R\u00e9forme des retraites : autour des quais, la mobilisation ne s'essouffle pas - Le Tr\u00e9gor",
+			"link": "https://news.google.com/rss/articles/CBMifWh0dHBzOi8vYWN0dS5mci9icmV0YWduZS9sYW5uaW9uXzIyMTEzL2xhbm5pb24tcmVmb3JtZS1kZXMtcmV0cmFpdGVzLWxhLWZvdWxlLWEtbm91dmVhdS1kZWZpbGUtYXV0b3VyLWRlcy1xdWFpc181ODczNTc5Mi5odG1s0gEA?oc=5",
+			"pubDate": "Thu, 06 Apr 2023 10:52:00 GMT",
+			"image": "https://picsum.photos/200/300?grayscale",
 			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "BFMTV",
-			"url": "https://www.bfmtv.com/marseille/marseille-des-manifestants-envahissent-les-rails-a-la-gare-saint-charles-des-retards-a-prevoir_AN-202304060473.html",
-			"description": "La circulation des trains a \u00e9t\u00e9 impact\u00e9e pendant une heure. Le trafic a pu reprendre aux alentours de 16h15 ce jeudi. "
+			"site_name": "",
+			"url": "",
+			"description": ""
 		},
 		{
-			"title": "Enqu\u00eate ouverte sur les faux Brav-M chez Hanouna - Lib\u00e9ration",
-			"link": "https://news.google.com/rss/articles/CBMihgFodHRwczovL3d3dy5saWJlcmF0aW9uLmZyL3NvY2lldGUvcG9saWNlLWp1c3RpY2UvZW5xdWV0ZS1vdXZlcnRlLXN1ci1sZXMtZmF1eC1icmF2LW0tY2hlei1oYW5vdW5hLTIwMjMwNDA1X080S1hQR0lQUlpDSURJTllLNlVNT1lTREVBL9IBAA?oc=5",
-			"pubDate": "Thu, 06 Apr 2023 06:11:15 GMT",
-			"image": "https://www.liberation.fr/resizer/-NWRbLlNGiFUmKs0yZyDF8cgiK8=/1200x630/filters:format(jpg):quality(70):focal(1747x1352:1757x1362)/cloudfront-eu-central-1.images.arcpublishing.com/liberation/APDNSNBWQJDBRLNAEMCM35QYUM.jpg",
+			"title": "Fongicide : des tomates en grappes contamin\u00e9es rappel\u00e9es dans toute la France - CNEWS",
+			"link": "https://www.cnews.fr/france/2023-04-06/fongicide-des-tomates-en-grappes-contaminees-rappelees-dans-toute-la-france",
+			"pubDate": "Thu, 06 Apr 2023 18:07:24 GMT",
+			"image": "https://static.cnews.fr/sites/default/files/tom-hermans-nm6qrtnvkn8-unsplash-taille1200_642ee9d8b412f.jpg",
 			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "Lib\u00e9ration",
+			"site_name": "CNEWS",
+			"url": "https://www.cnews.fr/france/2023-04-06/fongicide-des-tomates-en-grappes-contaminees-rappelees-dans-toute-la-france",
+			"description": "Des tomates en grappes vendues dans toute la France font l\u2019objet d\u2019un rappel des autorit\u00e9s, en raison d\u2019une teneur trop \u00e9lev\u00e9e d\u2019un fongicide. Attention si vous avez achet\u00e9 des tomates en grappes ces derni\u00e8res semaines : elles pourraient \u00eatre contamin\u00e9es. La plate-forme gouvernementale Rappel Conso a publi\u00e9 une alerte lundi 3 avril concernant un lot de tomates en grappes, vendues dans toute la France, dont la teneur en chlorothalonil, un fongicide, est trop \u00e9lev\u00e9e.\u00a0"
+		},
+		{
+			"title": "Grenoble : un homme bless\u00e9 par balle apr\u00e8s avoir manqu\u00e9 de percuter un policier - Le Parisien",
+			"link": "https://www.leparisien.fr/faits-divers/grenoble-un-homme-blesse-par-balle-apres-avoir-manque-de-percuter-un-policier-06-04-2023-HXDJLDXYWBHTLLRFWDQAJV7HUU.php",
+			"pubDate": "Thu, 06 Apr 2023 05:41:00 GMT",
+			"image": "https://www.leparisien.fr/resizer/BZL2HnaYP_XPibQbs2heda05JuE=/1200x675/cloudfront-eu-central-1.images.arcpublishing.com/leparisien/3FU7INZY6ZG73D37MUCYNJAGMA.jpg",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "leparisien.fr",
+			"url": "https://www.leparisien.fr/faits-divers/grenoble-un-homme-blesse-par-balle-apres-avoir-manque-de-percuter-un-policier-06-04-2023-HXDJLDXYWBHTLLRFWDQAJV7HUU.php",
+			"description": "L\u2019homme a tent\u00e9 de se soustraire \u00e0 un contr\u00f4le de police et a manqu\u00e9 de renverser un fonctionnaire mercredi. Il a \u00e9t\u00e9 bless\u00e9 \u00e0 l\u2019aine mais s"
+		},
+		{
+			"title": "Mieux connues, les Zones \u00e0 Faibles Emissions (ZFE) sont de plus en plus rejet\u00e9es par les automobilistes - BFMTV",
+			"link": "https://www.bfmtv.com/auto/mieux-connues-les-zones-a-faibles-emissions-zfe-sont-de-plus-en-plus-rejetees-par-les-automobilistes_AV-202304060516.html",
+			"pubDate": "Thu, 06 Apr 2023 14:45:34 GMT",
+			"image": "https://images.bfmtv.com/r7hSOhJNAyiQiJE6qhZmNVxcsys=/0x547:1536x1411/1536x0/images/ZFE-panneau-Paris-1411968.jpg",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "BFMTV",
+			"url": "https://www.bfmtv.com/auto/mieux-connues-les-zones-a-faibles-emissions-zfe-sont-de-plus-en-plus-rejetees-par-les-automobilistes_AV-202304060516.html",
+			"description": "Pr\u00e8s d\u2019un Fran\u00e7ais sur deux sait d\u00e9finir une Zone \u00e0 Faibles \u00c9missions (ZFE) selon une \u00e9tude. Mais mieux inform\u00e9s sur leurs cons\u00e9quences, les automobilistes s'y opposent de plus en plus. "
+		},
+		{
+			"title": "Grenoble : deux jeunes, suspect\u00e9s d\u2019avoir battu \u00e0 mort un homme lors d\u2019un faux rendez-vous galant, mis en examen - CNEWS",
+			"link": "https://www.cnews.fr/faits-divers/2023-04-06/grenoble-deux-jeunes-suspectes-davoir-battu-mort-un-homme-lors-dun-faux",
+			"pubDate": "Thu, 06 Apr 2023 13:13:41 GMT",
+			"image": "https://static.cnews.fr/sites/default/files/000_sk1ew-5-taille1200_642e97c1a90b3_0.jpg",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "CNEWS",
+			"url": "https://www.cnews.fr/faits-divers/2023-04-06/grenoble-deux-jeunes-suspectes-davoir-battu-mort-un-homme-lors-dun-faux",
+			"description": "Deux jeunes ont \u00e9t\u00e9 mis en examen ce jeudi 6 avril \u00e0 Grenoble (Is\u00e8re), suspect\u00e9s d\u2019avoir attir\u00e9 un quadrag\u00e9naire dans un faux rendez-vous amoureux et de l'avoir battu \u00e0 mort pour le d\u00e9pouiller. Ils voulaient s\u2019en prendre \u00e0 des \u00abp\u00e9dophiles\u00bb. Deux jeunes ont \u00e9t\u00e9 mis en examen ce jeudi, suspect\u00e9s d'avoir battu \u00e0 mort un homme \u00e2g\u00e9 d'une quarantaine d'ann\u00e9es \u00e0 Grenoble\u00a0(Is\u00e8re), lors d'un faux rendez-vous galant mont\u00e9 de toutes pi\u00e8ces."
+		},
+		{
+			"title": "Pr\u00e9sidentielle 2027 : Marine Le Pen en t\u00eate au premier tour, selon un sondage - CNEWS",
+			"link": "https://www.cnews.fr/france/2023-04-06/presidentielle-2027-marine-le-pen-en-tete-au-premier-tour-selon-un-sondage-1341377",
+			"pubDate": "Thu, 06 Apr 2023 11:39:51 GMT",
+			"image": "https://static.cnews.fr/sites/default/files/0mlp-taille1200_642e8c45b0033_0.jpg",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "CNEWS",
+			"url": "https://www.cnews.fr/france/2023-04-06/presidentielle-2027-marine-le-pen-en-tete-au-premier-tour-selon-un-sondage-1341377",
+			"description": "Selon un sondage Ifop-Fiducial pour Le Figaro Magazine et Sud Radio, publi\u00e9 ce mercredi 5 avril, Marine Le Pen am\u00e9liorerait consid\u00e9rablement son score de 2022, si l\u2019\u00e9lection pr\u00e9sidentielle avait lieu dimanche prochain."
+		},
+		{
+			"title": "Rebondissement dans l'affaire de la Madone de Brando - Corse Matin",
+			"link": "https://www.corsematin.com/articles/rebondissement-dans-laffaire-de-la-madone-de-brando-140033",
+			"pubDate": "Thu, 06 Apr 2023 16:20:00 GMT",
+			"image": "https://d2p1ubzgqn8tkf.cloudfront.net/article/1262247/md_7520c570ecf365920c570ecf3fc20cv_.jpg",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "Corse Matin",
+			"url": "https://www.corsematin.com/articles/rebondissement-dans-laffaire-de-la-madone-de-brando-140033",
+			"description": "Coup de th\u00e9\u00e2tre dans le dossier dit de \"la Madone de Brando\". Ce jeudi apr\u00e8s-midi, la maison de vente aux ench\u00e8res De Baecque et associ\u00e9s a transmis \u00e0 la r\u00e9daction de Corse-Matin un communiqu\u00e9 de presse dans lequel elle annonce sa d\u00e9cision de conserv..."
+		},
+		{
+			"title": "60 ans du 3e Rima \u00e0 Vannes. Peer de Jong, le colonel qui a impos\u00e9 la cornemuse et le Gwenn ha du - Ouest-France",
+			"link": "https://news.google.com/rss/articles/CBMisQFodHRwczovL3d3dy5vdWVzdC1mcmFuY2UuZnIvYnJldGFnbmUvbW9yYmloYW4vNjAtYW5zLWR1LTNlLXJpbWEtYS12YW5uZXMtcGVlci1kZS1qb25nLWxlLWNvbG9uZWwtcXVpLWEtaW1wb3NlLWxhLWNvcm5lbXVzZS1ldC1sZS1nd2Vubi1oYS1kdS1mMzBhYzk4Ni1jZWYzLTExZWQtYjQ2Ni03YzVhOTg4MjU3MDbSAQA?oc=5",
+			"pubDate": "Thu, 06 Apr 2023 06:03:12 GMT",
+			"image": "https://picsum.photos/200/300?grayscale",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "",
 			"url": "",
 			"description": ""
 		},
@@ -471,136 +611,6 @@
 			"description": "Fr\u00e9d\u00e9ric, un quinquag\u00e9naire, a appris qu'il \u00e9tait limog\u00e9 de\u00a0l'\u00c9lys\u00e9e au mois de mars apr\u00e8s vingt-trois ans au sein du service \"argenterie\". Emmanuel Macron a tenu \u00e0 apporter son soutien \u00e0 ses coll\u00e8gues.\u00a0"
 		},
 		{
-			"title": "Retraites: les s\u00e9nateurs de gauche demandent une censure totale au Conseil constitutionnel - BFMTV",
-			"link": "https://www.bfmtv.com/politique/parlement/retraites-les-senateurs-de-gauche-demandent-une-censure-totale-au-conseil-constitutionnel_AD-202304060683.html",
-			"pubDate": "Thu, 06 Apr 2023 17:36:00 GMT",
-			"image": "https://images.bfmtv.com/lbr9veuO34zmVK_dEtR86HkKQ58=/7x111:2039x1254/2032x0/images/Conseil-constitutionnel-1603570.jpg",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "BFMTV",
-			"url": "https://www.bfmtv.com/politique/parlement/retraites-les-senateurs-de-gauche-demandent-une-censure-totale-au-conseil-constitutionnel_AD-202304060683.html",
-			"description": "Les Sages ont re\u00e7u des s\u00e9nateurs de gauche ce jeudi qui leur ont demand\u00e9 une censure totale de la r\u00e9forme des retraites."
-		},
-		{
-			"title": "R\u00e9forme des retraites. \u00c0 Nantes, des opposants bloquent le d\u00e9p\u00f4t des tramways : la ligne 1 coup\u00e9e - Ouest-France",
-			"link": "https://news.google.com/rss/articles/CBMivAFodHRwczovL3d3dy5vdWVzdC1mcmFuY2UuZnIvcGF5cy1kZS1sYS1sb2lyZS9uYW50ZXMtNDQwMDAvcmVmb3JtZS1kZXMtcmV0cmFpdGVzLWEtbmFudGVzLWRlcy1vcHBvc2FudHMtYmxvcXVlbnQtbGUtZGVwb3QtZGVzLXRyYW13YXlzLWxhLWxpZ25lLTEtY291cGVlLWJmZDgzNzIyLWQ0M2ItMTFlZC04YjAwLTE3MjhhNzNmNGM4NdIBAA?oc=5",
-			"pubDate": "Thu, 06 Apr 2023 05:49:37 GMT",
-			"image": "https://picsum.photos/200/300?grayscale",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "",
-			"url": "",
-			"description": ""
-		},
-		{
-			"title": "C\u00f4tes-d\u2019Armor : Enqu\u00eate ouverte pour meurtre apr\u00e8s la disparition d\u2019un homme de 45 ans - 20 Minutes",
-			"link": "https://www.20minutes.fr/societe/4031585-20230406-cotes-armor-enquete-ouverte-meurtre-apres-disparition-homme-45-ans",
-			"pubDate": "Thu, 06 Apr 2023 16:06:54 GMT",
-			"image": "https://img.20mn.fr/OwSGXCr_Tw-gVaXDalgX2Ck/1200x768_les-recherches-se-poursuivent-avec-l-arrivee-de-nouveaux-gendarmes-en-tout-300-militaires-recherchent-la-joggeuse-disparue-patricia-bouchon-17-02-2011-bouloc",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "www.20minutes.fr",
-			"url": "https://www.20minutes.fr/societe/4031585-20230406-cotes-armor-enquete-ouverte-meurtre-apres-disparition-homme-45-ans",
-			"description": "Les gendarmes sont toujours \u00e0 la recherche de l\u2019homme, qui aurait pu \u00eatre enlev\u00e9 pour une dette de stup\u00e9fiants"
-		},
-		{
-			"title": "Retraites : Nicolas Dupont-Aignan estime qu\u2019il faut \u00abengager la destitution\u00bb d\u2019Emmanuel Macron - CNEWS",
-			"link": "https://www.cnews.fr/france/2023-04-06/retraites-nicolas-dupont-aignan-estime-quil-faut-engager-la-destitution-demmanuel",
-			"pubDate": "Thu, 06 Apr 2023 12:07:15 GMT",
-			"image": "https://static.cnews.fr/sites/default/files/000_327t9hr-taille1200_642e7ae52ab74_0.jpg",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "CNEWS",
-			"url": "https://www.cnews.fr/france/2023-04-06/retraites-nicolas-dupont-aignan-estime-quil-faut-engager-la-destitution-demmanuel",
-			"description": "Invit\u00e9 sur Europe 1 ce jeudi 6 avril, Nicolas Dupont-Aignan s\u2019est exprim\u00e9 sur la posture du gouvernement concernant la r\u00e9forme des retraites. Le d\u00e9put\u00e9 a ainsi qualifi\u00e9 le pr\u00e9sident de la R\u00e9publique Emmanuel Macron d\u2019homme \u00abdangereux\u00bb Nicolas Dupont-Aignan est toujours aussi remont\u00e9 contre Emmanuel Macron. Le d\u00e9put\u00e9 de l\u2019Essonne \u00e9tait l\u2019invit\u00e9 d\u2019Europe 1, dans la matin\u00e9e du jeudi 6 avril.\u00a0"
-		},
-		{
-			"title": "Loiret : Pr\u00e8s de quinze ans de prison requis contre le dentiste jug\u00e9 pour viols et agressions sexuelles sur\u2026 - 20 Minutes",
-			"link": "https://www.20minutes.fr/justice/4031598-20230406-loiret-pres-15-ans-prison-requis-contre-dentiste-juge-viols-agressions-sexuelles-patientes",
-			"pubDate": "Thu, 06 Apr 2023 18:19:03 GMT",
-			"image": "https://img.20mn.fr/1hNgqsjsT-qMUFPVOLrmACk/1200x768_brussels-27-11-2020illustration-of-a-dentist-and-patient-during-the-corona-virus-covid-19-pandemic-pix-credit-frederic-sierakowski-isopix-25750815-020-isopix-1-0718-2011272122-credit-isopix-sipa-2011272129",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "www.20minutes.fr",
-			"url": "https://www.20minutes.fr/justice/4031598-20230406-loiret-pres-15-ans-prison-requis-contre-dentiste-juge-viols-agressions-sexuelles-patientes",
-			"description": "Le Dr Schoener, \u00e2g\u00e9 de 61 ans, est accus\u00e9 d'avoir profit\u00e9 pour commettre des agressions sexuelles pouvant aller jusqu'au viol par p\u00e9n\u00e9tration digitale"
-		},
-		{
-			"title": "Paris : Des touristes factur\u00e9s \u00e0 2.000 euros par des taxis au d\u00e9part de Roissy - 20 Minutes",
-			"link": "https://www.20minutes.fr/paris/4031579-20230406-paris-touristes-factures-2-000-euros-taxis-depart-roissy",
-			"pubDate": "Thu, 06 Apr 2023 15:46:32 GMT",
-			"image": "https://img.20mn.fr/bKrg9ApYTniEuoVl9r_QOSk/1200x768_1-500-chauffeurs-de-taxi-a-taient-mobilis-a-s-le-26-janvier-d-a-s-la-t-maube-pour-protester-contre-la-concurrence-des-v-a-hicules-de-transport-avec-chauffeur-vtc-notamment-a-la-porte-maillot-16e-arrondissement-de-paris-et-aux-a-a-roports-da-tm-orly-et-de-roissy-la-pr-a-fecture-a-annonc-a-avoir-proc-a-d-a-a-vingt-interpellations-pour-a-violences-volontaires-port-da-t-marme-et-incendie-volontaire-a-dix-neuf-manifestants-ont-a-t-a-arr-a-t-a-s-a-la-porte-maillot-paris-france-1500-taxi-drivers-were-mobilized-january-26-at-dawn-to-protest-against-the-competition-of-transport-vehicles-with-driver-vtc-including-the-porte-maillot-16th-arrondissement-of-paris-and-orly-airports-and-roissy-the-prefecture-has-announced-having-made-twenty-arrests-for-voluntary-violence-firearms-and-arson-nineteen-protesters-were-arrested-at-the-porte-maillot-paris-france-photo-by-nicolas-messyasz-sipa-press-nicolasmessyasz-2016-01-26a-442a-credit-nicolas-messyasz-sipa-1612200008",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "www.20minutes.fr",
-			"url": "https://www.20minutes.fr/paris/4031579-20230406-paris-touristes-factures-2-000-euros-taxis-depart-roissy",
-			"description": "Depuis mi-janvier, une dizaine de personnes, principalement d\u2019origine asiatique, ont port\u00e9 plainte aupr\u00e8s de la police aux fronti\u00e8res"
-		},
-		{
-			"title": "Grenoble : un homme bless\u00e9 par balle apr\u00e8s avoir manqu\u00e9 de percuter un policier - Le Parisien",
-			"link": "https://www.leparisien.fr/faits-divers/grenoble-un-homme-blesse-par-balle-apres-avoir-manque-de-percuter-un-policier-06-04-2023-HXDJLDXYWBHTLLRFWDQAJV7HUU.php",
-			"pubDate": "Thu, 06 Apr 2023 05:41:00 GMT",
-			"image": "https://www.leparisien.fr/resizer/BZL2HnaYP_XPibQbs2heda05JuE=/1200x675/cloudfront-eu-central-1.images.arcpublishing.com/leparisien/3FU7INZY6ZG73D37MUCYNJAGMA.jpg",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "leparisien.fr",
-			"url": "https://www.leparisien.fr/faits-divers/grenoble-un-homme-blesse-par-balle-apres-avoir-manque-de-percuter-un-policier-06-04-2023-HXDJLDXYWBHTLLRFWDQAJV7HUU.php",
-			"description": "L\u2019homme a tent\u00e9 de se soustraire \u00e0 un contr\u00f4le de police et a manqu\u00e9 de renverser un fonctionnaire mercredi. Il a \u00e9t\u00e9 bless\u00e9 \u00e0 l\u2019aine mais s"
-		},
-		{
-			"title": "Pr\u00e9sidentielle 2027 : Marine Le Pen en t\u00eate au premier tour, selon un sondage - CNEWS",
-			"link": "https://www.cnews.fr/france/2023-04-06/presidentielle-2027-marine-le-pen-en-tete-au-premier-tour-selon-un-sondage-1341377",
-			"pubDate": "Thu, 06 Apr 2023 11:39:51 GMT",
-			"image": "https://static.cnews.fr/sites/default/files/0mlp-taille1200_642e8c45b0033_0.jpg",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "CNEWS",
-			"url": "https://www.cnews.fr/france/2023-04-06/presidentielle-2027-marine-le-pen-en-tete-au-premier-tour-selon-un-sondage-1341377",
-			"description": "Selon un sondage Ifop-Fiducial pour Le Figaro Magazine et Sud Radio, publi\u00e9 ce mercredi 5 avril, Marine Le Pen am\u00e9liorerait consid\u00e9rablement son score de 2022, si l\u2019\u00e9lection pr\u00e9sidentielle avait lieu dimanche prochain."
-		},
-		{
-			"title": "Lannion. R\u00e9forme des retraites : autour des quais, la mobilisation ne s'essouffle pas - Le Tr\u00e9gor",
-			"link": "https://news.google.com/rss/articles/CBMifWh0dHBzOi8vYWN0dS5mci9icmV0YWduZS9sYW5uaW9uXzIyMTEzL2xhbm5pb24tcmVmb3JtZS1kZXMtcmV0cmFpdGVzLWxhLWZvdWxlLWEtbm91dmVhdS1kZWZpbGUtYXV0b3VyLWRlcy1xdWFpc181ODczNTc5Mi5odG1s0gEA?oc=5",
-			"pubDate": "Thu, 06 Apr 2023 10:52:00 GMT",
-			"image": "https://picsum.photos/200/300?grayscale",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "",
-			"url": "",
-			"description": ""
-		},
-		{
-			"title": "Faux rendez-vous amoureux \u00e0 Grenoble : deux hommes mis en examen pour la mort d\u2019une victime - Le Parisien",
-			"link": "https://www.leparisien.fr/faits-divers/faux-rendez-vous-amoureux-a-grenoble-deux-hommes-mis-en-examen-pour-la-mort-dune-victime-06-04-2023-GB66XBO7BVAP5NA4CKEZU5SRNM.php",
-			"pubDate": "Thu, 06 Apr 2023 11:02:00 GMT",
-			"image": "https://www.leparisien.fr/resizer/CUocCQmzCGgMWGZllwyrGKvFOAk=/1200x675/cloudfront-eu-central-1.images.arcpublishing.com/leparisien/3JOVC3L5DVC47HVGCN2P7TLEQU.jpg",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "leparisien.fr",
-			"url": "https://www.leparisien.fr/faits-divers/faux-rendez-vous-amoureux-a-grenoble-deux-hommes-mis-en-examen-pour-la-mort-dune-victime-06-04-2023-GB66XBO7BVAP5NA4CKEZU5SRNM.php",
-			"description": "Deux majeurs suspect\u00e9s d\u2019avoir battu \u00e0 mort un quadrag\u00e9naire ont \u00e9t\u00e9 plac\u00e9s en d\u00e9tention provisoire. "
-		},
-		{
-			"title": "Vin nature, corbeau, voyages d'affaires\u2026 Le \u00abpunk de la Loire\u00bb S\u00e9bastien Riffault accus\u00e9 de violences sexuelles - Lib\u00e9ration",
-			"link": "https://news.google.com/rss/articles/CBMiwgFodHRwczovL3d3dy5saWJlcmF0aW9uLmZyL3NvY2lldGUvZHJvaXRzLWRlcy1mZW1tZXMvdmluLW5hdHVyZS1jb3JiZWF1LXZveWFnZXMtZGFmZmFpcmVzLWxlLXB1bmstZGUtbGEtbG9pcmUtc2ViYXN0aWVuLXJpZmZhdWx0LWFjY3VzZS1kZS12aW9sZW5jZXMtc2V4dWVsbGVzLTIwMjMwNDA2X1JaN0QyVU4zRzVDSVJONzdOUFJGQlRSNE9VL9IBAA?oc=5",
-			"pubDate": "Thu, 06 Apr 2023 04:45:00 GMT",
-			"image": "https://www.liberation.fr/resizer/T1SLYo-QGWRgHGnwakxJDedbZzk=/1200x630/filters:format(jpg):quality(70):focal(726x1355:736x1365)/cloudfront-eu-central-1.images.arcpublishing.com/liberation/BHH2RAY52RG7VOUDEXVV3WOF7Y.jpg",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "Lib\u00e9ration",
-			"url": "",
-			"description": ""
-		},
-		{
-			"title": "Lyon : le cycliste d\u00e9c\u00e9d\u00e9 dans un accident en Presqu'\u00eele \u00e9tait un livreur Deliveroo - Lyon Mag",
-			"link": "https://www.lyonmag.com/article/129400/lyon-le-cycliste-decede-dans-un-accident-en-presqu-ile-etait-un-livreur-deliveroo",
-			"pubDate": "Thu, 06 Apr 2023 04:22:00 GMT",
-			"image": "https://www.lyonmag.com/media/images/642e499751652-28387375269-20319968b3-o.jpg",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "Lyon Mag",
-			"url": "https://www.lyonmag.com/article/129400/lyon-le-cycliste-decede-dans-un-accident-en-presqu-ile-etait-un-livreur-deliveroo",
-			"description": "On en sait un peu plus apr&egrave;s le terrible drame qui s&rsquo;est jou&eacute; dans la nuit de mardi &agrave; mercredi en Presqu&rsquo;ile de Lyon."
-		},
-		{
-			"title": "EN IMAGES. R\u00e9forme des retraites. \u00c0 Saint-Nazaire, un face-\u00e0-face de trois heures apr\u00e8s la manif' - Ouest-France",
-			"link": "https://news.google.com/rss/articles/CBMisQFodHRwczovL3d3dy5vdWVzdC1mcmFuY2UuZnIvZWNvbm9taWUvcmV0cmFpdGVzL2VuLWltYWdlcy1yZWZvcm1lLWRlcy1yZXRyYWl0ZXMtYS1zYWludC1uYXphaXJlLXVuLWZhY2UtYS1mYWNlLWRlLXRyb2lzLWhldXJlcy1hcHJlcy1sYS1tYW5pZi01ZDQzZjY1MC1kNDc3LTExZWQtYjUwNy1jMWJlODk1MzMxYWbSAQA?oc=5",
-			"pubDate": "Thu, 06 Apr 2023 15:49:01 GMT",
-			"image": "https://picsum.photos/200/300?grayscale",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "",
-			"url": "",
-			"description": ""
-		},
-		{
 			"title": "R\u00e9forme des retraites: quel calendrier d'application en cas de validation du Conseil constitutionnel? - BFM Business",
 			"link": "https://www.bfmtv.com/economie/economie-social/social/reforme-des-retraites-quel-calendrier-d-application-en-cas-de-validation-du-conseil-constitutionnel_AV-202304060031.html",
 			"pubDate": "Thu, 06 Apr 2023 04:05:45 GMT",
@@ -609,26 +619,6 @@
 			"site_name": "BFM BUSINESS",
 			"url": "https://www.bfmtv.com/economie/economie-social/social/reforme-des-retraites-quel-calendrier-d-application-en-cas-de-validation-du-conseil-constitutionnel_AV-202304060031.html",
 			"description": "A une semaine de la d\u00e9cision du Conseil constitutionnelle, BFM Business revient sur le calendrier d'entr\u00e9e en vigueur des mesures de la r\u00e9forme des retraites en cas d'avis favorable de l'institution."
-		},
-		{
-			"title": "R\u00e9forme des retraites : la commune de Pont-l'\u00c9v\u00eaque se mobilise pour la 2e fois, une premi\u00e8re depuis 1968 - franceinfo",
-			"link": "https://www.francetvinfo.fr/economie/retraite/reforme-des-retraites/reforme-des-retraites-la-commune-de-pont-l-eveque-se-mobilise-pour-la-2e-fois-une-premiere-depuis-1968_5755853.html",
-			"pubDate": "Thu, 06 Apr 2023 11:32:40 GMT",
-			"image": "https://www.francetvinfo.fr/pictures/iHHUrB51WnwiSVKBe1a76c5L4t4/1500x843/2023/04/06/642ead9a188df_reforme-des-retraites-la-commune-de-pont-l-eveque-se-mobilise-pour-la-2e-fois-une-premiere-depuis-1968.jpg",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "Franceinfo",
-			"url": "https://www.francetvinfo.fr/economie/retraite/reforme-des-retraites/reforme-des-retraites-la-commune-de-pont-l-eveque-se-mobilise-pour-la-2e-fois-une-premiere-depuis-1968_5755853.html",
-			"description": "Jeudi 6 avril marque la 11e journ\u00e9e de mobilisation contre la r\u00e9forme des retraites.\u00a0Dans la petite commune de\u00a0Pont-l\u2019\u00c9v\u00eaque, dans le Calvados, les habitants manifestent pour la 2e fois depuis 1968."
-		},
-		{
-			"title": "Gr\u00e8ve du 6 avril. Revivez la 11e journ\u00e9e de mobilisation en Sarthe - actu.fr",
-			"link": "https://news.google.com/rss/articles/CBMigwFodHRwczovL2FjdHUuZnIvcGF5cy1kZS1sYS1sb2lyZS9sZS1tYW5zXzcyMTgxL2dyZXZlLWR1LTYtYXZyaWwtYmxvY2FnZXMtbWFuaWZlc3RhdGlvbnMtc3VpdmV6LWxhLXNpdHVhdGlvbi1lbi1zYXJ0aGVfNTg3MjExNTYuaHRtbNIBAA?oc=5",
-			"pubDate": "Thu, 06 Apr 2023 17:07:00 GMT",
-			"image": "https://picsum.photos/200/300?grayscale",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "",
-			"url": "",
-			"description": ""
 		},
 		{
 			"title": "Poitiers : des milliers de manifestants contre la r\u00e9forme des retraites ce jeudi 6 avril 2023 (direct) - La Nouvelle R\u00e9publique",
@@ -641,24 +631,54 @@
 			"description": ""
 		},
 		{
-			"title": "R\u00e9forme des retraites : mobilisation en baisse mais des tensions plus vives \u00e0 Chamb\u00e9ry et Albertville - France Bleu",
-			"link": "https://www.francebleu.fr/infos/societe/reforme-des-retraites-blocage-des-camions-poubelles-a-chambery-7181170",
-			"pubDate": "Thu, 06 Apr 2023 07:00:49 GMT",
-			"image": "https://www.francebleu.fr/s3/cruiser-production/2023/04/b1e4e41d-f407-41d0-853f-f2c5dd8005bf/1200x680_sc_whatsapp-image-2023-04-06-at-17-37-12.jpg",
+			"title": "Loiret : Pr\u00e8s de quinze ans de prison requis contre le dentiste jug\u00e9 pour viols et agressions sexuelles sur\u2026 - 20 Minutes",
+			"link": "https://www.20minutes.fr/justice/4031598-20230406-loiret-pres-15-ans-prison-requis-contre-dentiste-juge-viols-agressions-sexuelles-patientes",
+			"pubDate": "Thu, 06 Apr 2023 18:19:03 GMT",
+			"image": "https://img.20mn.fr/1hNgqsjsT-qMUFPVOLrmACk/1200x768_brussels-27-11-2020illustration-of-a-dentist-and-patient-during-the-corona-virus-covid-19-pandemic-pix-credit-frederic-sierakowski-isopix-25750815-020-isopix-1-0718-2011272122-credit-isopix-sipa-2011272129",
 			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "ici, par France Bleu et France 3",
-			"url": "https://www.francebleu.fr/infos/societe/reforme-des-retraites-blocage-des-camions-poubelles-a-chambery-7181170",
-			"description": "Ambiance tendue pour cette 11e journ\u00e9e d'actions contre la r\u00e9forme des retraites. Des heurts ont \u00e9clat\u00e9 \u00e0 Albertville, o\u00f9 les manifestants ont tent\u00e9 de s'introduire au PC Osiris. La tension \u00e9tait palpable \u00e9galement dans le centre-ville de Chamb\u00e9ry. "
+			"site_name": "www.20minutes.fr",
+			"url": "https://www.20minutes.fr/justice/4031598-20230406-loiret-pres-15-ans-prison-requis-contre-dentiste-juge-viols-agressions-sexuelles-patientes",
+			"description": "Le Dr Schoener, \u00e2g\u00e9 de 61 ans, est accus\u00e9 d'avoir profit\u00e9 pour commettre des agressions sexuelles pouvant aller jusqu'au viol par p\u00e9n\u00e9tration digitale"
 		},
 		{
-			"title": "Gr\u00e8ve du 6 avril \u00e0 Grenoble : 26 000 personnes selon les syndicats et 10 000 selon la police, revivez cette 11e journ\u00e9e de mobilisation contre la r\u00e9forme des retraites - France 3 R\u00e9gions",
-			"link": "https://france3-regions.francetvinfo.fr/auvergne-rhone-alpes/isere/grenoble/direct-greve-du-6-avril-a-grenoble-suivez-la-manifestation-contre-la-reforme-des-retraites-2748498.html",
-			"pubDate": "Thu, 06 Apr 2023 11:58:41 GMT",
-			"image": "https://france3-regions.francetvinfo.fr/image/SD05p5q5i_JvcqD4ezDlXtPtZOE/930x620/regions/2023/04/06/642ec6971f3f4_whatsapp-image-2023-04-06-at-15-12-52-1.jpeg",
+			"title": "Retraites : Nicolas Dupont-Aignan estime qu\u2019il faut \u00abengager la destitution\u00bb d\u2019Emmanuel Macron - CNEWS",
+			"link": "https://www.cnews.fr/france/2023-04-06/retraites-nicolas-dupont-aignan-estime-quil-faut-engager-la-destitution-demmanuel",
+			"pubDate": "Thu, 06 Apr 2023 12:07:15 GMT",
+			"image": "https://static.cnews.fr/sites/default/files/000_327t9hr-taille1200_642e7ae52ab74_0.jpg",
 			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "France 3 Auvergne-Rh\u00f4ne-Alpes",
-			"url": "https://france3-regions.francetvinfo.fr/auvergne-rhone-alpes/isere/grenoble/direct-greve-du-6-avril-a-grenoble-suivez-la-manifestation-contre-la-reforme-des-retraites-2748498.html",
-			"description": "Revivez cette 11\u00e8me journ\u00e9e de mobilisation \u00e0 Grenoble. La manifestation, qui s'est d\u00e9roul\u00e9e dans le calme, a rassembl\u00e9 pr\u00e8s de 26 000 personnes selon les syndicats et 10 000 selon la police. La jeunesse, lyc\u00e9ens et \u00e9tudiants,..."
+			"site_name": "CNEWS",
+			"url": "https://www.cnews.fr/france/2023-04-06/retraites-nicolas-dupont-aignan-estime-quil-faut-engager-la-destitution-demmanuel",
+			"description": "Invit\u00e9 sur Europe 1 ce jeudi 6 avril, Nicolas Dupont-Aignan s\u2019est exprim\u00e9 sur la posture du gouvernement concernant la r\u00e9forme des retraites. Le d\u00e9put\u00e9 a ainsi qualifi\u00e9 le pr\u00e9sident de la R\u00e9publique Emmanuel Macron d\u2019homme \u00abdangereux\u00bb Nicolas Dupont-Aignan est toujours aussi remont\u00e9 contre Emmanuel Macron. Le d\u00e9put\u00e9 de l\u2019Essonne \u00e9tait l\u2019invit\u00e9 d\u2019Europe 1, dans la matin\u00e9e du jeudi 6 avril.\u00a0"
+		},
+		{
+			"title": "Retraites: les s\u00e9nateurs de gauche demandent une censure totale au Conseil constitutionnel - BFMTV",
+			"link": "https://www.bfmtv.com/politique/parlement/retraites-les-senateurs-de-gauche-demandent-une-censure-totale-au-conseil-constitutionnel_AD-202304060683.html",
+			"pubDate": "Thu, 06 Apr 2023 17:36:00 GMT",
+			"image": "https://images.bfmtv.com/lbr9veuO34zmVK_dEtR86HkKQ58=/7x111:2039x1254/2032x0/images/Conseil-constitutionnel-1603570.jpg",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "BFMTV",
+			"url": "https://www.bfmtv.com/politique/parlement/retraites-les-senateurs-de-gauche-demandent-une-censure-totale-au-conseil-constitutionnel_AD-202304060683.html",
+			"description": "Les Sages ont re\u00e7u des s\u00e9nateurs de gauche ce jeudi qui leur ont demand\u00e9 une censure totale de la r\u00e9forme des retraites."
+		},
+		{
+			"title": "La popularit\u00e9 d'Emmanuel Macron et \u00c9lisabeth Borne chute fortement selon un sondage - BFMTV",
+			"link": "https://www.bfmtv.com/politique/elysee/la-popularite-d-emmanuel-macron-et-elisabeth-borne-chute-fortement-selon-un-sondage_AD-202304060538.html",
+			"pubDate": "Thu, 06 Apr 2023 15:20:00 GMT",
+			"image": "https://images.bfmtv.com/hssTzqKAOAaIgOnEp3lwRy69c6M=/0x0:2048x1152/2048x0/images/La-Premiere-ministre-Elisabeth-Borne-et-le-president-de-la-Republique-Emmanuel-Macron-le-18-juin-2022-a-Suresnes-Hauts-de-Seine-1434797.jpg",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "BFMTV",
+			"url": "https://www.bfmtv.com/politique/elysee/la-popularite-d-emmanuel-macron-et-elisabeth-borne-chute-fortement-selon-un-sondage_AD-202304060538.html",
+			"description": "La Premi\u00e8re ministre n'avait jusque-l\u00e0 jamais atteint ce niveau d'impopularit\u00e9 depuis son arriv\u00e9e \u00e0 Matignon, d'apr\u00e8s un sondage Elabe. Celle du pr\u00e9sident a chut\u00e9 de 7 points en un mois."
+		},
+		{
+			"title": "EN IMAGES. R\u00e9forme des retraites. \u00c0 Saint-Nazaire, un face-\u00e0-face de trois heures apr\u00e8s la manif' - Ouest-France",
+			"link": "https://news.google.com/rss/articles/CBMisQFodHRwczovL3d3dy5vdWVzdC1mcmFuY2UuZnIvZWNvbm9taWUvcmV0cmFpdGVzL2VuLWltYWdlcy1yZWZvcm1lLWRlcy1yZXRyYWl0ZXMtYS1zYWludC1uYXphaXJlLXVuLWZhY2UtYS1mYWNlLWRlLXRyb2lzLWhldXJlcy1hcHJlcy1sYS1tYW5pZi01ZDQzZjY1MC1kNDc3LTExZWQtYjUwNy1jMWJlODk1MzMxYWbSAQA?oc=5",
+			"pubDate": "Thu, 06 Apr 2023 15:49:01 GMT",
+			"image": "https://picsum.photos/200/300?grayscale",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "",
+			"url": "",
+			"description": ""
 		},
 		{
 			"title": "Manifestations du 6 avril contre la r\u00e9forme des retraites, en direct : le gouvernement \u00ab n'a pas r\u00e9ussi \u00e0 convaincre \u00bb les Fran\u00e7ais, reconna\u00eet Olivier V\u00e9ran - Le Monde",
@@ -671,15 +691,15 @@
 			"description": "Au moins 570\u00a0000 personnes ont particip\u00e9 \u00e0 des centaines de manifestations, jeudi, selon le minist\u00e8re de l\u2019int\u00e9rieur, la CGT comptant 2\u00a0millions de participants."
 		},
 		{
-			"title": "En direct - Gr\u00e8ve contre la r\u00e9forme des retraites : le cort\u00e8ge parisien s'est \u00e9lanc\u00e9 - CNEWS",
-			"link": "https://www.cnews.fr/france/2023-04-06/en-direct-greve-contre-la-reforme-des-retraites-154-blesses-parmi-les-forces-de",
-			"pubDate": "Thu, 06 Apr 2023 06:50:20 GMT",
-			"image": "https://static.cnews.fr/sites/default/files/2023-04-06t135447z_640532521_rc2190a2xb7h_rtrmadp_3_france-pensions-protests_1-taille1200_642eebfba1fe7.jpg",
+			"title": "Gr\u00e8ve du 6 avril \u00e0 Grenoble : 26 000 personnes selon les syndicats et 10 000 selon la police, revivez cette 11e journ\u00e9e de mobilisation contre la r\u00e9forme des retraites - France 3 R\u00e9gions",
+			"link": "https://france3-regions.francetvinfo.fr/auvergne-rhone-alpes/isere/grenoble/direct-greve-du-6-avril-a-grenoble-suivez-la-manifestation-contre-la-reforme-des-retraites-2748498.html",
+			"pubDate": "Thu, 06 Apr 2023 11:58:41 GMT",
+			"image": "https://france3-regions.francetvinfo.fr/image/SD05p5q5i_JvcqD4ezDlXtPtZOE/930x620/regions/2023/04/06/642ec6971f3f4_whatsapp-image-2023-04-06-at-15-12-52-1.jpeg",
 			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "CNEWS",
-			"url": "https://www.cnews.fr/france/2023-04-06/en-direct-greve-contre-la-reforme-des-retraites-154-blesses-parmi-les-forces-de",
-			"description": ""
+			"site_name": "France 3 Auvergne-Rh\u00f4ne-Alpes",
+			"url": "https://france3-regions.francetvinfo.fr/auvergne-rhone-alpes/isere/grenoble/direct-greve-du-6-avril-a-grenoble-suivez-la-manifestation-contre-la-reforme-des-retraites-2748498.html",
+			"description": "Revivez cette 11\u00e8me journ\u00e9e de mobilisation \u00e0 Grenoble. La manifestation, qui s'est d\u00e9roul\u00e9e dans le calme, a rassembl\u00e9 pr\u00e8s de 26 000 personnes selon les syndicats et 10 000 selon la police. La jeunesse, lyc\u00e9ens et \u00e9tudiants,..."
 		}
 	],
-	"timestamp": "2023-04-07 04:18:07.741410"
+	"timestamp": "2023-04-07 08:18:06.209529"
 }
