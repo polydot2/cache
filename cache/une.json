@@ -1,39 +1,79 @@
 {
 	"content": [
 		{
-			"title": "Guerre en Ukraine, en direct : Volodymyr Zelensky, en visite en Gr\u00e8ce, poursuit sa tourn\u00e9e surprise en Europe - Le Monde",
-			"link": "https://www.lemonde.fr/international/live/2023/08/21/guerre-en-ukraine-en-direct-la-russie-va-perdre-cette-guerre-estime-volodymyr-zelensky_6186036_3210.html",
-			"pubDate": "Mon, 21 Aug 2023 15:22:30 GMT",
-			"image": "https://img.lemde.fr/2023/08/21/676/0/8458/4229/1440/720/60/0/36b8f14_507cfc7521a14b80a02398ee826b861a-0-9c46d8d622234becb83dc418b7b7b832.jpg",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "Le Monde.fr",
-			"url": "https://www.lemonde.fr/international/live/2023/08/21/guerre-en-ukraine-en-direct-la-russie-va-perdre-cette-guerre-estime-volodymyr-zelensky_6186036_3210.html",
-			"description": "Le pr\u00e9sident ukrainien \u00e9tait ce week-end en Su\u00e8de, aux Pays-Bas puis au Danemark. Il participera \u00e0 un d\u00eener informel avec des dirigeants des Balkans auquel doivent participer la pr\u00e9sidente de la Commission europ\u00e9enne, Ursula von der Leyen, et le pr\u00e9sident du Conseil europ\u00e9en, Charles Michel."
-		},
-		{
-			"title": "Arabie saoudite : Les gardes-fronti\u00e8res accus\u00e9s d\u2019avoir tu\u00e9 des centaines de migrants \u00e9thiopiens - 20 Minutes",
-			"link": "https://www.20minutes.fr/monde/4049623-20230821-arabie-saoudite-gardes-frontieres-accuses-avoir-tue-centaines-migrants-ethiopiens",
-			"pubDate": "Mon, 21 Aug 2023 12:42:31 GMT",
-			"image": "https://img.20mn.fr/kU8jGTOXQ8eXE1ZFByobvCk/1200x768_saudi-border-guards-stand-guard-in-the-closed-al-tuwal-border-crossing-with-yemen-in-the-southern-jizan-province-on-october-3-2017-in-march-2015-a-military-coalition-led-by-saudi-arabia-launched-an-air-campaign-against-shiite-huthi-rebels-and-their-allies-in-yemen-in-support-of-president-abedrabbo-mansour-hadi-photo-by-fayez-nureldine-afp",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "www.20minutes.fr",
-			"url": "https://www.20minutes.fr/monde/4049623-20230821-arabie-saoudite-gardes-frontieres-accuses-avoir-tue-centaines-migrants-ethiopiens",
-			"description": "L'ONG Human Rights Watch a publi\u00e9 un rapport de 73 pages en s'appuyant sur des t\u00e9moignages de rescap\u00e9s"
-		},
-		{
-			"title": "EN IMAGES. Au Canada, les incendies laissent sur leur passage des paysages d\u00e9vast\u00e9s - franceinfo",
-			"link": "https://www.francetvinfo.fr/diaporama/en-images-au-canada-les-incendies-laissent-sur-leur-passage-des-paysages-devastes_6017537.html",
-			"pubDate": "Mon, 21 Aug 2023 09:57:38 GMT",
-			"image": "https://www.francetvinfo.fr/pictures/W-QWmFeQ40--R2tM35Ezy42H298/1500x843/2023/08/21/64e308bb29c43_000-33ry7l9.jpg",
+			"title": "DIRECT. Guerre en Ukraine : la Gr\u00e8ce propose de former des pilotes ukrainiens aux F-16, selon Volodymyr Zelensky - franceinfo",
+			"link": "https://www.francetvinfo.fr/monde/europe/manifestations-en-ukraine/direct-guerre-en-ukraine-le-president-zelensky-se-felicite-de-la-livraison-promise-de-61-avions-f-16_6017441.html",
+			"pubDate": "Mon, 21 Aug 2023 19:14:04 GMT",
+			"image": "https://www.francetvinfo.fr/pictures/LYnl1lgqLWfur0JUwatH3u_gr1s/1500x843/2023/08/21/64e3a68172c1d_000-33rx7zk.jpg",
 			"logo": "https://picsum.photos/32/32?grayscale",
 			"site_name": "Franceinfo",
-			"url": "https://www.francetvinfo.fr/diaporama/en-images-au-canada-les-incendies-laissent-sur-leur-passage-des-paysages-devastes_6017537.html",
-			"description": "Des feux extr\u00eames ravagent plusieurs r\u00e9gions du Canada, poussant de tr\u00e8s nombreux habitants \u00e0 \u00e9vacuer. Apr\u00e8s le passage des flammes, certains ne retrouvent que des ruines."
+			"url": "https://www.francetvinfo.fr/monde/europe/manifestations-en-ukraine/direct-guerre-en-ukraine-le-president-zelensky-se-felicite-de-la-livraison-promise-de-61-avions-f-16_6017441.html",
+			"description": "Volodymyr Zelensky poursuit lundi sa tourn\u00e9e surprise en Europe. Le pr\u00e9sident ukrainien participera \u00e0 un d\u00eener informel avec des dirigeants europ\u00e9ens et des Balkans."
 		},
 		{
-			"title": "Revue de presse Afrique - \u00c0 la Une: manifestations en soutien aux putschistes du Niger - RFI",
-			"link": "https://news.google.com/rss/articles/CBMigAFodHRwczovL3d3dy5yZmkuZnIvZnIvcG9kY2FzdHMvcmV2dWUtZGUtcHJlc3NlLWFmcmlxdWUvMjAyMzA4MjEtJUMzJUEwLWxhLXVuZS1tYW5pZmVzdGF0aW9ucy1lbi1zb3V0aWVuLWF1eC1wdXRzY2hpc3Rlcy1kdS1uaWdlctIBgAFodHRwczovL2FtcC5yZmkuZnIvZnIvcG9kY2FzdHMvcmV2dWUtZGUtcHJlc3NlLWFmcmlxdWUvMjAyMzA4MjEtJUMzJUEwLWxhLXVuZS1tYW5pZmVzdGF0aW9ucy1lbi1zb3V0aWVuLWF1eC1wdXRzY2hpc3Rlcy1kdS1uaWdlcg?oc=5",
-			"pubDate": "Mon, 21 Aug 2023 09:09:36 GMT",
+			"title": "L'Arabie Saoudite accus\u00e9e d'avoir tu\u00e9 des centaines de migrants \u00e0 sa fronti\u00e8re, Washington demande une... - BFMTV",
+			"link": "https://www.bfmtv.com/international/moyen-orient/l-arabie-saoudite-accusee-d-avoir-tue-des-centaines-de-migrants-a-sa-frontiere-washington-demande-une-enquete_AD-202308210606.html",
+			"pubDate": "Mon, 21 Aug 2023 17:18:00 GMT",
+			"image": "https://images.bfmtv.com/XkG9BelCA4Vwb-LFJBxVnE-3VAU=/0x216:1952x1314/1952x0/images/Drapeau-saoudien-1642067.jpg",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "BFMTV",
+			"url": "https://www.bfmtv.com/international/moyen-orient/l-arabie-saoudite-accusee-d-avoir-tue-des-centaines-de-migrants-a-sa-frontiere-washington-demande-une-enquete_AD-202308210606.html",
+			"description": "Dans un rapport, que l'ONU juge \"tr\u00e8s inqui\u00e9tant\" l'organisation Human Rights Watch accuse les gardes-fronti\u00e8res saoudiens d'avoir tu\u00e9 des migrants \u00e9thiopiens entre mars 2022 et juin 2023."
+		},
+		{
+			"title": "Amazonie : les Equatoriens approuvent l'arr\u00eat d'un gisement p\u00e9trolier embl\u00e9matique dans la r\u00e9serve de Yasuni - franceinfo",
+			"link": "https://www.francetvinfo.fr/monde/ameriques/amazonie-les-equatoriens-approuvent-l-arret-d-un-gisement-petrolier-emblematique-dans-la-reserve-de-yasuni_6018326.html",
+			"pubDate": "Mon, 21 Aug 2023 18:46:16 GMT",
+			"image": "https://www.francetvinfo.fr/pictures/ojq8fgac4Q22HLcnrYjHWwvUie0/1500x843/2023/08/21/64e3afe4c809b_000-33ku286.jpg",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "Franceinfo",
+			"url": "https://www.francetvinfo.fr/monde/ameriques/amazonie-les-equatoriens-approuvent-l-arret-d-un-gisement-petrolier-emblematique-dans-la-reserve-de-yasuni_6018326.html",
+			"description": "Quito s'opposait \u00e0 la consultation de la population sur cette question primordiale pour le pays tr\u00e8s d\u00e9pendant de l'exploitation du p\u00e9trole."
+		},
+		{
+			"title": "Niger : la Cedeao juge le plan de transition de la junte inacceptable - Le Monde",
+			"link": "https://www.lemonde.fr/afrique/article/2023/08/21/niger-la-cedeao-juge-le-plan-de-transition-de-la-junte-inacceptable_6186114_3212.html",
+			"pubDate": "Mon, 21 Aug 2023 17:26:04 GMT",
+			"image": "https://img.lemde.fr/2023/08/21/3/0/4240/2826/1440/960/60/0/d98eb67_4589332570c34ab2a5a5110f46c89894-0-0a64f3e3978447fcad2693b459ea7015.jpg",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "Le Monde.fr",
+			"url": "https://www.lemonde.fr/afrique/article/2023/08/21/niger-la-cedeao-juge-le-plan-de-transition-de-la-junte-inacceptable_6186114_3212.html",
+			"description": "Le g\u00e9n\u00e9ral Abdourahamane Tiani, chef des putschistes, a propos\u00e9 samedi une transition de \u00ab\u00a0trois ans\u00a0\u00bb maximum avant de rendre le pouvoir aux civils."
+		},
+		{
+			"title": "Pr\u00e9sidentielle au Gabon : la principale coalition de l'opposition appelle \u00e0 ignorer les l\u00e9gislatives - Le Monde",
+			"link": "https://www.lemonde.fr/afrique/article/2023/08/21/presidentielle-au-gabon-la-principale-coalition-de-l-opposition-appelle-a-ignorer-les-legislatives_6186048_3212.html",
+			"pubDate": "Mon, 21 Aug 2023 07:36:26 GMT",
+			"image": "https://img.lemde.fr/2023/08/21/0/0/1858/1238/1440/960/60/0/58e1692_1692603252024-000-33rk6xe.jpg",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "Le Monde.fr",
+			"url": "https://www.lemonde.fr/afrique/article/2023/08/21/presidentielle-au-gabon-la-principale-coalition-de-l-opposition-appelle-a-ignorer-les-legislatives_6186048_3212.html",
+			"description": "Treize candidats se r\u00e9clamant de l\u2019opposition se pr\u00e9senteront face au pr\u00e9sident sortant Ali Bongo Ondimba le 26\u00a0ao\u00fbt, lors d\u2019un scrutin \u00e0 un seul tour."
+		},
+		{
+			"title": "Canada : des dizaines de milliers d'habitants pri\u00e9s de fuir les feux de for\u00eat \"extr\u00eames\" - FRANCE 24",
+			"link": "https://www.youtube.com/watch?v=nqiv6KJC37E",
+			"pubDate": "Mon, 21 Aug 2023 15:02:33 GMT",
+			"image": "https://i.ytimg.com/vi/nqiv6KJC37E/maxresdefault.jpg",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "YouTube",
+			"url": "https://www.youtube.com/watch?v=nqiv6KJC37E",
+			"description": "Les feux qui ravagent le Canada ont encore gagn\u00e9 du terrain dans l'ouest du pays o\u00f9 deux larges incendies ont fusionn\u00e9 tandis que des milliers d'habitants pa..."
+		},
+		{
+			"title": "Chypre : \u00ab Les Casques bleus ont port\u00e9 atteinte \u00e0 leur impartialit\u00e9 \u00bb, estime Erdogan - 20 Minutes",
+			"link": "https://www.20minutes.fr/monde/4049677-20230821-chypre-casques-bleus-porte-atteinte-impartialite-estime-erdogan",
+			"pubDate": "Mon, 21 Aug 2023 18:09:31 GMT",
+			"image": "https://img.20mn.fr/VjBvkWC1ShiglRXN8YdPHik/1200x768_turkish-president-recep-tayyip-erdogan-c-and-members-of-the-supreme-military-council-visit-anitkabir-founder-of-republic-of-turkiye-mustafa-kemal-ataturk-s-mausoleum-during-an-official-ceremony-in-ankara-turkey-on-august-3-2023-photo-by-adem-altan-afp",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "www.20minutes.fr",
+			"url": "https://www.20minutes.fr/monde/4049677-20230821-chypre-casques-bleus-porte-atteinte-impartialite-estime-erdogan",
+			"description": "L'ONU a accus\u00e9 vendredi des forces chypriotes-turques de s'en \u00eatre pris physiquement aux Casques bleus qui tentaient de bloquer la construction d'une route controvers\u00e9e"
+		},
+		{
+			"title": "Royaume-Uni: perp\u00e9tuit\u00e9 incompressible pour une infirmi\u00e8re anglaise tueuse de nouveau-n\u00e9s - RFI",
+			"link": "https://news.google.com/rss/articles/CBMikwFodHRwczovL3d3dy5yZmkuZnIvZnIvZW4tYnJlZi8yMDIzMDgyMS1yb3lhdW1lLXVuaS1wZXJwJUMzJUE5dHVpdCVDMyVBOS1pbmNvbXByZXNzaWJsZS1wb3VyLXVuZS1pbmZpcm1pJUMzJUE4cmUtYW5nbGFpc2UtdHVldXNlLWRlLW5vdXZlYXUtbiVDMyVBOXPSAQA?oc=5",
+			"pubDate": "Mon, 21 Aug 2023 12:38:56 GMT",
 			"image": "https://picsum.photos/200/300?grayscale",
 			"logo": "https://picsum.photos/32/32?grayscale",
 			"site_name": "",
@@ -41,74 +81,44 @@
 			"description": ""
 		},
 		{
-			"title": "Gr\u00e8ce: de nouveaux incendies font un mort et huit bless\u00e9s - Le Figaro",
-			"link": "https://www.lefigaro.fr/international/grece-de-nouveaux-feux-font-un-mort-et-huit-blesses-20230821",
-			"pubDate": "Mon, 21 Aug 2023 10:58:00 GMT",
-			"image": "https://i.f1g.fr/media/cms/1200x630_crop/2023/08/21/747af83ade7dc3aa4102b82d5776316187bd432591e184dcbc2567372c643167.jpg",
+			"title": "Mali : des djihadistes imposent un blocus \u00e0 Tombouctou - Le Figaro",
+			"link": "https://www.lefigaro.fr/international/mali-des-djihadistes-imposent-un-blocus-a-tombouctou-20230821",
+			"pubDate": "Mon, 21 Aug 2023 18:50:27 GMT",
+			"image": "https://i.f1g.fr/media/cms/1200x630_crop/2023/08/21/e51903d13a5fce805c655c12e47f69c5ac56e14dcf0826a04d47d868345d6e96.jpg",
 			"logo": "https://picsum.photos/32/32?grayscale",
 			"site_name": "LEFIGARO",
-			"url": "https://www.lefigaro.fr/international/grece-de-nouveaux-feux-font-un-mort-et-huit-blesses-20230821",
-			"description": "Un homme a \u00e9t\u00e9 retrouv\u00e9 mort dans les feux de for\u00eat dans la r\u00e9gion de B\u00e9otie, un autre incendie s'est d\u00e9clar\u00e9 sur l'\u00eele d'Eviam, huit personnes ont \u00e9t\u00e9 hospitalis\u00e9es."
+			"url": "https://www.lefigaro.fr/international/mali-des-djihadistes-imposent-un-blocus-a-tombouctou-20230821",
+			"description": "Dans le nord du Mali, plus rien n\u2019atteint la ville et le prix des produits augmente. Des groupes arm\u00e9s menacent les camions qui enfreindraient l\u2019ordre de ne pas passer."
 		},
 		{
-			"title": "L'infirmi\u00e8re anglaise tueuse de nouveau-n\u00e9s condamn\u00e9e \u00e0 la perp\u00e9tuit\u00e9 incompressible - FRANCE 24",
-			"link": "https://news.google.com/rss/articles/CBMingFodHRwczovL3d3dy5mcmFuY2UyNC5jb20vZnIvZXVyb3BlLzIwMjMwODIxLWwtaW5maXJtaSVDMyVBOHJlLWFuZ2xhaXNlLXR1ZXVzZS1kZS1ub3V2ZWF1LW4lQzMlQTlzLWNvbmRhbW4lQzMlQTllLSVDMyVBMC1sYS1wZXJwJUMzJUE5dHVpdCVDMyVBOS1pbmNvbXByZXNzaWJsZdIBngFodHRwczovL2FtcC5mcmFuY2UyNC5jb20vZnIvZXVyb3BlLzIwMjMwODIxLWwtaW5maXJtaSVDMyVBOHJlLWFuZ2xhaXNlLXR1ZXVzZS1kZS1ub3V2ZWF1LW4lQzMlQTlzLWNvbmRhbW4lQzMlQTllLSVDMyVBMC1sYS1wZXJwJUMzJUE5dHVpdCVDMyVBOS1pbmNvbXByZXNzaWJsZQ?oc=5",
-			"pubDate": "Mon, 21 Aug 2023 13:48:46 GMT",
-			"image": "https://picsum.photos/200/300?grayscale",
+			"title": "VID\u00c9O - Les d\u00e9g\u00e2ts de la temp\u00eate tropicale Hilary en Californie et au Mexique - TF1 INFO",
+			"link": "https://www.tf1info.fr/international/video-les-degats-de-la-tempete-hilary-en-californie-et-au-mexique-2267223.html",
+			"pubDate": "Mon, 21 Aug 2023 13:47:41 GMT",
+			"image": "https://photos.tf1info.fr/images/1280/720/jt13h-tempete-hilary-4c1d34-0@1x.jpeg",
 			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "",
-			"url": "",
-			"description": ""
+			"site_name": "TF1 INFO",
+			"url": "https://www.tf1info.fr/international/video-les-degats-de-la-tempete-hilary-en-californie-et-au-mexique-2267223.html",
+			"description": "[VID\u00c9O] - La temp\u00eate tropicale Hilary frappe Le Mexique et l'ouest des \u00c9tats-Unis. \nElle s'accompagne de vents violents et de pluies diluviennes.\nM\u00eame la Vall\u00e9e de la Mort se retrouve sous les eaux."
 		},
 		{
-			"title": "En Californie, la temp\u00eate tropicale Hilary apporte des pluies diluviennes - Le Monde",
-			"link": "https://www.lemonde.fr/international/article/2023/08/21/en-californie-la-tempete-tropicale-hilary-apporte-des-pluies-diluviennes_6186102_3210.html",
-			"pubDate": "Mon, 21 Aug 2023 15:13:52 GMT",
-			"image": "https://img.lemde.fr/2023/08/21/0/300/3240/2160/1440/960/60/0/41a4df3_2023-08-21t082048z-567942508-rc27s2a6nd9p-rtrmadp-3-storm-hilary.JPG",
+			"title": "\u00c0 Tenerife, l'espoir d'une stabilisation de l'incendie \"dans les prochains jours\" - BFMTV",
+			"link": "https://www.bfmtv.com/international/europe/espagne/a-tenerife-l-espoir-d-une-stabilisation-de-l-incendie-dans-les-prochains-jours_AV-202308210427.html",
+			"pubDate": "Mon, 21 Aug 2023 13:56:32 GMT",
+			"image": "https://images.bfmtv.com/2atZb2R_mFeaDcQb3oF6c6ow0kU=/0x21:1008x588/1008x0/images/Des-colonnes-de-fumee-a-proximite-du-village-de-Guimar-sur-l-ile-de-Tenerife-touchee-par-un-grave-incendie-le-17-aout-2023-1690726.jpg",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "BFMTV",
+			"url": "https://www.bfmtv.com/international/europe/espagne/a-tenerife-l-espoir-d-une-stabilisation-de-l-incendie-dans-les-prochains-jours_AV-202308210427.html",
+			"description": "Si l'incendie a d\u00e9j\u00e0 ravag\u00e9 pr\u00e8s de 7% de la surface de l'\u00eele de Tenerife, l'\u00e9volution du feu est favorable. Des fum\u00e9es toxiques ont aussi d\u00e9t\u00e9rior\u00e9 la qualit\u00e9 de l'air dans plusieurs municipalit\u00e9s."
+		},
+		{
+			"title": "En Equateur, l'h\u00e9riti\u00e8re de Rafael Correa arrive en t\u00eate de l'\u00e9lection pr\u00e9sidentielle - Le Monde",
+			"link": "https://www.lemonde.fr/international/article/2023/08/21/en-equateur-l-heritiere-de-rafael-correa-arrive-en-tete-de-l-election-presidentielle_6186080_3210.html",
+			"pubDate": "Mon, 21 Aug 2023 12:43:01 GMT",
+			"image": "https://img.lemde.fr/2023/08/21/0/70/3360/2240/1440/960/60/0/babe32d_1692629783562-259595.jpg",
 			"logo": "https://picsum.photos/32/32?grayscale",
 			"site_name": "Le Monde.fr",
-			"url": "https://www.lemonde.fr/international/article/2023/08/21/en-californie-la-tempete-tropicale-hilary-apporte-des-pluies-diluviennes_6186102_3210.html",
-			"description": "Hilary, d\u00e9sormais consid\u00e9r\u00e9e comme un cyclone post-tropical, a perdu en puissance, mais de fortes pluies et de violentes bourrasques sont toujours attendues."
-		},
-		{
-			"title": "Niger : la promesse d'une transition en trois ans est \"inacceptable\", estime la C\u00e9d\u00e9ao - franceinfo",
-			"link": "https://www.francetvinfo.fr/monde/afrique/niger/niger-la-promesse-d-une-transition-en-3-ans-est-inacceptable-estime-la-cedeao_6017909.html",
-			"pubDate": "Mon, 21 Aug 2023 13:55:34 GMT",
-			"image": "https://www.francetvinfo.fr/pictures/gau8mQmrn-oK2ggJ7aWT7jnf0W8/1500x843/2023/08/21/64e36a93e0aba_000-33rk43e.jpg",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "Franceinfo",
-			"url": "https://www.francetvinfo.fr/monde/afrique/niger/niger-la-promesse-d-une-transition-en-3-ans-est-inacceptable-estime-la-cedeao_6017909.html",
-			"description": "Malgr\u00e9 plusieurs tentatives de m\u00e9diations, la sortie de crise semble encore lointaine pour la r\u00e9gion. La Cedeao menace le Niger d'utiliser la force pour r\u00e9tablir Mohamed Bazoum \u00e0 la t\u00eate du pays, sans pr\u00e9ciser la date d'une possible op\u00e9ration."
-		},
-		{
-			"title": "Pr\u00e9sidentielle en Equateur : La socialiste Luisa Gonzalez en t\u00eate du premier tour - 20 Minutes",
-			"link": "https://www.20minutes.fr/monde/4049570-20230821-equateur-socialiste-luisa-gonzalez-tete-premier-tour-presidentielle",
-			"pubDate": "Mon, 21 Aug 2023 05:30:27 GMT",
-			"image": "https://img.20mn.fr/7j8I3wGDQSCVbEAsPmr9ACk/1200x768_presidential-candidate-luisa-gonzalez-of-the-citizen-s-revolution-political-movement-celebrates-after-early-results-show-her-ahead-in-a-snap-election-in-quito-ecuador-sunday-aug-20-2023-the-election-was-called-after-president-guillermo-lasso-dissolved-the-national-assembly-by-decree-in-may-to-avoid-being-impeached-ap-photo-dolores-ochoa-tsx137-23233071852988-2308210404",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "www.20minutes.fr",
-			"url": "https://www.20minutes.fr/monde/4049570-20230821-equateur-socialiste-luisa-gonzalez-tete-premier-tour-presidentielle",
-			"description": "La dauphine de l'ex-pr\u00e9sident Rafael Correa, actuellement en exil, affrontera Daniel Noboa, candidat de droite et challenger inattendu de cette pr\u00e9sidentielle anticip\u00e9e"
-		},
-		{
-			"title": "Au Guatemala, le candidat surprise Bernardo Arevalo remporte l'\u00e9lection pr\u00e9sidentielle - Ouest-France",
-			"link": "https://news.google.com/rss/articles/CBMilwFodHRwczovL3d3dy5vdWVzdC1mcmFuY2UuZnIvbW9uZGUvZ3VhdGVtYWxhL2d1YXRlbWFsYS1sZS1mYXZvcmktYmVybmFyZG8tYXJldmFsby1yZW1wb3J0ZS1sZWxlY3Rpb24tcHJlc2lkZW50aWVsbGUtYzJlY2FmMjYtMWMwNi00N2E1LWEwOWItNzhjNWI2NDIxMmVi0gEA?oc=5",
-			"pubDate": "Mon, 21 Aug 2023 02:50:02 GMT",
-			"image": "https://picsum.photos/200/300?grayscale",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "",
-			"url": "",
-			"description": ""
-		},
-		{
-			"title": "Maroc : la vie tr\u00e8s discr\u00e8te de l'\u00e9nigmatique Mohammed VI - Lib\u00e9ration",
-			"link": "https://news.google.com/rss/articles/CBMiiAFodHRwczovL3d3dy5saWJlcmF0aW9uLmZyL2ludGVybmF0aW9uYWwvYWZyaXF1ZS9tYXJvYy1sZW5pZ21hdGlxdWUtdmllLXRyZXMtZGlzY3JldGUtZGUtbW9oYW1tZWQtdmktMjAyMzA4MjFfSERLWURaM1VVWkM2QkZRUFhWN1dCMlo0U00v0gEA?oc=5",
-			"pubDate": "Mon, 21 Aug 2023 05:57:47 GMT",
-			"image": "https://www.liberation.fr/resizer/-lzCnGtfahlpOoXVll_940UaQoU=/1200x630/filters:format(jpg):quality(70):focal(2197x832:2207x842)/cloudfront-eu-central-1.images.arcpublishing.com/liberation/PPQG55TRKREQXCYNUWF3U5JQ4E.jpg",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "Lib\u00e9ration",
-			"url": "",
-			"description": ""
+			"url": "https://www.lemonde.fr/international/article/2023/08/21/en-equateur-l-heritiere-de-rafael-correa-arrive-en-tete-de-l-election-presidentielle_6186080_3210.html",
+			"description": "Alors que la campagne a \u00e9t\u00e9 ensanglant\u00e9e par l\u2019assassinat d\u2019un candidat, le fils d\u2019un millionnaire, magnat de la banane, arrive en deuxi\u00e8me position et participera au second tour, le 15\u00a0octobre."
 		},
 		{
 			"title": "Sommet des Brics : l'Afrique du Sud refuse \u00ab une comp\u00e9tition entre puissances mondiales \u00bb - Le Monde",
@@ -121,6 +131,26 @@
 			"description": "Les cinq pays \u00e9mergents se r\u00e9unissent \u00e0 Johannesburg dans un contexte de non-alignement et de tensions internationales attis\u00e9es par la guerre en Ukraine."
 		},
 		{
+			"title": "Un bombardier russe Tu-22 \"Backfire\" d\u00e9truit lors de l'attaque de la base de Soltsy-2 par un drone ukrainien? - Zone Militaire",
+			"link": "https://www.opex360.com/2023/08/21/un-bombardier-russe-tu-22-backfire-detruit-lors-de-lattaque-de-la-base-de-soltsy-2-par-un-drone-ukrainien/",
+			"pubDate": "Mon, 21 Aug 2023 15:43:57 GMT",
+			"image": "https://www.opex360.com/wp-content/uploads/tu22-20200511.jpg",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "Zone Militaire",
+			"url": "https://www.opex360.com/2023/08/21/un-bombardier-russe-tu-22-backfire-detruit-lors-de-lattaque-de-la-base-de-soltsy-2-par-un-drone-ukrainien/",
+			"description": "Ce 21 ao\u00fbt, le minist\u00e8re russe de la D\u00e9fense a affirm\u00e9 avoir mis en \u00e9chec plusieurs attaques de drones ukrainiens ayant vis\u00e9 les environs de Moscou. Un"
+		},
+		{
+			"title": "Apprendre \u00e0 piloter un drone de combat: la nouvelle formation propos\u00e9e par les lyc\u00e9es russes - Le Temps",
+			"link": "https://news.google.com/rss/articles/CBMicmh0dHBzOi8vd3d3LmxldGVtcHMuY2gvbW9uZGUvbGVzLWYtMTYtaW5zdWZmbGVyb250LXVuZS1tb3RpdmF0aW9uLW5vdXZlbGxlLWF1eC11a3JhaW5pZW5zLXNlbG9uLXZvbG9keW15ci16ZWxlbnNredIBAA?oc=5",
+			"pubDate": "Mon, 21 Aug 2023 16:55:18 GMT",
+			"image": "https://letemps-17455.kxcdn.com/photos/ee611958-7981-4134-9b27-29ee56939dfd/medium",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "",
+			"url": "",
+			"description": ""
+		},
+		{
 			"title": "M\u00c9T\u00c9O. Il a fait 0\u00b0 \u00e0 5.298 m \u00e0 Payerne en Suisse, la canicule y fait tomber le record de l'isotherme - France 3 R\u00e9gions",
 			"link": "https://france3-regions.francetvinfo.fr/bourgogne-franche-comte/doubs/meteo-il-a-fait-0-a-5-298-m-a-payerne-en-suisse-la-canicule-y-fait-tomber-le-record-de-l-isotherme-2827535.html",
 			"pubDate": "Mon, 21 Aug 2023 09:40:05 GMT",
@@ -131,54 +161,14 @@
 			"description": "\u00c0 Payerne dans le canton de Vaud en Suisse, l\u2019isotherme du z\u00e9ro\u2009\u00b0C a atteint 5.298 m, la nuit du 20 au 21 ao\u00fbt 2023. Un record absolu, qui fait chaud dans le dos."
 		},
 		{
-			"title": "\u00c9tats-Unis: inculp\u00e9 en G\u00e9orgie, Donald Trump confirme son absence du premier d\u00e9bat des primaires r\u00e9publicaines - RFI",
-			"link": "https://news.google.com/rss/articles/CBMirAFodHRwczovL3d3dy5yZmkuZnIvZnIvYW0lQzMlQTlyaXF1ZXMvMjAyMzA4MjEtJUMzJUE5dGF0cy11bmlzLWluY3VscCVDMyVBOS1lbi1nJUMzJUE5b3JnaWUtdHJ1bXAtY29uZmlybWUtc29uLWFic2VuY2UtZHUtcHJlbWllci1kJUMzJUE5YmF0LWRlcy1wcmltYWlyZXMtciVDMyVBOXB1YmxpY2FpbmVz0gGsAWh0dHBzOi8vYW1wLnJmaS5mci9mci9hbSVDMyVBOXJpcXVlcy8yMDIzMDgyMS0lQzMlQTl0YXRzLXVuaXMtaW5jdWxwJUMzJUE5LWVuLWclQzMlQTlvcmdpZS10cnVtcC1jb25maXJtZS1zb24tYWJzZW5jZS1kdS1wcmVtaWVyLWQlQzMlQTliYXQtZGVzLXByaW1haXJlcy1yJUMzJUE5cHVibGljYWluZXM?oc=5",
-			"pubDate": "Mon, 21 Aug 2023 06:49:38 GMT",
-			"image": "https://picsum.photos/200/300?grayscale",
+			"title": "Gr\u00e8ce : un homme retrouv\u00e9 mort dans les feux de for\u00eat qui font rage dans le pays - franceinfo",
+			"link": "https://www.francetvinfo.fr/faits-divers/incendie/grece-un-homme-retrouve-mort-dans-les-feux-de-foret-qui-font-rage-dans-le-pays_6017810.html",
+			"pubDate": "Mon, 21 Aug 2023 11:08:17 GMT",
+			"image": "https://www.francetvinfo.fr/pictures/i7Ny5tALEPaj3c_0kGS0kEYufCs/1500x843/2023/08/21/64e3452007d51_000-33pw9gc.jpg",
 			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "",
-			"url": "",
-			"description": ""
-		},
-		{
-			"title": "Guerre en Ukraine : Kiev revendique des gains territoriaux sur le front est et affirme avoir repouss\u00e9 plusieurs offensives russes - L'Ind\u00e9pendant",
-			"link": "https://www.lindependant.fr/2023/08/21/guerre-en-ukraine-kiev-revendique-des-gains-territoriaux-sur-le-front-est-et-affirme-avoir-repousse-plusieurs-offensives-russes-11407082.php",
-			"pubDate": "Mon, 21 Aug 2023 13:15:00 GMT",
-			"image": "https://images.lindependant.fr/api/v1/images/view/64e35d77238ab952506c4b8a/large/image.jpg?v=1",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "lindependant.fr",
-			"url": "https://www.lindependant.fr/2023/08/21/guerre-en-ukraine-kiev-revendique-des-gains-territoriaux-sur-le-front-est-et-affirme-avoir-repousse-plusieurs-offensives-russes-11407082.php",
-			"description": "La situation sur le champ de bataille dans la r\u00e9gion de Kharkiv, dans l'Est de l'Ukraine, est \"difficile\" mais les forces ukrainiennes repoussent les attaques russes et ont regagn\u00e9 certains territoires dans l'Est..."
-		},
-		{
-			"title": "Incendie aux canaries : la \"calima\" attise toujours les flammes, 4% de l'\u00eele de T\u00e9n\u00e9rife a br\u00fbl\u00e9 - Centre Presse Aveyron",
-			"link": "https://www.centrepresseaveyron.fr/2023/08/21/incendie-aux-canaries-la-calima-attise-toujours-les-flammes-4-de-lile-de-tenerife-a-brule-11405704.php",
-			"pubDate": "Mon, 21 Aug 2023 05:01:00 GMT",
-			"image": "https://images.centrepresseaveyron.fr/api/v1/images/view/64e251aa47844f61197f2016/large/image.png?v=1",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "centrepresseaveyron.fr",
-			"url": "https://www.centrepresseaveyron.fr/2023/08/21/incendie-aux-canaries-la-calima-attise-toujours-les-flammes-4-de-lile-de-tenerife-a-brule-11405704.php",
-			"description": "Les conditions m\u00e9t\u00e9o n'arrangent pas la lutte contre ce feu \"complexe\", avec un vent \"tr\u00e8s fort\" orient\u00e9 \"nord-est/sud-ouest\", selon une Aveyronnaise pr\u00e9sente sur l'\u00eele, m\u00eame si sur le terrain, un certain optimisme..."
-		},
-		{
-			"title": "RDC: d\u00e9but du proc\u00e8s de l'ex-Premier ministre Matata Ponyo pour d\u00e9tournement de fonds - RFI",
-			"link": "https://news.google.com/rss/articles/CBMiigFodHRwczovL3d3dy5yZmkuZnIvZnIvYWZyaXF1ZS8yMDIzMDgyMS1yZGMtZCVDMyVBOWJ1dC1kdS1wcm9jJUMzJUE4cy1kZS1sLWV4LXByZW1pZXItbWluaXN0cmUtbWF0YXRhLXBvbnlvLXBvdXItZCVDMyVBOXRvdXJuZW1lbnQtZGUtZm9uZHPSAYoBaHR0cHM6Ly9hbXAucmZpLmZyL2ZyL2FmcmlxdWUvMjAyMzA4MjEtcmRjLWQlQzMlQTlidXQtZHUtcHJvYyVDMyVBOHMtZGUtbC1leC1wcmVtaWVyLW1pbmlzdHJlLW1hdGF0YS1wb255by1wb3VyLWQlQzMlQTl0b3VybmVtZW50LWRlLWZvbmRz?oc=5",
-			"pubDate": "Mon, 21 Aug 2023 04:46:34 GMT",
-			"image": "https://picsum.photos/200/300?grayscale",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "",
-			"url": "",
-			"description": ""
-		},
-		{
-			"title": "La s\u00e9cheresse continue de reculer en Europe et atteint son plus bas niveau depuis d\u00e9but 2022 - 20 Minutes",
-			"link": "https://www.20minutes.fr/planete/secheresse/4049620-20230821-secheresse-continue-reculer-europe-atteindre-plus-bas-niveau-depuis-debut-2022",
-			"pubDate": "Mon, 21 Aug 2023 12:33:03 GMT",
-			"image": "https://img.20mn.fr/OSEmObiNQlyQUxsEG_soaSk/1200x768_picture-shows-the-ebro-reservoir-at-32-72-of-its-capacity-due-to-the-ongoing-drought-on-august-8-2023-in-villafria-in-the-northern-province-of-cantabria-the-iberian-peninsula-is-bearing-the-brunt-of-climate-change-in-europe-witnessing-increasingly-intense-heatwaves-droughts-and-wildfires-the-spanish-met-office-aemet-issued-maximum-red-alerts-for-parts-of-andalusia-in-the-south-the-madrid-region-in-the-centre-and-the-basque-country-in-the-far-north-photo-by-ander-gillenea-afp",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "www.20minutes.fr",
-			"url": "https://www.20minutes.fr/planete/secheresse/4049620-20230821-secheresse-continue-reculer-europe-atteindre-plus-bas-niveau-depuis-debut-2022",
-			"description": "Du 1er au 10 ao\u00fbt, la s\u00e9cheresse des sols concernait 28% du territoire europ\u00e9en et des c\u00f4tes proche-orientales et africaines de la M\u00e9diterran\u00e9e, contre 55,8% l'ann\u00e9e derni\u00e8re"
+			"site_name": "Franceinfo",
+			"url": "https://www.francetvinfo.fr/faits-divers/incendie/grece-un-homme-retrouve-mort-dans-les-feux-de-foret-qui-font-rage-dans-le-pays_6017810.html",
+			"description": "L'homme, un berger, a \"probablement \u00e9t\u00e9 intoxiqu\u00e9 par les fum\u00e9es\", selon les pompiers."
 		},
 		{
 			"title": "Face \u00e0 la Chine, S\u00e9oul, Tokyo et Washington serrent les rangs - Le Monde",
@@ -191,24 +181,64 @@
 			"description": "\u00c9DITORIAL. Le succ\u00e8s diplomatique r\u00e9alis\u00e9 par Joe Biden \u00e0 Camp David avec les leaders du Japon et de la Cor\u00e9e du Sud s\u2019inscrit dans un contexte o\u00f9 Chine et Etats-Unis cherchent chacun \u00e0 renforcer leur camp."
 		},
 		{
-			"title": "Guerre en Ukraine : la Russie dit avoir d\u00e9jou\u00e9 deux attaques de drones pr\u00e8s de Moscou - Le Figaro",
-			"link": "https://www.lefigaro.fr/international/guerre-en-ukraine-la-russie-dit-avoir-dejoue-deux-attaques-de-drones-pres-de-moscou-20230821",
-			"pubDate": "Mon, 21 Aug 2023 06:27:00 GMT",
-			"image": "https://i.f1g.fr/media/cms/1200x630_crop/2023/08/21/6895f7946d55f15320c7d2addde3892543958fb7d44fa10801ec4c6bffd140cc.jpg",
+			"title": "Canada : l\u00e9ger r\u00e9pit sur le front des incendies \u00ab apocalyptiques \u00bb - Le Monde",
+			"link": "https://www.lemonde.fr/climat/article/2023/08/21/leger-repit-sur-le-front-des-incendies-apocalyptiques-dans-l-ouest-canadien_6186118_1652612.html",
+			"pubDate": "Mon, 21 Aug 2023 18:18:22 GMT",
+			"image": "https://img.lemde.fr/2023/08/21/0/6/6036/4024/1440/960/60/0/097caa3_5062590-01-06.jpg",
 			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "LEFIGARO",
-			"url": "https://www.lefigaro.fr/international/guerre-en-ukraine-la-russie-dit-avoir-dejoue-deux-attaques-de-drones-pres-de-moscou-20230821",
-			"description": "LE POINT SUR LA SITUATION - Le souverain pontife s\u2019est dit \u00abtr\u00e8s pr\u00e9occup\u00e9\u00bb par les milliers de personnes tu\u00e9es par la guerre en Ukraine."
+			"site_name": "Le Monde.fr",
+			"url": "https://www.lemonde.fr/climat/article/2023/08/21/leger-repit-sur-le-front-des-incendies-apocalyptiques-dans-l-ouest-canadien_6186118_1652612.html",
+			"description": "Pr\u00e8s de 400\u00a0feux de for\u00eat, dont 157 ne sont pas ma\u00eetris\u00e9s, ont \u00e9t\u00e9 d\u00e9nombr\u00e9s en Colombie-Britannique, selon les autorit\u00e9s locales."
 		},
 		{
-			"title": "T\u00c9MOIGNAGE. Incendies \u00e0 Hawa\u00ef : \"Les autorit\u00e9s n'ont pas su g\u00e9rer\", accuse un rescap\u00e9 fran\u00e7ais - franceinfo",
-			"link": "https://www.francetvinfo.fr/monde/usa/temoignage-incendies-a-hawai-les-autorites-n-ont-pas-su-gerer-accuse-un-rescape-francais_6017519.html",
-			"pubDate": "Mon, 21 Aug 2023 07:14:00 GMT",
-			"image": "https://www.francetvinfo.fr/pictures/669eBMun-4-n7Uv8hB66POGujUk/1500x843/2023/08/21/64e30602a8a4b_000-33rj2nd.jpg",
+			"title": "Maroc : la vie tr\u00e8s discr\u00e8te de l'\u00e9nigmatique Mohammed VI - Lib\u00e9ration",
+			"link": "https://news.google.com/rss/articles/CBMiiAFodHRwczovL3d3dy5saWJlcmF0aW9uLmZyL2ludGVybmF0aW9uYWwvYWZyaXF1ZS9tYXJvYy1sZW5pZ21hdGlxdWUtdmllLXRyZXMtZGlzY3JldGUtZGUtbW9oYW1tZWQtdmktMjAyMzA4MjFfSERLWURaM1VVWkM2QkZRUFhWN1dCMlo0U00v0gEA?oc=5",
+			"pubDate": "Mon, 21 Aug 2023 05:57:47 GMT",
+			"image": "https://www.liberation.fr/resizer/-lzCnGtfahlpOoXVll_940UaQoU=/1200x630/filters:format(jpg):quality(70):focal(2197x832:2207x842)/cloudfront-eu-central-1.images.arcpublishing.com/liberation/PPQG55TRKREQXCYNUWF3U5JQ4E.jpg",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "Lib\u00e9ration",
+			"url": "",
+			"description": ""
+		},
+		{
+			"title": "\u00c9tats-Unis: inculp\u00e9 en G\u00e9orgie, Donald Trump confirme son absence du premier d\u00e9bat des primaires r\u00e9publicaines - RFI",
+			"link": "https://news.google.com/rss/articles/CBMirAFodHRwczovL3d3dy5yZmkuZnIvZnIvYW0lQzMlQTlyaXF1ZXMvMjAyMzA4MjEtJUMzJUE5dGF0cy11bmlzLWluY3VscCVDMyVBOS1lbi1nJUMzJUE5b3JnaWUtdHJ1bXAtY29uZmlybWUtc29uLWFic2VuY2UtZHUtcHJlbWllci1kJUMzJUE5YmF0LWRlcy1wcmltYWlyZXMtciVDMyVBOXB1YmxpY2FpbmVz0gGsAWh0dHBzOi8vYW1wLnJmaS5mci9mci9hbSVDMyVBOXJpcXVlcy8yMDIzMDgyMS0lQzMlQTl0YXRzLXVuaXMtaW5jdWxwJUMzJUE5LWVuLWclQzMlQTlvcmdpZS10cnVtcC1jb25maXJtZS1zb24tYWJzZW5jZS1kdS1wcmVtaWVyLWQlQzMlQTliYXQtZGVzLXByaW1haXJlcy1yJUMzJUE5cHVibGljYWluZXM?oc=5",
+			"pubDate": "Mon, 21 Aug 2023 06:49:38 GMT",
+			"image": "https://picsum.photos/200/300?grayscale",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "",
+			"url": "",
+			"description": ""
+		},
+		{
+			"title": "Coup d\u2019Etat au Niger : Des milliers de Nig\u00e9riens manifestent en soutien aux putschistes - 20 Minutes",
+			"link": "https://www.20minutes.fr/monde/niger/4049537-20230820-coup-etat-niger-milliers-nigeriens-manifestent-soutien-putschistes",
+			"pubDate": "Sun, 20 Aug 2023 14:01:08 GMT",
+			"image": "https://img.20mn.fr/TiEk0Y7nTQq_FCrZC_mLPCk/1200x768_supporters-of-niger-s-national-concil-of-sefeguard-of-the-homeland-cnsp-hold-placards-as-they-gather-at-place-de-la-concertation-in-niamey-on-august-20-2023-photo-by-afp",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "www.20minutes.fr",
+			"url": "https://www.20minutes.fr/monde/niger/4049537-20230820-coup-etat-niger-milliers-nigeriens-manifestent-soutien-putschistes",
+			"description": "Et comme lors de chaque manifestation favorable au r\u00e9gime militaire, de nombreux slogans anti-fran\u00e7ais \u00e9taient scand\u00e9s"
+		},
+		{
+			"title": "Niger: plus de 2 millions d'enfants ont besoin d'une aide humanitaire, selon l'Unicef - Le Figaro",
+			"link": "https://www.lefigaro.fr/international/niger-plus-de-2-millions-d-enfants-ont-besoin-d-une-aide-humanitaire-selon-l-unicef-20230821",
+			"pubDate": "Mon, 21 Aug 2023 17:12:26 GMT",
+			"image": "https://i.f1g.fr/media/cms/1200x630_crop/2023/08/21/fbd1742dbfff12ecfac04ab14b764f58e985ede78e26483d386ae85914f77148.jpg",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "LEFIGARO",
+			"url": "https://www.lefigaro.fr/international/niger-plus-de-2-millions-d-enfants-ont-besoin-d-une-aide-humanitaire-selon-l-unicef-20230821",
+			"description": "Apr\u00e8s le r\u00e9cent coup d\u2019\u00c9tat qui a d\u00e9stabilis\u00e9 le Niger, l\u2019Unicef alerte sur le risque d\u2019augmentation de malnutrition chez les enfants. Un convoi charg\u00e9 de produits alimentaires est arriv\u00e9 ce lundi \u00e0 Niamey, en provenance du Burkina Faso."
+		},
+		{
+			"title": "La s\u00e9cheresse \u00e0 son plus bas niveau en Europe depuis d\u00e9but 2022 - franceinfo",
+			"link": "https://www.francetvinfo.fr/meteo/secheresse/la-secheresse-a-son-plus-bas-niveau-en-europe-depuis-debut-2022_6017693.html",
+			"pubDate": "Mon, 21 Aug 2023 09:16:05 GMT",
+			"image": "https://www.francetvinfo.fr/pictures/pizC9fmnxhsyOBk9dqkBg4w0r5E/1500x843/2023/08/21/64e32a50cd7fa_075-pitton-notitle230811-np9s0.jpg",
 			"logo": "https://picsum.photos/32/32?grayscale",
 			"site_name": "Franceinfo",
-			"url": "https://www.francetvinfo.fr/monde/usa/temoignage-incendies-a-hawai-les-autorites-n-ont-pas-su-gerer-accuse-un-rescape-francais_6017519.html",
-			"description": "\"J'ai particip\u00e9 en 23\u00a0ans \u00e0 de multiples alertes aux feux\", raconte un Fran\u00e7ais qui s'est install\u00e9 \u00e0 Hawa\u00ef, il y a plus de 20 ans. \"Beaucoup auraient pu s'en sortir\", assure-t-il."
+			"url": "https://www.francetvinfo.fr/meteo/secheresse/la-secheresse-a-son-plus-bas-niveau-en-europe-depuis-debut-2022_6017693.html",
+			"description": "Du 1er au 10 ao\u00fbt, la s\u00e9cheresse des sols concernait 28% du territoire europ\u00e9en."
 		},
 		{
 			"title": "Les renseignements britanniques affirment que la Russie aurait cr\u00e9e la \"18e arm\u00e9e combin\u00e9e\" pour avancer en Ukraine - Midi Libre",
@@ -221,9 +251,149 @@
 			"description": "Ce lundi 21 ao\u00fbt 2023, le minist\u00e8re de la D\u00e9fense britannique a d\u00e9clar\u00e9 qu'une nouvelle formation militaire russe \u00e9tait sur le point d'\u00eatre cr\u00e9\u00e9e.\u00a0"
 		},
 		{
-			"title": "Au Niger, plus de deux millions d'enfants ont besoin d'une aide humanitaire - FRANCE 24",
-			"link": "https://news.google.com/rss/articles/CBMid2h0dHBzOi8vd3d3LmZyYW5jZTI0LmNvbS9mci9hZnJpcXVlLzIwMjMwODIxLWF1LW5pZ2VyLXBsdXMtZGUtZGV1eC1taWxsaW9ucy1kLWVuZmFudHMtb250LWJlc29pbi1kLXVuZS1haWRlLWh1bWFuaXRhaXJl0gF3aHR0cHM6Ly9hbXAuZnJhbmNlMjQuY29tL2ZyL2FmcmlxdWUvMjAyMzA4MjEtYXUtbmlnZXItcGx1cy1kZS1kZXV4LW1pbGxpb25zLWQtZW5mYW50cy1vbnQtYmVzb2luLWQtdW5lLWFpZGUtaHVtYW5pdGFpcmU?oc=5",
-			"pubDate": "Mon, 21 Aug 2023 11:30:41 GMT",
+			"title": "Ukraine : une ONG accus\u00e9e d'avoir provoqu\u00e9 la frappe de Tcherniguiv - Lib\u00e9ration",
+			"link": "https://news.google.com/rss/articles/CBMiiQFodHRwczovL3d3dy5saWJlcmF0aW9uLmZyL2NoZWNrbmV3cy91a3JhaW5lLXVuZS1vbmctYWNjdXNlZS1kYXZvaXItcHJvdm9xdWUtbGEtZnJhcHBlLWRlLXRjaGVybmlndWl2LTIwMjMwODIxX1Y0QURDQUI0TEJGVjVFNFpQT05TWVpNNVBBL9IBAA?oc=5",
+			"pubDate": "Mon, 21 Aug 2023 17:57:30 GMT",
+			"image": "https://www.liberation.fr/resizer/SK0kKGm4OW-JuqU7vZtD7q06LBk=/1200x630/filters:format(jpg):quality(70):focal(2869x1936:2879x1946)/cloudfront-eu-central-1.images.arcpublishing.com/liberation/LCNUSHARGFHQBAUNYQTXZYOF3A.jpg",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "Lib\u00e9ration",
+			"url": "",
+			"description": ""
+		},
+		{
+			"title": "Bernardo Ar\u00e9valo remporte la pr\u00e9sidentielle au Guatemala - RFI",
+			"link": "https://news.google.com/rss/articles/CBMia2h0dHBzOi8vd3d3LnJmaS5mci9mci9hbSVDMyVBOXJpcXVlcy8yMDIzMDgyMS1iZXJuYXJkby1hcmV2YWxvLXJlbXBvcnRlLWxhLXByJUMzJUE5c2lkZW50aWVsbGUtYXUtZ3VhdGVtYWxh0gFraHR0cHM6Ly9hbXAucmZpLmZyL2ZyL2FtJUMzJUE5cmlxdWVzLzIwMjMwODIxLWJlcm5hcmRvLWFyZXZhbG8tcmVtcG9ydGUtbGEtcHIlQzMlQTlzaWRlbnRpZWxsZS1hdS1ndWF0ZW1hbGE?oc=5",
+			"pubDate": "Mon, 21 Aug 2023 02:55:39 GMT",
+			"image": "https://picsum.photos/200/300?grayscale",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "",
+			"url": "",
+			"description": ""
+		},
+		{
+			"title": "L\u2019arm\u00e9e russe a pr\u00e9sent\u00e9 ses nouvelles armes et ses \u00abtroph\u00e9es\u00bb du conflit en Ukraine - RFI",
+			"link": "https://news.google.com/rss/articles/CBMijAFodHRwczovL3d3dy5yZmkuZnIvZnIvZXVyb3BlLzIwMjMwODIxLWwtYXJtJUMzJUE5ZS1ydXNzZS1hLXByJUMzJUE5c2VudCVDMyVBOS1zZXMtbm91dmVsbGVzLWFybWVzLWV0LXNlcy10cm9waCVDMyVBOWVzLWR1LWNvbmZsaXQtZW4tdWtyYWluZdIBjAFodHRwczovL2FtcC5yZmkuZnIvZnIvZXVyb3BlLzIwMjMwODIxLWwtYXJtJUMzJUE5ZS1ydXNzZS1hLXByJUMzJUE5c2VudCVDMyVBOS1zZXMtbm91dmVsbGVzLWFybWVzLWV0LXNlcy10cm9waCVDMyVBOWVzLWR1LWNvbmZsaXQtZW4tdWtyYWluZQ?oc=5",
+			"pubDate": "Mon, 21 Aug 2023 17:51:31 GMT",
+			"image": "https://picsum.photos/200/300?grayscale",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "",
+			"url": "",
+			"description": ""
+		},
+		{
+			"title": "Guerre en Ukraine, en direct : la Gr\u00e8ce formera des pilotes ukrainiens au maniement des avions de chasse am\u00e9ricains F-16 - Le Monde",
+			"link": "https://www.lemonde.fr/international/live/2023/08/21/guerre-en-ukraine-en-direct-la-grece-formera-des-pilotes-ukrainiens-sur-les-avions-de-chasse-americains-f-16_6186036_3210.html",
+			"pubDate": "Mon, 21 Aug 2023 19:40:07 GMT",
+			"image": "https://img.lemde.fr/2023/08/21/770/0/8134/4067/1440/720/60/0/33b52c8_3768b7969ae84e0e8a68465e3d932bf9-0-910dec20d5554963a745dd83d90561e2.jpg",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "Le Monde.fr",
+			"url": "https://www.lemonde.fr/international/live/2023/08/21/guerre-en-ukraine-en-direct-la-grece-formera-des-pilotes-ukrainiens-sur-les-avions-de-chasse-americains-f-16_6186036_3210.html",
+			"description": "Volodymyr Zelensky poursuit sa tourn\u00e9e surprise en Europe. Apr\u00e8s la Su\u00e8de, les Pays-Bas puis le Danemark, le pr\u00e9sident ukrainien est en Gr\u00e8ce."
+		},
+		{
+			"title": "T\u00c9MOIGNAGE. Incendies \u00e0 Hawa\u00ef : \"Les autorit\u00e9s n'ont pas su g\u00e9rer\", accuse un rescap\u00e9 fran\u00e7ais - franceinfo",
+			"link": "https://www.francetvinfo.fr/monde/usa/temoignage-incendies-a-hawai-les-autorites-n-ont-pas-su-gerer-accuse-un-rescape-francais_6017519.html",
+			"pubDate": "Mon, 21 Aug 2023 07:14:00 GMT",
+			"image": "https://www.francetvinfo.fr/pictures/669eBMun-4-n7Uv8hB66POGujUk/1500x843/2023/08/21/64e30602a8a4b_000-33rj2nd.jpg",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "Franceinfo",
+			"url": "https://www.francetvinfo.fr/monde/usa/temoignage-incendies-a-hawai-les-autorites-n-ont-pas-su-gerer-accuse-un-rescape-francais_6017519.html",
+			"description": "\"J'ai particip\u00e9 en 23\u00a0ans \u00e0 de multiples alertes aux feux\", raconte un Fran\u00e7ais qui s'est install\u00e9 \u00e0 Hawa\u00ef, il y a plus de 20 ans. \"Beaucoup auraient pu s'en sortir\", assure-t-il."
+		},
+		{
+			"title": "Covid : l'inqui\u00e9tant nouveau variant BA.2.86 pourrait \u00eatre \"plus contagieux que les pr\u00e9c\u00e9dents\", un infectiologue donne l'alerte - L'Ind\u00e9pendant",
+			"link": "https://www.lindependant.fr/2023/08/21/covid-linquietant-nouveau-variant-ba286-pourrait-etre-plus-contagieux-que-les-precedents-un-infectiologue-donne-lalerte-11407288.php",
+			"pubDate": "Mon, 21 Aug 2023 14:47:00 GMT",
+			"image": "https://images.lindependant.fr/api/v1/images/view/64e3784077ea39501c7083d9/large/image.jpg?v=1",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "lindependant.fr",
+			"url": "https://www.lindependant.fr/2023/08/21/covid-linquietant-nouveau-variant-ba286-pourrait-etre-plus-contagieux-que-les-precedents-un-infectiologue-donne-lalerte-11407288.php",
+			"description": "Jean-Paul Stahl a \u00e9galement estim\u00e9 que \"l'efficacit\u00e9 des vaccins\" face \u00e0 cette nouvelle mutation du Covid-19 pouvait \u00eatre \"un peu moindre\"."
+		},
+		{
+			"title": "\u00ab L'oc\u00e9an n'est pas une poubelle. \u00bb Le rejet des eaux de Fukushima inqui\u00e8te des Japonnais - Mediapart",
+			"link": "https://www.mediapart.fr/journal/international/200823/l-ocean-n-est-pas-une-poubelle-le-rejet-des-eaux-de-fukushima-inquiete-des-japonais",
+			"pubDate": "Sun, 20 Aug 2023 15:02:00 GMT",
+			"image": "https://static.mediapart.fr/etmagine/og/journal/files/2023/08/19/image3.jpg",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "Mediapart",
+			"url": "https://www.mediapart.fr/journal/international/200823/l-ocean-n-est-pas-une-poubelle-le-rejet-des-eaux-de-fukushima-inquiete-des-japonais",
+			"description": "Cet \u00e9t\u00e9, le gouvernement japonais a annonc\u00e9 le d\u00e9marrage imminent du rejet des eaux de la centrale nucl\u00e9aire accident\u00e9e de Fukushima dans le Pacifique apr\u00e8s filtration. Un projet controvers\u00e9 puisqu\u2019a\u2026"
+		},
+		{
+			"title": "Au Niger, la d\u00e9l\u00e9gation de la C\u00e9d\u00e9ao a \"pass\u00e9 le message aux putschistes\" \u2022 FRANCE 24 - FRANCE 24",
+			"link": "https://www.youtube.com/watch?v=FvooHLklZyQ",
+			"pubDate": "Sun, 20 Aug 2023 12:54:58 GMT",
+			"image": "https://i.ytimg.com/vi/FvooHLklZyQ/maxresdefault.jpg",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "YouTube",
+			"url": "https://www.youtube.com/watch?v=FvooHLklZyQ",
+			"description": "Accueillie par le Premier ministre d\u00e9sign\u00e9 par la junte, Ali Zeine, la d\u00e9l\u00e9gation de la C\u00e9d\u00e9ao arriv\u00e9e samedi \u00e0 Niamey s'est entretenue avec l'homme fort du ..."
+		},
+		{
+			"title": "Une Isra\u00e9lienne tu\u00e9e dans une attaque en Cisjordanie occup\u00e9e - franceinfo",
+			"link": "https://www.francetvinfo.fr/monde/proche-orient/israel-palestine/une-israelienne-tuee-dans-une-attaque-en-cisjordanie-occupee_6017822.html",
+			"pubDate": "Mon, 21 Aug 2023 11:57:20 GMT",
+			"image": "https://www.francetvinfo.fr/pictures/V_Y0GgXjCjUmQKQps4TboYpHO70/1500x843/2023/08/21/64e34bba2892e_000-33ry6pn.jpg",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "Franceinfo",
+			"url": "https://www.francetvinfo.fr/monde/proche-orient/israel-palestine/une-israelienne-tuee-dans-une-attaque-en-cisjordanie-occupee_6017822.html",
+			"description": "La victime, une femme de 40 ans, institutrice et m\u00e8re de trois enfants, habitait la colonie de Beit Hagai, au sud d'H\u00e9bron."
+		},
+		{
+			"title": "Averses pr\u00e9vues dans la soir\u00e9e : la Martinique reste en vigilance orange - Martinique la 1\u00e8re - Outre-mer la 1\u00e8re",
+			"link": "https://la1ere.francetvinfo.fr/martinique/averses-prevues-dans-la-soiree-la-martinique-reste-en-vigilance-orange-1422320.html",
+			"pubDate": "Sun, 20 Aug 2023 21:36:53 GMT",
+			"image": "https://la1ere.francetvinfo.fr/image/3lkM5ABHHsNCcT1Low6RqIw0in8/930x620/outremer/2023/08/20/64e2864f93a6a_img-5864.jpg",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "Martinique la 1\u00e8re",
+			"url": "https://la1ere.francetvinfo.fr/martinique/averses-prevues-dans-la-soiree-la-martinique-reste-en-vigilance-orange-1422320.html",
+			"description": "Malgr\u00e9 une accalmie cet apr\u00e8s-midi du 20 ao\u00fbt 2023, les averses feront leur retour ce soir et en d\u00e9but de nuit et elles pourraient \u00eatre intenses, selon la m\u00e9t\u00e9o. Pour cette raison, les pr\u00e9visionnistes prolongent le niveau de vigilance orange."
+		},
+		{
+			"title": "Attaque chimique de 2013 \u00e0 la Ghouta, en Syrie : \u00abDix ans de preuves accumul\u00e9es et toujours l'impunit\u00e9\u00bb - Lib\u00e9ration",
+			"link": "https://news.google.com/rss/articles/CBMirgFodHRwczovL3d3dy5saWJlcmF0aW9uLmZyL2ludGVybmF0aW9uYWwvYXR0YXF1ZS1jaGltaXF1ZS1kZS0yMDEzLWEtbGEtZ2hvdXRhLWVuLXN5cmllLWRpeC1hbnMtZGUtcHJldXZlcy1hY2N1bXVsZWVzLWV0LXRvdWpvdXJzLWxpbXB1bml0ZS0yMDIzMDgyMV9VU0FUNlNNSlVWSEVQS1RBVFNWR0VGQVRUVS_SAQA?oc=5",
+			"pubDate": "Mon, 21 Aug 2023 06:10:00 GMT",
+			"image": "https://www.liberation.fr/resizer/eetQCRIuuzv3KQxOBuH5fcyLuJY=/1200x630/filters:format(jpg):quality(70):focal(2512x1410:2522x1420)/cloudfront-eu-central-1.images.arcpublishing.com/liberation/5TWFHJ4XIZGGLNJQXYBETH3VZQ.jpg",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "Lib\u00e9ration",
+			"url": "",
+			"description": ""
+		},
+		{
+			"title": "La Cor\u00e9e du Nord annule son premier vol commercial avec l'\u00e9tranger depuis 2020 - Le Monde",
+			"link": "https://www.lemonde.fr/international/article/2023/08/21/la-coree-du-nord-annule-son-premier-vol-commercial-avec-l-etranger-depuis-2020_6186062_3210.html",
+			"pubDate": "Mon, 21 Aug 2023 09:23:33 GMT",
+			"image": "https://img.lemde.fr/2023/08/21/0/0/3000/2000/1440/960/60/0/20bc7fa_5062353-01-06.jpg",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "Le Monde.fr",
+			"url": "https://www.lemonde.fr/international/article/2023/08/21/la-coree-du-nord-annule-son-premier-vol-commercial-avec-l-etranger-depuis-2020_6186062_3210.html",
+			"description": "La compagnie a\u00e9rienne, Air Koryo, n\u2019a pas donn\u00e9 d\u2019explication sur cette annulation. Toutefois, une liaison devrait \u00eatre effectu\u00e9e entre Vladivostok (Russie) et Pyongyang dans les prochains jours, selon le site d\u2019actualit\u00e9 NK News."
+		},
+		{
+			"title": "\"J'ai vu une ombre\" : un nageur bless\u00e9 par un requin en Espagne, la plage \u00e9vacu\u00e9e - LaDepeche.fr",
+			"link": "https://www.ladepeche.fr/2023/08/21/jai-vu-une-ombre-un-nageur-blesse-par-un-requin-en-espagne-la-plage-evacuee-11406593.php",
+			"pubDate": "Mon, 21 Aug 2023 06:01:00 GMT",
+			"image": "https://images.ladepeche.fr/api/v1/images/view/64e2fd3eec060c74bc79106a/large/image.jpg?v=1",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "ladepeche.fr",
+			"url": "https://www.ladepeche.fr/2023/08/21/jai-vu-une-ombre-un-nageur-blesse-par-un-requin-en-espagne-la-plage-evacuee-11406593.php",
+			"description": "\u00c0 Oliva, en Espagne, un homme a \u00e9t\u00e9 mordu au pied droit par un requin bleu. Les plages de la zone ont \u00e9t\u00e9 interdites \u00e0 la baignade pendant plusieurs heures."
+		},
+		{
+			"title": "Guerre en Ukraine : Kiev revendique des gains territoriaux sur le front est et affirme avoir repouss\u00e9 plusieurs offensives russes - L'Ind\u00e9pendant",
+			"link": "https://www.lindependant.fr/2023/08/21/guerre-en-ukraine-kiev-revendique-des-gains-territoriaux-sur-le-front-est-et-affirme-avoir-repousse-plusieurs-offensives-russes-11407082.php",
+			"pubDate": "Mon, 21 Aug 2023 13:15:00 GMT",
+			"image": "https://images.lindependant.fr/api/v1/images/view/64e35d77238ab952506c4b8a/large/image.jpg?v=1",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "lindependant.fr",
+			"url": "https://www.lindependant.fr/2023/08/21/guerre-en-ukraine-kiev-revendique-des-gains-territoriaux-sur-le-front-est-et-affirme-avoir-repousse-plusieurs-offensives-russes-11407082.php",
+			"description": "La situation sur le champ de bataille dans la r\u00e9gion de Kharkiv, dans l'Est de l'Ukraine, est \"difficile\" mais les forces ukrainiennes repoussent les attaques russes et ont regagn\u00e9 certains territoires dans l'Est..."
+		},
+		{
+			"title": "La visite guid\u00e9e des \u00e9gouts de Moscou vire au drame : au moins trois morts - Ouest-France",
+			"link": "https://news.google.com/rss/articles/CBMilwFodHRwczovL3d3dy5vdWVzdC1mcmFuY2UuZnIvZXVyb3BlL3J1c3NpZS9sYS12aXNpdGUtZ3VpZGVlLWRlcy1lZ291dHMtZGUtbW9zY291LXZpcmUtYXUtZHJhbWUtYXUtbW9pbnMtdHJvaXMtbW9ydHMtNTcyMWY0ZTgtNDAyNC0xMWVlLWIxNWYtMGNjYjM3ZmU0MTQ40gEA?oc=5",
+			"pubDate": "Mon, 21 Aug 2023 13:24:22 GMT",
 			"image": "https://picsum.photos/200/300?grayscale",
 			"logo": "https://picsum.photos/32/32?grayscale",
 			"site_name": "",
@@ -241,29 +411,9 @@
 			"description": ""
 		},
 		{
-			"title": "La Cor\u00e9e du Nord annule son premier vol commercial avec l'\u00e9tranger depuis 2020 - Le Monde",
-			"link": "https://www.lemonde.fr/international/article/2023/08/21/la-coree-du-nord-annule-son-premier-vol-commercial-avec-l-etranger-depuis-2020_6186062_3210.html",
-			"pubDate": "Mon, 21 Aug 2023 09:23:35 GMT",
-			"image": "https://img.lemde.fr/2023/08/21/0/0/3000/2000/1440/960/60/0/20bc7fa_5062353-01-06.jpg",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "Le Monde.fr",
-			"url": "https://www.lemonde.fr/international/article/2023/08/21/la-coree-du-nord-annule-son-premier-vol-commercial-avec-l-etranger-depuis-2020_6186062_3210.html",
-			"description": "La compagnie a\u00e9rienne, Air Koryo, n\u2019a pas donn\u00e9 d\u2019explication sur cette annulation. Toutefois, une liaison devrait \u00eatre effectu\u00e9e entre Vladivostok (Russie) et Pyongyang dans les prochains jours, selon le site d\u2019actualit\u00e9 NK News."
-		},
-		{
-			"title": "Covid : l'inqui\u00e9tant nouveau variant BA.2.86 pourrait \u00eatre \"plus contagieux que les pr\u00e9c\u00e9dents\", un infectiologue donne l'alerte - L'Ind\u00e9pendant",
-			"link": "https://www.lindependant.fr/2023/08/21/covid-linquietant-nouveau-variant-ba286-pourrait-etre-plus-contagieux-que-les-precedents-un-infectiologue-donne-lalerte-11407288.php",
-			"pubDate": "Mon, 21 Aug 2023 14:47:00 GMT",
-			"image": "https://images.lindependant.fr/api/v1/images/view/64e3784077ea39501c7083d9/large/image.jpg?v=1",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "lindependant.fr",
-			"url": "https://www.lindependant.fr/2023/08/21/covid-linquietant-nouveau-variant-ba286-pourrait-etre-plus-contagieux-que-les-precedents-un-infectiologue-donne-lalerte-11407288.php",
-			"description": "Jean-Paul Stahl a \u00e9galement estim\u00e9 que \"l'efficacit\u00e9 des vaccins\" face \u00e0 cette nouvelle mutation du Covid-19 pouvait \u00eatre \"un peu moindre\"."
-		},
-		{
-			"title": "Au Portugal comme en Allemagne, le train est \u00e0 volont\u00e9 pour 49 euros : \u00e0 quand en France ? - www.econostrum.info",
-			"link": "https://news.google.com/rss/articles/CBMiQGh0dHBzOi8vZWNvbm9zdHJ1bS5pbmZvL3BvcnR1Z2FsLXRyYWluLWEtdm9sb250ZS1hLXF1YW5kLWZyYW5jZS_SAQA?oc=5",
-			"pubDate": "Mon, 21 Aug 2023 09:54:16 GMT",
+			"title": "Les plaisanciers qui avaient tir\u00e9 sur des orques \u00e0 Gibraltar interrog\u00e9s par la Guardia Civil - Voiles et Voiliers",
+			"link": "https://news.google.com/rss/articles/CBMiygFodHRwczovL3ZvaWxlc2V0dm9pbGllcnMub3Vlc3QtZnJhbmNlLmZyL3NlY3VyaXRlLWVuLW1lci9hY2NpZGVudC1lbi1tZXIvbGVzLXBsYWlzYW5jaWVycy1xdWktYXZhaWVudC10aXJlLXN1ci1kZXMtb3JxdWVzLWEtZ2licmFsdGFyLWludGVycm9nZXMtcGFyLWxhLWd1YXJkaWEtY2l2aWwtYTUyZmQzYTQtM2Y2Zi0xMWVlLTgxODctZTFiYWQxM2Q2ZDdj0gEA?oc=5",
+			"pubDate": "Sun, 20 Aug 2023 16:27:05 GMT",
 			"image": "https://picsum.photos/200/300?grayscale",
 			"logo": "https://picsum.photos/32/32?grayscale",
 			"site_name": "",
@@ -271,40 +421,50 @@
 			"description": ""
 		},
 		{
-			"title": "Incendies au Canada : en Colombie-Britannique, les pompiers \u00e9puis\u00e9s ont \"enfin l'impression d'avancer\" - franceinfo",
-			"link": "https://www.francetvinfo.fr/monde/canada/incendies-au-canada-en-colombie-britannique-les-pompiers-epuises-ont-enfin-l-impression-d-avancer_6017522.html",
-			"pubDate": "Mon, 21 Aug 2023 08:52:11 GMT",
-			"image": "https://www.francetvinfo.fr/pictures/nOPylSVP7gzI9EEmgoohxm8y4Xk/1500x843/2023/08/21/64e3079fb86d1_000-33ry7lw.jpg",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "Franceinfo",
-			"url": "https://www.francetvinfo.fr/monde/canada/incendies-au-canada-en-colombie-britannique-les-pompiers-epuises-ont-enfin-l-impression-d-avancer_6017522.html",
-			"description": "Alors que le Canada vit la saison d'incendies la plus intense de son histoire, dans l'Ouest canadien, les pompiers de la Colombie-Britannique t\u00e9moignent autant de leur \u00e9puisement que de leur optimisme malgr\u00e9 le feu qui gagne du terrain."
-		},
-		{
-			"title": "\u00ab L'oc\u00e9an n'est pas une poubelle. \u00bb Le rejet des eaux de Fukushima inqui\u00e8te des Japonnais - Mediapart",
-			"link": "https://www.mediapart.fr/journal/international/200823/l-ocean-n-est-pas-une-poubelle-le-rejet-des-eaux-de-fukushima-inquiete-des-japonais",
-			"pubDate": "Sun, 20 Aug 2023 15:02:00 GMT",
-			"image": "https://static.mediapart.fr/etmagine/og/journal/files/2023/08/19/image3.jpg",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "Mediapart",
-			"url": "https://www.mediapart.fr/journal/international/200823/l-ocean-n-est-pas-une-poubelle-le-rejet-des-eaux-de-fukushima-inquiete-des-japonais",
-			"description": "Cet \u00e9t\u00e9, le gouvernement japonais a annonc\u00e9 le d\u00e9marrage imminent du rejet des eaux de la centrale nucl\u00e9aire accident\u00e9e de Fukushima dans le Pacifique apr\u00e8s filtration. Un projet controvers\u00e9 puisqu\u2019a\u2026"
-		},
-		{
-			"title": "Tchernihiv, ville s\u0153ur de Reims, touch\u00e9e par les Russes - L'Union",
-			"link": "https://news.google.com/rss/articles/CBMiaGh0dHBzOi8vd3d3Lmx1bmlvbi5mci9pZDUxMjk3OC9hcnRpY2xlLzIwMjMtMDgtMjAvdGNoZXJuaWhpdi12aWxsZS1zb2V1ci1kZS1yZWltcy10b3VjaGVlLXBhci1sZXMtcnVzc2Vz0gEA?oc=5",
-			"pubDate": "Sun, 20 Aug 2023 09:23:57 GMT",
-			"image": "https://remeng.rosselcdn.net/sites/default/files/dpistyles_v2/ena_16_9_extra_big/2023/08/20/node_512978/13391729/public/2023/08/20/B9734926811Z.1_20230820112357_000%2BG33NAA7CK.1-0.jpg?itok=qcQ1_rua1692550342",
+			"title": "Contre le r\u00e9chauffement climatique, les \u00c9tats-Unis comptent \u00ab aspirer \u00bb le CO2 avec des ventilateurs - Edition du soir Ouest-France - 21/08/2023 - L'\u00e9dition du soir",
+			"link": "https://news.google.com/rss/articles/CBMiugFodHRwczovL3d3dy5vdWVzdC1mcmFuY2UuZnIvbGVkaXRpb25kdXNvaXIvMjAyMy0wOC0yMS9jb250cmUtbGUtcmVjaGF1ZmZlbWVudC1jbGltYXRpcXVlLWxlcy1ldGF0cy11bmlzLWNvbXB0ZW50LWFzcGlyZXItbGUtY28yLWF2ZWMtZGVzLXZlbnRpbGF0ZXVycy1mMWQyOTdjNS1hMWE1LTRlZDMtODI4Yy05NjM2ZGYxZDBhNmHSAQA?oc=5",
+			"pubDate": "Mon, 21 Aug 2023 16:33:55 GMT",
+			"image": "https://picsum.photos/200/300?grayscale",
 			"logo": "https://picsum.photos/32/32?grayscale",
 			"site_name": "",
 			"url": "",
 			"description": ""
 		},
 		{
-			"title": "Apprendre \u00e0 piloter un drone de combat: la nouvelle formation propos\u00e9e par les lyc\u00e9es russes - Le Temps",
-			"link": "https://news.google.com/rss/articles/CBMicmh0dHBzOi8vd3d3LmxldGVtcHMuY2gvbW9uZGUvbGVzLWYtMTYtaW5zdWZmbGVyb250LXVuZS1tb3RpdmF0aW9uLW5vdXZlbGxlLWF1eC11a3JhaW5pZW5zLXNlbG9uLXZvbG9keW15ci16ZWxlbnNredIBAA?oc=5",
-			"pubDate": "Mon, 21 Aug 2023 15:12:21 GMT",
-			"image": "https://letemps-17455.kxcdn.com/photos/ee611958-7981-4134-9b27-29ee56939dfd/medium",
+			"title": "Des man\u0153uvres militaires lanc\u00e9es par la Chine autour de Ta\u00efwan \u00e0 titre de \"mise en garde\" - euronews (en fran\u00e7ais)",
+			"link": "https://www.youtube.com/watch?v=P-C6hwc-_Ik",
+			"pubDate": "Sat, 19 Aug 2023 20:26:20 GMT",
+			"image": "https://i.ytimg.com/vi/P-C6hwc-_Ik/hqdefault.jpg",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "YouTube",
+			"url": "https://www.youtube.com/watch?v=P-C6hwc-_Ik",
+			"description": "Des man\u0153uvres militaires ont \u00e9t\u00e9 lanc\u00e9es samedi par la Chine autour de Ta\u00efwan. Elles interviennent apr\u00e8s une escale aux \u00c9tats-Unis du vice-pr\u00e9sident de l'\u00eele..."
+		},
+		{
+			"title": "Canal de Panama : \u00e0 cause de la s\u00e9cheresse, des centaines de bateaux bloqu\u00e9s cet \u00e9t\u00e9 - TF1 INFO",
+			"link": "https://www.tf1info.fr/international/canal-de-panama-a-cause-de-la-secheresse-des-centaines-de-bateaux-bloques-cet-ete-2267132.html",
+			"pubDate": "Sun, 20 Aug 2023 14:42:02 GMT",
+			"image": "https://photos.tf1info.fr/images/1280/720/000_33nw3ec-ad4ae6-0@1x.jpeg",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "TF1 INFO",
+			"url": "https://www.tf1info.fr/international/canal-de-panama-a-cause-de-la-secheresse-des-centaines-de-bateaux-bloques-cet-ete-2267132.html",
+			"description": "[VID\u00c9O] - Depuis le d\u00e9but de l'\u00e9t\u00e9, le canal de Panama fait face \u00e0 une s\u00e9cheresse exceptionnelle.\n200 bateaux ont \u00e9t\u00e9 bloqu\u00e9s ces derniers jours \u00e0 cause de ces mauvaises conditions pour le traverser.\nLes autorit\u00e9s ont mis en place des mesures pour pr\u00e9server le canal, cr\u00e9ant cet embouteillage. "
+		},
+		{
+			"title": "Fin de partie pour Dogecoin ? Ses d\u00e9veloppeurs se d\u00e9chirent sur son futur - Journal du Coin",
+			"link": "https://journalducoin.com/actualites/fin-partie-dogecoin-developpeurs-dechirent-futur-pos-doge-cheems-kabosu/",
+			"pubDate": "Mon, 21 Aug 2023 12:30:00 GMT",
+			"image": "https://journalducoin.com/app/uploads/2021/12/Shiba-Doge-dollars-feu-1.jpg",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "Journal du Coin",
+			"url": "https://journalducoin.com/actualites/fin-partie-dogecoin-developpeurs-dechirent-futur-pos-doge-cheems-kabosu/",
+			"description": "Les d\u00e9veloppeurs de Dogecoin se d\u00e9chirent sur son \u00e9volution. Certains veulent passer le r\u00e9seau DOGE en Preuve d\u2019enjeu (PoS), d\u2019autres non."
+		},
+		{
+			"title": "Chypre. 86 migrants, dont 19 enfants, secourus en mer - Ouest-France",
+			"link": "https://news.google.com/rss/articles/CBMiggFodHRwczovL3d3dy5vdWVzdC1mcmFuY2UuZnIvbW9uZGUvbWlncmFudHMvY2h5cHJlLTg2LW1pZ3JhbnRzLWRvbnQtMTktZW5mYW50cy1zZWNvdXJ1cy1lbi1tZXItNjE1OWZkZjYtYjlhMS00NWQ0LWJkOGQtOTU3YjkxYjZlOTc30gEA?oc=5",
+			"pubDate": "Sun, 20 Aug 2023 20:43:00 GMT",
+			"image": "https://picsum.photos/200/300?grayscale",
 			"logo": "https://picsum.photos/32/32?grayscale",
 			"site_name": "",
 			"url": "",
@@ -314,26 +474,6 @@
 			"title": "Chine: un ressortissant chinois accus\u00e9 d'espionnage pour le compte de la CIA - RFI",
 			"link": "https://news.google.com/rss/articles/CBMifmh0dHBzOi8vd3d3LnJmaS5mci9mci9hc2llLXBhY2lmaXF1ZS8yMDIzMDgyMS1jaGluZS11bi1yZXNzb3J0aXNzYW50LWNoaW5vaXMtYWNjdXMlQzMlQTktZC1lc3Bpb25uYWdlLXBvdXItbGUtY29tcHRlLWRlLWxhLWNpYdIBfmh0dHBzOi8vYW1wLnJmaS5mci9mci9hc2llLXBhY2lmaXF1ZS8yMDIzMDgyMS1jaGluZS11bi1yZXNzb3J0aXNzYW50LWNoaW5vaXMtYWNjdXMlQzMlQTktZC1lc3Bpb25uYWdlLXBvdXItbGUtY29tcHRlLWRlLWxhLWNpYQ?oc=5",
 			"pubDate": "Mon, 21 Aug 2023 12:49:53 GMT",
-			"image": "https://picsum.photos/200/300?grayscale",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "",
-			"url": "",
-			"description": ""
-		},
-		{
-			"title": "Une Isra\u00e9lienne tu\u00e9e dans une attaque en Cisjordanie occup\u00e9e - franceinfo",
-			"link": "https://www.francetvinfo.fr/monde/proche-orient/israel-palestine/une-israelienne-tuee-dans-une-attaque-en-cisjordanie-occupee_6017822.html",
-			"pubDate": "Mon, 21 Aug 2023 11:57:20 GMT",
-			"image": "https://www.francetvinfo.fr/pictures/V_Y0GgXjCjUmQKQps4TboYpHO70/1500x843/2023/08/21/64e34bba2892e_000-33ry6pn.jpg",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "Franceinfo",
-			"url": "https://www.francetvinfo.fr/monde/proche-orient/israel-palestine/une-israelienne-tuee-dans-une-attaque-en-cisjordanie-occupee_6017822.html",
-			"description": "La victime, une femme de 40 ans, institutrice et m\u00e8re de trois enfants, habitait la colonie de Beit Hagai, au sud d'H\u00e9bron."
-		},
-		{
-			"title": "Un agent immobilier arr\u00eat\u00e9 en Iran apr\u00e8s avoir vendu une maison \u00e0 un chien - Ouest-France",
-			"link": "https://news.google.com/rss/articles/CBMilgFodHRwczovL3d3dy5vdWVzdC1mcmFuY2UuZnIvbW9uZGUvaXJhbi91bi1hZ2VudC1pbW1vYmlsaWVyLWFycmV0ZS1lbi1pcmFuLWFwcmVzLWF2b2lyLXZlbmR1LXVuZS1tYWlzb24tYS11bi1jaGllbi1kY2RiYjhlNi0zZjQ2LTExZWUtODJmZS0zZjczNWZkOTNiYznSAQA?oc=5",
-			"pubDate": "Sun, 20 Aug 2023 11:34:29 GMT",
 			"image": "https://picsum.photos/200/300?grayscale",
 			"logo": "https://picsum.photos/32/32?grayscale",
 			"site_name": "",
@@ -351,54 +491,24 @@
 			"description": "Ces derni\u00e8res semaines, les queues s'allongeaient devant les boulangeries semi-\u00e9tatiques, devenues les seules \u00e0 vendre du pain"
 		},
 		{
-			"title": "Les plaisanciers qui avaient tir\u00e9 sur des orques \u00e0 Gibraltar interrog\u00e9s par la Guardia Civil - Voiles et Voiliers",
-			"link": "https://news.google.com/rss/articles/CBMiygFodHRwczovL3ZvaWxlc2V0dm9pbGllcnMub3Vlc3QtZnJhbmNlLmZyL3NlY3VyaXRlLWVuLW1lci9hY2NpZGVudC1lbi1tZXIvbGVzLXBsYWlzYW5jaWVycy1xdWktYXZhaWVudC10aXJlLXN1ci1kZXMtb3JxdWVzLWEtZ2licmFsdGFyLWludGVycm9nZXMtcGFyLWxhLWd1YXJkaWEtY2l2aWwtYTUyZmQzYTQtM2Y2Zi0xMWVlLTgxODctZTFiYWQxM2Q2ZDdj0gEA?oc=5",
-			"pubDate": "Sun, 20 Aug 2023 16:27:05 GMT",
-			"image": "https://picsum.photos/200/300?grayscale",
+			"title": "Iran : un agent immobilier arr\u00eat\u00e9 pour la vente d'une maison \u00e0 un chien - CNEWS",
+			"link": "https://www.cnews.fr/insolite/2023-08-20/iran-un-agent-immobilier-arrete-pour-la-vente-dune-maison-un-chien-1388250",
+			"pubDate": "Sun, 20 Aug 2023 13:49:01 GMT",
+			"image": "https://static.cnews.fr/sites/default/files/dieny-portinanni-5qcwi4oxl6g-unsplash_64e1ddd477b49_0.jpg",
 			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "",
-			"url": "",
-			"description": ""
+			"site_name": "CNEWS",
+			"url": "https://www.cnews.fr/insolite/2023-08-20/iran-un-agent-immobilier-arrete-pour-la-vente-dune-maison-un-chien-1388250",
+			"description": "Ce dimanche 20 ao\u00fbt, la police iranienne a indiqu\u00e9 que le directeur d\u2019une agence immobili\u00e8re de l\u2019ouest de T\u00e9h\u00e9ran a \u00e9t\u00e9 arr\u00eat\u00e9 la veille apr\u00e8s avoir vendu un appartement \u00e0 un chien. Il est poursuivi pour \u00abatteinte aux valeurs morales\u00bb."
 		},
 		{
-			"title": "Cambodge. Qui est Hun Manet, prochain premier ministre ? - Ouest-France",
-			"link": "https://news.google.com/rss/articles/CBMihAFodHRwczovL3d3dy5vdWVzdC1mcmFuY2UuZnIvbW9uZGUvY2FtYm9kZ2UvY2FtYm9kZ2UtcXVpLWVzdC1odW4tbWFuZXQtcHJvY2hhaW4tcHJlbWllci1taW5pc3RyZS1jZjM3MGQ1MC0zZjJiLTExZWUtODJmZS0zZjczNWZkOTNiYznSAQA?oc=5",
-			"pubDate": "Mon, 21 Aug 2023 05:00:37 GMT",
-			"image": "https://picsum.photos/200/300?grayscale",
+			"title": "Des pi\u00e8ces d'or vieilles de 2.300 ans et des restes d'enfants d\u00e9couverts dans l'ancienne Carthage | Slate.fr - Slate.fr",
+			"link": "https://www.slate.fr/story/252043/decouverte-carthage-tunisie-archeologie-pieces-or-restes-enfants-antiquite",
+			"pubDate": "Mon, 21 Aug 2023 10:29:00 GMT",
+			"image": "https://www.slate.fr/sites/default/files/styles/1200x680/public/inconnu_0.jpg",
 			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "",
-			"url": "",
-			"description": ""
-		},
-		{
-			"title": "Offensive contre Ta\u00efwan : Quand et comment la Chine passera-t-elle \u00e0 l'action ? - Meta-Defense.fr",
-			"link": "https://meta-defense.fr/2023/08/20/offensive-contre-taiwan-quand-comment/",
-			"pubDate": "Sun, 20 Aug 2023 09:09:06 GMT",
-			"image": "https://h2f9q8w3.rocketcdn.me/wp-content/uploads/2021/03/liaoning_escadre-e1615467953562.jpg",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "Meta-Defense.fr",
-			"url": "https://meta-defense.fr/2023/08/20/offensive-contre-taiwan-quand-comment/",
-			"description": "Depuis plusieurs ann\u00e9es, les tensions entre Washington et P\u00e9kin comme la crainte de voir P\u00e9kin d\u00e9clencher une offensive contre Ta\u00efwan, n'ont cess\u00e9 de croitre."
-		},
-		{
-			"title": "Catalogne: Un tremblement de terre de 3,9 de magnitude a \u00e9t\u00e9 ressenti sur la Costa Brava - L'Ind\u00e9pendant",
-			"link": "https://www.lindependant.fr/2023/08/21/catalogne-un-tremblement-de-terre-de-39-de-magnitude-a-ete-ressenti-sur-la-costa-brava-11407116.php",
-			"pubDate": "Mon, 21 Aug 2023 13:09:00 GMT",
-			"image": "https://images.lindependant.fr/api/v1/images/view/64e3610a0c5ae8125b18dc8c/large/image.jpg?v=1",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "lindependant.fr",
-			"url": "https://www.lindependant.fr/2023/08/21/catalogne-un-tremblement-de-terre-de-39-de-magnitude-a-ete-ressenti-sur-la-costa-brava-11407116.php",
-			"description": "L'\u00e9picentre de ce s\u00e9isme a \u00e9t\u00e9 enregistr\u00e9 dans la M\u00e9diterran\u00e9e \u00e0 une\u00a0centaine\u00a0de kilom\u00e8tres du littoral catalan."
-		},
-		{
-			"title": "Attaque chimique de 2013 \u00e0 la Ghouta, en Syrie : \u00abDix ans de preuves accumul\u00e9es et toujours l'impunit\u00e9\u00bb - Lib\u00e9ration",
-			"link": "https://news.google.com/rss/articles/CBMirgFodHRwczovL3d3dy5saWJlcmF0aW9uLmZyL2ludGVybmF0aW9uYWwvYXR0YXF1ZS1jaGltaXF1ZS1kZS0yMDEzLWEtbGEtZ2hvdXRhLWVuLXN5cmllLWRpeC1hbnMtZGUtcHJldXZlcy1hY2N1bXVsZWVzLWV0LXRvdWpvdXJzLWxpbXB1bml0ZS0yMDIzMDgyMV9VU0FUNlNNSlVWSEVQS1RBVFNWR0VGQVRUVS_SAQA?oc=5",
-			"pubDate": "Mon, 21 Aug 2023 06:10:00 GMT",
-			"image": "https://www.liberation.fr/resizer/eetQCRIuuzv3KQxOBuH5fcyLuJY=/1200x630/filters:format(jpg):quality(70):focal(2512x1410:2522x1420)/cloudfront-eu-central-1.images.arcpublishing.com/liberation/5TWFHJ4XIZGGLNJQXYBETH3VZQ.jpg",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "Lib\u00e9ration",
-			"url": "",
-			"description": ""
+			"site_name": "Slate.fr",
+			"url": "https://www.slate.fr/story/252043/decouverte-carthage-tunisie-archeologie-pieces-or-restes-enfants-antiquite",
+			"description": "Les arch\u00e9ologues pensent que ce sont des offrandes faites par de riches fid\u00e8les aux dieux carthaginois."
 		},
 		{
 			"title": "\"Il faut s'exprimer et ici on peut le faire\" : les Russes du Bas-Rhin manifestent contre Vladimir Poutine - France Bleu",
@@ -411,14 +521,54 @@
 			"description": "Les associations CommePasse, cr\u00e9\u00e9e apr\u00e8s le d\u00e9but de la guerre en Ukraine, et la communaut\u00e9 russe anti-guerre d'Alsace ont manifest\u00e9 sur la place Kl\u00e9ber dimanche \u00e0 14h. Il d\u00e9noncent la politique de r\u00e9pression mise en place par Vladimir Poutine contre les minorit\u00e9s et les opposants politiques."
 		},
 		{
-			"title": "Niger : la Cedeao se dit pr\u00eate \u00e0 intervenir militairement, la diplomatie continue - Mediapart",
-			"link": "https://www.mediapart.fr/journal/international/190823/niger-la-cedeao-se-dit-prete-intervenir-militairement-la-diplomatie-continue",
-			"pubDate": "Sat, 19 Aug 2023 16:39:14 GMT",
-			"image": "https://static.mediapart.fr/etmagine/og/journal/files/2023/08/19/cedeao.jpg",
+			"title": "Catalogne: Un tremblement de terre de 3,9 de magnitude a \u00e9t\u00e9 ressenti sur la Costa Brava - L'Ind\u00e9pendant",
+			"link": "https://www.lindependant.fr/2023/08/21/catalogne-un-tremblement-de-terre-de-39-de-magnitude-a-ete-ressenti-sur-la-costa-brava-11407116.php",
+			"pubDate": "Mon, 21 Aug 2023 13:09:00 GMT",
+			"image": "https://images.lindependant.fr/api/v1/images/view/64e3610a0c5ae8125b18dc8c/large/image.jpg?v=1",
 			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "Mediapart",
-			"url": "https://www.mediapart.fr/journal/international/190823/niger-la-cedeao-se-dit-prete-intervenir-militairement-la-diplomatie-continue",
-			"description": "La Cedeao a fait un nouveau pas vers une intervention arm\u00e9e lors d\u2019une nouvelle r\u00e9union des chefs d\u2019\u00e9tat-major des \u00c9tats membres. Malgr\u00e9 cela, l\u2019organisation ouest-africaine se dit pr\u00eate \u00e0 poursuivre\u2026"
+			"site_name": "lindependant.fr",
+			"url": "https://www.lindependant.fr/2023/08/21/catalogne-un-tremblement-de-terre-de-39-de-magnitude-a-ete-ressenti-sur-la-costa-brava-11407116.php",
+			"description": "L'\u00e9picentre de ce s\u00e9isme a \u00e9t\u00e9 enregistr\u00e9 dans la M\u00e9diterran\u00e9e \u00e0 une\u00a0centaine\u00a0de kilom\u00e8tres du littoral catalan."
+		},
+		{
+			"title": "\u00c9meutes apr\u00e8s la mort d'un homme abattu par la police en Belgique - EURACTIV France",
+			"link": "https://www.euractiv.fr/section/politique/news/emeutes-apres-la-mort-dun-homme-abattu-par-la-police-en-belgique/",
+			"pubDate": "Mon, 21 Aug 2023 09:09:50 GMT",
+			"image": "https://www.euractiv.fr/wp-content/uploads/sites/3/2023/08/11161502-e1692590732625-800x450-1.jpg",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "www.euractiv.fr",
+			"url": "https://www.euractiv.fr/section/politique/news/emeutes-apres-la-mort-dun-homme-abattu-par-la-police-en-belgique/",
+			"description": "Oupeye, en Wallonie, a \u00e9t\u00e9 le th\u00e9\u00e2tre de violentes manifestations et d\u2019affrontements entre les manifestants et la police durant le week-end \u00e0 la suite de la mort d\u2019un conducteur de quad \u00e2g\u00e9 de 31 ans, abattu par la police vendredi dernier."
+		},
+		{
+			"title": "Bruxelles : une situation \u00abdramatique\u00bb \u00e0 la gare du Midi - La Voix du Nord",
+			"link": "https://www.lavoixdunord.fr/1364111/article/2023-08-21/bruxelles-une-situation-dramatique-la-gare-du-midi",
+			"pubDate": "Mon, 21 Aug 2023 13:03:31 GMT",
+			"image": "https://lvdneng.rosselcdn.net/sites/default/files/dpistyles_v2/ena_16_9_extra_big/2023/08/21/node_1364111/56500208/public/2023/08/21/B9734933300Z.1_20230821150331_000%2BGETNAGESJ.1-0.jpg?itok=Da3VCf871692623017",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "La Voix du Nord",
+			"url": "https://www.lavoixdunord.fr/1364111/article/2023-08-21/bruxelles-une-situation-dramatique-la-gare-du-midi",
+			"description": "La SNCB a alert\u00e9 les ministres des Transports et de l\u2019Int\u00e9rieur, ainsi que d\u2019au..."
+		},
+		{
+			"title": "Frappes russes meurtri\u00e8re contre des combattants li\u00e9s \u00e0 Al-Qa\u00efda - Euronews",
+			"link": "https://fr.euronews.com/2023/08/21/frappes-russes-meurtriere-contre-des-combattants-lies-a-al-qaida",
+			"pubDate": "Mon, 21 Aug 2023 09:21:41 GMT",
+			"image": "https://static.euronews.com/articles/stories/07/83/55/38/1000x563_cmsv2_0aabf8d1-958b-5c00-8300-7eceaf0814ba-7835538.jpg",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "euronews",
+			"url": "https://fr.euronews.com/2023/08/21/frappes-russes-meurtriere-contre-des-combattants-lies-a-al-qaida",
+			"description": "La Russie est le principal soutien du r\u00e9gime du pr\u00e9sident Bachar al-Assad et intervient militairement en Syrie depuis 2015."
+		},
+		{
+			"title": "Dormir avec son chat la nuit : bonne ou mauvaise id\u00e9e? - POSITIVR",
+			"link": "https://positivr.fr/dormir-avec-son-chat-la-nuit-bonne-ou-mauvaise-idee/",
+			"pubDate": "Mon, 21 Aug 2023 06:45:00 GMT",
+			"image": "https://static.positivr.fr/wp-content/uploads/2023/08/est-il-conseille-de-dormir-avec-son-chat-la-nuit.png",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "POSITIVR",
+			"url": "https://positivr.fr/dormir-avec-son-chat-la-nuit-bonne-ou-mauvaise-idee/",
+			"description": "De nombreux propri\u00e9taires de chats adorent dormir avec leur f\u00e9lin la nuit. Mais est-ce r\u00e9ellement une bonne id\u00e9e ?"
 		},
 		{
 			"title": "Le regard de Glez sur l'emprisonnement du pr\u00e9sident renvers\u00e9 Mohamed Bazoum - RFI",
@@ -429,6 +579,16 @@
 			"site_name": "",
 			"url": "",
 			"description": ""
+		},
+		{
+			"title": "Haut-Karabakh: \u00abLe moment est venu d'emp\u00eacher un nouveau crime contre l'humanit\u00e9\u00bb - Le Figaro",
+			"link": "https://www.lefigaro.fr/vox/monde/haut-karabakh-le-moment-est-venu-d-empecher-un-nouveau-crime-contre-l-humanite-20230821",
+			"pubDate": "Mon, 21 Aug 2023 10:55:20 GMT",
+			"image": "https://i.f1g.fr/media/cms/1200x630_crop/2023/08/21/fae9a8f86fe7d40def148a4daafc4d2d08ed269bcb59060bad883c7fb5a9bda6.jpg",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "LEFIGARO",
+			"url": "https://www.lefigaro.fr/vox/monde/haut-karabakh-le-moment-est-venu-d-empecher-un-nouveau-crime-contre-l-humanite-20230821",
+			"description": "FIGAROVOX/TRIBUNE - Dans une lettre ouverte, le pr\u00e9sident de l\u2019Union g\u00e9n\u00e9rale arm\u00e9nienne de bienfaisance, Berge Setrakian, appelle Emmanuel Macron \u00e0 r\u00e9agir au nouveau blocus que subit l\u2019Arm\u00e9nie. Si la France ne r\u00e9agit pas, nous pourrions bient\u00f4t assister \u00e0 un nouveau g\u00e9nocide arm\u00e9nien, insiste-t-il."
 		},
 		{
 			"title": "Cette ville europ\u00e9enne a \u00e9t\u00e9 \u00e9lue une fois de plus comme la ville la plus agr\u00e9able \u00e0 vivre au monde et elle n'est pas dans le Sud - Linternaute.com",
@@ -451,9 +611,9 @@
 			"description": ""
 		},
 		{
-			"title": "Chypre. 86 migrants, dont 19 enfants, secourus en mer - Ouest-France",
-			"link": "https://news.google.com/rss/articles/CBMiggFodHRwczovL3d3dy5vdWVzdC1mcmFuY2UuZnIvbW9uZGUvbWlncmFudHMvY2h5cHJlLTg2LW1pZ3JhbnRzLWRvbnQtMTktZW5mYW50cy1zZWNvdXJ1cy1lbi1tZXItNjE1OWZkZjYtYjlhMS00NWQ0LWJkOGQtOTU3YjkxYjZlOTc30gEA?oc=5",
-			"pubDate": "Sun, 20 Aug 2023 20:43:00 GMT",
+			"title": "RDC: d\u00e9but du proc\u00e8s de l'ex-Premier ministre Matata Ponyo pour d\u00e9tournement de fonds - RFI",
+			"link": "https://news.google.com/rss/articles/CBMiigFodHRwczovL3d3dy5yZmkuZnIvZnIvYWZyaXF1ZS8yMDIzMDgyMS1yZGMtZCVDMyVBOWJ1dC1kdS1wcm9jJUMzJUE4cy1kZS1sLWV4LXByZW1pZXItbWluaXN0cmUtbWF0YXRhLXBvbnlvLXBvdXItZCVDMyVBOXRvdXJuZW1lbnQtZGUtZm9uZHPSAYoBaHR0cHM6Ly9hbXAucmZpLmZyL2ZyL2FmcmlxdWUvMjAyMzA4MjEtcmRjLWQlQzMlQTlidXQtZHUtcHJvYyVDMyVBOHMtZGUtbC1leC1wcmVtaWVyLW1pbmlzdHJlLW1hdGF0YS1wb255by1wb3VyLWQlQzMlQTl0b3VybmVtZW50LWRlLWZvbmRz?oc=5",
+			"pubDate": "Mon, 21 Aug 2023 04:46:34 GMT",
 			"image": "https://picsum.photos/200/300?grayscale",
 			"logo": "https://picsum.photos/32/32?grayscale",
 			"site_name": "",
@@ -461,94 +621,14 @@
 			"description": ""
 		},
 		{
-			"title": "Syrie : huit combattants tu\u00e9s par des frappes russes dans une zone rebelle - Le Figaro",
-			"link": "https://www.lefigaro.fr/international/syrie-huit-combattants-tues-par-des-frappes-russes-dans-une-zone-rebelle-20230821",
-			"pubDate": "Mon, 21 Aug 2023 06:29:02 GMT",
-			"image": "https://i.f1g.fr/media/cms/1200x630_crop/2023/08/21/3ad07c8a2350dc58453392e105d93c3ec38ac1391ddd56249ba3643af5882253.jpg",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "LEFIGARO",
-			"url": "https://www.lefigaro.fr/international/syrie-huit-combattants-tues-par-des-frappes-russes-dans-une-zone-rebelle-20230821",
-			"description": "Le groupe djihadiste Hayat Tahrir al-Sham est dirig\u00e9 par d\u2019anciens membres de l\u2019ancienne franchise syrienne d\u2019al-Qa\u00efda."
-		},
-		{
-			"title": "Canal de Panama : \u00e0 cause de la s\u00e9cheresse, des centaines de bateaux bloqu\u00e9s cet \u00e9t\u00e9 - TF1 INFO",
-			"link": "https://www.tf1info.fr/international/canal-de-panama-a-cause-de-la-secheresse-des-centaines-de-bateaux-bloques-cet-ete-2267132.html",
-			"pubDate": "Sun, 20 Aug 2023 14:42:02 GMT",
-			"image": "https://photos.tf1info.fr/images/1280/720/000_33nw3ec-ad4ae6-0@1x.jpeg",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "TF1 INFO",
-			"url": "https://www.tf1info.fr/international/canal-de-panama-a-cause-de-la-secheresse-des-centaines-de-bateaux-bloques-cet-ete-2267132.html",
-			"description": "[VID\u00c9O] - Depuis le d\u00e9but de l'\u00e9t\u00e9, le canal de Panama fait face \u00e0 une s\u00e9cheresse exceptionnelle.\n200 bateaux ont \u00e9t\u00e9 bloqu\u00e9s ces derniers jours \u00e0 cause de ces mauvaises conditions pour le traverser.\nLes autorit\u00e9s ont mis en place des mesures pour pr\u00e9server le canal, cr\u00e9ant cet embouteillage. "
-		},
-		{
-			"title": "Au Gabon, le candidat Albert Ondo Ossa de l'opposition tente de rassembler dans un meeting - RFI",
-			"link": "https://news.google.com/rss/articles/CBMigAFodHRwczovL3d3dy5yZmkuZnIvZnIvYWZyaXF1ZS8yMDIzMDgyMC1hdS1nYWJvbi1sZS1jYW5kaWRhdC1hbGJlcnQtb25kby1vc3NhLWRlLWwtb3Bwb3NpdGlvbi10ZW50ZS1kZS1yYXNzZW1ibGVyLWRhbnMtdW4tbWVldGluZ9IBgAFodHRwczovL2FtcC5yZmkuZnIvZnIvYWZyaXF1ZS8yMDIzMDgyMC1hdS1nYWJvbi1sZS1jYW5kaWRhdC1hbGJlcnQtb25kby1vc3NhLWRlLWwtb3Bwb3NpdGlvbi10ZW50ZS1kZS1yYXNzZW1ibGVyLWRhbnMtdW4tbWVldGluZw?oc=5",
-			"pubDate": "Sun, 20 Aug 2023 01:26:16 GMT",
+			"title": "Cambodge. Qui est Hun Manet, prochain premier ministre ? - Ouest-France",
+			"link": "https://news.google.com/rss/articles/CBMihAFodHRwczovL3d3dy5vdWVzdC1mcmFuY2UuZnIvbW9uZGUvY2FtYm9kZ2UvY2FtYm9kZ2UtcXVpLWVzdC1odW4tbWFuZXQtcHJvY2hhaW4tcHJlbWllci1taW5pc3RyZS1jZjM3MGQ1MC0zZjJiLTExZWUtODJmZS0zZjczNWZkOTNiYznSAQA?oc=5",
+			"pubDate": "Mon, 21 Aug 2023 05:00:37 GMT",
 			"image": "https://picsum.photos/200/300?grayscale",
 			"logo": "https://picsum.photos/32/32?grayscale",
 			"site_name": "",
 			"url": "",
 			"description": ""
-		},
-		{
-			"title": "En pleine guerre, des vacances tr\u00e8s patriotiques pour les jeunes russes - LCI",
-			"link": "https://www.youtube.com/watch?v=6Q_Fgl_LAuI",
-			"pubDate": "Mon, 21 Aug 2023 08:57:27 GMT",
-			"image": "https://i.ytimg.com/vi/6Q_Fgl_LAuI/maxresdefault.jpg",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "YouTube",
-			"url": "https://www.youtube.com/watch?v=6Q_Fgl_LAuI",
-			"description": "\ud83d\udd34 LCI EN DIRECT : https://www.tf1info.fr/direct/L\u2019actualit\u00e9 TF1 et LCI en continu avec TF1 INFO : https://www.tf1info.fr/\u27a1\ufe0f T\u00e9l\u00e9chargez notre application gr..."
-		},
-		{
-			"title": "\u00ab L'adoption de climatiseurs pour faire face aux vagues de chaleur fait \u00e9merger une nouvelle forme de pr\u00e9carit\u00e9 \u00bb - Le Monde",
-			"link": "https://www.lemonde.fr/planete/article/2023/08/20/l-adoption-de-climatiseurs-pour-faire-face-aux-vagues-de-chaleur-fait-emerger-une-nouvelle-forme-de-precarite_6185986_3244.html",
-			"pubDate": "Sun, 20 Aug 2023 12:48:14 GMT",
-			"image": "https://img.lemde.fr/2023/08/20/0/0/7143/4762/1440/960/60/0/724643d_1692534847693-636438.jpg",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "Le Monde.fr",
-			"url": "https://www.lemonde.fr/planete/article/2023/08/20/l-adoption-de-climatiseurs-pour-faire-face-aux-vagues-de-chaleur-fait-emerger-une-nouvelle-forme-de-precarite_6185986_3244.html",
-			"description": "La chercheuse en \u00e9conomie de l\u2019environnement Enrica de Cian analyse, dans un entretien au \u00ab\u00a0Monde\u00a0\u00bb, les in\u00e9galit\u00e9s d\u2019acc\u00e8s \u00e0 un air rafra\u00eechi, \u00e0 la fois entre pays du Nord et du Sud, et entre les cat\u00e9gories de population au sein des pays."
-		},
-		{
-			"title": "L'Allemagne en route vers la l\u00e9galisation du cannabis \u00e0 des fins r\u00e9cr\u00e9atives: En conseil des ministres... - Le Blog de Jean-Marc Morandini",
-			"link": "https://www.jeanmarcmorandini.com/article-544742-l-allemagne-en-route-vers-la-legalisation-du-cannabis-a-des-fins-recreatives-en-conseil-des-ministres-un-projet-de-loi-encadrant-achat-et-culture-de-cette-plante-psychoactive-a-ete-adopte-video.html",
-			"pubDate": "Sun, 20 Aug 2023 13:01:00 GMT",
-			"image": "https://static.jeanmarcmorandini.com/sites/jeanmarcmorandini.com/files/capture_decran_2023-08-19_a_10.55.14_0.jpg",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "Jean-Marc Morandini",
-			"url": "https://www.jeanmarcmorandini.com/article-544742-l-allemagne-en-route-vers-la-legalisation-du-cannabis-a-des-fins-recreatives-en-conseil-des-ministres-un-projet-de-loi-encadrant-achat-et-culture-de-cette-plante-psychoactive-a-ete-adopte-video.html",
-			"description": "L'Allemagne en route vers la l\u00e9galisation du\u00a0cannabis \u00e0 des fins r\u00e9cr\u00e9atives. En conseil des ministres, un projet de loi controvers\u00e9 encadrant achat et culture de cette plante psychoactive a \u00e9t\u00e9 adopt\u00e9."
-		},
-		{
-			"title": "\u00c9tats-Unis : un enfant de 6 ans tire sur sa ma\u00eetresse en classe, sa m\u00e8re reconna\u00eet une n\u00e9gligence - Ouest-France",
-			"link": "https://news.google.com/rss/articles/CBMisAFodHRwczovL3d3dy5vdWVzdC1mcmFuY2UuZnIvbW9uZGUvZXRhdHMtdW5pcy9ldGF0cy11bmlzLXVuLWVuZmFudC1kZS02LWFucy10aXJlLXN1ci1zYS1tYWl0cmVzc2UtZW4tY2xhc3NlLXNhLW1lcmUtcmVjb25uYWl0LXVuZS1uZWdsaWdlbmNlLWI0ZjU1ZDkwLTQwMDAtMTFlZS05NDI0LTIyYzE2ZmU2NDUzM9IBAA?oc=5",
-			"pubDate": "Mon, 21 Aug 2023 09:14:38 GMT",
-			"image": "https://picsum.photos/200/300?grayscale",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "",
-			"url": "",
-			"description": ""
-		},
-		{
-			"title": "\"J'ai vu une ombre\" : un nageur bless\u00e9 par un requin en Espagne, la plage \u00e9vacu\u00e9e - LaDepeche.fr",
-			"link": "https://www.ladepeche.fr/2023/08/21/jai-vu-une-ombre-un-nageur-blesse-par-un-requin-en-espagne-la-plage-evacuee-11406593.php",
-			"pubDate": "Mon, 21 Aug 2023 06:01:00 GMT",
-			"image": "https://images.ladepeche.fr/api/v1/images/view/64e2fd3eec060c74bc79106a/large/image.jpg?v=1",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "ladepeche.fr",
-			"url": "https://www.ladepeche.fr/2023/08/21/jai-vu-une-ombre-un-nageur-blesse-par-un-requin-en-espagne-la-plage-evacuee-11406593.php",
-			"description": "\u00c0 Oliva, en Espagne, un homme a \u00e9t\u00e9 mordu au pied droit par un requin bleu. Les plages de la zone ont \u00e9t\u00e9 interdites \u00e0 la baignade pendant plusieurs heures."
-		},
-		{
-			"title": "Vacances : voici la dur\u00e9e id\u00e9ale des cong\u00e9s, selon une \u00e9tude - CNEWS",
-			"link": "https://www.cnews.fr/monde/2023-08-21/vacances-voici-la-duree-ideale-des-conges-selon-une-etude-1388328",
-			"pubDate": "Mon, 21 Aug 2023 06:31:06 GMT",
-			"image": "https://static.cnews.fr/sites/default/files/rui-silvestre-nybbon5afs0-unsplash_64e227d5cd660_0.jpg",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "CNEWS",
-			"url": "https://www.cnews.fr/monde/2023-08-21/vacances-voici-la-duree-ideale-des-conges-selon-une-etude-1388328",
-			"description": "La plupart des vacances semblent avoir des effets importants sur le bien-\u00eatre. Mais une \u00e9tude s'est pench\u00e9e sur la dur\u00e9e id\u00e9ale des cong\u00e9s."
 		},
 		{
 			"title": "L'Espagne plaide pour la reconnaissance du basque, du galicien et du catalan comme langues officielles aupr\u00e8s des institutions europ\u00e9ennes - Le Journal du dimanche",
@@ -561,14 +641,14 @@
 			"description": ""
 		},
 		{
-			"title": "Les r\u00e9serves de gaz en France sous la moyenne europ\u00e9enne - \u00c9conomie Matin",
-			"link": "https://www.economiematin.fr/les-reserves-de-gaz-en-france-sous-la-moyenne-europeenne",
-			"pubDate": "Mon, 21 Aug 2023 06:32:50 GMT",
-			"image": "https://www.economiematin.fr/wp-content/uploads/2023/08/reserves-de-gaz-france-moyenne-eu.jpg",
+			"title": "\u00ab L'adoption de climatiseurs pour faire face aux vagues de chaleur fait \u00e9merger une nouvelle forme de pr\u00e9carit\u00e9 \u00bb - Le Monde",
+			"link": "https://www.lemonde.fr/planete/article/2023/08/20/l-adoption-de-climatiseurs-pour-faire-face-aux-vagues-de-chaleur-fait-emerger-une-nouvelle-forme-de-precarite_6185986_3244.html",
+			"pubDate": "Sun, 20 Aug 2023 12:48:14 GMT",
+			"image": "https://img.lemde.fr/2023/08/20/0/0/7143/4762/1440/960/60/0/724643d_1692534847693-636438.jpg",
 			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "Economie Matin",
-			"url": "https://www.economiematin.fr/les-reserves-de-gaz-en-france-sous-la-moyenne-europeenne",
-			"description": "En pr\u00e9paration pour l'hiver, la France a atteint un taux de remplissage de 84 % de ses r\u00e9serves de gaz, en dessous de la moyenne europ\u00e9enne."
+			"site_name": "Le Monde.fr",
+			"url": "https://www.lemonde.fr/planete/article/2023/08/20/l-adoption-de-climatiseurs-pour-faire-face-aux-vagues-de-chaleur-fait-emerger-une-nouvelle-forme-de-precarite_6185986_3244.html",
+			"description": "La chercheuse en \u00e9conomie de l\u2019environnement Enrica de Cian analyse, dans un entretien au \u00ab\u00a0Monde\u00a0\u00bb, les in\u00e9galit\u00e9s d\u2019acc\u00e8s \u00e0 un air rafra\u00eechi, \u00e0 la fois entre pays du Nord et du Sud, et entre les cat\u00e9gories de population au sein des pays."
 		},
 		{
 			"title": "Des S\u00e9n\u00e9galais divis\u00e9s sur une possible intervention militaire au Niger - RFI",
@@ -581,125 +661,45 @@
 			"description": ""
 		},
 		{
-			"title": "Le trading haute fr\u00e9quence profite de la lenteur des dark pools - Boursorama",
-			"link": "https://www.boursorama.com/bourse/actualites/le-trading-haute-frequence-profite-de-la-lenteur-des-dark-pools-4f6452507139d056e011a1d366ac0359",
-			"pubDate": "Mon, 21 Aug 2023 08:45:14 GMT",
-			"image": "https://s.brsimg.com/static-000/cache/i/content/images/7/4/c/74c9dbe1171d2b1c98ff744e4fcb0b36-1280x857.jpg",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "Boursorama",
-			"url": "https://www.boursorama.com/bourse/actualites/le-trading-haute-frequence-profite-de-la-lenteur-des-dark-pools-4f6452507139d056e011a1d366ac0359",
-			"description": "(NEWSManagers.com)\n \n - Deux millisecondes de retard suffisent"
-		},
-		{
-			"title": "Belgique : Un homme \u00e9crase un policier avant d'\u00eatre abattu. \"Moi je vous le dis, ici \u00e7a va encore \u00eatre le dawa, comme Nahel en France\" - ACTU Forces De l\u2019Ordre",
-			"link": "https://actuforcesdelordre.fr/2023/08/20/belgique-un-homme-ecrase-un-policier-avant-detre-abattu-moi-je-vous-le-dis-ici-ca-va-encore-etre-le-dawa-comme-nahel-en-france/",
-			"pubDate": "Sun, 20 Aug 2023 07:46:06 GMT",
-			"image": "https://actuforcesdelordre.fr/wp-content/uploads/2022/11/img_7733.jpg",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "Actu Forces De l\u2019Ordre",
-			"url": "https://actuforcesdelordre.fr/2023/08/20/belgique-un-homme-ecrase-un-policier-avant-detre-abattu-moi-je-vous-le-dis-ici-ca-va-encore-etre-le-dawa-comme-nahel-en-france/",
-			"description": "Vendredi apr\u00e8s-midi \u00e0 Oupeye, en Belgique, les agents de police ont tent\u00e9 de proc\u00e9der au contr\u00f4le d'un homme qui conduisait de mani\u00e8re dangereuse sur un q"
-		},
-		{
-			"title": "Chine : l'invasion touristique - franceinfo",
-			"link": "https://www.francetvinfo.fr/monde/chine/chine-l-invasion-touristique_6016583.html",
-			"pubDate": "Sun, 20 Aug 2023 19:59:49 GMT",
-			"image": "https://www.francetvinfo.fr/pictures/tDE7Pt03KvWzkXNsChcSXCtL00U/1500x843/2023/08/20/64e26fef4cb0a_chine-surtourisme.jpg",
+			"title": "REPORTAGE. \"Je l'utilise principalement pour acc\u00e9der aux sites \u00e9trangers d\u00e9sormais bloqu\u00e9s\" : le succ\u00e8s des VPN en Russie - franceinfo",
+			"link": "https://www.francetvinfo.fr/monde/russie/reportage-je-l-utilise-principalement-pour-acceder-aux-sites-etrangers-desormais-bloques-le-succes-des-vpn-en-russie_6016565.html",
+			"pubDate": "Mon, 21 Aug 2023 12:55:25 GMT",
+			"image": "https://www.francetvinfo.fr/pictures/QjG5KJeKFs_CUXQlqeUudktflrY/1500x843/2023/08/20/64e26aa2321a6_075-raa-socialme230815-nphm1.jpg",
 			"logo": "https://picsum.photos/32/32?grayscale",
 			"site_name": "Franceinfo",
-			"url": "https://www.francetvinfo.fr/monde/chine/chine-l-invasion-touristique_6016583.html",
-			"description": "La Chine conna\u00eet une augmentation du nombre de touristes sur ses terres. Le Huangshan, dans le nord-est de la Chine, voit de nombreux visiteurs s'y rendre."
+			"url": "https://www.francetvinfo.fr/monde/russie/reportage-je-l-utilise-principalement-pour-acceder-aux-sites-etrangers-desormais-bloques-le-succes-des-vpn-en-russie_6016565.html",
+			"description": "Pour contourner la censure et profiter des plateformes comme Instagram ou des sites d'information, les Russes sont de plus en plus nombreux \u00e0 utiliser les applications VPN qui modifient la localisation de connexion."
 		},
 		{
-			"title": "Les arbres poussent de plus en plus haut en montagne \u00e0 cause du r\u00e9chauffement, et ce n'est pas anodin - Le HuffPost",
-			"link": "https://www.huffingtonpost.fr/environnement/article/les-arbres-poussent-de-plus-en-plus-haut-en-montagne-a-cause-du-rechauffement-et-ce-n-est-pas-anodin_222023.html",
-			"pubDate": "Mon, 21 Aug 2023 10:32:34 GMT",
-			"image": "https://huffpost-focus.sirius.press/2023/08/21/567/0/5464/3073/1820/1023/75/0/7895672_1692611801978-gettyimages-1607570529.jpg",
+			"title": "Les r\u00e9serves de gaz en France sous la moyenne europ\u00e9enne - \u00c9conomie Matin",
+			"link": "https://www.economiematin.fr/les-reserves-de-gaz-en-france-sous-la-moyenne-europeenne",
+			"pubDate": "Mon, 21 Aug 2023 06:32:50 GMT",
+			"image": "https://www.economiematin.fr/wp-content/uploads/2023/08/reserves-de-gaz-france-moyenne-eu.jpg",
 			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "Le HuffPost",
-			"url": "https://www.huffingtonpost.fr/environnement/article/les-arbres-poussent-de-plus-en-plus-haut-en-montagne-a-cause-du-rechauffement-et-ce-n-est-pas-anodin_222023.html",
-			"description": "Une r\u00e9cente \u00e9tude r\u00e9v\u00e8le que les arbres gagnent du terrain en altitude dans le monde entier. Et ce n\u2019est pas forc\u00e9ment une bonne nouvelle pour la faune et la flore de montagne."
+			"site_name": "Economie Matin",
+			"url": "https://www.economiematin.fr/les-reserves-de-gaz-en-france-sous-la-moyenne-europeenne",
+			"description": "En pr\u00e9paration pour l'hiver, la France a atteint un taux de remplissage de 84 % de ses r\u00e9serves de gaz, en dessous de la moyenne europ\u00e9enne."
 		},
 		{
-			"title": "Le top 15 des tweets de la semaine #425 - Hitek.fr",
-			"link": "https://news.google.com/rss/articles/CBMiOmh0dHBzOi8vaGl0ZWsuZnIvYWN0dWFsaXRlL3RvcC0xNS10d2VldHMtc2VtYWluZS00MjVfNDM3OTPSAQA?oc=5",
-			"pubDate": "Mon, 21 Aug 2023 09:07:08 GMT",
-			"image": "https://hitek.fr/img/up_o/399497923/hitek_c7f9996e0bc9716523ef7bf416c74f1e_1692608602.jpeg",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "",
-			"url": "",
-			"description": ""
-		},
-		{
-			"title": "Voyage en Italie : une simple erreur co\u00fbte 80 \u20ac \u00e0 cette touriste - VVA",
-			"link": "https://www.visa-algerie.com/voyage-en-italie-une-simple-erreur-coute-80-e-a-cette-touriste/",
-			"pubDate": "Mon, 21 Aug 2023 04:30:01 GMT",
-			"image": "https://www.visa-algerie.com/wp-content/uploads/2023/08/IMG_6431.jpeg",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "VVA",
-			"url": "https://www.visa-algerie.com/voyage-en-italie-une-simple-erreur-coute-80-e-a-cette-touriste/",
-			"description": "Leonara, voyageuse aguerrie connue sur Instagram, a r\u00e9cemment fait une erreur courante."
-		},
-		{
-			"title": "\u00ab Le plan de paix de l'Ukraine garantira la s\u00e9curit\u00e9 et la justice pour l'ensemble de la communaut\u00e9 internationale \u00bb - Le Monde",
-			"link": "https://www.lemonde.fr/idees/article/2023/08/21/le-plan-de-paix-de-l-ukraine-garantira-la-securite-et-la-justice-pour-l-ensemble-de-la-communaute-internationale_6186076_3232.html",
-			"pubDate": "Mon, 21 Aug 2023 12:00:11 GMT",
-			"image": "https://img.lemde.fr/2023/08/07/24/0/1024/682/1440/960/60/0/ca206c4_fw1-ukraine-crisis-saudi-talks-0806-1a.jpg",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "Le Monde.fr",
-			"url": "https://www.lemonde.fr/idees/article/2023/08/21/le-plan-de-paix-de-l-ukraine-garantira-la-securite-et-la-justice-pour-l-ensemble-de-la-communaute-internationale_6186076_3232.html",
-			"description": "TRIBUNE. Parce que \u00ab\u00a0la Russie est en guerre contre le monde entier\u00a0\u00bb, la s\u00e9curit\u00e9 \u00e0 l\u2019\u00e9chelle mondiale n\u00e9cessite la collaboration de la communaut\u00e9 internationale autour du plan de paix propos\u00e9 par Kiev en novembre\u00a02022, affirme le chef de l\u2019administration pr\u00e9sidentielle ukrainienne, Andriy Yermak, dans une tribune au \u00ab\u00a0Monde\u00a0\u00bb."
-		},
-		{
-			"title": "Quatre touristes italiens partent sans payer en Albanie, leur ambassade contrainte de r\u00e9gler la note - LaDepeche.fr",
-			"link": "https://www.ladepeche.fr/2023/08/20/quatre-touristes-italiens-partent-sans-payer-en-albanie-leur-ambassade-obligee-de-regler-la-note-11405470.php",
-			"pubDate": "Sun, 20 Aug 2023 12:02:00 GMT",
-			"image": "https://images.ladepeche.fr/api/v1/images/view/64e200838ffabc754568c0fe/large/image.jpg?v=1",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "ladepeche.fr",
-			"url": "https://www.ladepeche.fr/2023/08/20/quatre-touristes-italiens-partent-sans-payer-en-albanie-leur-ambassade-obligee-de-regler-la-note-11405470.php",
-			"description": "Quatre touristes italiens ont laiss\u00e9 une note impay\u00e9e de 80 euros dans un restaurant en Albanie. Face au scandale g\u00e9n\u00e9r\u00e9 sur les r\u00e9seaux sociaux et afin d'\u00e9viter le \"d\u00e9shonneur\", la Premi\u00e8re ministre Giorgia Meloni a..."
-		},
-		{
-			"title": "A Versoix, rentr\u00e9e scolaire rime avec d\u00e9m\u00e9nagement pour les petits Ukrainiens - Le Temps",
-			"link": "https://news.google.com/rss/articles/CBMicWh0dHBzOi8vd3d3LmxldGVtcHMuY2gvc3Vpc3NlL2dlbmV2ZS9hLXZlcnNvaXgtcmVudHJlZS1zY29sYWlyZS1yaW1lLWF2ZWMtZGVtZW5hZ2VtZW50LXBvdXItbGVzLXBldGl0cy11a3JhaW5pZW5z0gEA?oc=5",
-			"pubDate": "Mon, 21 Aug 2023 08:01:34 GMT",
-			"image": "https://letemps-17455.kxcdn.com/photos/20a98053-4fa4-4faf-9cac-ceb6bdbbf85c/medium",
+			"title": "\u00c9tats-Unis : un enfant de 6 ans tire sur sa ma\u00eetresse en classe, sa m\u00e8re reconna\u00eet une n\u00e9gligence - Ouest-France",
+			"link": "https://news.google.com/rss/articles/CBMisAFodHRwczovL3d3dy5vdWVzdC1mcmFuY2UuZnIvbW9uZGUvZXRhdHMtdW5pcy9ldGF0cy11bmlzLXVuLWVuZmFudC1kZS02LWFucy10aXJlLXN1ci1zYS1tYWl0cmVzc2UtZW4tY2xhc3NlLXNhLW1lcmUtcmVjb25uYWl0LXVuZS1uZWdsaWdlbmNlLWI0ZjU1ZDkwLTQwMDAtMTFlZS05NDI0LTIyYzE2ZmU2NDUzM9IBAA?oc=5",
+			"pubDate": "Mon, 21 Aug 2023 09:14:38 GMT",
+			"image": "https://picsum.photos/200/300?grayscale",
 			"logo": "https://picsum.photos/32/32?grayscale",
 			"site_name": "",
 			"url": "",
 			"description": ""
 		},
 		{
-			"title": "Une chambre d\u2019esclaves mise au jour \u00e0 Pomp\u00e9i livre des indices sur leurs conditions de vie dans la Rome Antique - Lib\u00e9ration",
-			"link": "https://news.google.com/rss/articles/CBMivwFodHRwczovL3d3dy5saWJlcmF0aW9uLmZyL3NjaWVuY2VzL2hpc3RvaXJlL3VuZS1jaGFtYnJlLWRlc2NsYXZlcy1taXNlLWF1LWpvdXItYS1wb21wZWktbGl2cmUtZGVzLWluZGljZXMtc3VyLWxldXJzLWNvbmRpdGlvbnMtZGUtdmllLWRhbnMtbGEtcm9tZS1hbnRpcXVlLTIwMjMwODIwX1IzQlpSWjVJSzVFRjNJUUdCVEtEWFZUT0xFL9IBzgFodHRwczovL3d3dy5saWJlcmF0aW9uLmZyL3NjaWVuY2VzL2hpc3RvaXJlL3VuZS1jaGFtYnJlLWRlc2NsYXZlcy1taXNlLWF1LWpvdXItYS1wb21wZWktbGl2cmUtZGVzLWluZGljZXMtc3VyLWxldXJzLWNvbmRpdGlvbnMtZGUtdmllLWRhbnMtbGEtcm9tZS1hbnRpcXVlLTIwMjMwODIwX1IzQlpSWjVJSzVFRjNJUUdCVEtEWFZUT0xFLz9vdXRwdXRUeXBlPWFtcA?oc=5",
-			"pubDate": "Sun, 20 Aug 2023 13:56:51 GMT",
-			"image": "https://www.liberation.fr/resizer/QVtstY89EFwCYh2cor_vyl7hKWI=/1200x630/filters:format(jpg):quality(70):focal(2053x1488:2063x1498)/cloudfront-eu-central-1.images.arcpublishing.com/liberation/LKTNNDJ22BB43BHMTEZORZFLX4.jpg",
+			"title": "Le Burkina Faso et le Mali ont d\u00e9ploy\u00e9 des avions l\u00e9gers d'attaque A-29 Super Tucano au Niger - Zone Militaire",
+			"link": "https://www.opex360.com/2023/08/21/le-burkina-faso-et-le-mali-ont-deploye-des-avions-legers-dattaque-a-29-super-tucano-au-niger/",
+			"pubDate": "Mon, 21 Aug 2023 14:40:17 GMT",
+			"image": "https://www.opex360.com/wp-content/uploads/tucano-20230821.jpg",
 			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "Lib\u00e9ration",
-			"url": "",
-			"description": ""
-		},
-		{
-			"title": "Au Kenya, dans la for\u00eat de Shakahola, les d\u00e9couvertes macabres se poursuivent - Le Monde",
-			"link": "https://www.lemonde.fr/afrique/article/2023/08/21/au-kenya-dans-la-foret-de-shakahola-les-decouvertes-macabres-se-poursuivent_6186022_3212.html",
-			"pubDate": "Mon, 21 Aug 2023 02:30:08 GMT",
-			"image": "https://img.lemde.fr/2023/08/17/0/0/1023/682/1440/960/60/0/0bf1583_1692285047177-000-33du8nl.jpg",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "Le Monde.fr",
-			"url": "https://www.lemonde.fr/afrique/article/2023/08/21/au-kenya-dans-la-foret-de-shakahola-les-decouvertes-macabres-se-poursuivent_6186022_3212.html",
-			"description": "Des corps fra\u00eechement enterr\u00e9s ont \u00e9t\u00e9 exhum\u00e9s d\u00e9but juillet. Depuis l\u2019arrestation du gourou \u00e9vang\u00e9lique Paul Mackenzie, en avril, le d\u00e9compte de ses victimes atteint 425\u00a0morts."
-		},
-		{
-			"title": "Jean-Pierre Robin: \u00abNon, l'Allemagne n'est pas l'homme malade de l'Europe\u00bb - Le Figaro",
-			"link": "https://www.lefigaro.fr/vox/monde/jean-pierre-robin-non-l-allemagne-n-est-pas-l-homme-malade-de-l-europe-20230821",
-			"pubDate": "Mon, 21 Aug 2023 05:00:11 GMT",
-			"image": "https://i.f1g.fr/media/eidos/1200x630_crop/2023/08/21/XVM119d9f8e-3f94-11ee-ab0a-435598d931c4.jpg",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "LEFIGARO",
-			"url": "https://www.lefigaro.fr/vox/monde/jean-pierre-robin-non-l-allemagne-n-est-pas-l-homme-malade-de-l-europe-20230821",
-			"description": "ANALYSE - Le pr\u00e9tendu malade de l\u2019Europe a une musculature et des d\u00e9fenses immunitaires qui font envie."
+			"site_name": "Zone Militaire",
+			"url": "https://www.opex360.com/2023/08/21/le-burkina-faso-et-le-mali-ont-deploye-des-avions-legers-dattaque-a-29-super-tucano-au-niger/",
+			"description": "Cela fait maintenant presque un mois que le pr\u00e9sident nig\u00e9rien, Mohamed Bazoum, a \u00e9t\u00e9 renvers\u00e9 par un putsch forment\u00e9 par le g\u00e9n\u00e9ral Abdourahamane"
 		}
 	],
-	"timestamp": "2023-08-21 16:17:36.686573"
+	"timestamp": "2023-08-21 20:14:00.594070"
 }
