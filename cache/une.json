@@ -1,4 +1,515 @@
 {
-	"content": [],
-	"timestamp": "2023-08-25 20:12:57.880567"
+	"content": [
+		{
+			"title": "Mort d'Evgu\u00e9ni Prigojine: le ministre ukrainien de la D\u00e9fense estime que le groupe Wagner est \"bris\u00e9\" - BFMTV",
+			"link": "https://www.bfmtv.com/international/asie/russie/mort-d-evgueni-prigojine-le-ministre-ukrainien-de-la-defense-estime-que-le-groupe-wagner-est-brise_AD-202308250671.html",
+			"pubDate": "Fri, 25 Aug 2023 20:55:00 GMT",
+			"image": "https://images.bfmtv.com/zLhlNyTPxhHaJgAU2k5LvB2MxtY=/4x39:1876x1092/1872x0/images/Oleksii-Reznikov-le-ministre-ukrainien-de-la-Defense-le-26-avril-2022-1402761.jpg",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "BFMTV",
+			"url": "https://www.bfmtv.com/international/asie/russie/mort-d-evgueni-prigojine-le-ministre-ukrainien-de-la-defense-estime-que-le-groupe-wagner-est-brise_AD-202308250671.html",
+			"description": "\"Il n'y a plus \u00e0 proprement parler de groupe Wagner, en tant que troupe s\u00e9rieuse\", a d\u00e9clar\u00e9 Oleksi\u00ef Reznikov ce vendredi, 48 heures apr\u00e8s la mort de l'oligarque russe."
+		},
+		{
+			"title": "\u00c9tats-Unis: le \u00abmugshot\u00bb de Trump devient une arme politique redoutable - RFI",
+			"link": "https://news.google.com/rss/articles/CBMid2h0dHBzOi8vd3d3LnJmaS5mci9mci9hbSVDMyVBOXJpcXVlcy8yMDIzMDgyNS0lQzMlQTl0YXRzLXVuaXMtbGUtbXVnc2hvdC1kZS10cnVtcC1kZXZpZW50LXVuZS1hcm1lLXBvbGl0aXF1ZS1yZWRvdXRhYmxl0gF3aHR0cHM6Ly9hbXAucmZpLmZyL2ZyL2FtJUMzJUE5cmlxdWVzLzIwMjMwODI1LSVDMyVBOXRhdHMtdW5pcy1sZS1tdWdzaG90LWRlLXRydW1wLWRldmllbnQtdW5lLWFybWUtcG9saXRpcXVlLXJlZG91dGFibGU?oc=5",
+			"pubDate": "Fri, 25 Aug 2023 20:42:32 GMT",
+			"image": "https://picsum.photos/200/300?grayscale",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "",
+			"url": "",
+			"description": ""
+		},
+		{
+			"title": "Le directeur du British Museum d\u00e9missionne apr\u00e8s une s\u00e9rie de vols - 20 Minutes",
+			"link": "https://www.20minutes.fr/monde/royaume-uni/4050260-20230825-directeur-british-museum-demissionne-apres-serie-vols",
+			"pubDate": "Fri, 25 Aug 2023 19:39:01 GMT",
+			"image": "https://img.20mn.fr/-glmZZ1LQ12mmN7UXmPv8Ck/1200x768_mandatory-credit-photo-by-courtesy-of-sinai-noor-shutterstock-14068487a-british-museum-thefts-director-hartwig-fischer-quits-over-stolen-treasures-british-museum-thefts-london-uk-25-aug-2023-shutterstock-editorial-british-museum-thefts-london-u-14068487a-2308251930",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "www.20minutes.fr",
+			"url": "https://www.20minutes.fr/monde/royaume-uni/4050260-20230825-directeur-british-museum-demissionne-apres-serie-vols",
+			"description": "Depuis le 16\u00a0ao\u00fbt, le c\u00e9l\u00e8bre mus\u00e9e avait annonc\u00e9 la disparition d\u2019une s\u00e9rie de pi\u00e8ces des collections, certaines remontant au XVe\u00a0si\u00e8cle avant J.-C."
+		},
+		{
+			"title": "La col\u00e8re anti-Assad se r\u00e9veille dans le Sud syrien - Le Figaro",
+			"link": "https://www.lefigaro.fr/international/la-colere-anti-assad-se-reveille-dans-le-sud-syrien-20230825",
+			"pubDate": "Fri, 25 Aug 2023 16:39:10 GMT",
+			"image": "https://i.f1g.fr/media/eidos/1200x630_crop/2023/08/25/XVM1b656aa2-4335-11ee-9ac9-5a072359bf03.jpg",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "LEFIGARO",
+			"url": "https://www.lefigaro.fr/international/la-colere-anti-assad-se-reveille-dans-le-sud-syrien-20230825",
+			"description": "D\u00c9CRYPTAGE - D\u00e9non\u00e7ant la d\u00e9t\u00e9rioration de leurs conditions de vie, des manifestants appellent \u00e0 la chute du r\u00e9gime."
+		},
+		{
+			"title": "\u00c0 Niamey, le Niger, le Mali et le Burkina Faso affichent leur proximit\u00e9 - RFI",
+			"link": "https://news.google.com/rss/articles/CBMidmh0dHBzOi8vd3d3LnJmaS5mci9mci9hZnJpcXVlLzIwMjMwODI1LSVDMyVBMC1uaWFtZXktbGUtbmlnZXItbGUtbWFsaS1ldC1sZS1idXJraW5hLWZhc28tYWZmaWNoZW50LWxldXItcHJveGltaXQlQzMlQTnSAXZodHRwczovL2FtcC5yZmkuZnIvZnIvYWZyaXF1ZS8yMDIzMDgyNS0lQzMlQTAtbmlhbWV5LWxlLW5pZ2VyLWxlLW1hbGktZXQtbGUtYnVya2luYS1mYXNvLWFmZmljaGVudC1sZXVyLXByb3hpbWl0JUMzJUE5?oc=5",
+			"pubDate": "Fri, 25 Aug 2023 21:13:06 GMT",
+			"image": "https://picsum.photos/200/300?grayscale",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "",
+			"url": "",
+			"description": ""
+		},
+		{
+			"title": "Les Brics s'attaquent \u00e0 la dictature du dollar - Mediapart",
+			"link": "https://www.mediapart.fr/journal/international/250823/les-brics-s-attaquent-la-dictature-du-dollar",
+			"pubDate": "Fri, 25 Aug 2023 16:52:47 GMT",
+			"image": "https://static.mediapart.fr/etmagine/og/journal/files/2023/08/25/000-33ta4u3.jpg",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "Mediapart",
+			"url": "https://www.mediapart.fr/journal/international/250823/les-brics-s-attaquent-la-dictature-du-dollar",
+			"description": "Tous les objectifs que s\u2019\u00e9tait fix\u00e9s la Chine pour le 15e sommet des Brics sont atteints\u00a0: le club s\u2019\u00e9largit, l\u2019entr\u00e9e des trois principaux pays producteurs casse le lien entre p\u00e9trole et dollar, des\u2026"
+		},
+		{
+			"title": "URGENT - Le patron du foot espagnol Luis Rubiales annonce qu'il refuse de d\u00e9missionner apr\u00e8s le scandale ... - Le Blog de Jean-Marc Morandini",
+			"link": "https://www.jeanmarcmorandini.com/article-545540-baiser-force-apres-le-refus-de-demissionner-de-luis-rubiales-les-23-championnes-du-monde-espagnoles-refusent-de-jouer-et-quittent-la-selection-ces-comportements-ont-porte-atteinte-a-la-dignite-des-femmes.html",
+			"pubDate": "Fri, 25 Aug 2023 10:44:00 GMT",
+			"image": "https://www.jeanmarcmorandini.com/sites/jeanmarcmorandini.com/files/rubiales-hermoso_0.webp",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "Jean-Marc Morandini",
+			"url": "https://www.jeanmarcmorandini.com/article-545540-baiser-force-apres-le-refus-de-demissionner-de-luis-rubiales-les-23-championnes-du-monde-espagnoles-refusent-de-jouer-et-quittent-la-selection-ces-comportements-ont-porte-atteinte-a-la-dignite-des-femmes.html",
+			"description": "20h22 : Apr\u00e8s le refus de d\u00e9missionner de Luis Rubiales, les 23 championnes du monde espagnoles refusent de jouer et quittent la s\u00e9lection."
+		},
+		{
+			"title": "Face \u00e0 la s\u00e9cheresse, le canal de Panama restreint pour un an le passage des navires - franceinfo",
+			"link": "https://www.francetvinfo.fr/meteo/secheresse/face-a-la-secheresse-le-canal-de-panama-restreint-pour-un-an-le-passage-des-navires_6024881.html",
+			"pubDate": "Fri, 25 Aug 2023 08:48:08 GMT",
+			"image": "https://www.francetvinfo.fr/pictures/gPmx6l_DS_nQ9RqlRVc4tSBUVzY/1500x843/2023/08/25/64e866b667043_000-33t62rf.jpg",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "Franceinfo",
+			"url": "https://www.francetvinfo.fr/meteo/secheresse/face-a-la-secheresse-le-canal-de-panama-restreint-pour-un-an-le-passage-des-navires_6024881.html",
+			"description": "Depuis le 30 juillet, le nombre de navires autoris\u00e9s chaque jour a diminu\u00e9 de 40 \u00e0 32."
+		},
+		{
+			"title": "Danemark : le pays va interdire les autodaf\u00e9s du Coran - CNEWS",
+			"link": "https://www.cnews.fr/monde/2023-08-25/danemark-le-pays-va-interdire-les-autodafes-du-coran-1390088",
+			"pubDate": "Fri, 25 Aug 2023 19:22:56 GMT",
+			"image": "https://static.cnews.fr/sites/default/files/gr-stocks-akfhzzr20eq-unsplash-taille1200_64e8c6f9c7efe.jpg",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "CNEWS",
+			"url": "https://www.cnews.fr/monde/2023-08-25/danemark-le-pays-va-interdire-les-autodafes-du-coran-1390088",
+			"description": "Une loi visant \u00e0 interdire les autodaf\u00e9s du Coran a \u00e9t\u00e9 pr\u00e9sent\u00e9e, ce vendredi 25 ao\u00fbt, au Danemark. Le gouvernement danois a pr\u00e9sent\u00e9 vendredi un projet de loi pour interdire les autodaf\u00e9s du Coran, apr\u00e8s des profanations du livre saint de l'islam qui ont entra\u00een\u00e9 des tensions dans plusieurs pays musulmans."
+		},
+		{
+			"title": "Guerre en Ukraine : Moscou passe entre les drones en Crim\u00e9e et met au pas ses milices priv\u00e9es - 20 Minutes",
+			"link": "https://www.20minutes.fr/monde/ukraine/4050226-20230825-guerre-ukraine-moscou-passe-entre-drones-crimee-met-milices-privees",
+			"pubDate": "Fri, 25 Aug 2023 16:43:51 GMT",
+			"image": "https://img.20mn.fr/-2owjYFWSfSGnDNMafS1Pik/1200x768_a-ukrainian-soldier-of-the-28th-brigade-launches-a-drone-at-the-frontline-close-to-bakhmut-ukraine-sunday-aug-20-2023-ap-photo-libkos-xel131-23232614164283-2308201910",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "www.20minutes.fr",
+			"url": "https://www.20minutes.fr/monde/ukraine/4050226-20230825-guerre-ukraine-moscou-passe-entre-drones-crimee-met-milices-privees",
+			"description": "\u00ab 20 Minutes \u00bb fait le point pour vous tous les soirs sur l\u2019avanc\u00e9e du conflit en Ukraine"
+		},
+		{
+			"title": "Rejet de l'eau de Fukushima : les premi\u00e8res analyses de s\u00e9curit\u00e9 sont concluantes - Le Figaro",
+			"link": "https://www.lefigaro.fr/conjoncture/rejet-de-l-eau-de-fukushima-les-premieres-analyses-de-securite-sont-concluantes-20230825",
+			"pubDate": "Fri, 25 Aug 2023 07:49:00 GMT",
+			"image": "https://i.f1g.fr/media/cms/1200x630_crop/2023/08/25/d7a0797118cf801a550d870d0eda66a3e7e1fe31d333fabcde69bdd05e35acc6.jpg",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "LEFIGARO",
+			"url": "https://www.lefigaro.fr/conjoncture/rejet-de-l-eau-de-fukushima-les-premieres-analyses-de-securite-sont-concluantes-20230825",
+			"description": "L\u2019op\u00e9rateur de la centrale assure que les taux de radioactivit\u00e9 sont au-dessous de la limite maximale, conform\u00e9ment aux pr\u00e9visions."
+		},
+		{
+			"title": "Soudan : la guerre, la faim et les maladies pourraient \u00abemporter tout le pays\u00bb, s'alarme l'ONU - CNEWS",
+			"link": "https://www.cnews.fr/monde/2023-08-25/soudan-la-guerre-la-faim-et-les-maladies-pourraient-emporter-tout-le-pays-salarme",
+			"pubDate": "Fri, 25 Aug 2023 14:05:59 GMT",
+			"image": "https://static.cnews.fr/sites/default/files/2023-08-06t181952z_1939500103_rc2vg2awiamg_rtrmadp_3_sudan-politics-chad_64e890e14f521.jpg",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "CNEWS",
+			"url": "https://www.cnews.fr/monde/2023-08-25/soudan-la-guerre-la-faim-et-les-maladies-pourraient-emporter-tout-le-pays-salarme",
+			"description": "La guerre et la faim menacent d'\u00abemporter\u00bb tout le Soudan, o\u00f9 des centaines de milliers d'enfants mal nourris risquent de mourir, a alert\u00e9 l'ONU vendredi dans un communiqu\u00e9. Le pays est en proie depuis le 15 avril \u00e0 de violents combats opposant l'arm\u00e9e \u00e0 des paramilitaires. Cette guerre \u00abalimente une urgence humanitaire aux proportions \u00e9piques\u00bb, a ainsi alert\u00e9 le coordinateur des Nations unies pour les Affaires humanitaires, Martin Griffiths."
+		},
+		{
+			"title": "Les Pays-Bas choisissent Wopke Hoekstra comme nouveau commissaire europ\u00e9en - Les \u00c9chos",
+			"link": "https://www.lesechos.fr/monde/europe/la-haye-choisit-wopke-hoekstra-comme-nouveau-commissaire-europeen-1972439",
+			"pubDate": "Fri, 25 Aug 2023 14:20:49 GMT",
+			"image": "https://media.lesechos.com/api/v1/images/view/64e83abca1560b59d709ec58/1280x720/0901626939829-web-tete.jpg",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "Les Echos",
+			"url": "https://www.lesechos.fr/monde/europe/la-haye-choisit-wopke-hoekstra-comme-nouveau-commissaire-europeen-1972439",
+			"description": "Apr\u00e8s la d\u00e9mission de Frans Timmermans de la Commission europ\u00e9enne, le gouvernement int\u00e9rimaire n\u00e9erlandais a port\u00e9 son choix sur le chr\u00e9tien-d\u00e9mocrate Wopke Hoekstra pour le remplacer \u00e0 Bruxelles.\u00a0Le nouvel arrivant pourrait h\u00e9riter du portefeuille sensible de l'action climatique."
+		},
+		{
+			"title": "Au Gabon, une \u00e9lection pr\u00e9sidentielle taill\u00e9e sur mesure pour Ali Bongo - Le Monde",
+			"link": "https://www.lemonde.fr/afrique/article/2023/08/25/au-gabon-une-election-presidentielle-taillee-sur-mesure-pour-ali-bongo_6186578_3212.html",
+			"pubDate": "Fri, 25 Aug 2023 17:11:53 GMT",
+			"image": "https://img.lemde.fr/2023/08/25/0/0/4906/3271/1440/960/60/0/96a9286_1692957963050-000-33ad99k.jpg",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "Le Monde.fr",
+			"url": "https://www.lemonde.fr/afrique/article/2023/08/25/au-gabon-une-election-presidentielle-taillee-sur-mesure-pour-ali-bongo_6186578_3212.html",
+			"description": "Le mode d\u2019organisation du scrutin, qui se d\u00e9roule samedi, favorise l\u2019actuel chef d\u2019Etat, en lice pour un troisi\u00e8me mandat."
+		},
+		{
+			"title": "Gr\u00e8ce : la col\u00e8re monte face aux incendies - Euronews",
+			"link": "https://fr.euronews.com/2023/08/25/grece-la-colere-monte-face-aux-incendies",
+			"pubDate": "Fri, 25 Aug 2023 06:50:55 GMT",
+			"image": "https://static.euronews.com/articles/stories/07/84/58/68/1000x563_cmsv2_3c1cc9d0-2491-5d8d-93be-ef1811deebdf-7845868.jpg",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "euronews",
+			"url": "https://fr.euronews.com/2023/08/25/grece-la-colere-monte-face-aux-incendies",
+			"description": "En Gr\u00e8ce, la col\u00e8re monte face aux incendies qui ravagent le pays. Le thermom\u00e8tre flirte avec les 40 degr\u00e9s et 60 000 hectares sont partis en fum\u00e9e en quelques jours."
+		},
+		{
+			"title": "Guerre en Ukraine : la contre-offensive de Kyiv a-t-elle perc\u00e9 la ligne de d\u00e9fense russe \u00e0 Robotyne ? - Lib\u00e9ration",
+			"link": "https://news.google.com/rss/articles/CBMiqgFodHRwczovL3d3dy5saWJlcmF0aW9uLmZyL2NoZWNrbmV3cy9ndWVycmUtZW4tdWtyYWluZS1sYS1jb250cmUtb2ZmZW5zaXZlLWRlLWt5aXYtYS10LWVsbGUtcGVyY2UtbGEtbGlnbmUtZGUtZGVmZW5zZS1ydXNzZS1hLXJvYm90eW5lLTIwMjMwODI1X1pJU1ZCS0UyU0ZFTlZLMk1TWTczRzIzT1lBL9IBAA?oc=5",
+			"pubDate": "Fri, 25 Aug 2023 19:40:35 GMT",
+			"image": "https://www.liberation.fr/resizer/qGX6y5sYYbciZd_5NVWWx1BykmE=/1200x630/filters:format(jpg):quality(70):focal(2090x1245:2100x1255)/cloudfront-eu-central-1.images.arcpublishing.com/liberation/PULGF6Q7OJHLDACUKH5YL2A73A.jpg",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "Lib\u00e9ration",
+			"url": "",
+			"description": ""
+		},
+		{
+			"title": "Primaire r\u00e9publicaine : Les positions des candidats sur le climat choquent les experts - 20 Minutes",
+			"link": "https://www.20minutes.fr/planete/4050116-20230825-primaire-republicaine-positions-candidats-climat-choquent-experts",
+			"pubDate": "Thu, 24 Aug 2023 22:33:09 GMT",
+			"image": "https://img.20mn.fr/tisL4eR9RhKAz39TayG78ik/1200x768_milwaukee-wisconsin-august-23-republican-presidential-candidates-l-r-former-new-jersey-gov-chris-christie-former-u-s-vice-president-mike-pence-florida-gov-ron-de-santis-vivek-ramaswamy-former-u-n-ambassador-nikki-haley-and-u-s-sen-tim-scott-r-sc-participate-in-the-first-debate-of-the-gop-primary-season-hosted-by-fox-news-at-the-fiserv-forum-on-august-23-2023-in-milwaukee-wisconsin-the-8-presidential-hopefuls-squared-off-in-the-first-republican-debate-as-former-u-s-president-donald-trump-currently-facing-indictments-in-four-locations-declined-to-participate-in-the-event-win-mc-namee-getty-images-afp-photo-by-win-mcnamee-getty-images-north-america-getty-images-via-afp",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "www.20minutes.fr",
+			"url": "https://www.20minutes.fr/planete/4050116-20230825-primaire-republicaine-positions-candidats-climat-choquent-experts",
+			"description": "Le parti r\u00e9publicain a toujours autant de mal \u00e0 reconna\u00eetre le facteur humain dans l'acc\u00e9l\u00e9ration du changement climatique"
+		},
+		{
+			"title": "Mayotte : 8 millions d'euros d\u00e9bloqu\u00e9s pour la production d'eau potable, annonce le ministre des Outre-mer - franceinfo",
+			"link": "https://www.francetvinfo.fr/france/mayotte/mayotte-8-millions-d-euros-debloques-pour-la-production-d-eau-potable-annonce-le-ministre-des-outre-mer_6025010.html",
+			"pubDate": "Fri, 25 Aug 2023 11:43:33 GMT",
+			"image": "https://www.francetvinfo.fr/pictures/Y-UnIQZla3rQctrDIpmjL66u2vg/1500x843/2023/08/25/64e88f0ebe649_000-jg1iy.jpg",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "Franceinfo",
+			"url": "https://www.francetvinfo.fr/france/mayotte/mayotte-8-millions-d-euros-debloques-pour-la-production-d-eau-potable-annonce-le-ministre-des-outre-mer_6025010.html",
+			"description": "De nouvelles restrictions d'eau, deux jours sur trois, sont mises en place \u00e0 partir de lundi."
+		},
+		{
+			"title": "120 lingots d'or oubli\u00e9s dans un train en Suisse : la Croix-Rouge h\u00e9rite du myst\u00e9rieux tr\u00e9sor - TF1 INFO",
+			"link": "https://www.tf1info.fr/international/120-lingots-d-or-oublies-dans-un-train-en-suisse-la-croix-rouge-herite-du-mysterieux-tresor-2267677.html",
+			"pubDate": "Fri, 25 Aug 2023 17:26:42 GMT",
+			"image": "https://photos.tf1info.fr/images/1280/720/lingots-et-pieces-d-or-richesse-1-e927ad-0@1x.jpeg",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "TF1 INFO",
+			"url": "https://www.tf1info.fr/international/120-lingots-d-or-oublies-dans-un-train-en-suisse-la-croix-rouge-herite-du-mysterieux-tresor-2267677.html",
+			"description": "[VID\u00c9O] - Un sac contenant 120 ligots d'or a \u00e9t\u00e9 d\u00e9couvert en octobre 2019 en Suisse.\nLe colis, dont la police n'a jamais retrouv\u00e9 le propri\u00e9taire, \u00e9tait adress\u00e9 \u00e0 la Croix-Rouge.\nLe myst\u00e9rieux tr\u00e9sor sera finalement remis \u00e0 l'organisation d'aide humanitaire."
+		},
+		{
+			"title": "Voyage en Tunisie : les meilleures offres pour un s\u00e9jour au soleil - Le Figaro",
+			"link": "https://www.lefigaro.fr/voyages/selection/vacances-en-tunisie-decouvrez-les-meilleures-offres-pour-un-sejour-au-soleil-20230824",
+			"pubDate": "Thu, 24 Aug 2023 14:44:00 GMT",
+			"image": "https://i.f1g.fr/media/cms/1200x630_crop/2023/08/24/27c0304c7f531fd40551758fb2d669f4f3951a0b39d489bd213bf95d52ee89f0.jpg",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "LEFIGARO",
+			"url": "https://www.lefigaro.fr/voyages/selection/vacances-en-tunisie-decouvrez-les-meilleures-offres-pour-un-sejour-au-soleil-20230824",
+			"description": "Entre stations baln\u00e9aires, montagnes, vestiges arch\u00e9ologiques et d\u00e9serts, la Tunisie est une destination id\u00e9ale pour des vacances au soleil \u00e0 moins de 3h de vol de la France. D\u00e9couvrez notre s\u00e9lection des meilleurs s\u00e9jours vol + h\u00f4tel."
+		},
+		{
+			"title": "Espagne: les autorit\u00e9s annoncent que l'incendie qui ravage l'\u00eele de Tenerife est \"stabilis\u00e9\" - BFMTV",
+			"link": "https://www.bfmtv.com/international/europe/espagne/espagne-les-autorites-annoncent-que-l-incendie-qui-ravage-l-ile-de-tenerife-est-stabilise_AD-202308240713.html",
+			"pubDate": "Thu, 24 Aug 2023 20:44:00 GMT",
+			"image": "https://images.bfmtv.com/gx0rx86E6BowejrKPDsbsKXffBs=/0x27:2048x1179/2048x0/images/Un-incendie-hors-de-controle-est-combattu-par-les-pompiers-de-l-ile-espagnole-de-Tenerife-le-16-aout-2023-1690176.jpg",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "BFMTV",
+			"url": "https://www.bfmtv.com/international/europe/espagne/espagne-les-autorites-annoncent-que-l-incendie-qui-ravage-l-ile-de-tenerife-est-stabilise_AD-202308240713.html",
+			"description": "Pr\u00e8s de dix jours apr\u00e8s le d\u00e9but de cet incendie d\u00e9vastateur, les pompiers espagnols ont r\u00e9ussi \u00e0 \"stabiliser\" les flammes sur l'archipel des Canaries."
+		},
+		{
+			"title": "Vol MH370 : le myst\u00e8re de la disparition de l'avion bient\u00f4t r\u00e9solu gr\u00e2ce \u00e0 des crustac\u00e9s ? - CNEWS",
+			"link": "https://www.cnews.fr/monde/2023-08-25/vol-mh370-le-mystere-de-la-disparition-de-lavion-bientot-resolu-grace-des-crustaces",
+			"pubDate": "Fri, 25 Aug 2023 15:25:49 GMT",
+			"image": "https://static.cnews.fr/sites/default/files/000_par8246990_64e896872e799_0.jpg",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "CNEWS",
+			"url": "https://www.cnews.fr/monde/2023-08-25/vol-mh370-le-mystere-de-la-disparition-de-lavion-bientot-resolu-grace-des-crustaces",
+			"description": "Depuis bient\u00f4t une d\u00e9cennie, le myst\u00e8re du vol MH370, disparu en 2014 apr\u00e8s avoir d\u00e9coll\u00e9 de Kuala Lumpur (Malaisie) demeure entier. N\u00e9anmoins, l\u2019analyse de crustac\u00e9s retrouv\u00e9s sur des d\u00e9bris de l\u2019avion pourrait relancer l\u2019enqu\u00eate. Un myst\u00e8re bient\u00f4t r\u00e9solu ? Une nouvelle technique d\u2019analyses, d\u00e9velopp\u00e9e par un groupe de scientifiques, pourrait permettre selon eux de retrouver la carcasse de l\u2019avion, disparu depuis mars 2014 dans l\u2019oc\u00e9an Indien."
+		},
+		{
+			"title": "\u00c0 lui tout seul, ce \u00ab vieux loup gris \u00bb a redonn\u00e9 des couleurs \u00e0 toute une \u00eele - Edition du soir Ouest-France - 24/08/2023 - L'\u00e9dition du soir",
+			"link": "https://news.google.com/rss/articles/CBMipAFodHRwczovL3d3dy5vdWVzdC1mcmFuY2UuZnIvbGVkaXRpb25kdXNvaXIvMjAyMy0wOC0yNC9hLWx1aS10b3V0LXNldWwtY2UtdmlldXgtbG91cC1ncmlzLWEtcmVkb25uZS1kZXMtY291bGV1cnMtYS10b3V0ZS11bmUtaWxlLWQ1ZjRjYjQwLWQzMDgtNDE2OS05Mjk1LTY1MTRlZDMyODVkNtIBAA?oc=5",
+			"pubDate": "Thu, 24 Aug 2023 16:52:30 GMT",
+			"image": "https://picsum.photos/200/300?grayscale",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "",
+			"url": "",
+			"description": ""
+		},
+		{
+			"title": "Les manchots pourraient dispara\u00eetre \u00e0 cause du changement climatique, selon cette nouvelle \u00e9tude - Le HuffPost",
+			"link": "https://www.huffingtonpost.fr/environnement/video/les-manchots-pourraient-disparaitre-a-cause-du-changement-climatique-selon-cette-nouvelle-etude_222198.html",
+			"pubDate": "Fri, 25 Aug 2023 09:45:37 GMT",
+			"image": "https://huffpost-focus.sirius.press/2023/08/25/1/0/2098/1180/1820/1023/75/0/e8b6aea_1692955831298-capture-da-ei-cran-2023-08-25-ai-11-30-23.png",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "Le HuffPost",
+			"url": "https://www.huffingtonpost.fr/environnement/video/les-manchots-pourraient-disparaitre-a-cause-du-changement-climatique-selon-cette-nouvelle-etude_222198.html",
+			"description": "La banquise fond et menace les esp\u00e8ces qui y vivent. En premi\u00e8re ligne, le manchot, d\u00e9j\u00e0 fragile, que le changement climatique atteint particuli\u00e8rement."
+		},
+		{
+			"title": "Sur le terrain et en coulisses, l'Alg\u00e9rie s'active contre une intervention militaire au Niger - RFI",
+			"link": "https://news.google.com/rss/articles/CBMiiAFodHRwczovL3d3dy5yZmkuZnIvZnIvYWZyaXF1ZS8yMDIzMDgyNC1sLWFsZyVDMyVBOXJpZS1zLWFjdGl2ZS1zdXItbGUtdGVycmFpbi1ldC1lbi1jb3VsaXNzZXMtY29udHJlLXVuZS1pbnRlcnZlbnRpb24tbWlsaXRhaXJlLWF1LW5pZ2Vy0gGIAWh0dHBzOi8vYW1wLnJmaS5mci9mci9hZnJpcXVlLzIwMjMwODI0LWwtYWxnJUMzJUE5cmllLXMtYWN0aXZlLXN1ci1sZS10ZXJyYWluLWV0LWVuLWNvdWxpc3Nlcy1jb250cmUtdW5lLWludGVydmVudGlvbi1taWxpdGFpcmUtYXUtbmlnZXI?oc=5",
+			"pubDate": "Thu, 24 Aug 2023 12:21:54 GMT",
+			"image": "https://picsum.photos/200/300?grayscale",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "",
+			"url": "",
+			"description": ""
+		},
+		{
+			"title": "Cor\u00e9e du Nord : Le chef de l\u2019ONU \u00ab condamne fermement \u00bb la tentative de Pyongyang de lancer un satellite - 20 Minutes",
+			"link": "https://www.20minutes.fr/monde/coree_du_nord/4050114-20230824-coree-nord-chef-onu-condamne-fermement-tentative-pyongyang-lancer-satellite",
+			"pubDate": "Thu, 24 Aug 2023 20:34:51 GMT",
+			"image": "https://img.20mn.fr/d6Da5rxtRbS3JvDTL2bZZyk/1200x768_a-man-watches-a-television-screen-showing-a-news-broadcast-with-file-footage-of-a-north-korean-satellite-carrying-rocket-launch-at-a-railway-station-in-seoul-on-august-24-2023-north-korea-s-latest-attempt-to-put-a-spy-satellite-into-orbit-has-ended-in-failure-state-media-said-on-august-24-just-months-after-pyongyang-s-first-launch-crashed-into-the-ocean-shortly-after-blast-off-photo-by-jung-yeon-je-afp",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "www.20minutes.fr",
+			"url": "https://www.20minutes.fr/monde/coree_du_nord/4050114-20230824-coree-nord-chef-onu-condamne-fermement-tentative-pyongyang-lancer-satellite",
+			"description": "A la demande notamment des Etats-Unis, de la France, du Japon et du Royaume-Uni, le Conseil de s\u00e9curit\u00e9 se r\u00e9unira vendredi apr\u00e8s-midi pour discuter de ce nouveau lancement"
+		},
+		{
+			"title": "\u00c9chapp\u00e9e d'un laboratoire, jusqu'\u00e0 1 000 piq\u00fbres avec un seul essaim... Qu'est-ce que l'abeille tueuse, qui a r\u00e9cemment tu\u00e9 une personne ? - L'Ind\u00e9pendant",
+			"link": "https://www.lindependant.fr/2023/08/25/echappee-dun-laboratoire-jusqua-1-000-piqures-avec-un-seul-essaim-quest-ce-que-labeille-tueuse-qui-a-recemment-tue-une-personne-11414479.php",
+			"pubDate": "Fri, 25 Aug 2023 13:06:00 GMT",
+			"image": "https://images.lindependant.fr/api/v1/images/view/64e8a4265d3a351b76417a39/large/image.jpg?v=1",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "lindependant.fr",
+			"url": "https://www.lindependant.fr/2023/08/25/echappee-dun-laboratoire-jusqua-1-000-piqures-avec-un-seul-essaim-quest-ce-que-labeille-tueuse-qui-a-recemment-tue-une-personne-11414479.php",
+			"description": "Une attaque d'essaim d'abeilles tueuses a provoqu\u00e9 la mort d'une personne le 22 ao\u00fbt dernier."
+		},
+		{
+			"title": "En panne de main d'oeuvre, l'Allemagne promeut la nationalisation \u00ab express \u00bb - Les \u00c9chos",
+			"link": "https://www.lesechos.fr/monde/europe/en-panne-de-main-doeuvre-lallemagne-promeut-la-nationalisation-express-1972536",
+			"pubDate": "Fri, 25 Aug 2023 08:51:26 GMT",
+			"image": "https://media.lesechos.com/api/v1/images/view/64e86b93b7b4ca7dfd06225d/1280x720/0901608836482-web-tete.jpg",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "Les Echos",
+			"url": "https://www.lesechos.fr/monde/europe/en-panne-de-main-doeuvre-lallemagne-promeut-la-nationalisation-express-1972536",
+			"description": "L'Allemagne fait passer le d\u00e9lai d'octroi de la nationalit\u00e9 de huit \u00e0 cinq ans pour les r\u00e9sidents l\u00e9gaux. La double nationalit\u00e9 va \u00eatre \u00e9tendue au-del\u00e0 des seuls ressortissants de l'Union europ\u00e9enne."
+		},
+		{
+			"title": "L'Ukraine c\u00e9l\u00e8bre son esprit de r\u00e9sistance face \u00e0 une guerre qui s'inscrit dans la dur\u00e9e - Le Monde",
+			"link": "https://www.lemonde.fr/international/article/2023/08/25/l-ukraine-celebre-son-esprit-de-resistance-face-a-une-guerre-qui-s-inscrit-dans-la-duree_6186505_3210.html",
+			"pubDate": "Fri, 25 Aug 2023 04:25:10 GMT",
+			"image": "https://img.lemde.fr/2023/08/25/324/0/4868/3245/1440/960/60/0/e3be9b2_1692923398242-raf-012.JPG",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "Le Monde.fr",
+			"url": "https://www.lemonde.fr/international/article/2023/08/25/l-ukraine-celebre-son-esprit-de-resistance-face-a-une-guerre-qui-s-inscrit-dans-la-duree_6186505_3210.html",
+			"description": "Les habitants de Kiev ont f\u00eat\u00e9 mercredi et jeudi le Jour du drapeau et celui de l\u2019ind\u00e9pendance, alors que la contre-offensive tarde \u00e0 porter ses fruits."
+		},
+		{
+			"title": "Voici les 6 pays les plus endett\u00e9s en Europe - CNEWS",
+			"link": "https://www.cnews.fr/monde/2023-08-25/voici-les-6-pays-les-plus-endettes-en-europe-1390094",
+			"pubDate": "Fri, 25 Aug 2023 18:11:23 GMT",
+			"image": "https://static.cnews.fr/sites/default/files/000_32hz6vg-taille1200_64e8c8282e192.jpg",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "CNEWS",
+			"url": "https://www.cnews.fr/monde/2023-08-25/voici-les-6-pays-les-plus-endettes-en-europe-1390094",
+			"description": "Depuis la fin du Covid-19, la dette publique des \u00c9tats en Europe a connu une certaine baisse qui s\u2019est poursuivie en 2023. Pourtant, certains pays conservent toujours une dette sup\u00e9rieure \u00e0 100% de leur PIB. La France, la Gr\u00e8ce, l\u2019Italie\u2026 Six pays de l\u2019Union europ\u00e9enne conservent une dette publique sup\u00e9rieure \u00e0 100% de leur PIB en 2023, alors que la plupart des \u00c9tats du continent ont connu une certaine baisse depuis la relance \u00e9conomique post-Covid."
+		},
+		{
+			"title": "Le plus gros contrat d'h\u00e9licopt\u00e8res de l'histoire - La marine am\u00e9ricaine commande 35 h\u00e9licopt\u00e8res CH-53 King Stallion pour un montant de 2,77 milliards de dollars - gagadget.com",
+			"link": "https://news.google.com/rss/articles/CBMimQFodHRwczovL2dhZ2FkZ2V0LmNvbS9mci8zMDIxMDUtbGUtcGx1cy1ncm9zLWNvbnRyYXQtZGhlbGljb3B0ZXJlcy1kZS1saGlzdG9pcmUtbGEtbWFyaW5lLWFtZXJpY2FpbmUtY29tbWFuZGUtMzUtaGVsaWNvcHRlcmVzLWNoLTUzLWtpbmctc3RhbGxpb24tcG91ci11bi_SAZ0BaHR0cHM6Ly9nYWdhZGdldC5jb20vZnIvMzAyMTA1LWxlLXBsdXMtZ3Jvcy1jb250cmF0LWRoZWxpY29wdGVyZXMtZGUtbGhpc3RvaXJlLWxhLW1hcmluZS1hbWVyaWNhaW5lLWNvbW1hbmRlLTM1LWhlbGljb3B0ZXJlcy1jaC01My1raW5nLXN0YWxsaW9uLXBvdXItdW4tYW1wLw?oc=5",
+			"pubDate": "Fri, 25 Aug 2023 15:26:38 GMT",
+			"image": "https://gagadget.com/media/cache/2e/f4/2ef41d15a470af642a47731bd4400c80.jpg",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "",
+			"url": "",
+			"description": ""
+		},
+		{
+			"title": "Incendies \u00e0 Hawa\u00ef : Joe Biden accus\u00e9 de s\u2019\u00eatre endormi pendant un hommage aux victimes - CNEWS",
+			"link": "https://www.cnews.fr/monde/2023-08-24/incendies-hawai-joe-biden-accuse-de-setre-endormi-pendant-un-hommage-aux-victimes",
+			"pubDate": "Thu, 24 Aug 2023 12:09:41 GMT",
+			"image": "https://static.cnews.fr/sites/default/files/design_sans_titre-taille1200_64e726ff71f97_0.jpg",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "CNEWS",
+			"url": "https://www.cnews.fr/monde/2023-08-24/incendies-hawai-joe-biden-accuse-de-setre-endormi-pendant-un-hommage-aux-victimes",
+			"description": "Une vid\u00e9o du pr\u00e9sident am\u00e9ricain, Joe Biden, dans une posture qui laisse penser qu'il s'est endormi pendant la c\u00e9r\u00e9monie d'hommage aux victimes des feux \u00e0 Hawa\u00ef, a suscit\u00e9 la controverse en ligne. Une sieste en plein hommage. Depuis mardi, Joe Biden est critiqu\u00e9 pour s'\u00eatre suppos\u00e9ment endormi lors de la c\u00e9r\u00e9monie rendant hommage aux victimes des incendies de for\u00eat \u00e0 Maui."
+		},
+		{
+			"title": "Premier exportateur mondial de bl\u00e9, la Russie pourrait \u00eatre concurrenc\u00e9e par la France en Afrique du Nord - La Tribune.fr",
+			"link": "https://www.latribune.fr/entreprises-finance/industrie/agroalimentaire-biens-de-consommation-luxe/premier-exportateur-mondial-de-ble-la-russie-pourrait-etre-concurrencee-par-la-france-en-afrique-du-nord-973818.html",
+			"pubDate": "Thu, 24 Aug 2023 16:45:00 GMT",
+			"image": "https://static.latribune.fr/full_width/2222798/ble-russie.jpg",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "La Tribune",
+			"url": "https://www.latribune.fr/entreprises-finance/industrie/agroalimentaire-biens-de-consommation-luxe/premier-exportateur-mondial-de-ble-la-russie-pourrait-etre-concurrencee-par-la-france-en-afrique-du-nord-973818.html",
+			"description": "Pour la campagne 2022-2023, la Russie pourrait atteindre de nouveaux records d'exportation, en particulier vers les pays d'Afrique, avec des prix particuli\u00e8rement attractifs. Mais l'\u00e9cart avec le bl\u00e9 fran\u00e7ais s'est r\u00e9duit, laissant \u00e0 l'Hexagone l'espoir de renforcer sa comp\u00e9titivit\u00e9 aupr\u00e8s des pays d'Afrique du Nord."
+		},
+		{
+			"title": "Espagne : saisie record de 9,5 tonnes de coca\u00efne venue d\u2019\u00c9quateur - Le Parisien",
+			"link": "https://www.leparisien.fr/international/espagne-saisie-record-de-95-tonnes-de-cocaine-venue-dequateur-25-08-2023-M7D5HRPTE5DERK2BGAMZQZXD5M.php",
+			"pubDate": "Fri, 25 Aug 2023 12:55:00 GMT",
+			"image": "https://www.leparisien.fr/resizer/LWPQ8g_IVUy6roXqWg2b45Bogik=/1200x675/cloudfront-eu-central-1.images.arcpublishing.com/leparisien/CV6WK4ACJRHBXGMHPTZOAVOVIM.jpg",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "leparisien.fr",
+			"url": "https://www.leparisien.fr/international/espagne-saisie-record-de-95-tonnes-de-cocaine-venue-dequateur-25-08-2023-M7D5HRPTE5DERK2BGAMZQZXD5M.php",
+			"description": "Les douanes et la police espagnoles ont annonc\u00e9 ce vendredi la saisie de pr\u00e8s de 9,5\u00a0tonnes de coca\u00efne en provenance d\u2019\u00c9quateur."
+		},
+		{
+			"title": "Gabon : de l'universit\u00e9 \u00e0 la politique, Albert Ondo Ossa est devenu le rival inattendu d'Ali Bongo - Le Monde",
+			"link": "https://www.lemonde.fr/afrique/article/2023/08/24/gabon-de-l-universite-a-la-politique-albert-ondo-ossa-est-devenu-le-rival-inattendu-d-ali-bongo_6186408_3212.html",
+			"pubDate": "Thu, 24 Aug 2023 09:48:20 GMT",
+			"image": "https://img.lemde.fr/2023/08/24/0/0/1858/1238/1440/960/60/0/238bb5b_1692869719907-000-33rk6xe.jpg",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "Le Monde.fr",
+			"url": "https://www.lemonde.fr/afrique/article/2023/08/24/gabon-de-l-universite-a-la-politique-albert-ondo-ossa-est-devenu-le-rival-inattendu-d-ali-bongo_6186408_3212.html",
+			"description": "L\u2019ancien ministre de l\u2019\u00e9ducation d\u00e9fie samedi 26\u00a0ao\u00fbt, \u00e0 l\u2019\u00e9lection pr\u00e9sidentielle, le chef de l\u2019Etat qui se repr\u00e9sente pour un troisi\u00e8me mandat."
+		},
+		{
+			"title": "Espagne : laiss\u00e9 sur le balcon par son propri\u00e9taire pendant les vacances, un chien saute et se pend avec sa laisse - Yahoo Actualit\u00e9s",
+			"link": "https://fr.news.yahoo.com/espagne-laisse-sur-le-balcon-par-son-proprietaire-pendant-les-vacances-un-chien-saute-et-se-pend-avec-sa-laisse-091954411.html",
+			"pubDate": "Fri, 25 Aug 2023 09:19:54 GMT",
+			"image": "https://s.yimg.com/ny/api/res/1.2/x8MzqMl8VQxope01Gn8ffw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2023-08/f2b63630-4326-11ee-a7a7-b788b8d54781",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "Yahoo News",
+			"url": "https://fr.news.yahoo.com/espagne-laisse-sur-le-balcon-par-son-proprietaire-pendant-les-vacances-un-chien-saute-et-se-pend-avec-sa-laisse-091954411.html",
+			"description": "Coinc\u00e9 sur la terrasse par plus de 40\u00b0C, l'animal a tent\u00e9 de s'\u00e9chapper, mais s'est retrouv\u00e9 suspendu dans le vide."
+		},
+		{
+			"title": "VID\u00c9O. \u00ab Attenzione Pickpockets ! \u00bb : on a suivi Monica Poli, la femme qui poursuit les pickpockets \u00e0 Venise - Le Parisien",
+			"link": "https://www.leparisien.fr/faits-divers/video-attenzione-pickpockets-on-a-suivi-monica-poli-la-femme-qui-poursuit-les-pickpockets-a-venise-25-08-2023-KGDTZ5WNV5GBRB4R6CITNREZ5I.php",
+			"pubDate": "Fri, 25 Aug 2023 11:25:00 GMT",
+			"image": "https://www.leparisien.fr/resizer/RP3T0bomrWF3E5v48nPevtFY1Ug=/1200x675/cloudfront-eu-central-1.images.arcpublishing.com/leparisien/33DOFC2L55FJ7D23C4IEPMHYVU.jpg",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "leparisien.fr",
+			"url": "https://www.leparisien.fr/faits-divers/video-attenzione-pickpockets-on-a-suivi-monica-poli-la-femme-qui-poursuit-les-pickpockets-a-venise-25-08-2023-KGDTZ5WNV5GBRB4R6CITNREZ5I.php",
+			"description": "Cet \u00e9t\u00e9, les vid\u00e9os de cette V\u00e9nitienne pourchassant les pickpockets de la cit\u00e9 des Doges ont fait le tour du monde. Si Monica Poli est d\u00e9so"
+		},
+		{
+			"title": "Aide europ\u00e9enne \u00e0 l'Ukraine, DSA, course \u00e0 l'espace... Le \"8h30 franceinfo' de Thierry Breton - franceinfo",
+			"link": "https://www.francetvinfo.fr/replay-radio/8h30-fauvelle-dely/l-aide-europeenne-a-l-ukraine-le-digital-services-act-la-course-a-l-espace-le-8h30-franceinfo-de-thierry-breton_5989493.html",
+			"pubDate": "Fri, 25 Aug 2023 08:52:54 GMT",
+			"image": "https://www.francetvinfo.fr/pictures/cBh0o4_XdD9TGbQIYB2R3mI_8HY/1500x843/2023/08/25/64e85a47c62c6_screen-breton-2.png",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "Franceinfo",
+			"url": "https://www.francetvinfo.fr/replay-radio/8h30-fauvelle-dely/l-aide-europeenne-a-l-ukraine-le-digital-services-act-la-course-a-l-espace-le-8h30-franceinfo-de-thierry-breton_5989493.html",
+			"description": "Le commissaire europ\u00e9en charg\u00e9 du March\u00e9 int\u00e9rieur, du Num\u00e9rique et de l'Espace \u00e9tait l'invit\u00e9 du \"8h30 franceinfo\", vendredi 25 ao\u00fbt 2023."
+		},
+		{
+			"title": "Un objet maya repr\u00e9sentant une entit\u00e9 surnaturelle d\u00e9couvert au Mexique | Slate.fr - Slate.fr",
+			"link": "https://www.slate.fr/story/252187/civilisation-maya-decouverte-objet-entite-surnaturelle-mexique-archeologie-histoire",
+			"pubDate": "Thu, 24 Aug 2023 17:00:00 GMT",
+			"image": "https://www.slate.fr/sites/default/files/styles/1200x680/public/geri-chapple-qt2towr8x2m-unsplash-2.jpg",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "Slate.fr",
+			"url": "https://www.slate.fr/story/252187/civilisation-maya-decouverte-objet-entite-surnaturelle-mexique-archeologie-histoire",
+			"description": "Il pourrait s'agir d'une offrande faite \u00e0 un membre de l'\u00e9lite de cette civilisation."
+		},
+		{
+			"title": "La cr\u00e9dibilit\u00e9 de plusieurs programmes de compensation carbone mise en doute par des chercheurs - Le Monde",
+			"link": "https://www.lemonde.fr/planete/article/2023/08/25/la-credibilite-de-plusieurs-programmes-de-compensation-carbone-mise-en-doute-par-des-chercheurs_6186554_3244.html",
+			"pubDate": "Fri, 25 Aug 2023 14:08:03 GMT",
+			"image": "https://img.lemde.fr/2023/08/24/167/0/4000/2666/1440/960/60/0/1c399ef_1692900651771-000-32jm3qh.jpg",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "Le Monde.fr",
+			"url": "https://www.lemonde.fr/planete/article/2023/08/25/la-credibilite-de-plusieurs-programmes-de-compensation-carbone-mise-en-doute-par-des-chercheurs_6186554_3244.html",
+			"description": "Des projets cens\u00e9s limiter les \u00e9missions de gaz \u00e0 effet de serre surestiment tr\u00e8s fr\u00e9quemment leur b\u00e9n\u00e9fice r\u00e9el sur l\u2019environnement, selon une \u00e9tude parue dans \u00ab\u00a0Science\u00a0\u00bb."
+		},
+		{
+			"title": "Au Canada, malgr\u00e9 les feux, le changement climatique ne fait pas d\u00e9bat - La Croix",
+			"link": "https://www.la-croix.com/environnement/Au-Canada-malgre-feux-changement-climatique-fait-pas-debat-2023-08-24-1201279972",
+			"pubDate": "Thu, 24 Aug 2023 15:16:22 GMT",
+			"image": "https://i.la-croix.com/1400x933/smart/2023/08/24/1201279972/cnyztpe007020x20230704xpepfn0a001_0.jpg",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "La Croix",
+			"url": "https://www.la-croix.com/environnement/Au-Canada-malgre-feux-changement-climatique-fait-pas-debat-2023-08-24-1201279972",
+			"description": "Une \u00e9tude scientifique publi\u00e9e au Canada fait le lien entre les changements climatiques et les incendies de for\u00eat de cet \u00e9t\u00e9. Pour autant, cette saison des feux, in\u00e9dite par son ampleur, ne suscite pas de d\u00e9bat national sur l\u2019adaptation au r\u00e9chauffement et sur l\u2019am\u00e9nagement des for\u00eats."
+		},
+		{
+			"title": "Prisonnier de la glace depuis 20 ans, le corps d'un alpiniste est rejet\u00e9 par un glacier en Autriche - LaDepeche.fr",
+			"link": "https://www.ladepeche.fr/2023/08/25/prisonnier-de-la-glace-depuis-20-ans-le-corps-dun-alpiniste-est-rejete-par-un-glacier-en-autriche-11414081.php",
+			"pubDate": "Fri, 25 Aug 2023 08:15:00 GMT",
+			"image": "https://images.ladepeche.fr/api/v1/images/view/64e862b7f8d01a200a558795/large/image.jpg?v=1",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "ladepeche.fr",
+			"url": "https://www.ladepeche.fr/2023/08/25/prisonnier-de-la-glace-depuis-20-ans-le-corps-dun-alpiniste-est-rejete-par-un-glacier-en-autriche-11414081.php",
+			"description": "Disparu depuis presque 20 ans, le corps d'un alpiniste a \u00e9t\u00e9 retrouv\u00e9 dans un glacier en Autriche. Prisonnier de la glace, un guide de montagne serait tomb\u00e9 sur sa d\u00e9pouille alors qu'il grimpait le glacier."
+		},
+		{
+			"title": "Guerre en Ukraine : Les corps des victimes et les bo\u00eetes noires de l'avion de Prigojine retrouv\u00e9s - 20 Minutes",
+			"link": "https://www.20minutes.fr/monde/ukraine/4050135-20230825-guerre-ukraine-direct-etats-unis-vont-commencer-former-pilotes-ukrainiens-f-16",
+			"pubDate": "Fri, 25 Aug 2023 06:01:13 GMT",
+			"image": "https://img.20mn.fr/V5NKzIfVQTS_tk2QJoALgik/1200x768_a-spontaneous-memorial-dedicated-to-the-head-of-wagner-pmc-yevgeny-prigozhin-who-died-in-a-plane-crash-on-the-site-of-the-former-office-of-wagner-pmc-on-yadrintsevskaya-street-in-novosibirsk-portraits-of-the-head-of-the-pmc-wagner-yevgeny-prigozhin-and-the-commander-of-the-pmc-wagner-dmitry-utkin-24-08-2023-russia-novosibirsk-photo-credit-vlad-nekrasov-kommersant-sipa-usa-47916476-2308241450",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "www.20minutes.fr",
+			"url": "https://www.20minutes.fr/monde/ukraine/4050135-20230825-guerre-ukraine-direct-etats-unis-vont-commencer-former-pilotes-ukrainiens-f-16",
+			"description": "Retrouvez toutes les informations sur le conflit sur la journ\u00e9e du vendredi 25\u00a0ao\u00fbt 2023"
+		},
+		{
+			"title": "Espagne : il d\u00e9voile sa technique pour d\u00e9pouiller les vacanciers \u00e0 la t\u00e9l\u00e9vision et se fait arr\u00eater pour 200 vols - CNEWS",
+			"link": "https://www.cnews.fr/monde/2023-08-24/espagne-il-devoile-sa-technique-pour-depouiller-les-vacanciers-la-television-et-se",
+			"pubDate": "Thu, 24 Aug 2023 16:21:03 GMT",
+			"image": "https://static.cnews.fr/sites/default/files/jaume_64e73f65cc185_0.jpg",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "CNEWS",
+			"url": "https://www.cnews.fr/monde/2023-08-24/espagne-il-devoile-sa-technique-pour-depouiller-les-vacanciers-la-television-et-se",
+			"description": "En Catalogne espagnole, un homme a \u00e9t\u00e9 arr\u00eat\u00e9 par la police apr\u00e8s avoir commis des centaines de vols sur une plage barcelonaise. Le suspect avait en effet d\u00e9voil\u00e9 sa technique pour d\u00e9pouiller des vacanciers en direct \u00e0 la t\u00e9l\u00e9vision locale."
+		},
+		{
+			"title": "Niger : pourquoi l\u2019Union africaine a-t-elle tard\u00e9 ? \u2022 RFI - RFI",
+			"link": "https://www.youtube.com/watch?v=xuNJEQmk0oQ",
+			"pubDate": "Thu, 24 Aug 2023 18:42:31 GMT",
+			"image": "https://i.ytimg.com/vi/xuNJEQmk0oQ/maxresdefault.jpg",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "YouTube",
+			"url": "https://www.youtube.com/watch?v=xuNJEQmk0oQ",
+			"description": "Dans un communiqu\u00e9, l\u2019Union africaine annonce la suspension du Niger et \u201cprend note\u201d de la d\u00e9cision de la C\u00e9d\u00e9ao de d\u00e9ployer une force en attente. Pourquoi l..."
+		},
+		{
+			"title": "Un jeune \u00e9tudiant de 18 ans a \u00e9t\u00e9 viol\u00e9 pendant plusieurs heures sur le quai d'une station du m\u00e9tro mu... - Le Blog de Jean-Marc Morandini",
+			"link": "https://www.jeanmarcmorandini.com/article-545348-un-jeune-etudiant-de-18-ans-a-ete-viole-pendant-plusieurs-heures-sur-le-quai-d-une-station-du-metro-munichois-sans-que-personne-n-intervienne.html",
+			"pubDate": "Thu, 24 Aug 2023 14:03:00 GMT",
+			"image": "https://static.jeanmarcmorandini.com/sites/jeanmarcmorandini.com/files/0580_2_0.jpg",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "Jean-Marc Morandini",
+			"url": "https://www.jeanmarcmorandini.com/article-545348-un-jeune-etudiant-de-18-ans-a-ete-viole-pendant-plusieurs-heures-sur-le-quai-d-une-station-du-metro-munichois-sans-que-personne-n-intervienne.html",
+			"description": "Alors qu'il rentrait ivre d'une soir\u00e9e, un jeune \u00e9tudiant \u00e2g\u00e9 de 18 ans a \u00e9t\u00e9 viol\u00e9 pendant plusieurs heures alors qu'il s'\u00e9tait allong\u00e9 pour se reposer sur un quai de station du m\u00e9tro munichois."
+		},
+		{
+			"title": "PIB par habitant : la France, absente du Top 20, perd du terrain face aux \u00ab petites \u00bb puissances \u00e9conomiques - www.econostrum.info",
+			"link": "https://news.google.com/rss/articles/CBMiSmh0dHBzOi8vZWNvbm9zdHJ1bS5pbmZvL2NsYXNzZW1lbnQtcGliLXBhci1oYWJpdGFudC1mcmFuY2UtYWJzZW50ZS10b3AtMjAv0gEA?oc=5",
+			"pubDate": "Thu, 24 Aug 2023 16:11:58 GMT",
+			"image": "https://picsum.photos/200/300?grayscale",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "",
+			"url": "",
+			"description": ""
+		},
+		{
+			"title": "Guerre en Ukraine : contre l'avis des renseignements am\u00e9ricains, le Pentagone assure que la contre-offensive ukrainienne atteindra tous ses objectifs - L'Ind\u00e9pendant",
+			"link": "https://www.lindependant.fr/2023/08/25/guerre-en-ukraine-contre-lavis-des-renseignements-americains-le-pentagone-assure-que-la-contre-offensive-ukrainienne-atteindra-tous-ses-objectifs-11414314.php",
+			"pubDate": "Fri, 25 Aug 2023 10:18:00 GMT",
+			"image": "https://images.lindependant.fr/api/v1/images/view/64e87efc08447953f647c40a/large/image.jpg?v=1",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "lindependant.fr",
+			"url": "https://www.lindependant.fr/2023/08/25/guerre-en-ukraine-contre-lavis-des-renseignements-americains-le-pentagone-assure-que-la-contre-offensive-ukrainienne-atteindra-tous-ses-objectifs-11414314.php",
+			"description": "Une d\u00e9claration qui vient r\u00e9futer une \u00e9valuation r\u00e9cemment \u00e9mise par les services de renseignement am\u00e9ricains selon lesquels la contre-offensive ukrainienne ne parviendrait pas \u00e0 atteindre un de ses principaux objectifs."
+		},
+		{
+			"title": "Les centaines de champs de mines dispers\u00e9s par la Russie vont-elles se retourner contre Moscou ? - GEO",
+			"link": "https://www.geo.fr/geopolitique/centaines-champs-mines-disperses-par-russie-peuvent-elles-se-retourner-contre-moscou-retraite-ligne-sourovikin-second-rideau-216320",
+			"pubDate": "Fri, 25 Aug 2023 04:25:29 GMT",
+			"image": "https://www.geo.fr/imgre/fit/~1~geo~2023~08~24~78a82002-fb79-4a6b-bc63-0b986d63a8cc.jpeg/1200x630/cr/wqkgUGhvdG8gYnkgU2NvdHQgUGV0ZXJzb24vR2V0dHkgSW1hZ2VzIC8gR0VP/centaines-champs-mines-disperses-par-russie-peuvent-elles-se-retourner-contre-moscou-retraite-ligne-sourovikin-second-rideau.jpg",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "Geo.fr",
+			"url": "https://www.geo.fr/geopolitique/centaines-champs-mines-disperses-par-russie-peuvent-elles-se-retourner-contre-moscou-retraite-ligne-sourovikin-second-rideau-216320",
+			"description": "Les dizaines de milliers de mines d&eacute;ploy&eacute;es par Moscou tout le long du front contre l'Ukraine sont un obstacle &eacute;pineux&nbsp;; mais en cas de succ&egrave;s ukrainiens dans le sud..."
+		},
+		{
+			"title": "Guerre en Ukraine : ce qu'il faut retenir de la journ\u00e9e du vendredi 25 ao\u00fbt - franceinfo",
+			"link": "https://www.francetvinfo.fr/monde/europe/manifestations-en-ukraine/guerre-en-ukraine-ce-qu-il-faut-retenir-de-la-journee-du-vendredi-25-aout_6025733.html",
+			"pubDate": "Fri, 25 Aug 2023 21:13:20 GMT",
+			"image": "https://www.francetvinfo.fr/pictures/DB05zU1g5PJdGoNv8gCKirMM8YQ/1500x843/2023/08/25/64e918eeaaa0b_068-aa-24082023-1318411.jpg",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "Franceinfo",
+			"url": "https://www.francetvinfo.fr/monde/europe/manifestations-en-ukraine/guerre-en-ukraine-ce-qu-il-faut-retenir-de-la-journee-du-vendredi-25-aout_6025733.html",
+			"description": "Les bo\u00eetes noires de l'avion qui transportait Evgu\u00e9ni Prigojine ont \u00e9t\u00e9 retrouv\u00e9es, tandis que \"des analyses\" sont en cours sur les dix corps."
+		},
+		{
+			"title": "Google a un probl\u00e8me : son IA fait l'\u00e9loge de l'esclavage et d'Hitler - Lebigdata.fr",
+			"link": "https://www.lebigdata.fr/google-ia-esclavage",
+			"pubDate": "Thu, 24 Aug 2023 16:47:40 GMT",
+			"image": "https://www.lebigdata.fr/wp-content/uploads/2023/08/hilter-google.png",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "LEBIGDATA.FR",
+			"url": "https://www.lebigdata.fr/google-ia-esclavage",
+			"description": "L'intelligence artificielle SGE de Google Search fait l'\u00e9loge de l'esclavage, du fascisme et d'Hitler. Les premiers testeurs t\u00e9moignent."
+		}
+	],
+	"timestamp": "2023-08-26 00:55:44.812956"
 }
