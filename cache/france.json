@@ -1,214 +1,84 @@
 {
 	"content": [
 		{
-			"title": "Punaises de lit : la Mairie de Paris propose que le risque d'infestation soit int\u00e9gr\u00e9 au contrat d'assurance-habitation - Le Monde",
-			"link": "https://www.lemonde.fr/sante/article/2023/09/28/punaises-de-lit-la-mairie-de-paris-interpelle-le-gouvernement-et-demande-un-plan-pour-lutter-contre-ce-probleme-de-sante-publique_6191459_1651302.html",
-			"pubDate": "Fri, 29 Sep 2023 08:07:15 GMT",
-			"image": "https://img.lemde.fr/2023/09/29/585/0/2745/1830/1440/960/60/0/6f1f857_1695969798541-063-gyi0057324677.jpg",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "Le Monde.fr",
-			"url": "https://www.lemonde.fr/sante/article/2023/09/28/punaises-de-lit-la-mairie-de-paris-interpelle-le-gouvernement-et-demande-un-plan-pour-lutter-contre-ce-probleme-de-sante-publique_6191459_1651302.html",
-			"description": "Le premier adjoint \u00e0 la maire de Paris, Emmanuel Gr\u00e9goire, a demand\u00e9 \u00e0 l\u2019Etat d\u2019organiser rapidement des \u00ab\u00a0assises de la lutte contre les nuisibles\u00a0\u00bb pour contenir \u00ab\u00a0la recrudescence importante\u00a0\u00bb de ces insectes."
-		},
-		{
-			"title": "Victime d'un \u00ab home-jacking \u00bb, Dominique Tapie reste traumatis\u00e9e : \u00ab Je suis en hypervigilance \u00bb - Paris Match",
-			"link": "https://news.google.com/rss/articles/CBMifWh0dHBzOi8vd3d3LnBhcmlzbWF0Y2guY29tL3Blb3BsZS92aWN0aW1lLWR1bi1ob21lLWphY2tpbmctZG9taW5pcXVlLXRhcGllLXJlc3RlLXRyYXVtYXRpc2VlLWplLXN1aXMtZW4taHlwZXJ2aWdpbGFuY2UtMjI5OTU10gEA?oc=5",
-			"pubDate": "Fri, 29 Sep 2023 04:55:11 GMT",
-			"image": "https://www.parismatch.com/lmnr/var/pm/public/media/image/2023/09/28/20/97e4r8-highres.jpg?VersionId=l4wQPrPcIlooQ8uCSbW3apAToAtgX_Ut",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "",
-			"url": "",
-			"description": ""
-		},
-		{
-			"title": "Guerre en Ukraine : des industriels fran\u00e7ais s'installent pour produire sur place, \"une premi\u00e8re mondiale\" se f\u00e9licitent-ils - franceinfo",
-			"link": "https://www.francetvinfo.fr/monde/europe/manifestations-en-ukraine/guerre-en-ukraine-des-industriels-francais-s-installent-en-ukraine-pour-produire-sur-place-une-premiere-mondiale-se-felicitent-ils_6090987.html",
-			"pubDate": "Fri, 29 Sep 2023 06:20:53 GMT",
-			"image": "https://www.francetvinfo.fr/pictures/wTpUsAE0C3PvzBolRjz9fq8wkH4/1500x843/2023/09/29/000-33wx3fg-65165a9c97f8c737572167.jpg",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "Franceinfo",
-			"url": "https://www.francetvinfo.fr/monde/europe/manifestations-en-ukraine/guerre-en-ukraine-des-industriels-francais-s-installent-en-ukraine-pour-produire-sur-place-une-premiere-mondiale-se-felicitent-ils_6090987.html",
-			"description": "Paris veut d\u00e9sormais changer de doctrine : moins de livraisons d'armes et plus de contrats entre l'Ukraine et la France. L'objectif affich\u00e9 est de faire de Kiev un partenaire militaire comme les autres."
-		},
-		{
-			"title": "M\u00e9t\u00e9o : jusqu'\u00e0 34\u00b0C en Occitanie ce vendredi avant un dimanche 1er octobre torride - LaDepeche.fr",
-			"link": "https://www.ladepeche.fr/2023/09/29/meteo-jusqua-34c-en-occitanie-ce-vendredi-avant-un-dimanche-1er-octobre-torride-11485581.php",
-			"pubDate": "Fri, 29 Sep 2023 05:41:00 GMT",
-			"image": "https://images.ladepeche.fr/api/v1/images/view/651663554225a5587d50814b/large/image.jpg?v=1",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "ladepeche.fr",
-			"url": "https://www.ladepeche.fr/2023/09/29/meteo-jusqua-34c-en-occitanie-ce-vendredi-avant-un-dimanche-1er-octobre-torride-11485581.php",
-			"description": "Le soleil et la chaleur se maintiennent en Occitanie, ce vendredi. Sur la moiti\u00e9 nord, des nuages sont de retour avec m\u00eame quelques gouttes au nord de la Seine avant le retour des \u00e9claircies. Il va faire tr\u00e8s chaud..."
-		},
-		{
-			"title": "Jacques Toubon : les contr\u00f4les au faci\u00e8s, \u00abun fait auquel il faut apporter une r\u00e9ponse juridique\u00bb - Lib\u00e9ration",
-			"link": "https://news.google.com/rss/articles/CBMisgFodHRwczovL3d3dy5saWJlcmF0aW9uLmZyL3NvY2lldGUvcG9saWNlLWp1c3RpY2UvamFjcXVlcy10b3Vib24tbGVzLWNvbnRyb2xlcy1hdS1mYWNpZXMtdW4tZmFpdC1hdXF1ZWwtaWwtZmF1dC1hcHBvcnRlci11bmUtcmVwb25zZS1qdXJpZGlxdWUtMjAyMzA5MjlfS1pOVEZPNU9KUkNSSElWWDVESEg0SFlCV0Ev0gEA?oc=5",
-			"pubDate": "Fri, 29 Sep 2023 04:15:00 GMT",
-			"image": "https://www.liberation.fr/resizer/bE7-5qXP52aaV7OTFZu4NknQVEA=/1200x630/filters:format(jpg):quality(70):focal(1459x1933:1469x1943)/cloudfront-eu-central-1.images.arcpublishing.com/liberation/K4HAVKA2ZNC3LK4HO5VI2KHMIE.jpg",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "Lib\u00e9ration",
-			"url": "",
-			"description": ""
-		},
-		{
-			"title": "Un 49.3 qui rapporte 18 milliards de fonds europ\u00e9ens - Le Figaro",
-			"link": "https://www.lefigaro.fr/conjoncture/un-49-3-qui-rapporte-18-milliards-de-fonds-europeens-20230928",
-			"pubDate": "Thu, 28 Sep 2023 17:57:50 GMT",
-			"image": "https://i.f1g.fr/media/eidos/1200x630_crop/2023/09/28/XVM45bea332-5e28-11ee-8a15-1f8aeb6c4c69.jpg",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "LEFIGARO",
-			"url": "https://www.lefigaro.fr/conjoncture/un-49-3-qui-rapporte-18-milliards-de-fonds-europeens-20230928",
-			"description": "La majorit\u00e9 a fait des pieds et des mains pour faire passer cette loi."
-		},
-		{
-			"title": "C\u2019est l\u2019heure du BIM : Double homicide \u00e0 Marseille, l'UE parle immigration et prudence sur Dupont - 20 Minutes",
-			"link": "https://www.20minutes.fr/societe/4055334-20230929-heure-bim-double-homicide-marseille-ue-parle-immigration-prudence-dupont",
-			"pubDate": "Fri, 29 Sep 2023 05:37:27 GMT",
-			"image": "https://img.20mn.fr/OqwY8wsgTwa38-U8liIDUCk/1200x768_illustration-of-the-municipal-police-of-marseille-in-the-streets-of-marseille-in-marseille-southern-france-on-may-13-2023-illustration-de-la-police-municipale-de-marseille-dans-les-rues-de-marseille-le-samedi-13-mai-2023-alainrobert-1y8a5049-credit-alain-robert-sipa-2305140957",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "www.20minutes.fr",
-			"url": "https://www.20minutes.fr/societe/4055334-20230929-heure-bim-double-homicide-marseille-ue-parle-immigration-prudence-dupont",
-			"description": "\u00ab\u00a020 Minutes\u00a0\u00bb compile pour vous les infos qu\u2019il ne faut pas manquer ce matin dans votre Bulletin d\u2019information matinal (BIM)"
-		},
-		{
-			"title": "EN DIRECT - Disparition de Lina: l'adolescente de 15 ans toujours introuvable - BFM Alsace",
+			"title": "EN DIRECT - Disparition de Lina en Alsace: une \"op\u00e9ration coordonn\u00e9e d'envergure\" en cours - BFM Alsace",
 			"link": "https://www.bfmtv.com/alsace/en-direct-disparition-de-lina-l-adolescente-de-15-ans-toujours-introuvable-toutes-les-pistes-restent-sur-la-table_LN-202309290102.html",
-			"pubDate": "Fri, 29 Sep 2023 04:25:30 GMT",
-			"image": "https://images.bfmtv.com/lZ_kWj86I-o-HpUP4YKs0bNvGTg=/0x106:2048x1258/2048x0/images/Un-gendarme-a-la-recherche-de-la-jeune-Lina-dans-le-Bas-Rhin-le-26-septembre-2023-1715314.jpg",
+			"pubDate": "Fri, 29 Sep 2023 11:46:21 GMT",
+			"image": "https://images.bfmtv.com/Lj9PZ0Dtq2Bnfjc6akX7eJJadtM=/0x0:1920x1080/1920x0/images/Une-operation-d-envergure-est-en-cours-dans-le-cadre-de-la-disparition-de-Lina-1716451.jpg",
 			"logo": "https://picsum.photos/32/32?grayscale",
 			"site_name": "BFMTV",
 			"url": "https://www.bfmtv.com/alsace/en-direct-disparition-de-lina-l-adolescente-de-15-ans-toujours-introuvable-toutes-les-pistes-restent-sur-la-table_LN-202309290102.html",
 			"description": "Lina, 15 ans, a disparu samedi dernier en fin de la matin\u00e9e \u00e0 Saint-Blaise-la-Roche, dans le Bas-Rhin. Les recherches men\u00e9es depuis n'ont rien donn\u00e9 et \u00e0 ce stade et toutes les hypoth\u00e8ses sont sur la table, m\u00eame un d\u00e9part volontaire. "
 		},
 		{
-			"title": "Visite de Macron en Corse : de l'autonomie aux limites du jeu politique - Corse Matin",
-			"link": "https://www.corsematin.com/article/politique/5171573524584615/visite-de-macron-en-corse-de-lautonomie-aux-limites-du-jeu-politique",
-			"pubDate": "Fri, 29 Sep 2023 05:12:56 GMT",
-			"image": "https://images.corsematin.com/v1/focus=0x0/cover=993x520/image:media/melody/2023/09/29/ajaccio-corse-le-28-septembre-2023-le-president-de-la-republique-emmanuel-macron-a-ajaccio-arrivee-a-1695964375_3486bb98851562886bb9885150c86bv_.jpg",
+			"title": "Lyon : une entreprise de d\u00e9tection de punaises de lit attendue dans un d\u00e9p\u00f4t de bus TCL - Lyon Mag",
+			"link": "https://www.lyonmag.com/article/132270/lyon-une-entreprise-de-detection-de-punaises-de-lit-attendue-dans-un-depot-de-bus-tcl",
+			"pubDate": "Fri, 29 Sep 2023 10:00:00 GMT",
+			"image": "https://www.lyonmag.com/media/images/6516a095cd7b4-870x489-646b82246c99f-33196693628-7871324cf1-o.webp",
 			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "CorseMatin.com",
-			"url": "https://www.corsematin.com/article/politique/5171573524584615/visite-de-macron-en-corse-de-lautonomie-aux-limites-du-jeu-politique",
-			"description": "Visite de Macron en Corse : de l'autonomie aux limites du jeu politique"
+			"site_name": "Lyon Mag",
+			"url": "https://www.lyonmag.com/article/132270/lyon-une-entreprise-de-detection-de-punaises-de-lit-attendue-dans-un-depot-de-bus-tcl",
+			"description": "Ce vendredi matin, la psychose a atteint la capitale des Gaules."
 		},
 		{
-			"title": "Contre les violences de l\u2019extr\u00eame droite, \u00ab la soci\u00e9t\u00e9 doit se r\u00e9veiller \u00bb, confie l\u2019\u00e9lu LFI agress\u00e9 - 20 Minutes",
-			"link": "https://www.20minutes.fr/societe/4055185-20230929-contre-violences-extreme-droite-societe-doit-reveiller-confie-elu-lfi-agresse",
-			"pubDate": "Fri, 29 Sep 2023 07:07:36 GMT",
-			"image": "https://img.20mn.fr/4O33fw2hQMuCBDCmi6nWnSk/1200x768_rene-revol-pour-la-republique-sociale-prs-the-alternative-left-a-gathering-of-leftist-political-parties-and-citizen-s-associations-held-their-first-unified-political-meeting-in-le-mans-they-intend-to-present-a-unified-candidature-for-the-2007-presidential-elections-le-mans-france-nov-6-2006",
+			"title": "La France conna\u00eet son mois de septembre \u00ab le plus chaud jamais enregistr\u00e9 \u00bb, selon M\u00e9t\u00e9o-France - Le Monde",
+			"link": "https://www.lemonde.fr/planete/article/2023/09/29/la-france-connait-son-mois-de-septembre-le-plus-chaud-depuis-le-debut-des-mesures-selon-meteo-france_6191557_3244.html",
+			"pubDate": "Fri, 29 Sep 2023 08:44:34 GMT",
+			"image": "https://img.lemde.fr/2023/09/29/0/0/6000/4000/1440/960/60/0/77aede1_1695979295094-000-33u74xg.jpg",
 			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "www.20minutes.fr",
-			"url": "https://www.20minutes.fr/societe/4055185-20230929-contre-violences-extreme-droite-societe-doit-reveiller-confie-elu-lfi-agresse",
-			"description": "Ren\u00e9 Revol, le maire insoumis de Grabels, se confie \u00e0 \u00ab\u00a020 Minutes\u00a0\u00bb, \u00e0 la veille d'une marche de soutien, en pr\u00e9sence de Jean-Luc M\u00e9lenchon"
+			"site_name": "Le Monde.fr",
+			"url": "https://www.lemonde.fr/planete/article/2023/09/29/la-france-connait-son-mois-de-septembre-le-plus-chaud-depuis-le-debut-des-mesures-selon-meteo-france_6191557_3244.html",
+			"description": "La temp\u00e9rature moyenne sera au moins de 3,5\u00a0\u00b0C au-dessus des normales des trois pr\u00e9c\u00e9dentes d\u00e9cennies. Cet \u00e9t\u00e9 avait d\u00e9j\u00e0 \u00e9t\u00e9 consid\u00e9r\u00e9 comme figurant parmi les plus chauds historiquement."
 		},
 		{
-			"title": "Jeu de la virgule : apr\u00e8s l'hospitalisation d'une \u00e9l\u00e8ve, le point sur cette pratique dangereuse qui se r\u00e9pand dans les cours de r\u00e9cr\u00e9 - Midi Libre",
-			"link": "https://www.midilibre.fr/2023/09/29/jeu-de-la-virgule-apres-lhospitalisation-dune-eleve-le-point-sur-cette-pratique-dangereuse-qui-se-repand-dans-les-cours-de-recre-11485571.php",
-			"pubDate": "Fri, 29 Sep 2023 06:46:00 GMT",
-			"image": "https://images.midilibre.fr/api/v1/images/view/65166a84c3bfe601d05ae93a/large/image.jpg?v=1",
+			"title": "\u00ab On m'a pos\u00e9 un revolver sur le front \u00bb : Bruno Guillon fond en larmes en revenant sur son cambriolage - Le HuffPost",
+			"link": "https://www.huffingtonpost.fr/people/article/bruno-guillon-victime-d-un-cambriolage-fond-en-larmes-sur-rtl-on-m-a-pose-un-revolver-sur-le-front_223742.html",
+			"pubDate": "Fri, 29 Sep 2023 07:58:56 GMT",
+			"image": "https://huffpost-focus.sirius.press/2023/09/29/10/0/1713/963/1820/1023/75/0/2a3daf7_1695972666404-screenshot-2023-09-29-09-30-50.png",
 			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "midilibre.fr",
-			"url": "https://www.midilibre.fr/2023/09/29/jeu-de-la-virgule-apres-lhospitalisation-dune-eleve-le-point-sur-cette-pratique-dangereuse-qui-se-repand-dans-les-cours-de-recre-11485571.php",
-			"description": "Popularis\u00e9 sur les r\u00e9seaux sociaux comme TikTok, le \"jeu de la virgule\", apparu dans les cours d'\u00e9cole depuis quelques semaines, a fait des victimes, allant jusqu'\u00e0 provoquer l'hospitalisation d'une jeune fille."
+			"site_name": "Le HuffPost",
+			"url": "https://www.huffingtonpost.fr/people/article/bruno-guillon-victime-d-un-cambriolage-fond-en-larmes-sur-rtl-on-m-a-pose-un-revolver-sur-le-front_223742.html",
+			"description": "L\u2019animateur de Fun Radio et sa famille ont \u00e9t\u00e9 cambriol\u00e9s et s\u00e9questr\u00e9s dans la nuit de mardi \u00e0 mercredi. Sur RTL, il a fondu en larmes en racontant les faits en d\u00e9tail."
 		},
 		{
-			"title": "Lorraine. Accident mortel sur l'A4 \u00e0 Courcelles-Chaussy, la circulation perturb\u00e9e dans le sens Metz-Strasbourg - Le R\u00e9publicain Lorrain",
-			"link": "https://news.google.com/rss/articles/CBMipgFodHRwczovL3d3dy5yZXB1YmxpY2Fpbi1sb3JyYWluLmZyL2ZhaXRzLWRpdmVycy1qdXN0aWNlLzIwMjMvMDkvMjkvYWNjaWRlbnQtbW9ydGVsLXN1ci1sLWE0LWEtY291cmNlbGxlcy1jaGF1c3N5LWxhLWNpcmN1bGF0aW9uLXBlcnR1cmJlZS1kYW5zLWxlLXNlbnMtbWV0ei1zdHJhc2JvdXJn0gEA?oc=5",
-			"pubDate": "Fri, 29 Sep 2023 04:30:00 GMT",
-			"image": "https://cdn-s-www.republicain-lorrain.fr/images/C0E7FA18-9142-4C3A-8432-6F7F7C2E9E2B/FB1200/photo-1695973587.jpg",
+			"title": "Le Franco-Libanais Amin Maalouf \u00e9lu secr\u00e9taire perp\u00e9tuel de l'Acad\u00e9mie fran\u00e7aise - FRANCE 24",
+			"link": "https://news.google.com/rss/articles/CBMimAFodHRwczovL3d3dy5mcmFuY2UyNC5jb20vZnIvaW5mby1lbi1jb250aW51LzIwMjMwOTI4LSVGMCU5RiU5NCVCNC1hbWluLW1hYWxvdWYtJUMzJUE5bHUtc2VjciVDMyVBOXRhaXJlLXBlcnAlQzMlQTl0dWVsLWRlLWwtYWNhZCVDMyVBOW1pZS1mcmFuJUMzJUE3YWlzZdIBAA?oc=5",
+			"pubDate": "Thu, 28 Sep 2023 14:01:00 GMT",
+			"image": "https://picsum.photos/200/300?grayscale",
 			"logo": "https://picsum.photos/32/32?grayscale",
 			"site_name": "",
 			"url": "",
 			"description": ""
 		},
 		{
-			"title": "Inflation, budget 2024, pr\u00e9sidentielle... Ce qu'il faut retenir de l'interview de Bruno Le Maire dans \"L'Ev\u00e9nement, l'interview\" - franceinfo",
-			"link": "https://www.francetvinfo.fr/politique/bruno-le-maire/inflation-budget-2024-presidentielle-ce-qu-il-faut-retenir-de-l-interview-de-bruno-le-maire-dans-l-evenement-l-interview_6089784.html",
-			"pubDate": "Thu, 28 Sep 2023 20:53:43 GMT",
-			"image": "https://www.francetvinfo.fr/pictures/lMNaPvQJAA-sw5iKflJblEEc7bE/1500x843/2023/09/28/video-6515d812d2769318225200.jpg",
+			"title": "T\u00c9MOIGNAGE. \"C'est la 200e fois que je me fais contr\u00f4ler par la police\" : Abdoulaye d\u00e9nonce des contr\u00f4les au faci\u00e8s \"arbitraires\" - franceinfo",
+			"link": "https://www.francetvinfo.fr/faits-divers/police/temoignage-c-est-la-200eme-fois-que-je-me-fais-controler-par-la-police-abdoulaye-denonce-des-controles-au-facies-arbitraires_6091131.html",
+			"pubDate": "Fri, 29 Sep 2023 10:22:42 GMT",
+			"image": "https://www.francetvinfo.fr/pictures/HBDZVrL2qo1j0vynP8o_A3YMiq4/1500x843/2023/09/29/080-hl-xbouzas-2134634-651697c8a5328776474121.jpg",
 			"logo": "https://picsum.photos/32/32?grayscale",
 			"site_name": "Franceinfo",
-			"url": "https://www.francetvinfo.fr/politique/bruno-le-maire/inflation-budget-2024-presidentielle-ce-qu-il-faut-retenir-de-l-interview-de-bruno-le-maire-dans-l-evenement-l-interview_6089784.html",
-			"description": "Le ministre de l'Economie \u00e9tait l'invit\u00e9 de l'\u00e9mission politique de France 2 jeudi soir. Il a notamment fait le point sur l'inflation alimentaire, le pouvoir d'achat et les objectifs de croissance pour l'ann\u00e9e \u00e0 venir."
+			"url": "https://www.francetvinfo.fr/faits-divers/police/temoignage-c-est-la-200eme-fois-que-je-me-fais-controler-par-la-police-abdoulaye-denonce-des-controles-au-facies-arbitraires_6091131.html",
+			"description": "Trois mois apr\u00e8s les \u00e9meutes qui ont embras\u00e9 plusieurs villes de France apr\u00e8s la mort du jeune Nahel, le Conseil d\u2019\u00c9tat, saisi par six associations, se penche sur la question sensible du contr\u00f4le d'identit\u00e9 au faci\u00e8s."
 		},
 		{
-			"title": "Fran\u00e7ois d'Orcival: \u00abLa France insoumise, parti de l'extr\u00eame outrance\u00bb - Le Figaro",
-			"link": "https://www.lefigaro.fr/vox/politique/francois-d-orcival-la-france-insoumise-parti-de-l-extreme-outrance-20230929",
-			"pubDate": "Fri, 29 Sep 2023 05:00:35 GMT",
-			"image": "https://i.f1g.fr/media/eidos/1200x630_crop/2023/09/29/XVMf75599b6-5bb2-11ee-8a83-8b79382a063b.jpg",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "LEFIGARO",
-			"url": "https://www.lefigaro.fr/vox/politique/francois-d-orcival-la-france-insoumise-parti-de-l-extreme-outrance-20230929",
-			"description": "CHRONIQUE - Rien ne va plus entre Fabien Roussel et Jean-Luc M\u00e9lenchon dont l\u2019entourage a d\u00e9sormais recours aux plus basses insultes."
-		},
-		{
-			"title": "Le nombre d'allocataires de minimas sociaux repart \u00e0 la hausse (mais le nombre de b\u00e9n\u00e9ficiaires du RSA... - BFM Business",
-			"link": "https://www.bfmtv.com/economie/le-nombre-d-allocataires-de-minimas-sociaux-repart-a-la-hausse-mais-moins-de-beneficiaires-du-rsa_AD-202309290109.html",
-			"pubDate": "Fri, 29 Sep 2023 04:48:00 GMT",
-			"image": "https://images.bfmtv.com/_t1HwBtAUkCd8LKxU-1AwyQq3Ww=/4x22:996x580/992x0/images/-486324.jpg",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "BFM BUSINESS",
-			"url": "https://www.bfmtv.com/economie/le-nombre-d-allocataires-de-minimas-sociaux-repart-a-la-hausse-mais-moins-de-beneficiaires-du-rsa_AD-202309290109.html",
-			"description": "Apr\u00e8s une forte hausse en 2020 du fait de la crise du Covid et un repli en 2021, le nombre d'allocataires a augment\u00e9 de 0,4% pour atteindre 4,34 millions fin 2022, selon la Drees. "
-		},
-		{
-			"title": "Natalit\u00e9 : les naissances en France au plus bas depuis la fin de la Seconde guerre mondiale - CNEWS",
-			"link": "https://www.cnews.fr/france/2023-09-28/natalite-les-naissances-en-france-au-plus-bas-depuis-la-fin-de-la-seconde-guerre",
-			"pubDate": "Thu, 28 Sep 2023 13:18:16 GMT",
-			"image": "https://static.cnews.fr/sites/default/files/000_32dg3pt-taille1200_65155914be624.jpg",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "CNEWS",
-			"url": "https://www.cnews.fr/france/2023-09-28/natalite-les-naissances-en-france-au-plus-bas-depuis-la-fin-de-la-seconde-guerre",
-			"description": "Le nombre de naissances en France est \u00e0 son plus bas niveau depuis la fin de la Seconde guerre mondiale, avec un taux en chute de 7 % au premier semestre 2023 comparativement \u00e0 la m\u00eame p\u00e9riode l\u2019ann\u00e9e pr\u00e9c\u00e9dente, a annonc\u00e9 l\u2019Insee ce jeudi 28 septembre."
-		},
-		{
-			"title": "L'ambassadeur de France au Niger raconte comment il a \u00e9t\u00e9 \u00ab pris en otage \u00bb par la junte - Le HuffPost",
-			"link": "https://www.huffingtonpost.fr/international/video/niger-sylvain-itte-l-ambassadeur-de-france-raconte-comment-il-a-ete-pris-en-otage-par-la-junte_223738.html",
-			"pubDate": "Fri, 29 Sep 2023 04:15:02 GMT",
-			"image": "https://huffpost-focus.sirius.press/2023/09/29/0/26/576/324/1820/1023/75/0/85bda34_1695947964734-capture-d-a-cran-2023-09-29-023859.png",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "Le HuffPost",
-			"url": "https://www.huffingtonpost.fr/international/video/niger-sylvain-itte-l-ambassadeur-de-france-raconte-comment-il-a-ete-pris-en-otage-par-la-junte_223738.html",
-			"description": "L\u2019ambassadeur de France au\u00a0Niger\u00a0Sylvain Itt\u00e9, rentr\u00e9 en France le 27\u00a0septembre, a estim\u00e9 que ce coup d\u2019\u00c9tat \u00e9tait un \u00ab\u00a0\u00e9norme g\u00e2chis\u00a0\u00bb dans lequel \u00ab\u00a0il n\u2019y a que des perdants\u00a0\u00bb."
-		},
-		{
-			"title": "Nantes : Un changement d\u2019\u00e9lu et une brigade canine pour renforcer la s\u00e9curit\u00e9, \u00ab priorit\u00e9 num\u00e9ro un \u00bb - 20 Minutes",
-			"link": "https://www.20minutes.fr/nantes/4055284-20230929-nantes-changement-elu-brigade-canine-renforcer-securite-priorite-numero",
-			"pubDate": "Fri, 29 Sep 2023 05:02:37 GMT",
-			"image": "https://img.20mn.fr/ciuaJmY5SpOBxUTr2DTpOQ/1200x768_police-municipale-rues-nantes-illustration",
+			"title": "Fusillade \u00e0 Marseille : La justice enqu\u00eate sur la diffusion des images de vid\u00e9osurveillance - 20 Minutes",
+			"link": "https://www.20minutes.fr/faits_divers/faits-divers-marseille/4055363-20230929-fusillade-marseille-justice-enquete-diffusion-images-videosurveillance",
+			"pubDate": "Fri, 29 Sep 2023 09:42:43 GMT",
+			"image": "https://img.20mn.fr/7SbbulHASuilVTqDiqgnQSk/1200x768_capture-d-ecran-de-la-video-relative-a-la-fusillade-de-ce-jeudi",
 			"logo": "https://picsum.photos/32/32?grayscale",
 			"site_name": "www.20minutes.fr",
-			"url": "https://www.20minutes.fr/nantes/4055284-20230929-nantes-changement-elu-brigade-canine-renforcer-securite-priorite-numero",
-			"description": "Souvent critiqu\u00e9e sur le sujet, Johanna Rolland a annonc\u00e9 jeudi quelques mesures suppl\u00e9mentaires dans la lutte municipale contre les vols et violences"
+			"url": "https://www.20minutes.fr/faits_divers/faits-divers-marseille/4055363-20230929-fusillade-marseille-justice-enquete-diffusion-images-videosurveillance",
+			"description": "Il ne s\u2019agit pas de la premi\u00e8re fois que des images de vid\u00e9osurveillance relatives \u00e0 des ex\u00e9cutions de narcotrafiquants sont diffus\u00e9es sur les r\u00e9seaux sociaux"
 		},
 		{
-			"title": "Affaire Fillon : l'ex-premier ministre remporte une victoire judiciaire devant le Conseil constitutionnel - Le Monde",
-			"link": "https://www.lemonde.fr/societe/article/2023/09/29/affaire-fillon-l-ex-premier-ministre-remporte-une-victoire-devant-le-conseil-constitutionnel_6191503_3224.html",
-			"pubDate": "Thu, 28 Sep 2023 23:00:01 GMT",
-			"image": "https://img.lemde.fr/2023/09/28/0/0/3840/2560/1440/960/60/0/7c19410_5410101-01-06.jpg",
+			"title": "\"Apr\u00e8s ce sera l'Alsace?\": Tanguy d\u00e9plore le discours de Macron sur \"l'autonomie\" de la Corse - BFMTV",
+			"link": "https://www.bfmtv.com/politique/front-national/apres-ce-sera-l-alsace-tanguy-deplore-le-discours-de-macron-sur-l-autonomie-de-la-corse_AN-202309290304.html",
+			"pubDate": "Fri, 29 Sep 2023 07:25:00 GMT",
+			"image": "https://images.bfmtv.com/D0fNorwMSOLwd17dJaUGjbMhh6k=/0x61:2048x1213/2048x0/images/Le-depute-RN-Jean-Philippe-Tanguy-au-Havre-le-1er-mai-2023-1716360.jpg",
 			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "Le Monde.fr",
-			"url": "https://www.lemonde.fr/societe/article/2023/09/29/affaire-fillon-l-ex-premier-ministre-remporte-une-victoire-devant-le-conseil-constitutionnel_6191503_3224.html",
-			"description": "Saisi dans le cadre d\u2019une question prioritaire de constitutionnalit\u00e9, le Conseil a abrog\u00e9, jeudi, une disposition du code de proc\u00e9dure p\u00e9nale, ouvrant la voie \u00e0 un possible troisi\u00e8me proc\u00e8s dans le dossier des emplois fictifs. La d\u00e9cision pourrait aussi profiter \u00e0 Nicolas Sarkozy."
-		},
-		{
-			"title": "\"Et si vous nous faisiez confiance ?\" : l'autonomie propos\u00e9e aux Corses fait r\u00eaver les autres R\u00e9gions... \u00e0 commencer par l'Occitanie - LaDepeche.fr",
-			"link": "https://www.ladepeche.fr/2023/09/29/lautonomie-proposee-par-emmanuel-macron-aux-corses-fait-rever-les-autres-regions-11484384.php",
-			"pubDate": "Fri, 29 Sep 2023 04:31:00 GMT",
-			"image": "https://images.ladepeche.fr/api/v1/images/view/6515abd92dc43c4d73728829/large/image.png?v=1",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "ladepeche.fr",
-			"url": "https://www.ladepeche.fr/2023/09/29/lautonomie-proposee-par-emmanuel-macron-aux-corses-fait-rever-les-autres-regions-11484384.php",
-			"description": "Carole Delga, pr\u00e9sidente PS de l\u2019Association des r\u00e9gions de France qui tenait congr\u00e8s ce jeudi 28 septembre, a plaid\u00e9 devant Elisabeth Borne pour que les r\u00e9gions aient davantage d'autonomie. Une demande qui intervient..."
-		},
-		{
-			"title": "R\u00e9sidences secondaires : majoration de 60 % de la part communale sur la taxe d'habitation \u00e0 Carantec - Le T\u00e9l\u00e9gramme",
-			"link": "https://www.letelegramme.fr/finistere/carantec-29660/residences-secondaires-majoration-de-60-de-la-part-communale-sur-la-taxe-dhabitation-6438273.php",
-			"pubDate": "Thu, 28 Sep 2023 19:44:14 GMT",
-			"image": "https://media.letelegramme.fr/api/v1/images/view/6515e1ce1dd36b4d7212ef79/web_golden_xxl/6515e1ce1dd36b4d7212ef79.1",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "Le T\u00e9l\u00e9gramme",
-			"url": "https://www.letelegramme.fr/finistere/carantec-29660/residences-secondaires-majoration-de-60-de-la-part-communale-sur-la-taxe-dhabitation-6438273.php",
-			"description": "Le conseil municipal de Carantec a frapp\u00e9 fort en votant, ce jeudi 28\u00a0septembre 2023, une majoration de 60\u00a0% de la part communale de la taxe d\u2019habitation sur les r\u00e9sidences secondaires. Le maximum autoris\u00e9."
+			"site_name": "BFMTV",
+			"url": "https://www.bfmtv.com/politique/front-national/apres-ce-sera-l-alsace-tanguy-deplore-le-discours-de-macron-sur-l-autonomie-de-la-corse_AN-202309290304.html",
+			"description": "Notant que le pr\u00e9sident de la r\u00e9gion Bretagne a d\u00e9j\u00e0 r\u00e9clam\u00e9 la \"m\u00eame chose\" que la Corse, le d\u00e9put\u00e9 RN craint que ce discours ravive des demandes d'autonomie dans d'autres territoires fran\u00e7ais. "
 		},
 		{
 			"title": "Cuisine insalubre, surpopulation: la contr\u00f4leure des prisons alerte sur la maison d'arr\u00eat de... - BFMTV",
@@ -221,9 +91,199 @@
 			"description": "L'autorit\u00e9 administrative ind\u00e9pendante dirig\u00e9e par Dominique Simonnot recommande, \"dans l'attente\" de d\u00e9cisions p\u00e9rennes, de trouver \"des alternatives \u00e0 l'h\u00e9bergement des d\u00e9tenus dans ces b\u00e2timents\" v\u00e9tustes et d\u00e9grad\u00e9s. "
 		},
 		{
+			"title": "\"Jeu de la virgule\" : un coll\u00e9gien du Morbihan pris pour cible, cinq \u00e9l\u00e8ves exclus temporairement - TF1 INFO",
+			"link": "https://www.tf1info.fr/justice-faits-divers/jeu-de-la-virgule-un-collegien-de-cite-scolaire-broceliande-du-morbihan-pris-pour-cible-cinq-eleves-exclus-temporairement-2271382.html",
+			"pubDate": "Fri, 29 Sep 2023 08:15:59 GMT",
+			"image": "https://photos.tf1info.fr/images/1280/720/college-pretexte-taylor-wilcox-unsplash-6efd4f-1@1x.jpeg",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "TF1 INFO",
+			"url": "https://www.tf1info.fr/justice-faits-divers/jeu-de-la-virgule-un-collegien-de-cite-scolaire-broceliande-du-morbihan-pris-pour-cible-cinq-eleves-exclus-temporairement-2271382.html",
+			"description": "[VID\u00c9O] - Un \u00e9l\u00e8ve de 6e de Guer, dans le Morbihan, a \u00e9t\u00e9 bless\u00e9 apr\u00e8s avoir \u00e9t\u00e9 victime \u00e0 plusieurs reprises du \"jeu de la virgule\".\nCe d\u00e9fi dangereux, popularis\u00e9 par TikTok, consiste \u00e0 frapper l'arri\u00e8re de la nuque, le plus souvent par surprise.\nL'\u00e9tablissement a d\u00e9cid\u00e9 d'exclure temporairement les cinq agresseurs pr\u00e9sum\u00e9s, et des plaintes ont \u00e9t\u00e9 d\u00e9pos\u00e9es par la m\u00e8re de l'adolescent."
+		},
+		{
+			"title": "Guerre en Ukraine, en direct : pour le ministre des arm\u00e9es S\u00e9bastien Lecornu, la guerre en Ukraine \u00ab ce sont aussi des opportunit\u00e9s pour les industries fran\u00e7aises \u00bb - Le Monde",
+			"link": "https://www.lemonde.fr/international/live/2023/09/29/guerre-en-ukraine-en-direct-les-dernieres-informations-et-les-reponses-a-vos-questions_6191531_3210.html",
+			"pubDate": "Fri, 29 Sep 2023 06:56:15 GMT",
+			"image": "https://img.lemde.fr/2023/09/29/250/0/3000/1500/1440/720/60/0/bc358d7_1695970523914-000-32cj8bk.jpg",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "Le Monde.fr",
+			"url": "https://www.lemonde.fr/international/live/2023/09/29/guerre-en-ukraine-en-direct-les-dernieres-informations-et-les-reponses-a-vos-questions_6191531_3210.html",
+			"description": "S\u00e9bastien Lecornu, ministre des arm\u00e9es en visite \u00e0 Kiev jeudi, a d\u00e9clar\u00e9 que la France continuera de livrer des armes \u00e0 l\u2019Ukraine, rappelant qu\u2019en droit international le fait d\u2019aider un pays en guerre, \u00ab\u00a0ce n\u2019est pas \u00eatre cobellig\u00e9rant\u00a0\u00bb."
+		},
+		{
+			"title": "Pourquoi la composition de votre baguette de pain va changer \u00e0 partir de ce dimanche - Le Figaro",
+			"link": "https://www.lefigaro.fr/conso/pourquoi-la-composition-de-votre-baguette-de-pain-va-changer-a-partir-de-ce-dimanche-20230929",
+			"pubDate": "Fri, 29 Sep 2023 10:08:56 GMT",
+			"image": "https://i.f1g.fr/media/cms/1200x630_crop/2023/09/29/482b83899de0e175fb7fec1c4477ad504e2053b8b0c1b7bcbf118ba090df25ad.jpg",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "LEFIGARO",
+			"url": "https://www.lefigaro.fr/conso/pourquoi-la-composition-de-votre-baguette-de-pain-va-changer-a-partir-de-ce-dimanche-20230929",
+			"description": "\u00c0 compter du 1er octobre, les boulangers vont l\u00e9g\u00e8rement modifier leurs recettes. Et ce, afin d\u2019am\u00e9liorer la sant\u00e9 des Fran\u00e7ais."
+		},
+		{
+			"title": "La taxe sur les r\u00e9sidences secondaires major\u00e9e de 30 % dans cette commune du littoral varois - Var-matin",
+			"link": "https://www.varmatin.com/vie-locale/bormes-la-taxe-sur-les-residences-secondaires-majoree-de-30--875812",
+			"pubDate": "Fri, 29 Sep 2023 05:00:00 GMT",
+			"image": "https://fyooyzbm.filerobot.com/v7/protec/DATA_ART_12217743-OOHeCXhB.jpg?vh=045e59&ci_seal=4dcafd731e",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "Var-Matin",
+			"url": "https://www.varmatin.com/vie-locale/bormes-la-taxe-sur-les-residences-secondaires-majoree-de-30--875812",
+			"description": "L\u2019\u00e9motion \u00e9tait palpable, mercredi soir, en l\u2019h\u00f4tel de ville. Avant d\u2019examiner la trentaine de questions \u00e0 l\u2019ordre du jour, les \u00e9lus borm\u00e9ens ont tenu \u00e0 rendre un hommage appuy\u00e9 \u00e0 deux concitoyens trop t\u00f4t disparus. \r\nL\u2019hommage\r\n\u00c0 la demande du maire, Fran\u00e7ois Arizzi, les \u00e9lus et les fonctionnaires "
+		},
+		{
+			"title": "B\u00e9arn : une m\u00e8re et sa fille agress\u00e9es sexuellement \u00e0 quinze ans d'\u00e9cart, l'auteur condamn\u00e9 - Sud Ouest",
+			"link": "https://www.sudouest.fr/pyrenees-atlantiques/pau/bearn-une-mere-et-sa-fille-agressees-sexuellement-a-quinze-ans-d-ecart-l-auteur-condamne-16845189.php",
+			"pubDate": "Fri, 29 Sep 2023 06:00:00 GMT",
+			"image": "https://media.sudouest.fr/16845189/1200x-1/20230724143527-copiededscf252.jpg",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "SudOuest.fr",
+			"url": "https://www.sudouest.fr/pyrenees-atlantiques/pau/bearn-une-mere-et-sa-fille-agressees-sexuellement-a-quinze-ans-d-ecart-l-auteur-condamne-16845189.php",
+			"description": "Georges Marquez, 64\u00a0ans, a \u00e9t\u00e9 condamn\u00e9 \u00e0 quatre ans de prison pour agressions sexuelles commises sur sa belle-fille et sa petite belle-fille. Il est parti directement en d\u00e9tention ce jeudi 28\u00a0septembre"
+		},
+		{
+			"title": "Le nombre d'allocataires de minimas sociaux repart \u00e0 la hausse (mais le nombre de b\u00e9n\u00e9ficiaires du RSA... - BFM Business",
+			"link": "https://www.bfmtv.com/economie/le-nombre-d-allocataires-de-minimas-sociaux-repart-a-la-hausse-mais-moins-de-beneficiaires-du-rsa_AD-202309290109.html",
+			"pubDate": "Fri, 29 Sep 2023 04:48:00 GMT",
+			"image": "https://images.bfmtv.com/_t1HwBtAUkCd8LKxU-1AwyQq3Ww=/4x22:996x580/992x0/images/-486324.jpg",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "BFM BUSINESS",
+			"url": "https://www.bfmtv.com/economie/le-nombre-d-allocataires-de-minimas-sociaux-repart-a-la-hausse-mais-moins-de-beneficiaires-du-rsa_AD-202309290109.html",
+			"description": "Apr\u00e8s une forte hausse en 2020 du fait de la crise du Covid et un repli en 2021, le nombre d'allocataires a augment\u00e9 de 0,4% pour atteindre 4,34 millions fin 2022, selon la Drees. "
+		},
+		{
+			"title": "Contre l'A69 : Thomas Brail se dit pr\u00eat \u00e0 mourir - Reporterre",
+			"link": "https://news.google.com/rss/articles/CBMiVmh0dHBzOi8vcmVwb3J0ZXJyZS5uZXQvR3JldmUtZGUtbGEtc29pZi1jb250cmUtbC1BNjktVGhvbWFzLUJyYWlsLXNlLWRpdC1wcmV0LWEtbW91cmly0gEA?oc=5",
+			"pubDate": "Fri, 29 Sep 2023 08:22:00 GMT",
+			"image": "https://picsum.photos/200/300?grayscale",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "",
+			"url": "",
+			"description": ""
+		},
+		{
+			"title": "Refus d'obtemp\u00e9rer : un policier tra\u00een\u00e9 sur une cinquantaine de m\u00e8tres, le conducteur du scooter toujours en fuite - L'Ind\u00e9pendant",
+			"link": "https://www.lindependant.fr/2023/09/29/refus-dobtemperer-un-policier-traine-sur-une-cinquantaine-de-metres-le-conducteur-du-scooter-toujours-en-fuite-11485851.php",
+			"pubDate": "Fri, 29 Sep 2023 08:36:00 GMT",
+			"image": "https://images.lindependant.fr/api/v1/images/view/65168acc42ee88599a4f1bad/large/image.jpg?v=1",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "lindependant.fr",
+			"url": "https://www.lindependant.fr/2023/09/29/refus-dobtemperer-un-policier-traine-sur-une-cinquantaine-de-metres-le-conducteur-du-scooter-toujours-en-fuite-11485851.php",
+			"description": "Il s'est accroch\u00e9 au scooter pour tenter de l'arr\u00eater.\u00a0"
+		},
+		{
+			"title": "Au proc\u00e8s de Redoine Fa\u00efd, Alima A., logeuse de l'\u00e9vad\u00e9 malgr\u00e9 elle - Le Monde",
+			"link": "https://www.lemonde.fr/societe/article/2023/09/29/au-proces-de-redoine-faid-alima-h-logeuse-malgre-elle-de-l-evade-en-cavale_6191539_3224.html",
+			"pubDate": "Fri, 29 Sep 2023 06:55:09 GMT",
+			"image": "https://img.lemde.fr/2023/09/28/0/0/8039/5359/1440/960/60/0/8a1c862_1695917193151-000-33ub7gy-1.jpg",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "Le Monde.fr",
+			"url": "https://www.lemonde.fr/societe/article/2023/09/29/au-proces-de-redoine-faid-alima-h-logeuse-malgre-elle-de-l-evade-en-cavale_6191539_3224.html",
+			"description": "C\u2019est chez cette amie du neveu du braqueur que les trois fugitifs ont \u00e9t\u00e9 interpell\u00e9s en octobre\u00a02018. Poursuivie pour \u00ab\u00a0recel de criminel\u00a0\u00bb et \u00ab\u00a0association de malfaiteurs\u00a0\u00bb, elle int\u00e9resse aussi la cour pour son t\u00e9moignage sur l\u2019un des accus\u00e9s."
+		},
+		{
 			"title": "Coup d'arr\u00eat pour l'a\u00e9roport de Nantes : la d\u00e9cision de l'\u00c9tat satisfait ou d\u00e9sesp\u00e8re - Ouest-France",
 			"link": "https://news.google.com/rss/articles/CBMiwgFodHRwczovL3d3dy5vdWVzdC1mcmFuY2UuZnIvcGF5cy1kZS1sYS1sb2lyZS9uYW50ZXMtNDQwMDAvYWVyb3BvcnQtZGUtbmFudGVzL2NvdXAtZGFycmV0LXBvdXItbGFlcm9wb3J0LWRlLW5hbnRlcy1sYS1kZWNpc2lvbi1kZS1sZXRhdC1zYXRpc2ZhaXQtb3UtZGVzZXNwZXJlLTUyMzFiNGFlLTVlMjAtMTFlZS05ZDMyLTk2N2IwZTdjZWQ4N9IBAA?oc=5",
 			"pubDate": "Fri, 29 Sep 2023 05:00:40 GMT",
+			"image": "https://picsum.photos/200/300?grayscale",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "",
+			"url": "",
+			"description": ""
+		},
+		{
+			"title": "Nantes : Un changement d\u2019\u00e9lu et une brigade canine pour renforcer la s\u00e9curit\u00e9, \u00ab priorit\u00e9 num\u00e9ro un \u00bb - 20 Minutes",
+			"link": "https://www.20minutes.fr/nantes/4055284-20230929-nantes-changement-elu-brigade-canine-renforcer-securite-priorite-numero",
+			"pubDate": "Fri, 29 Sep 2023 05:02:37 GMT",
+			"image": "https://img.20mn.fr/ciuaJmY5SpOBxUTr2DTpOQ/1200x768_police-municipale-rues-nantes-illustration",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "www.20minutes.fr",
+			"url": "https://www.20minutes.fr/nantes/4055284-20230929-nantes-changement-elu-brigade-canine-renforcer-securite-priorite-numero",
+			"description": "Souvent critiqu\u00e9e sur le sujet, Johanna Rolland a annonc\u00e9 jeudi quelques mesures suppl\u00e9mentaires dans la lutte municipale contre les vols et violences"
+		},
+		{
+			"title": "\"Et si vous nous faisiez confiance ?\" : l'autonomie propos\u00e9e aux Corses fait r\u00eaver les autres R\u00e9gions... \u00e0 commencer par l'Occitanie - LaDepeche.fr",
+			"link": "https://www.ladepeche.fr/2023/09/29/lautonomie-proposee-par-emmanuel-macron-aux-corses-fait-rever-les-autres-regions-11484384.php",
+			"pubDate": "Fri, 29 Sep 2023 04:31:00 GMT",
+			"image": "https://images.ladepeche.fr/api/v1/images/view/6515abd92dc43c4d73728829/large/image.png?v=1",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "ladepeche.fr",
+			"url": "https://www.ladepeche.fr/2023/09/29/lautonomie-proposee-par-emmanuel-macron-aux-corses-fait-rever-les-autres-regions-11484384.php",
+			"description": "Carole Delga, pr\u00e9sidente PS de l\u2019Association des r\u00e9gions de France qui tenait congr\u00e8s ce jeudi 28 septembre, a plaid\u00e9 devant Elisabeth Borne pour que les r\u00e9gions aient davantage d'autonomie. Une demande qui intervient..."
+		},
+		{
+			"title": "C\u00f4tes-d\u2019Armor : deux hommes \u00e9crou\u00e9s apr\u00e8s le meurtre par balles d\u2019un quarantenaire - Le Parisien",
+			"link": "https://www.leparisien.fr/faits-divers/cotes-darmor-deux-hommes-ecroues-apres-le-meurtre-par-balles-dun-quarantenaire-28-09-2023-23RRFPVJUVCVRBYKQBGOP52FRA.php",
+			"pubDate": "Thu, 28 Sep 2023 18:23:00 GMT",
+			"image": "https://www.leparisien.fr/resizer/NxXJnI5bMvy3l8jdX08HZGAGwWM=/1200x675/cloudfront-eu-central-1.images.arcpublishing.com/leparisien/QRQLJQAT65DCXMTDXXCND2IUDE.jpg",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "leparisien.fr",
+			"url": "https://www.leparisien.fr/faits-divers/cotes-darmor-deux-hommes-ecroues-apres-le-meurtre-par-balles-dun-quarantenaire-28-09-2023-23RRFPVJUVCVRBYKQBGOP52FRA.php",
+			"description": "Un homme \u00e2g\u00e9 de 42 ans avait \u00e9t\u00e9 retrouv\u00e9 bless\u00e9 dans un magasin le 14\u00a0septembre. Il a succomb\u00e9 \u00e0 ses blessures douze jours plus tard."
+		},
+		{
+			"title": "L'ambassadeur de France rentr\u00e9 du Niger assure que l'objectif des putschistes \u00e9tait de le \"faire craquer\" - BFMTV",
+			"link": "https://www.bfmtv.com/international/afrique/l-ambassadeur-de-france-rentre-du-niger-assure-que-l-objectif-des-putschistes-etait-de-le-faire-craquer_AD-202309281067.html",
+			"pubDate": "Thu, 28 Sep 2023 21:48:00 GMT",
+			"image": "https://images.bfmtv.com/HRUx298Dnyp60G56KxLm1INkXZQ=/4x67:1252x769/1248x0/images/Des-manifestants-devant-l-ambassade-de-France-a-Niamey-1683148.jpg",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "BFMTV",
+			"url": "https://www.bfmtv.com/international/afrique/l-ambassadeur-de-france-rentre-du-niger-assure-que-l-objectif-des-putschistes-etait-de-le-faire-craquer_AD-202309281067.html",
+			"description": "Deux mois apr\u00e8s le coup d'\u00c9tat au Niger, l'ambassadeur de France est rentr\u00e9 cette semaine de Niamey et a racont\u00e9 ce jeudi les semaines pass\u00e9es reclus dans son ambassade. "
+		},
+		{
+			"title": "Qu'est-ce qui d\u00e9termine l'empreinte carbone des Fran\u00e7ais ? Le niveau de revenus, \u00e9l\u00e9ment central - Sud Ouest",
+			"link": "https://www.sudouest.fr/environnement/climat/qu-est-ce-qui-determine-l-empreinte-carbone-des-francais-le-niveau-de-revenus-element-central-16850452.php",
+			"pubDate": "Fri, 29 Sep 2023 05:10:57 GMT",
+			"image": "https://media.sudouest.fr/16850452/1200x-1/dambin-2.jpg",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "SudOuest.fr",
+			"url": "https://www.sudouest.fr/environnement/climat/qu-est-ce-qui-determine-l-empreinte-carbone-des-francais-le-niveau-de-revenus-element-central-16850452.php",
+			"description": "Le total des \u00e9missions de gaz \u00e0 effet de serre induites par le mode de vie des citoyens fran\u00e7ais d\u00e9pend prioritairement du niveau de revenus, assure une \u00e9tude"
+		},
+		{
+			"title": "Baisse de la natalit\u00e9 en France, autonomie de la Corse, r\u00e9forme du RSA ... Les inform\u00e9s de franceinfo du jeudi 28 septembre 2023 - franceinfo",
+			"link": "https://www.francetvinfo.fr/replay-radio/les-informes-de-france-info/baisse-de-la-natalite-en-france-autonomie-de-la-corse-reforme-du-rsa-les-informes-de-franceinfo-du-jeudi-28-septembre-2023_6060714.html",
+			"pubDate": "Thu, 28 Sep 2023 18:58:02 GMT",
+			"image": "https://www.francetvinfo.fr/pictures/4GcoQL-pLNTxWUTuzL5qo7d9YBI/1500x843/2023/09/28/informes-screen-65159929c2691919512096.jpg",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "Franceinfo",
+			"url": "https://www.francetvinfo.fr/replay-radio/les-informes-de-france-info/baisse-de-la-natalite-en-france-autonomie-de-la-corse-reforme-du-rsa-les-informes-de-franceinfo-du-jeudi-28-septembre-2023_6060714.html",
+			"description": "Autour de B\u00e9reng\u00e8re Bonte et Jean-Fran\u00e7ois Achilli, les inform\u00e9s d\u00e9battent de l'actualit\u00e9 du jeudi 28 septembre."
+		},
+		{
+			"title": "DOCUMENT RTL - \"Monsieur Darmanin, aidez-nous\" : l'appel d'une propri\u00e9taire d\u00e9poss\u00e9d\u00e9e par des squatteurs \u00e0 Annemasse - RTL",
+			"link": "https://www.rtl.fr/actu/justice-faits-divers/document-rtl-m-darmanin-aidez-nous-l-appel-d-une-proprietaire-depossedee-par-des-squatteurs-a-annemasse-7900303113",
+			"pubDate": "Thu, 28 Sep 2023 18:02:07 GMT",
+			"image": "https://images.rtl.fr/~c/2000v2000/rtl/www/1618172-christelle-combepine-l-une-des-proprietaires-de-la-residence-dannemasse-agressee-par-une-squatteuse-elle-arrive-ici-aux-urgences-de-l-hopital-d-annemasse.jpeg",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "www.rtl.fr",
+			"url": "https://www.rtl.fr/actu/justice-faits-divers/document-rtl-m-darmanin-aidez-nous-l-appel-d-une-proprietaire-depossedee-par-des-squatteurs-a-annemasse-7900303113",
+			"description": "Des escrocs ont mis la main sur une r\u00e9sidence en Haute-Savoie. Ils ont m\u00eame expuls\u00e9 les propri\u00e9taires, dont Christelle. Elle a \u00e9t\u00e9 violemment agress\u00e9e jeudi."
+		},
+		{
+			"title": "Nuit des chercheurs, op\u00e9ra, festival Fredd\u2026 Que faire \u00e0 Toulouse ces prochains jours ? - actu.fr",
+			"link": "https://news.google.com/rss/articles/CBMiiAFodHRwczovL2FjdHUuZnIvb2NjaXRhbmllL3RvdWxvdXNlXzMxNTU1L251aXQtZGVzLWNoZXJjaGV1cnMtb3BlcmEtZmVzdGl2YWwtZnJlZGQtcXVlLWZhaXJlLWEtdG91bG91c2UtY2VzLXByb2NoYWlucy1qb3Vyc182MDEzNTQ5Ny5odG1s0gEA?oc=5",
+			"pubDate": "Thu, 28 Sep 2023 17:16:03 GMT",
+			"image": "https://picsum.photos/200/300?grayscale",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "",
+			"url": "",
+			"description": ""
+		},
+		{
+			"title": "Le Conseil des ministres a habilit\u00e9 le gouvernement \u00e0 utiliser le 49.3 pour tous les textes budg\u00e9taires - Le Figaro",
+			"link": "https://www.lefigaro.fr/politique/le-conseil-des-ministres-a-habilite-le-gouvernement-a-utiliser-le-49-3-pour-tous-les-textes-budgetaires-20230928",
+			"pubDate": "Thu, 28 Sep 2023 15:59:26 GMT",
+			"image": "https://i.f1g.fr/media/cms/1200x630_crop/2023/09/28/3689eacc60e5ab374fb73e409eaf863432fb101a0c7b6fafe6225a8da402bff6.jpg",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "LEFIGARO",
+			"url": "https://www.lefigaro.fr/politique/le-conseil-des-ministres-a-habilite-le-gouvernement-a-utiliser-le-49-3-pour-tous-les-textes-budgetaires-20230928",
+			"description": "Le gouvernement pourra ainsi recourir \u00e0 l'article 49.3 \u00e0 la fois pour le projet de budget 2024 et pour le projet de loi de finances de la S\u00e9curit\u00e9 sociale."
+		},
+		{
+			"title": "Un homme de 66 ans se noie sur une plage des C\u00f4tes-d'Armor - Ouest-France \u00e9ditions locales",
+			"link": "https://news.google.com/rss/articles/CBMiuwFodHRwczovL3d3dy5vdWVzdC1mcmFuY2UuZnIvYnJldGFnbmUvc2FpbnQtY2FzdC1sZS1ndWlsZG8tMjIzODAvdW4taG9tbWUtZGUtNjYtYW5zLXNlLW5vaWUtc3VyLXVuZS1wbGFnZS1kZS1zYWludC1jYXN0LWxlLWd1aWxkby1kYW5zLWxlcy1jb3Rlcy1kYXJtb3ItNDI2ZmY1YWUtNWViNS0xMWVlLWIzN2EtYjRkOGVkNTBkNGRl0gEA?oc=5",
+			"pubDate": "Fri, 29 Sep 2023 10:58:59 GMT",
 			"image": "https://picsum.photos/200/300?grayscale",
 			"logo": "https://picsum.photos/32/32?grayscale",
 			"site_name": "",
@@ -241,46 +301,6 @@
 			"description": "Avec cette mesure, le gouvernement souhaite s\u2019attaquer au mal \u00e0 la racine en s\u00e9parant les harceleurs de leur smartphone le plus t\u00f4t possible lors de faits graves signal\u00e9s."
 		},
 		{
-			"title": "Bretagne : Un diff\u00e9rend familial tourne au meurtre, deux hommes \u00e9crou\u00e9s - 20 Minutes",
-			"link": "https://www.20minutes.fr/faits_divers/4055343-20230929-bretagne-differend-familial-tourne-meurtre-deux-hommes-ecroues",
-			"pubDate": "Fri, 29 Sep 2023 06:44:22 GMT",
-			"image": "https://img.20mn.fr/TTXUQnJ0SHuA9MInMhXBQSk/1200x768_une-voiture-de-la-gendarmerie-illustration",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "www.20minutes.fr",
-			"url": "https://www.20minutes.fr/faits_divers/4055343-20230929-bretagne-differend-familial-tourne-meurtre-deux-hommes-ecroues",
-			"description": "La victime avait \u00e9t\u00e9 touch\u00e9e par balle dans le dos le 14\u00a0septembre sur une aire de gens du voyage \u00e0 Loud\u00e9ac "
-		},
-		{
-			"title": "Le Franco-Libanais Amin Maalouf \u00e9lu secr\u00e9taire perp\u00e9tuel de l'Acad\u00e9mie fran\u00e7aise - FRANCE 24",
-			"link": "https://news.google.com/rss/articles/CBMimAFodHRwczovL3d3dy5mcmFuY2UyNC5jb20vZnIvaW5mby1lbi1jb250aW51LzIwMjMwOTI4LSVGMCU5RiU5NCVCNC1hbWluLW1hYWxvdWYtJUMzJUE5bHUtc2VjciVDMyVBOXRhaXJlLXBlcnAlQzMlQTl0dWVsLWRlLWwtYWNhZCVDMyVBOW1pZS1mcmFuJUMzJUE3YWlzZdIBAA?oc=5",
-			"pubDate": "Thu, 28 Sep 2023 14:01:00 GMT",
-			"image": "https://picsum.photos/200/300?grayscale",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "",
-			"url": "",
-			"description": ""
-		},
-		{
-			"title": "Face-\u00e0-Face : Marion Mar\u00e9chal - BFMTV",
-			"link": "https://www.youtube.com/watch?v=RtSXQuruP3o",
-			"pubDate": "Thu, 28 Sep 2023 22:00:14 GMT",
-			"image": "https://i.ytimg.com/vi/RtSXQuruP3o/maxresdefault.jpg",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "YouTube",
-			"url": "https://www.youtube.com/watch?v=RtSXQuruP3o",
-			"description": "Apolline de Malherbe re\u00e7oit Marion Mar\u00e9chal, vice-pr\u00e9sidente de Reconqu\u00eate, t\u00eate de liste aux \u00e9lections europ\u00e9ennes, dans \"Face-\u00e0-Face\" sur BFMTV et RMC, ce ..."
-		},
-		{
-			"title": "L\u2019empreinte carbone des Fran\u00e7ais augmente drastiquement avec leur revenu - 20 Minutes",
-			"link": "https://www.20minutes.fr/planete/environnement/4055340-20230929-empreinte-carbone-francais-augmente-drastiquement-revenu",
-			"pubDate": "Fri, 29 Sep 2023 06:07:47 GMT",
-			"image": "https://img.20mn.fr/DWvgBALaRbSkKss4zfnymSk/1200x768_la-pollution-engendree-par-la-facon-de-consommer-de-se-deplacer-et-de-se-loger-est-tres-liee-aux-revenus-des-menages-photo-d-illustration",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "www.20minutes.fr",
-			"url": "https://www.20minutes.fr/planete/environnement/4055340-20230929-empreinte-carbone-francais-augmente-drastiquement-revenu",
-			"description": "Pour les revenus mensuels inf\u00e9rieurs \u00e0 1.500 euros, la moyenne de l'empreinte varie entre 7 et 7,4 tonnes par adulte contre 11,6 tonnes pour la tranche la plus \u00e9lev\u00e9e"
-		},
-		{
 			"title": "Journ\u00e9e mondiale du droit \u00e0 l'avortement : l'acc\u00e8s \u00e0 l'IVG en Tunisie et au Chili - franceinfo",
 			"link": "https://www.francetvinfo.fr/replay-radio/le-club-des-correspondants/journee-mondiale-du-droit-a-l-avortement-l-acces-a-l-ivg-en-tunisie-et-au-chili_6061332.html",
 			"pubDate": "Thu, 28 Sep 2023 15:31:11 GMT",
@@ -291,49 +311,9 @@
 			"description": "Tous les jours, le club des correspondants d\u00e9crit comment un m\u00eame fait d'actualit\u00e9 s'illustre dans d'autres pays."
 		},
 		{
-			"title": "DOCUMENT RTL - \"Monsieur Darmanin, aidez-nous\" : l'appel d'une propri\u00e9taire d\u00e9poss\u00e9d\u00e9e par des squatteurs \u00e0 Annemasse - RTL",
-			"link": "https://www.rtl.fr/actu/justice-faits-divers/document-rtl-m-darmanin-aidez-nous-l-appel-d-une-proprietaire-depossedee-par-des-squatteurs-a-annemasse-7900303113",
-			"pubDate": "Thu, 28 Sep 2023 18:02:07 GMT",
-			"image": "https://images.rtl.fr/~c/2000v2000/rtl/www/1618172-christelle-combepine-l-une-des-proprietaires-de-la-residence-dannemasse-agressee-par-une-squatteuse-elle-arrive-ici-aux-urgences-de-l-hopital-d-annemasse.jpeg",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "www.rtl.fr",
-			"url": "https://www.rtl.fr/actu/justice-faits-divers/document-rtl-m-darmanin-aidez-nous-l-appel-d-une-proprietaire-depossedee-par-des-squatteurs-a-annemasse-7900303113",
-			"description": "Des escrocs ont mis la main sur une r\u00e9sidence en Haute-Savoie. Ils ont m\u00eame expuls\u00e9 les propri\u00e9taires, dont Christelle. Elle a \u00e9t\u00e9 violemment agress\u00e9e jeudi."
-		},
-		{
-			"title": "S\u00e9bastien Raoult, accus\u00e9 de cybercriminalit\u00e9 aux \u00c9tats-Unis, plaide finalement coupable - Le HuffPost",
-			"link": "https://www.huffingtonpost.fr/international/article/sebastien-raoult-accuse-de-cybercriminalite-aux-etats-unis-plaide-finalement-coupable_223740.html",
-			"pubDate": "Fri, 29 Sep 2023 05:24:48 GMT",
-			"image": "https://huffpost-focus.sirius.press/2023/01/26/609/0/2200/1237/1820/1023/75/0/18b56ba_1674691471299-000-337u4bv.jpg",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "Le HuffPost",
-			"url": "https://www.huffingtonpost.fr/international/article/sebastien-raoult-accuse-de-cybercriminalite-aux-etats-unis-plaide-finalement-coupable_223740.html",
-			"description": "Le jeune homme est soup\u00e7onn\u00e9 d\u2019\u00eatre un membre du groupe \u00ab\u00a0Shinyhunters\u00a0\u00bb, qui a pirat\u00e9 les donn\u00e9es confidentielles de plus de 60\u00a0entreprises."
-		},
-		{
-			"title": "Messe du pape Fran\u00e7ois au stade V\u00e9lodrome: faute de dons suffisants, les organisateurs peinent \u00e0 boucler le budget - Var-matin",
-			"link": "https://www.varmatin.com/religion/messe-du-pape-francois-au-stade-velodrome-a-marseille-faute-de-dons-suffisants-les-organisateurs-peinent-a-boucler-le-budget-875837",
-			"pubDate": "Thu, 28 Sep 2023 21:16:00 GMT",
-			"image": "https://fyooyzbm.filerobot.com/v7/DATA_ART_12189547-hdjS5pQB-O31lSFHf.webp?vh=e5e08c&ci_seal=bdbf608c3a",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "Var-Matin",
-			"url": "https://www.varmatin.com/religion/messe-du-pape-francois-au-stade-velodrome-a-marseille-faute-de-dons-suffisants-les-organisateurs-peinent-a-boucler-le-budget-875837",
-			"description": "C'est un appel \u00e0 l'aide que lancent les organisateurs des Rencontres m\u00e9diterran\u00e9ennes qui se sont tenues \u00e0 Marseille les 22 et 23 septembre 2003, marqu\u00e9es notamment par la venue historique du pape Fran\u00e7ois en France. \r\n\"57.000 personnes au stade... et tr\u00e8s peu de donateurs ! Sans votre don, nous ne "
-		},
-		{
-			"title": "M\u00e9t\u00e9o du jeudi 28 septembre : un peu moins chaud au nord - La Cha\u00eene M\u00e9t\u00e9o",
-			"link": "https://actualite.lachainemeteo.com/actualite-meteo/2023-09-27/meteo-du-jeudi-28-septembre-assez-nuageux-et-un-peu-moins-chaud-au-nord-68333",
-			"pubDate": "Wed, 27 Sep 2023 22:00:00 GMT",
-			"image": "https://static1.mclcm.net/iod/images/v2/69/photo/78/1200x630_100_300_000000x30x0.jpg?ts=20230929095021",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "La Cha\u00eene M\u00e9t\u00e9o",
-			"url": "https://actualite.lachainemeteo.com/actualite-meteo/2023-09-27/meteo-du-jeudi-28-septembre-assez-nuageux-et-un-peu-moins-chaud-au-nord-68333",
-			"description": "Dans un contexte m\u00e9t\u00e9orologique qui reste durablement estival sur notre pays, les passages nuageux deviennent un peu plus nombreux au nord de la Loire avec des temp\u00e9ratures qui baissent un peu. - Actualit\u00e9s La Cha\u00eene M\u00e9t\u00e9o"
-		},
-		{
-			"title": "H\u00f4pital, mus\u00e9e, urbanisme\u2026 Ce que se sont dit \u00c9lisabeth Borne et Gilles Lurton, maire de Saint-Malo - Ouest-France",
-			"link": "https://news.google.com/rss/articles/CBMiugFodHRwczovL3d3dy5vdWVzdC1mcmFuY2UuZnIvYnJldGFnbmUvc2FpbnQtbWFsby0zNTQwMC9ob3BpdGFsLW11c2VlLXVyYmFuaXNtZS1jZS1xdWUtc2Utc29udC1kaXQtZWxpc2FiZXRoLWJvcm5lLWV0LWdpbGxlcy1sdXJ0b24tbWFpcmUtZGUtc2FpbnQtbWFsby00Zjc3M2IwYy01ZGZlLTExZWUtOWQzMi05NjdiMGU3Y2VkODfSAQA?oc=5",
-			"pubDate": "Thu, 28 Sep 2023 13:45:58 GMT",
+			"title": "Adolescente retrouv\u00e9e dans l'infirmerie d'un coll\u00e8ge en Loire-Atlantique : ce que l'on sait - Ouest-France",
+			"link": "https://news.google.com/rss/articles/CBMiugFodHRwczovL3d3dy5vdWVzdC1mcmFuY2UuZnIvcGF5cy1kZS1sYS1sb2lyZS9wb250Y2hhdGVhdS00NDE2MC9hZG9sZXNjZW50ZS1yZXRyb3V2ZWUtZGFucy1saW5maXJtZXJpZS1kdW4tY29sbGVnZS1lbi1sb2lyZS1hdGxhbnRpcXVlLWNlLXF1ZS1sb24tc2FpdC04MmZkMWNmNC01ZWE3LTExZWUtOTA5MS02ZWRlY2ZmYzhhNTbSAQA?oc=5",
+			"pubDate": "Fri, 29 Sep 2023 10:56:25 GMT",
 			"image": "https://picsum.photos/200/300?grayscale",
 			"logo": "https://picsum.photos/32/32?grayscale",
 			"site_name": "",
@@ -341,24 +321,24 @@
 			"description": ""
 		},
 		{
-			"title": "La m\u00e9t\u00e9o de votre vendredi 29 septembre 2023 - Actualit\u00e9s m\u00e9t\u00e9o - M\u00e9t\u00e9o Bretagne",
-			"link": "http://www.meteo.bzh/actualite/la-meteo-de-votre-vendredi-29-septembre-2023-2023-09-28",
-			"pubDate": "Thu, 28 Sep 2023 15:13:01 GMT",
-			"image": "http://www.meteo.bzh/miniature/digiteka/qm8xuf3",
+			"title": "Elisabeth Borne lance l'id\u00e9e de \u00ab COP r\u00e9gionales \u00bb - Le Monde",
+			"link": "https://www.lemonde.fr/planete/article/2023/09/28/elisabeth-borne-lance-l-idee-de-cop-regionales_6191474_3244.html",
+			"pubDate": "Thu, 28 Sep 2023 16:54:01 GMT",
+			"image": "https://img.lemde.fr/2023/09/28/0/0/6861/4574/1440/960/60/0/7ed914a_5407618-01-06.jpg",
 			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "M\u00e9t\u00e9o Bretagne",
-			"url": "http://www.meteo.bzh/actualite/la-meteo-de-votre-vendredi-29-septembre-2023-2023-09-28",
-			"description": "Vendredi 29 septembre 2023 - \r\n\r\nLe grand m\u00e9nage avant ... l'\u00e9t\u00e9 ! - \r\n\r\nLes nuages sont encore nombreux \u00e0 l'est avec1"
+			"site_name": "Le Monde.fr",
+			"url": "https://www.lemonde.fr/planete/article/2023/09/28/elisabeth-borne-lance-l-idee-de-cop-regionales_6191474_3244.html",
+			"description": "La premi\u00e8re ministre a expos\u00e9, jeudi, un plan d\u2019action \u00ab\u00a0d\u2019ici l\u2019\u00e9t\u00e9\u00a0\u00bb dans le but de \u00ab\u00a0faire converger travaux nationaux et remont\u00e9es des territoires\u00a0\u00bb."
 		},
 		{
-			"title": "Crise de l'eau \u00e0 Mayotte : en pleine p\u00e9riode de gastro-ent\u00e9rite, l'h\u00f4pital craint maintenant un pic \u00e9pid\u00e9mique - franceinfo",
-			"link": "https://www.francetvinfo.fr/france/mayotte/crise-de-l-eau-a-mayotte-en-pleine-periode-de-gastro-enterite-l-hopital-craint-maintenant-une-pic-epidemique_6089493.html",
-			"pubDate": "Thu, 28 Sep 2023 14:52:35 GMT",
-			"image": "https://www.francetvinfo.fr/pictures/as-t0EvU_ETtitY_Do3eKQoBuY0/1500x843/2023/09/28/000-33vp9bh-65157413ac6f9334170814.jpg",
+			"title": "Affaires Fillon et Sarkozy: le Conseil constitutionnel permet un \u00e9ventuel 3e proc\u00e8s - BFMTV",
+			"link": "https://www.bfmtv.com/police-justice/affaires-fillon-et-sarkozy-le-conseil-constitutionnel-permet-un-eventuel-3e-proces_AD-202309280758.html",
+			"pubDate": "Thu, 28 Sep 2023 15:45:13 GMT",
+			"image": "https://images.bfmtv.com/K1nD4XrF_-oDQRlofbNPjHHkepg=/0x41:800x491/800x0/images/1239622.jpg",
 			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "Franceinfo",
-			"url": "https://www.francetvinfo.fr/france/mayotte/crise-de-l-eau-a-mayotte-en-pleine-periode-de-gastro-enterite-l-hopital-craint-maintenant-une-pic-epidemique_6089493.html",
-			"description": "\u00c0 Mayotte, l'h\u00f4pital se pr\u00e9pare \u00e0 une recrudescence de pathologies li\u00e9es au manque d'eau potable, tout en faisant face \u00e0 une crise du personnel et pendant une \u00e9pid\u00e9mie de gastro-ent\u00e9rite \u00e9lev\u00e9e."
+			"site_name": "BFMTV",
+			"url": "https://www.bfmtv.com/police-justice/affaires-fillon-et-sarkozy-le-conseil-constitutionnel-permet-un-eventuel-3e-proces_AD-202309280758.html",
+			"description": "Dans un jugement concernant distinctement les affaires Fillon et Sarkozy, le Conseil constitutionnel ouvre la voie \u00e0 un\u00a03e proc\u00e8s pour les hommes politiques, en raison d'un point de proc\u00e9dure.  "
 		},
 		{
 			"title": "Pompes \u00e0 chaleur : pourquoi de nombreuses arnaques risquent de se multiplier - CNEWS",
@@ -371,224 +351,64 @@
 			"description": "Lors de la pr\u00e9sentation de son plan concernant la planification \u00e9cologique, lundi 25 septembre, Emmanuel Macron a d\u00e9voil\u00e9 son souhait de d\u00e9velopper massivement d\u2019ici \u00e0 2030 les pompes \u00e0 chaleur. Une annonce qui n\u2019est pas sans risques face aux escroqueries qui se multiplient."
 		},
 		{
-			"title": "Le pain change de go\u00fbt \u00e0 partir de dimanche : ce qu'en pense un boulanger breton - Le T\u00e9l\u00e9gramme",
-			"link": "https://www.letelegramme.fr/bretagne/le-pain-change-de-gout-a-partir-de-dimanche-ce-quen-pense-un-boulanger-breton-6438158.php",
-			"pubDate": "Thu, 28 Sep 2023 15:59:59 GMT",
-			"image": "https://media.letelegramme.fr/api/v1/images/view/6515e208e971c05b01276a2b/web_golden_xxl/6515e208e971c05b01276a2b.1",
+			"title": "\"Il n'y a jamais eu autant d'immigr\u00e9s en France qu'aujourd'hui\" (Didier Leschi) - Europe 1",
+			"link": "https://www.youtube.com/watch?v=q4wW8VIw6Lk",
+			"pubDate": "Fri, 29 Sep 2023 06:44:05 GMT",
+			"image": "https://i.ytimg.com/vi/q4wW8VIw6Lk/maxresdefault.jpg",
 			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "Le T\u00e9l\u00e9gramme",
-			"url": "https://www.letelegramme.fr/bretagne/le-pain-change-de-gout-a-partir-de-dimanche-ce-quen-pense-un-boulanger-breton-6438158.php",
-			"description": "\u00c0 partir de ce dimanche 1er\u00a0octobre, les boulangers devront mettre moins de sel dans le pain pour des raisons de sant\u00e9 publique. Kevin Adkins, artisan chez Maison Coupel, \u00e0 Rennes, nous explique ce que \u00e7a va changer."
+			"site_name": "YouTube",
+			"url": "https://www.youtube.com/watch?v=q4wW8VIw6Lk",
+			"description": "Didier Leschi, directeur g\u00e9n\u00e9ral de l\u2019Office fran\u00e7ais de l\u2019immigration et de l\u2019int\u00e9gration, r\u00e9pond aux questions de Romain Desarbres.ABONNEZ-VOUS pour plus d..."
 		},
 		{
-			"title": "Neuf \u00e9tudiants juifs sur dix ont \u00e9t\u00e9 victimes d'un acte antis\u00e9mite, selon un sondage - BFMTV",
-			"link": "https://www.bfmtv.com/societe/pres-de-neuf-etudiants-juifs-sur-dix-ont-ete-victimes-d-un-acte-antisemite-selon-un-sondage_AV-202309280517.html",
-			"pubDate": "Thu, 28 Sep 2023 10:50:25 GMT",
-			"image": "https://images.bfmtv.com/3OjaObztn2HU8mQS1XZkVfU7YwQ=/0x43:768x475/768x0/images/Dans-la-bibliotheque-de-l-universite-Paris-Saclay-a-Saclay-dans-l-Essonne-le-17-septembre-2021-1465743.jpg",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "BFMTV",
-			"url": "https://www.bfmtv.com/societe/pres-de-neuf-etudiants-juifs-sur-dix-ont-ete-victimes-d-un-acte-antisemite-selon-un-sondage_AV-202309280517.html",
-			"description": "Un sondage de l'Ifop pour l'UEJF estime que neuf \u00e9tudiants juifs sur dix ont \u00e9t\u00e9 victimes d'un acte antis\u00e9mite dans le cadre de leurs \u00e9tudes. Ces actes sont le plus souvent des remarques  v\u00e9hiculant des st\u00e9r\u00e9otypes sur les juifs."
-		},
-		{
-			"title": "Directrice d'\u00e9cole suspendue \u00e0 Conches : une \u00ab mesure de protection \u00bb selon l'Acad\u00e9mie - actu.fr",
-			"link": "https://news.google.com/rss/articles/CBMijQFodHRwczovL2FjdHUuZnIvbm9ybWFuZGllL2NvbmNoZXMtZW4tb3VjaGVfMjcxNjUvZGlyZWN0cmljZS1kZWNvbGUtc3VzcGVuZHVlLWEtY29uY2hlcy11bmUtbWVzdXJlLWRlLXByb3RlY3Rpb24tc2Vsb24tbGFjYWRlbWllXzYwMTQwNjU4Lmh0bWzSAQA?oc=5",
-			"pubDate": "Thu, 28 Sep 2023 12:39:00 GMT",
-			"image": "https://picsum.photos/200/300?grayscale",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "",
-			"url": "",
-			"description": ""
-		},
-		{
-			"title": "ENQU\u00caTE. Afghanistan : 15 ans apr\u00e8s l'embuscade d'Uzbin, le dossier judiciaire d\u00e9voile les erreurs de la hi\u00e9rarchie militaire - franceinfo",
-			"link": "https://www.francetvinfo.fr/monde/afghanistan/enquete-afghanistan-15-ans-apres-l-embuscade-d-uzbin-le-dossier-judiciaire-devoile-les-erreurs-de-la-hierarchie-militaire_6089766.html",
-			"pubDate": "Fri, 29 Sep 2023 04:22:40 GMT",
-			"image": "https://www.francetvinfo.fr/pictures/nWm1nTF--mXRGRhc32rUHCNZP_4/1500x843/2023/09/28/photo-3-kaboul-ceremonie-6515a7ca6d8ae726192866.jpg",
+			"title": "Antis\u00e9mitisme : \"On a les outils pour agir\", assure la ministre de l'Enseignement sup\u00e9rieur apr\u00e8s la publication d'une \u00e9tude alarmante - franceinfo",
+			"link": "https://www.francetvinfo.fr/societe/antisemitisme/antisemitisme-on-a-les-outils-pour-agir-assure-la-ministre-de-l-enseignement-superieur-apres-la-publication-d-une-etude-alarmante_6089301.html",
+			"pubDate": "Thu, 28 Sep 2023 09:37:45 GMT",
+			"image": "https://www.francetvinfo.fr/pictures/rvOjhVhk_kkuPNT1r-JqAfyqap4/1500x843/2023/09/28/maxnewsfrfive110872-651548a2601b2021051449.jpg",
 			"logo": "https://picsum.photos/32/32?grayscale",
 			"site_name": "Franceinfo",
-			"url": "https://www.francetvinfo.fr/monde/afghanistan/enquete-afghanistan-15-ans-apres-l-embuscade-d-uzbin-le-dossier-judiciaire-devoile-les-erreurs-de-la-hierarchie-militaire_6089766.html",
-			"description": "En ao\u00fbt 2008, dix soldats fran\u00e7ais perdaient la vie dans une embuscade tendue par les talibans afghans dans la vall\u00e9e d\u2019Uzbin. La cellule investigation de Radio France a pu consulter le dossier judiciaire et mettre au jour une \"succession d\u2019erreurs\" commises par la cha\u00eene de commandement."
+			"url": "https://www.francetvinfo.fr/societe/antisemitisme/antisemitisme-on-a-les-outils-pour-agir-assure-la-ministre-de-l-enseignement-superieur-apres-la-publication-d-une-etude-alarmante_6089301.html",
+			"description": "Sylvie Retailleau \u00e9voque un r\u00e9seau \"structur\u00e9\" de \"r\u00e9f\u00e9rents\" dans tous les \u00e9tablissements pour lutter. Elle dit \u00e9galement envisager \"une enqu\u00eate\"."
 		},
 		{
-			"title": "Justice climatique : six jeunes pourraient faire condamner 32 \u00c9tats - Reporterre",
-			"link": "https://news.google.com/rss/articles/CBMiX2h0dHBzOi8vcmVwb3J0ZXJyZS5uZXQvQS1sYS1DRURILXVuZS1hdWRpZW5jZS1oaXN0b3JpcXVlLXBvdXItc3RhdHVlci1zdXItbC1pbmFjdGlvbi1jbGltYXRpcXVl0gEA?oc=5",
-			"pubDate": "Thu, 28 Sep 2023 09:52:00 GMT",
-			"image": "https://picsum.photos/200/300?grayscale",
+			"title": "Punaises de lit : pr\u00e9vention, propagation, id\u00e9es re\u00e7ues\u2026 Posez vos questions et t\u00e9moignez - Le Monde",
+			"link": "https://www.lemonde.fr/societe/live/2023/09/29/fleau-des-punaises-de-lit-en-direct-prevention-propagation-idees-recues-posez-vos-questions-et-temoignez_6191567_3224.html",
+			"pubDate": "Fri, 29 Sep 2023 11:06:41 GMT",
+			"image": "https://img.lemde.fr/2023/09/29/421/0/4200/2100/1440/720/60/0/07c1e82_1695968572849-000-was3686441.jpg",
 			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "",
-			"url": "",
-			"description": ""
+			"site_name": "Le Monde.fr",
+			"url": "https://www.lemonde.fr/societe/live/2023/09/29/fleau-des-punaises-de-lit-en-direct-prevention-propagation-idees-recues-posez-vos-questions-et-temoignez_6191567_3224.html",
+			"description": "Alors que la Mairie de Paris parle d\u2019une \u00ab\u00a0recrudescence importante\u00a0\u00bb, le gouvernement pr\u00e9pare un plan sp\u00e9cifique avec les compagnies de transport. T\u00e9moignez et posez vos questions \u00e0 Jean-Michel B\u00e9renger, entomologiste \u00e0 l\u2019IHU de Marseille, qui y r\u00e9pondra \u00e0 partir de 15 heures."
 		},
 		{
-			"title": "Elections s\u00e9natoriales : Battue, Sonia Back\u00e8s d\u00e9missionne du gouvernement - 20 Minutes",
-			"link": "https://www.20minutes.fr/politique/4055097-20230927-elections-senatoriales-battue-sonia-backes-demissionne-gouvernement",
-			"pubDate": "Wed, 27 Sep 2023 17:00:53 GMT",
-			"image": "https://img.20mn.fr/WBuPYjW9RQ-ENGYLkT3aXCk/1200x768_french-secretary-of-state-for-citizenship-sonia-backes-arriving-for-a-meeting-with-french-prime-minister-elisabeth-borne-at-matignon-palace-paris-france-30-03-2023-01jacqueswitt-choix007-credit-jacques-witt-sipa-2303301946",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "www.20minutes.fr",
-			"url": "https://www.20minutes.fr/politique/4055097-20230927-elections-senatoriales-battue-sonia-backes-demissionne-gouvernement",
-			"description": "Sonia Back\u00e8s a pr\u00e9sent\u00e9 sa d\u00e9mission du gouvernement apr\u00e8s sa d\u00e9faite aux \u00e9lections s\u00e9natoriales"
-		},
-		{
-			"title": "L'Alg\u00e9rie interdit l'enseignement des programmes scolaires fran\u00e7ais dans les \u00e9coles priv\u00e9es - Ouest-France",
-			"link": "https://news.google.com/rss/articles/CBMiqAFodHRwczovL3d3dy5vdWVzdC1mcmFuY2UuZnIvbW9uZGUvYWxnZXJpZS9sYWxnZXJpZS1pbnRlcmRpdC1sZW5zZWlnbmVtZW50LWRlcy1wcm9ncmFtbWVzLXNjb2xhaXJlcy1mcmFuY2Fpcy1kYW5zLWxlcy1lY29sZXMtcHJpdmVlcy1kMzRhZTQ1YS01ZTEzLTExZWUtODA3MS1iM2RmOThiODUxZTnSAQA?oc=5",
-			"pubDate": "Thu, 28 Sep 2023 16:44:19 GMT",
-			"image": "https://picsum.photos/200/300?grayscale",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "",
-			"url": "",
-			"description": ""
-		},
-		{
-			"title": "D\u00e9cision n\u00b0 2023-1062 QPC du 28 septembre 2023 - Conseil constitutionnel",
-			"link": "https://news.google.com/rss/articles/CBMiRGh0dHBzOi8vd3d3LmNvbnNlaWwtY29uc3RpdHV0aW9ubmVsLmZyL2RlY2lzaW9uLzIwMjMvMjAyMzEwNjJRUEMuaHRt0gEA?oc=5",
-			"pubDate": "Thu, 28 Sep 2023 15:06:44 GMT",
-			"image": "https://picsum.photos/200/300?grayscale",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "",
-			"url": "",
-			"description": ""
-		},
-		{
-			"title": "Au Mans, trois refus d'obtemp\u00e9rer et des courses-poursuites en seulement quelques heures - Ouest-France",
-			"link": "https://news.google.com/rss/articles/CBMirAFodHRwczovL3d3dy5vdWVzdC1mcmFuY2UuZnIvcGF5cy1kZS1sYS1sb2lyZS9sZS1tYW5zLTcyMDAwL2F1LW1hbnMtdHJvaXMtY291cnNlcy1wb3Vyc3VpdGVzLWF2ZWMtbGEtcG9saWNlLWVuLXNldWxlbWVudC1xdWVscXVlcy1oZXVyZXMtZTI2OGFkOWMtNWUyMS0xMWVlLTgwNzEtYjNkZjk4Yjg1MWU50gEA?oc=5",
-			"pubDate": "Thu, 28 Sep 2023 18:28:48 GMT",
-			"image": "https://picsum.photos/200/300?grayscale",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "",
-			"url": "",
-			"description": ""
-		},
-		{
-			"title": "Adecco jug\u00e9 pour fichage racial : 22 ans apr\u00e8s, les victimes t\u00e9moignent - L'Humanit\u00e9",
-			"link": "https://www.humanite.fr/social-et-economie/adecco/adecco-juge-pour-fichage-racial-22-ans-apres-les-victimes-temoignent",
-			"pubDate": "Fri, 29 Sep 2023 01:57:56 GMT",
-			"image": "https://www.humanite.fr/wp-content/uploads/2023/09/p3-Adecco-agence_LUN_HQ.jpg",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "L'Humanit\u00e9",
-			"url": "https://www.humanite.fr/social-et-economie/adecco/adecco-juge-pour-fichage-racial-22-ans-apres-les-victimes-temoignent",
-			"description": "\n\n\n\n..."
-		},
-		{
-			"title": "Proc\u00e8s de Magnanville : une enqu\u00eatrice pointe \u00ab l'ascendant religieux \u00bb de l'accus\u00e9 sur le terroriste - La Croix",
-			"link": "https://www.la-croix.com/france/Proces-Magnanville-enquetrice-pointe-lascendant-religieux-laccuse-terroriste-2023-09-28-1201284576",
-			"pubDate": "Thu, 28 Sep 2023 07:02:59 GMT",
-			"image": "https://i.la-croix.com/1400x933/smart/2023/09/28/1201284576/Dessin-realise-25-septembre-2023-montrant-Mohamed-Lamine-Aberouz-droite-assistant-deuxieme-proces-attentat-Magnanville-palais-justice-Paris_0.jpg",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "La Croix",
-			"url": "https://www.la-croix.com/france/Proces-Magnanville-enquetrice-pointe-lascendant-religieux-laccuse-terroriste-2023-09-28-1201284576",
-			"description": "Une polici\u00e8re antiterroriste a affirm\u00e9, mercredi 27\u00a0septembre, que l\u2019auteur de l\u2019attentat de juin\u00a02016 a \u00e9t\u00e9 influenc\u00e9 id\u00e9ologiquement par Mohamed Lamine Aberouz, celui-ci usant de ses connaissances religieuses \u00ab\u00a0pour entra\u00eener ses interlocuteurs vers l\u2019action violente et l\u2019endoctrinement\u00a0\u00bb. Ce qu\u2019a toujours contest\u00e9 l\u2019accus\u00e9."
-		},
-		{
-			"title": "\"Je n'accepte pas \u00e7a\": Beno\u00eet Payan compte se \"battre\" contre l'arr\u00eat du m\u00e9tro \u00e0 21h30 \u00e0 Marseille - BFM Marseille",
-			"link": "https://www.bfmtv.com/marseille/je-n-accepte-pas-ca-benoit-payan-compte-se-battre-contre-l-arret-du-metro-a-21h30-a-marseille_AV-202309280970.html",
-			"pubDate": "Thu, 28 Sep 2023 19:01:22 GMT",
-			"image": "https://images.bfmtv.com/hIKuJxn0XiKtfdohd2mf95exoj0=/327x396:2039x1359/1712x0/images/Benoit-Payan-1712336.jpg",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "BFMTV",
-			"url": "https://www.bfmtv.com/marseille/je-n-accepte-pas-ca-benoit-payan-compte-se-battre-contre-l-arret-du-metro-a-21h30-a-marseille_AV-202309280970.html",
-			"description": "La RTM a annonc\u00e9 l'arr\u00eat d\u00e8s 21h30 du m\u00e9tro \u00e0 Marseille d\u00e8s fin octobre et pour deux ans. Une d\u00e9cision que le maire de Marseille regrette et ne comprend pas."
-		},
-		{
-			"title": "Autoroute A69 Castres-Toulouse : les opposants demandent l'arr\u00eat du chantier le temps d'une m\u00e9diation - LaDepeche.fr",
-			"link": "https://www.ladepeche.fr/2023/09/28/autoroute-a69-castres-toulouse-les-opposants-demandent-larret-du-chantier-le-temps-dune-mediation-11483737.php",
-			"pubDate": "Thu, 28 Sep 2023 11:07:00 GMT",
-			"image": "https://images.ladepeche.fr/api/v1/images/view/65155c2707b72d34097c3026/large/image.jpg?v=1",
+			"title": "Disparition d'une jeune fille de 12 ans dans les Yvelines : elle voulait \"r\u00e9gler des comptes avant de mettre fin \u00e0 ses jours\" - LaDepeche.fr",
+			"link": "https://www.ladepeche.fr/2023/09/29/disparition-dune-jeune-fille-de-12-ans-dans-les-yvelines-elle-voulait-regler-des-comptes-avant-de-mettre-fin-a-ses-jours-11485576.php",
+			"pubDate": "Fri, 29 Sep 2023 05:45:00 GMT",
+			"image": "https://images.ladepeche.fr/api/v1/images/view/6516642dbbce2040703fc736/large/image.jpg?v=1",
 			"logo": "https://picsum.photos/32/32?grayscale",
 			"site_name": "ladepeche.fr",
-			"url": "https://www.ladepeche.fr/2023/09/28/autoroute-a69-castres-toulouse-les-opposants-demandent-larret-du-chantier-le-temps-dune-mediation-11483737.php",
-			"description": "Les opposants \u00e0 l\u2019autoroute A69 entre Castres et Toulouse, dont huit sont en gr\u00e8ve de la faim depuis plus de quinze jours, ont conditionn\u00e9 l\u2019arr\u00eat de leur action \u00e0 celui du chantier, \u00ab le temps d\u2019une m\u00e9diation \u00bb...."
+			"url": "https://www.ladepeche.fr/2023/09/29/disparition-dune-jeune-fille-de-12-ans-dans-les-yvelines-elle-voulait-regler-des-comptes-avant-de-mettre-fin-a-ses-jours-11485576.php",
+			"description": "Asya, 12 ans, a quitt\u00e9 le domicile d'une amie ce lundi 25 septembre et n'a pas depuis laiss\u00e9 aucune trace. Un appel \u00e0 t\u00e9moins a \u00e9t\u00e9 lanc\u00e9."
 		},
 		{
-			"title": "Olivier V\u00e9ran lance son \u00ab TripAdvisor de la d\u00e9mocratie \u00bb au lendemain d'un 49.3 - Le HuffPost",
-			"link": "https://www.huffingtonpost.fr/politique/article/olivier-veran-lance-son-tripadvisor-de-la-democratie-au-lendemain-d-un-49-3_223689.html",
-			"pubDate": "Thu, 28 Sep 2023 08:48:06 GMT",
-			"image": "https://huffpost-focus.sirius.press/2023/09/28/84/0/2048/1152/1820/1023/75/0/b4e6d7f_1695886721833-2023-09-28-0g2-kleki.png",
+			"title": "La m\u00e9t\u00e9o de votre vendredi 29 septembre 2023 - Actualit\u00e9s m\u00e9t\u00e9o - M\u00e9t\u00e9o Bretagne",
+			"link": "http://www.meteo.bzh/actualite/la-meteo-de-votre-vendredi-29-septembre-2023-2023-09-28",
+			"pubDate": "Thu, 28 Sep 2023 15:13:01 GMT",
+			"image": "http://www.meteo.bzh/miniature/digiteka/qm8xuf3",
 			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "Le HuffPost",
-			"url": "https://www.huffingtonpost.fr/politique/article/olivier-veran-lance-son-tripadvisor-de-la-democratie-au-lendemain-d-un-49-3_223689.html",
-			"description": "Le porte-parole du gouvernement lance \u00ab\u00a0Agora\u00a0\u00bb, une application visant \u00e0 cr\u00e9er du lien entre le gouvernement et les citoyens."
+			"site_name": "M\u00e9t\u00e9o Bretagne",
+			"url": "http://www.meteo.bzh/actualite/la-meteo-de-votre-vendredi-29-septembre-2023-2023-09-28",
+			"description": "Vendredi 29 septembre 2023 - \r\n\r\nLe grand m\u00e9nage avant ... l'\u00e9t\u00e9 ! - \r\n\r\nLes nuages sont encore nombreux \u00e0 l'est avec1"
 		},
 		{
-			"title": "Nouveau stade \u00e0 Brest : Fran\u00e7ois Cuillandre esp\u00e8re un soutien du D\u00e9partement - Le T\u00e9l\u00e9gramme",
-			"link": "https://www.letelegramme.fr/finistere/brest-29200/nouveau-stade-a-brest-francois-cuillandre-espere-un-soutien-du-departement-6437996.php",
-			"pubDate": "Thu, 28 Sep 2023 13:33:18 GMT",
-			"image": "https://media.letelegramme.fr/api/v1/images/view/6515809ea77eef3c26669ce9/web_golden_xxl/6515809ea77eef3c26669ce9.1",
+			"title": "Inflation, budget 2024, pr\u00e9sidentielle... Ce qu'il faut retenir de l'interview de Bruno Le Maire dans \"L'Ev\u00e9nement, l'interview\" - franceinfo",
+			"link": "https://www.francetvinfo.fr/politique/bruno-le-maire/inflation-budget-2024-presidentielle-ce-qu-il-faut-retenir-de-l-interview-de-bruno-le-maire-dans-l-evenement-l-interview_6089784.html",
+			"pubDate": "Thu, 28 Sep 2023 20:53:43 GMT",
+			"image": "https://www.francetvinfo.fr/pictures/lMNaPvQJAA-sw5iKflJblEEc7bE/1500x843/2023/09/28/video-6515d812d2769318225200.jpg",
 			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "Le T\u00e9l\u00e9gramme",
-			"url": "https://www.letelegramme.fr/finistere/brest-29200/nouveau-stade-a-brest-francois-cuillandre-espere-un-soutien-du-departement-6437996.php",
-			"description": "Combien, au final, Brest M\u00e9tropole mettra-t-elle au pot du nouveau stade\u00a0? Fran\u00e7ois Cuillandre ne sait le dire, mais fait pressing sur le conseil d\u00e9partemental du Finist\u00e8re."
-		},
-		{
-			"title": "IVG dans la Constitution : un avis de la Commission des droits de l'homme relance le d\u00e9bat - La Croix",
-			"link": "https://www.la-croix.com/france/IVG-Constitution-avis-Commission-droits-lhomme-relance-debat-2023-09-28-1201284640",
-			"pubDate": "Thu, 28 Sep 2023 15:06:38 GMT",
-			"image": "https://i.la-croix.com/1400x933/smart/2023/09/28/1201284640/adobestock-522203068-editorial_0.jpg",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "La Croix",
-			"url": "https://www.la-croix.com/france/IVG-Constitution-avis-Commission-droits-lhomme-relance-debat-2023-09-28-1201284640",
-			"description": "Dans un avis adopt\u00e9 jeudi 28\u00a0septembre, la Commission nationale consultative des droits de l\u2019homme se prononce clairement pour l\u2019inscription du droit \u00e0 l\u2019avortement dans l\u2019article\u00a0premier du texte fondamental. Le processus de r\u00e9forme est pour le moment encalmin\u00e9."
-		},
-		{
-			"title": "S\u00e9cheresse : 14 communes de Vend\u00e9e reconnues en \u00e9tat de catastrophe naturelle - France 3 R\u00e9gions",
-			"link": "https://france3-regions.francetvinfo.fr/pays-de-la-loire/vendee/la-roche-sur-yon/secheresse-14-communes-de-vendee-reconnues-en-etat-de-catastrophe-naturelle-2847116.html",
-			"pubDate": "Thu, 28 Sep 2023 15:42:00 GMT",
-			"image": "https://france3-regions.francetvinfo.fr/image/eO08SJeRFTQgqWC08QfW1__E13s/930x620/regions/2023/09/28/s-85-maison-fissur-e-bouff-r-00-00-03-20-une-aussi-651548bc41679684402734.jpg",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "France 3 Pays de la Loire",
-			"url": "https://france3-regions.francetvinfo.fr/pays-de-la-loire/vendee/la-roche-sur-yon/secheresse-14-communes-de-vendee-reconnues-en-etat-de-catastrophe-naturelle-2847116.html",
-			"description": "Une bonne nouvelle pour les habitants des 14 communes concern\u00e9es par cet arr\u00eat\u00e9 de catastrophe naturelle apr\u00e8s la s\u00e9cheresse de l'\u00e9t\u00e9 2022 en Vend\u00e9e. Ils ont un mois pour d\u00e9clarer les d\u00e9g\u00e2ts \u00e0 leur assureur. En revanche douze..."
-		},
-		{
-			"title": "Pourquoi vous pourrez toujours jeter vos bouteilles en plastique dans la poubelle jaune - BFM Business",
-			"link": "https://www.bfmtv.com/economie/pourquoi-vous-pourrez-toujours-jeter-vos-bouteilles-en-plastique-dans-la-poubelle-jaune_AD-202309280381.html",
-			"pubDate": "Thu, 28 Sep 2023 08:43:06 GMT",
-			"image": "https://images.bfmtv.com/OXSs56fChf4671qPmpXFF3GkUzg=/0x120:1280x840/1280x0/images/plastqiue-dechet-377127.jpg",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "BFM BUSINESS",
-			"url": "https://www.bfmtv.com/economie/pourquoi-vous-pourrez-toujours-jeter-vos-bouteilles-en-plastique-dans-la-poubelle-jaune_AD-202309280381.html",
-			"description": "Le gouvernement a finalement renonc\u00e9 \u00e0 la g\u00e9n\u00e9ralisation de la consigne pour les bouteilles en plastique. "
-		},
-		{
-			"title": "\"C'est quand m\u00eame abus\u00e9\": un lyc\u00e9e parisien interdit \u00e0 ses \u00e9l\u00e8ves le port de la jupe et de la robe - BFM Paris Ile-de-France",
-			"link": "https://www.bfmtv.com/paris/c-est-quand-meme-abuse-un-lycee-parisien-interdit-a-ses-eleves-le-port-de-la-jupe-et-de-la-robe_AN-202309280767.html",
-			"pubDate": "Thu, 28 Sep 2023 15:51:00 GMT",
-			"image": "https://images.bfmtv.com/_bqeRbvV4I74maQHmimcz_4aCzc=/2x26:802x476/800x0/images/Des-lyceens-devant-un-etablissement-scolaire-parisien-Photo-d-illustration-1715746.jpg",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "BFMTV",
-			"url": "https://www.bfmtv.com/paris/c-est-quand-meme-abuse-un-lycee-parisien-interdit-a-ses-eleves-le-port-de-la-jupe-et-de-la-robe_AN-202309280767.html",
-			"description": "Depuis la rentr\u00e9e, un lyc\u00e9e du 18e arrondissement de Paris a consid\u00e9rablement durci les r\u00e8gles vestimentaires inscrites dans son r\u00e9glement int\u00e9rieur. Robes, jupes, pantalon cargos et t-shirts \u00e0 motifs sont d\u00e9sormais proscrits au sein de l'\u00e9tablissement... au grand dam des \u00e9l\u00e8ves qui font part de..."
-		},
-		{
-			"title": "Disparition inqui\u00e9tante d\u2019une fille de 12 ans dans les Yvelines, introuvable depuis lundi - Le Parisien",
-			"link": "https://www.leparisien.fr/yvelines-78/disparition-inquietante-dune-fille-de-12-ans-dans-les-yvelines-introuvable-depuis-lundi-28-09-2023-YOUU52MWHNG5RJEXETX7E654LM.php",
-			"pubDate": "Thu, 28 Sep 2023 16:42:00 GMT",
-			"image": "https://www.leparisien.fr/resizer/Y69owH1zzfTBK86y-euwIbxmAfg=/1200x675/cloudfront-eu-central-1.images.arcpublishing.com/leparisien/A7FT4EFGA5BKHAYODCM4SCVKV4.jpg",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "leparisien.fr",
-			"url": "https://www.leparisien.fr/yvelines-78/disparition-inquietante-dune-fille-de-12-ans-dans-les-yvelines-introuvable-depuis-lundi-28-09-2023-YOUU52MWHNG5RJEXETX7E654LM.php",
-			"description": "Asya a quitt\u00e9 le domicile d\u2019une amie sans donner de nouvelles. Elle pourrait se trouver du c\u00f4t\u00e9 de Bagnolet ou Pantin en Seine-Saint-Denis. "
-		},
-		{
-			"title": "Disclose : \u00ab On ne peut pas utiliser les m\u00e9dias pour aller \u00e0 la p\u00eache et trouver des preuves \u00bb - 20 Minutes",
-			"link": "https://www.20minutes.fr/justice/4055178-20230928-disclose-peut-utiliser-medias-aller-peche-trouver-preuves",
-			"pubDate": "Thu, 28 Sep 2023 15:41:11 GMT",
-			"image": "https://img.20mn.fr/TqjNkUV0TXGtzuAUoz-R8ik/1200x768_french-journalist-ariane-lavrilleux-addresses-a-press-conference-in-paris-on-september-2023-after-passing-48-hours-in-custody-french-journalists-and-ng-os-rose-in-outrage-against-an-escalation-in-the-breach-in-the-secrecy-of-sources-a-pilar-of-journalism-challenged-by-state-secrecy-after-lavrilleux-was-taken-into-custody-and-after-her-house-was-searched-linked-to-her-work-published-by-the-media-disclose-on-connections-between-a-french-intelligence-operation-and-egypt-photo-by-thomas-samson-afp",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "www.20minutes.fr",
-			"url": "https://www.20minutes.fr/justice/4055178-20230928-disclose-peut-utiliser-medias-aller-peche-trouver-preuves",
-			"description": "Mercredi, un juge des libert\u00e9s et de la d\u00e9tention a valid\u00e9 les saisies op\u00e9r\u00e9es au domicile de la journaliste Ariane Lavrilleux"
-		},
-		{
-			"title": "D\u00e9couvrez le meilleur jour pour r\u00e9server des billets d'avion \u00e0 petit prix en 2024 - Ouest-France",
-			"link": "https://news.google.com/rss/articles/CBMimgFodHRwczovL3d3dy5vdWVzdC1mcmFuY2UuZnIvdG91cmlzbWUvZGVjb3V2cmV6LWxlLW1laWxsZXVyLWpvdXItcG91ci1yZXNlcnZlci1kZXMtYmlsbGV0cy1kYXZpb24tYS1wZXRpdC1wcml4LWVuLTIwMjQtMGU5YzBkNDItNWRlZi0xMWVlLTgyZWYtMmFhM2MzOGZkYjg20gEA?oc=5",
-			"pubDate": "Thu, 28 Sep 2023 16:01:18 GMT",
-			"image": "https://picsum.photos/200/300?grayscale",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "",
-			"url": "",
-			"description": ""
+			"site_name": "Franceinfo",
+			"url": "https://www.francetvinfo.fr/politique/bruno-le-maire/inflation-budget-2024-presidentielle-ce-qu-il-faut-retenir-de-l-interview-de-bruno-le-maire-dans-l-evenement-l-interview_6089784.html",
+			"description": "Le ministre de l'Economie \u00e9tait l'invit\u00e9 de l'\u00e9mission politique de France 2 jeudi soir. Il a notamment fait le point sur l'inflation alimentaire, le pouvoir d'achat et les objectifs de croissance pour l'ann\u00e9e \u00e0 venir."
 		},
 		{
 			"title": "Jean-Luc M\u00e9lenchon repasse \u00e0 l'offensive - Les \u00c9chos",
@@ -601,14 +421,194 @@
 			"description": "Le leader de La France insoumise (LFI), qui se dit \u00ab\u00a0en retrait\u00a0\u00bb de la vie politique, publie ce jeudi\u00a0un livre, \u00ab\u00a0Faites mieux\u00a0!\u00a0\u00bb\u00a0: un appel \u00e0 la nouvelle g\u00e9n\u00e9ration \u00e0 reprendre le flambeau de la lutte. Mais aussi un rappel qu'il n'est pas pr\u00eat \u00e0 s'effacer, au risque d'agacer un peu plus ses partenaires au sein de la Nupes."
 		},
 		{
-			"title": "Une contr\u00f4leuse agress\u00e9e et frapp\u00e9e au sol par une passag\u00e8re dans un bus \u00e0 Orl\u00e9ans - Orl\u00e9ans (45000) - La R\u00e9publique du Centre",
-			"link": "https://www.larep.fr/orleans-45000/actualites/une-controleuse-agressee-et-frappee-au-sol-par-une-passagere-dans-un-bus-a-orleans_14378702/",
-			"pubDate": "Thu, 28 Sep 2023 15:27:00 GMT",
-			"image": "https://img.lamontagne.fr/0CI6UIKOeOQcHBpt4dn5sZxT3KZiryQ-dMUcnVzgFss/fit/657/438/sm/0/bG9jYWw6Ly8vMDAvMDAvMDYvNjAvNTQvMjAwMDAwNjYwNTQyMw.jpg",
+			"title": "D\u00e9cision n\u00b0 2023-1062 QPC du 28 septembre 2023 - Conseil constitutionnel",
+			"link": "https://news.google.com/rss/articles/CBMiRGh0dHBzOi8vd3d3LmNvbnNlaWwtY29uc3RpdHV0aW9ubmVsLmZyL2RlY2lzaW9uLzIwMjMvMjAyMzEwNjJRUEMuaHRt0gEA?oc=5",
+			"pubDate": "Thu, 28 Sep 2023 15:06:44 GMT",
+			"image": "https://picsum.photos/200/300?grayscale",
 			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "www.larep.fr",
-			"url": "https://www.larep.fr/orleans-45000/actualites/une-controleuse-agressee-et-frappee-au-sol-par-une-passagere-dans-un-bus-a-orleans_14378702/",
-			"description": "Une contr\u00f4leuse a \u00e9t\u00e9 agress\u00e9e dans un bus mardi 26 septembre par une passag\u00e8re qui ne d\u00e9tenait pas de titre de transport."
+			"site_name": "",
+			"url": "",
+			"description": ""
+		},
+		{
+			"title": "Pourquoi vous pourrez toujours jeter vos bouteilles en plastique dans la poubelle jaune - BFM Business",
+			"link": "https://www.bfmtv.com/economie/pourquoi-vous-pourrez-toujours-jeter-vos-bouteilles-en-plastique-dans-la-poubelle-jaune_AD-202309280381.html",
+			"pubDate": "Thu, 28 Sep 2023 08:43:06 GMT",
+			"image": "https://images.bfmtv.com/OXSs56fChf4671qPmpXFF3GkUzg=/0x120:1280x840/1280x0/images/plastqiue-dechet-377127.jpg",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "BFM BUSINESS",
+			"url": "https://www.bfmtv.com/economie/pourquoi-vous-pourrez-toujours-jeter-vos-bouteilles-en-plastique-dans-la-poubelle-jaune_AD-202309280381.html",
+			"description": "Le gouvernement a finalement renonc\u00e9 \u00e0 la g\u00e9n\u00e9ralisation de la consigne pour les bouteilles en plastique. "
+		},
+		{
+			"title": "\"Fi\u00e8re\", \"triste\", \"pas une surprise\", \"sanctionn\u00e9e\" : r\u00e9actions politiques apr\u00e8s la d\u00e9mission de Sonia Back\u00e8s - Nouvelle-Cal\u00e9donie la 1\u00e8re - Outre-mer la 1\u00e8re",
+			"link": "https://la1ere.francetvinfo.fr/nouvellecaledonie/sonia-backes-n-est-plus-secretaire-d-etat-les-reactions-politiques-1431692.html",
+			"pubDate": "Thu, 28 Sep 2023 06:34:33 GMT",
+			"image": "https://la1ere.francetvinfo.fr/image/E5yzS-jPHSQa28VAOlDlfQh6eN4/930x620/outremer/2023/09/25/v2-senatoriales-l-avenir-de-sonia-backes-forpt-0xxcode-mixx50-frame-2488-6512020b67f0f429403386.jpg",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "Nouvelle-Cal\u00e9donie la 1\u00e8re",
+			"url": "https://la1ere.francetvinfo.fr/nouvellecaledonie/sonia-backes-n-est-plus-secretaire-d-etat-les-reactions-politiques-1431692.html",
+			"description": "C\u2019est l\u2019information politique du jour, en Nouvelle-Cal\u00e9donie, et elle est tomb\u00e9e la nuit derni\u00e8re. La pr\u00e9sidente de la province Sud, cheffe de file des Loyalistes, a d\u00fb renoncer \u00e0 son secr\u00e9tariat d\u2019Etat \u00e0 la Citoyennet\u00e9 au sein du gouvernement Borne II, apr\u00e8s avoir \u00e9t\u00e9 battue dimanche aux s\u00e9natoriales. Tour d\u2019horizon des r\u00e9actions politiques."
+		},
+		{
+			"title": "Face-\u00e0-Face : Marion Mar\u00e9chal - BFMTV",
+			"link": "https://www.youtube.com/watch?v=RtSXQuruP3o",
+			"pubDate": "Thu, 28 Sep 2023 22:00:14 GMT",
+			"image": "https://i.ytimg.com/vi/RtSXQuruP3o/maxresdefault.jpg",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "YouTube",
+			"url": "https://www.youtube.com/watch?v=RtSXQuruP3o",
+			"description": "Apolline de Malherbe re\u00e7oit Marion Mar\u00e9chal, vice-pr\u00e9sidente de Reconqu\u00eate, t\u00eate de liste aux \u00e9lections europ\u00e9ennes, dans \"Face-\u00e0-Face\" sur BFMTV et RMC, ce ..."
+		},
+		{
+			"title": "Justice climatique : six jeunes pourraient faire condamner 32 \u00c9tats - Reporterre",
+			"link": "https://news.google.com/rss/articles/CBMiX2h0dHBzOi8vcmVwb3J0ZXJyZS5uZXQvQS1sYS1DRURILXVuZS1hdWRpZW5jZS1oaXN0b3JpcXVlLXBvdXItc3RhdHVlci1zdXItbC1pbmFjdGlvbi1jbGltYXRpcXVl0gEA?oc=5",
+			"pubDate": "Thu, 28 Sep 2023 09:52:00 GMT",
+			"image": "https://picsum.photos/200/300?grayscale",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "",
+			"url": "",
+			"description": ""
+		},
+		{
+			"title": "Proc\u00e8s de Magnanville : une enqu\u00eatrice pointe \u00ab l'ascendant religieux \u00bb de l'accus\u00e9 sur le terroriste - La Croix",
+			"link": "https://www.la-croix.com/france/Proces-Magnanville-enquetrice-pointe-lascendant-religieux-laccuse-terroriste-2023-09-28-1201284576",
+			"pubDate": "Thu, 28 Sep 2023 07:02:59 GMT",
+			"image": "https://i.la-croix.com/1400x933/smart/2023/09/28/1201284576/Dessin-realise-25-septembre-2023-montrant-Mohamed-Lamine-Aberouz-droite-assistant-deuxieme-proces-attentat-Magnanville-palais-justice-Paris_0.jpg",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "La Croix",
+			"url": "https://www.la-croix.com/france/Proces-Magnanville-enquetrice-pointe-lascendant-religieux-laccuse-terroriste-2023-09-28-1201284576",
+			"description": "Une polici\u00e8re antiterroriste a affirm\u00e9, mercredi 27\u00a0septembre, que l\u2019auteur de l\u2019attentat de juin\u00a02016 a \u00e9t\u00e9 influenc\u00e9 id\u00e9ologiquement par Mohamed Lamine Aberouz, celui-ci usant de ses connaissances religieuses \u00ab\u00a0pour entra\u00eener ses interlocuteurs vers l\u2019action violente et l\u2019endoctrinement\u00a0\u00bb. Ce qu\u2019a toujours contest\u00e9 l\u2019accus\u00e9."
+		},
+		{
+			"title": "Nouveau stade \u00e0 Brest : Fran\u00e7ois Cuillandre esp\u00e8re un soutien du D\u00e9partement - Le T\u00e9l\u00e9gramme",
+			"link": "https://www.letelegramme.fr/finistere/brest-29200/nouveau-stade-a-brest-francois-cuillandre-espere-un-soutien-du-departement-6437996.php",
+			"pubDate": "Thu, 28 Sep 2023 13:33:18 GMT",
+			"image": "https://media.letelegramme.fr/api/v1/images/view/6515809ea77eef3c26669ce9/web_golden_xxl/6515809ea77eef3c26669ce9.1",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "Le T\u00e9l\u00e9gramme",
+			"url": "https://www.letelegramme.fr/finistere/brest-29200/nouveau-stade-a-brest-francois-cuillandre-espere-un-soutien-du-departement-6437996.php",
+			"description": "Combien, au final, Brest M\u00e9tropole mettra-t-elle au pot du nouveau stade\u00a0? Fran\u00e7ois Cuillandre ne sait le dire, mais fait pressing sur le conseil d\u00e9partemental du Finist\u00e8re."
+		},
+		{
+			"title": "Directrice d'\u00e9cole suspendue \u00e0 Conches : une \u00ab mesure de protection \u00bb selon l'Acad\u00e9mie - actu.fr",
+			"link": "https://news.google.com/rss/articles/CBMijQFodHRwczovL2FjdHUuZnIvbm9ybWFuZGllL2NvbmNoZXMtZW4tb3VjaGVfMjcxNjUvZGlyZWN0cmljZS1kZWNvbGUtc3VzcGVuZHVlLWEtY29uY2hlcy11bmUtbWVzdXJlLWRlLXByb3RlY3Rpb24tc2Vsb24tbGFjYWRlbWllXzYwMTQwNjU4Lmh0bWzSAQA?oc=5",
+			"pubDate": "Thu, 28 Sep 2023 12:39:00 GMT",
+			"image": "https://picsum.photos/200/300?grayscale",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "",
+			"url": "",
+			"description": ""
+		},
+		{
+			"title": "Crise de l'eau \u00e0 Mayotte : en pleine p\u00e9riode de gastro-ent\u00e9rite, l'h\u00f4pital craint maintenant un pic \u00e9pid\u00e9mique - franceinfo",
+			"link": "https://www.francetvinfo.fr/france/mayotte/crise-de-l-eau-a-mayotte-en-pleine-periode-de-gastro-enterite-l-hopital-craint-maintenant-une-pic-epidemique_6089493.html",
+			"pubDate": "Thu, 28 Sep 2023 14:52:35 GMT",
+			"image": "https://www.francetvinfo.fr/pictures/as-t0EvU_ETtitY_Do3eKQoBuY0/1500x843/2023/09/28/000-33vp9bh-65157413ac6f9334170814.jpg",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "Franceinfo",
+			"url": "https://www.francetvinfo.fr/france/mayotte/crise-de-l-eau-a-mayotte-en-pleine-periode-de-gastro-enterite-l-hopital-craint-maintenant-une-pic-epidemique_6089493.html",
+			"description": "\u00c0 Mayotte, l'h\u00f4pital se pr\u00e9pare \u00e0 une recrudescence de pathologies li\u00e9es au manque d'eau potable, tout en faisant face \u00e0 une crise du personnel et pendant une \u00e9pid\u00e9mie de gastro-ent\u00e9rite \u00e9lev\u00e9e."
+		},
+		{
+			"title": "Messe du pape Fran\u00e7ois au stade V\u00e9lodrome: faute de dons suffisants, les organisateurs peinent \u00e0 boucler le budget - Var-matin",
+			"link": "https://www.varmatin.com/religion/messe-du-pape-francois-au-stade-velodrome-a-marseille-faute-de-dons-suffisants-les-organisateurs-peinent-a-boucler-le-budget-875837",
+			"pubDate": "Thu, 28 Sep 2023 21:16:00 GMT",
+			"image": "https://fyooyzbm.filerobot.com/v7/DATA_ART_12189547-hdjS5pQB-O31lSFHf.webp?vh=e5e08c&ci_seal=bdbf608c3a",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "Var-Matin",
+			"url": "https://www.varmatin.com/religion/messe-du-pape-francois-au-stade-velodrome-a-marseille-faute-de-dons-suffisants-les-organisateurs-peinent-a-boucler-le-budget-875837",
+			"description": "C'est un appel \u00e0 l'aide que lancent les organisateurs des Rencontres m\u00e9diterran\u00e9ennes qui se sont tenues \u00e0 Marseille les 22 et 23 septembre 2003, marqu\u00e9es notamment par la venue historique du pape Fran\u00e7ois en France. \r\n\"57.000 personnes au stade... et tr\u00e8s peu de donateurs ! Sans votre don, nous ne "
+		},
+		{
+			"title": "Adecco jug\u00e9 pour fichage racial : 22 ans apr\u00e8s, les victimes t\u00e9moignent - L'Humanit\u00e9",
+			"link": "https://www.humanite.fr/social-et-economie/adecco/adecco-juge-pour-fichage-racial-22-ans-apres-les-victimes-temoignent",
+			"pubDate": "Fri, 29 Sep 2023 04:31:35 GMT",
+			"image": "https://www.humanite.fr/wp-content/uploads/2023/09/p3-Adecco-agence_LUN_HQ.jpg",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "L'Humanit\u00e9",
+			"url": "https://www.humanite.fr/social-et-economie/adecco/adecco-juge-pour-fichage-racial-22-ans-apres-les-victimes-temoignent",
+			"description": "\n\n\n\n..."
+		},
+		{
+			"title": "L'Alg\u00e9rie interdit l'enseignement des programmes scolaires fran\u00e7ais dans les \u00e9coles priv\u00e9es - Ouest-France",
+			"link": "https://news.google.com/rss/articles/CBMiqAFodHRwczovL3d3dy5vdWVzdC1mcmFuY2UuZnIvbW9uZGUvYWxnZXJpZS9sYWxnZXJpZS1pbnRlcmRpdC1sZW5zZWlnbmVtZW50LWRlcy1wcm9ncmFtbWVzLXNjb2xhaXJlcy1mcmFuY2Fpcy1kYW5zLWxlcy1lY29sZXMtcHJpdmVlcy1kMzRhZTQ1YS01ZTEzLTExZWUtODA3MS1iM2RmOThiODUxZTnSAQA?oc=5",
+			"pubDate": "Thu, 28 Sep 2023 16:44:19 GMT",
+			"image": "https://picsum.photos/200/300?grayscale",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "",
+			"url": "",
+			"description": ""
+		},
+		{
+			"title": "S\u00e9bastien Raoult, accus\u00e9 de cybercriminalit\u00e9 aux \u00c9tats-Unis, plaide finalement coupable - Le HuffPost",
+			"link": "https://www.huffingtonpost.fr/international/article/sebastien-raoult-accuse-de-cybercriminalite-aux-etats-unis-plaide-finalement-coupable_223740.html",
+			"pubDate": "Fri, 29 Sep 2023 05:24:48 GMT",
+			"image": "https://huffpost-focus.sirius.press/2023/01/26/609/0/2200/1237/1820/1023/75/0/18b56ba_1674691471299-000-337u4bv.jpg",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "Le HuffPost",
+			"url": "https://www.huffingtonpost.fr/international/article/sebastien-raoult-accuse-de-cybercriminalite-aux-etats-unis-plaide-finalement-coupable_223740.html",
+			"description": "Le jeune homme est soup\u00e7onn\u00e9 d\u2019\u00eatre un membre du groupe \u00ab\u00a0Shinyhunters\u00a0\u00bb, qui a pirat\u00e9 les donn\u00e9es confidentielles de plus de 60\u00a0entreprises."
+		},
+		{
+			"title": "\"C'est quand m\u00eame abus\u00e9\": un lyc\u00e9e parisien interdit \u00e0 ses \u00e9l\u00e8ves le port de la jupe et de la robe - BFM Paris Ile-de-France",
+			"link": "https://www.bfmtv.com/paris/c-est-quand-meme-abuse-un-lycee-parisien-interdit-a-ses-eleves-le-port-de-la-jupe-et-de-la-robe_AN-202309280767.html",
+			"pubDate": "Thu, 28 Sep 2023 15:51:00 GMT",
+			"image": "https://images.bfmtv.com/_bqeRbvV4I74maQHmimcz_4aCzc=/2x26:802x476/800x0/images/Des-lyceens-devant-un-etablissement-scolaire-parisien-Photo-d-illustration-1715746.jpg",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "BFMTV",
+			"url": "https://www.bfmtv.com/paris/c-est-quand-meme-abuse-un-lycee-parisien-interdit-a-ses-eleves-le-port-de-la-jupe-et-de-la-robe_AN-202309280767.html",
+			"description": "Depuis la rentr\u00e9e, un lyc\u00e9e du 18e arrondissement de Paris a consid\u00e9rablement durci les r\u00e8gles vestimentaires inscrites dans son r\u00e9glement int\u00e9rieur. Robes, jupes, pantalon cargos et t-shirts \u00e0 motifs sont d\u00e9sormais proscrits au sein de l'\u00e9tablissement... au grand dam des \u00e9l\u00e8ves qui font part de..."
+		},
+		{
+			"title": "\u00c0 Orl\u00e9ans, une agent du r\u00e9seau TAO agress\u00e9e lors d'un contr\u00f4le - France Bleu",
+			"link": "https://www.francebleu.fr/infos/faits-divers-justice/a-orleans-une-agent-du-reseau-tao-agressee-lors-d-un-controle-3287274",
+			"pubDate": "Thu, 28 Sep 2023 17:04:16 GMT",
+			"image": "https://www.francebleu.fr/s3/cruiser-production/2023/09/f5ca016f-0888-4b19-a810-4e5ea5376632/1200x680_sc_bus-orleans.jpg",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "ici, par France Bleu et France 3",
+			"url": "https://www.francebleu.fr/infos/faits-divers-justice/a-orleans-une-agent-du-reseau-tao-agressee-lors-d-un-controle-3287274",
+			"description": "L'information est r\u00e9vel\u00e9e ce jeudi soir par l'intersyndicale de K\u00e9olis, le gestionnaire du r\u00e9seau de bus TAO. Une contr\u00f4leuse a \u00e9t\u00e9 bouscul\u00e9e et rou\u00e9e de coups mardi matin \u00e0 Orl\u00e9ans. Elle s'est vue prescrire cinq jours d'ITT. "
+		},
+		{
+			"title": "S\u00e9cheresse : 14 communes de Vend\u00e9e reconnues en \u00e9tat de catastrophe naturelle - France 3 R\u00e9gions",
+			"link": "https://france3-regions.francetvinfo.fr/pays-de-la-loire/vendee/la-roche-sur-yon/secheresse-14-communes-de-vendee-reconnues-en-etat-de-catastrophe-naturelle-2847116.html",
+			"pubDate": "Thu, 28 Sep 2023 15:42:00 GMT",
+			"image": "https://france3-regions.francetvinfo.fr/image/eO08SJeRFTQgqWC08QfW1__E13s/930x620/regions/2023/09/28/s-85-maison-fissur-e-bouff-r-00-00-03-20-une-aussi-651548bc41679684402734.jpg",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "France 3 Pays de la Loire",
+			"url": "https://france3-regions.francetvinfo.fr/pays-de-la-loire/vendee/la-roche-sur-yon/secheresse-14-communes-de-vendee-reconnues-en-etat-de-catastrophe-naturelle-2847116.html",
+			"description": "Une bonne nouvelle pour les habitants des 14 communes concern\u00e9es par cet arr\u00eat\u00e9 de catastrophe naturelle apr\u00e8s la s\u00e9cheresse de l'\u00e9t\u00e9 2022 en Vend\u00e9e. Ils ont un mois pour d\u00e9clarer les d\u00e9g\u00e2ts \u00e0 leur assureur. En revanche douze..."
+		},
+		{
+			"title": "IVG dans la Constitution : un avis de la Commission des droits de l'homme relance le d\u00e9bat - La Croix",
+			"link": "https://www.la-croix.com/france/IVG-Constitution-avis-Commission-droits-lhomme-relance-debat-2023-09-28-1201284640",
+			"pubDate": "Thu, 28 Sep 2023 15:06:38 GMT",
+			"image": "https://i.la-croix.com/1400x933/smart/2023/09/28/1201284640/adobestock-522203068-editorial_0.jpg",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "La Croix",
+			"url": "https://www.la-croix.com/france/IVG-Constitution-avis-Commission-droits-lhomme-relance-debat-2023-09-28-1201284640",
+			"description": "Dans un avis adopt\u00e9 jeudi 28\u00a0septembre, la Commission nationale consultative des droits de l\u2019homme se prononce clairement pour l\u2019inscription du droit \u00e0 l\u2019avortement dans l\u2019article\u00a0premier du texte fondamental. Le processus de r\u00e9forme est pour le moment encalmin\u00e9."
+		},
+		{
+			"title": "ENQU\u00caTE. Afghanistan : 15 ans apr\u00e8s l'embuscade d'Uzbin, le dossier judiciaire d\u00e9voile les erreurs de la hi\u00e9rarchie militaire - franceinfo",
+			"link": "https://www.francetvinfo.fr/monde/afghanistan/enquete-afghanistan-15-ans-apres-l-embuscade-d-uzbin-le-dossier-judiciaire-devoile-les-erreurs-de-la-hierarchie-militaire_6089766.html",
+			"pubDate": "Fri, 29 Sep 2023 04:22:40 GMT",
+			"image": "https://www.francetvinfo.fr/pictures/nWm1nTF--mXRGRhc32rUHCNZP_4/1500x843/2023/09/28/photo-3-kaboul-ceremonie-6515a7ca6d8ae726192866.jpg",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "Franceinfo",
+			"url": "https://www.francetvinfo.fr/monde/afghanistan/enquete-afghanistan-15-ans-apres-l-embuscade-d-uzbin-le-dossier-judiciaire-devoile-les-erreurs-de-la-hierarchie-militaire_6089766.html",
+			"description": "En ao\u00fbt 2008, dix soldats fran\u00e7ais perdaient la vie dans une embuscade tendue par les talibans afghans dans la vall\u00e9e d\u2019Uzbin. La cellule investigation de Radio France a pu consulter le dossier judiciaire et mettre au jour une \"succession d\u2019erreurs\" commises par la cha\u00eene de commandement."
+		},
+		{
+			"title": "Disclose : \u00ab On ne peut pas utiliser les m\u00e9dias pour aller \u00e0 la p\u00eache et trouver des preuves \u00bb - 20 Minutes",
+			"link": "https://www.20minutes.fr/justice/4055178-20230928-disclose-peut-utiliser-medias-aller-peche-trouver-preuves",
+			"pubDate": "Thu, 28 Sep 2023 15:41:11 GMT",
+			"image": "https://img.20mn.fr/TqjNkUV0TXGtzuAUoz-R8ik/1200x768_french-journalist-ariane-lavrilleux-addresses-a-press-conference-in-paris-on-september-2023-after-passing-48-hours-in-custody-french-journalists-and-ng-os-rose-in-outrage-against-an-escalation-in-the-breach-in-the-secrecy-of-sources-a-pilar-of-journalism-challenged-by-state-secrecy-after-lavrilleux-was-taken-into-custody-and-after-her-house-was-searched-linked-to-her-work-published-by-the-media-disclose-on-connections-between-a-french-intelligence-operation-and-egypt-photo-by-thomas-samson-afp",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "www.20minutes.fr",
+			"url": "https://www.20minutes.fr/justice/4055178-20230928-disclose-peut-utiliser-medias-aller-peche-trouver-preuves",
+			"description": "Mercredi, un juge des libert\u00e9s et de la d\u00e9tention a valid\u00e9 les saisies op\u00e9r\u00e9es au domicile de la journaliste Ariane Lavrilleux"
 		},
 		{
 			"title": "\u00c9quipe de foot parlementaire: apr\u00e8s le boycott de l'an dernier, LFI accepte de jouer avec le RN - BFMTV",
@@ -621,14 +621,44 @@
 			"description": "Pour justifier cette d\u00e9cision, l'insoumis \u00c9ric Coquerel a mis en avant le fait que le RN \u00e9tait repr\u00e9sent\u00e9 par un seul \u00e9lu, contairement \u00e0 l'an dernier o\u00f9 4 d\u00e9put\u00e9s du parti \u00e0 la flamme avaient particip\u00e9 \u00e0 l'\u00e9v\u00e9nement. "
 		},
 		{
-			"title": "Investigations termin\u00e9es sur les trois meurtres attribu\u00e9s \u00e0 Arnaud Mimran - Le Parisien",
-			"link": "https://www.leparisien.fr/faits-divers/investigations-terminees-sur-les-trois-meurtres-attribues-a-arnaud-mimran-28-09-2023-QXZ5SJTPCZEILIZFVKZRA2SCJE.php",
-			"pubDate": "Thu, 28 Sep 2023 19:34:00 GMT",
-			"image": "https://www.leparisien.fr/resizer/3DFEr1JjISvFnakOBODlXH5Lp3E=/1200x675/cloudfront-eu-central-1.images.arcpublishing.com/leparisien/FICG5SPM3JHORHALL6ZCDOGTM4.jpg",
+			"title": "La police nationale de la Vienne a \u00e9mis un avis de recherche concernant deux adolescentes mineures origina... - Le Blog de Jean-Marc Morandini",
+			"link": "https://www.jeanmarcmorandini.com/article-548762-la-police-nationale-de-la-vienne-a-emis-un-avis-de-recherche-concernant-deux-adolescentes-mineures-originaires-de-poitiers-disparues-depuis-le-11-septembre.html",
+			"pubDate": "Thu, 28 Sep 2023 05:31:22 GMT",
+			"image": "https://static.jeanmarcmorandini.com/sites/jeanmarcmorandini.com/files/1200x680_sc_avis-recherche_0.jpg",
 			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "leparisien.fr",
-			"url": "https://www.leparisien.fr/faits-divers/investigations-terminees-sur-les-trois-meurtres-attribues-a-arnaud-mimran-28-09-2023-QXZ5SJTPCZEILIZFVKZRA2SCJE.php",
-			"description": " L\u2019escroc \u00e0 la \u00ab taxe carbone \u00bb serait impliqu\u00e9 dans trois meurtres commis entre  entre 2010 et 2014. Si les investigations ne sont pas rela"
+			"site_name": "Jean-Marc Morandini",
+			"url": "https://www.jeanmarcmorandini.com/article-548762-la-police-nationale-de-la-vienne-a-emis-un-avis-de-recherche-concernant-deux-adolescentes-mineures-originaires-de-poitiers-disparues-depuis-le-11-septembre.html",
+			"description": "La police nationale de la Vienne a \u00e9mis un avis de recherche pour disparition inqui\u00e9tante sur sa page Facebook. Deux adolescentes mineures originaires de Poitiers n'ont pas \u00e9t\u00e9 aper\u00e7ues depuis le 11 septembre."
+		},
+		{
+			"title": "Agora, l'application de d\u00e9mocratie directe lanc\u00e9e par Olivier V\u00e9ran, moqu\u00e9e par les oppositions - Ouest-France",
+			"link": "https://news.google.com/rss/articles/CBMitQFodHRwczovL3d3dy5vdWVzdC1mcmFuY2UuZnIvcG9saXRpcXVlL29saXZpZXItdmVyYW4vYWdvcmEtbGFwcGxpY2F0aW9uLWRlLWRlbW9jcmF0aWUtZGlyZWN0ZS1sYW5jZWUtcGFyLW9saXZpZXItdmVyYW4tbW9xdWVlLXBhci1sZXMtb3Bwb3NpdGlvbnMtM2E3ZjU0OTAtNWUxOC0xMWVlLTlkMzItOTY3YjBlN2NlZDg30gEA?oc=5",
+			"pubDate": "Thu, 28 Sep 2023 16:32:16 GMT",
+			"image": "https://picsum.photos/200/300?grayscale",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "",
+			"url": "",
+			"description": ""
+		},
+		{
+			"title": "D\u00e9couvrez le meilleur jour pour r\u00e9server des billets d'avion \u00e0 petit prix en 2024 - Ouest-France",
+			"link": "https://news.google.com/rss/articles/CBMimgFodHRwczovL3d3dy5vdWVzdC1mcmFuY2UuZnIvdG91cmlzbWUvZGVjb3V2cmV6LWxlLW1laWxsZXVyLWpvdXItcG91ci1yZXNlcnZlci1kZXMtYmlsbGV0cy1kYXZpb24tYS1wZXRpdC1wcml4LWVuLTIwMjQtMGU5YzBkNDItNWRlZi0xMWVlLTgyZWYtMmFhM2MzOGZkYjg20gEA?oc=5",
+			"pubDate": "Thu, 28 Sep 2023 16:01:18 GMT",
+			"image": "https://picsum.photos/200/300?grayscale",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "",
+			"url": "",
+			"description": ""
+		},
+		{
+			"title": "Olivier V\u00e9ran \u00e0 Perpignan : \"En territoire RN, j'estime que les conditions ne sont pas toujours r\u00e9unies pour avoir un d\u00e9bat d\u00e9mocratique apais\u00e9\" - L'Ind\u00e9pendant",
+			"link": "https://www.lindependant.fr/2023/09/28/olivier-veran-a-perpignan-en-territoire-rn-jestime-que-les-conditions-ne-sont-pas-toujours-reunies-pour-avoir-un-debat-democratique-apaise-11484244.php",
+			"pubDate": "Thu, 28 Sep 2023 17:41:00 GMT",
+			"image": "https://images.lindependant.fr/api/v1/images/view/6515b6071f12120e3a65b361/large/image.jpg?v=1",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "lindependant.fr",
+			"url": "https://www.lindependant.fr/2023/09/28/olivier-veran-a-perpignan-en-territoire-rn-jestime-que-les-conditions-ne-sont-pas-toujours-reunies-pour-avoir-un-debat-democratique-apaise-11484244.php",
+			"description": "Olivier V\u00e9ran sera ce vendredi 29 septembre 2023 en d\u00e9placement \u00e0 Perpignan. Le porte-parole du gouvernement se d\u00e9place dans la cit\u00e9 roussillonnaise en tant que ministre du Renouveau d\u00e9mocratique. Il entame une..."
 		},
 		{
 			"title": "Arr\u00eats maladie, doublement de la franchise m\u00e9dicale, op\u00e9rateurs du Samu, endom\u00e9triose... Le \"8h30 franceinfo\" d'Aur\u00e9lien Rouseau - franceinfo",
@@ -641,65 +671,35 @@
 			"description": "Le ministre de la Sant\u00e9, Aur\u00e9lien Rousseau \u00e9tait l'invit\u00e9 du \"8h30 franceinfo\" ce jeudi 28 septembre"
 		},
 		{
-			"title": "Cannabis m\u00e9dical : \u00ab L\u2019exp\u00e9rimentation doit laisser place \u00e0 la l\u00e9gislation \u00bb, demandent 17 associations - Le Parisien",
-			"link": "https://www.leparisien.fr/societe/sante/cannabis-medical-lexperimentation-doit-laisser-place-a-la-legislation-demandent-17-associations-28-09-2023-ETIZEFHVRNFQFIJRQZSBO5PW7M.php",
-			"pubDate": "Thu, 28 Sep 2023 03:52:00 GMT",
-			"image": "https://www.leparisien.fr/resizer/e2lLMfxdMaNnfygh1ziM5nCo4N4=/1200x675/cloudfront-eu-central-1.images.arcpublishing.com/leparisien/Q4U3HMKJOFDVNCSCXDGO2MISUY.jpg",
+			"title": "Au Mans, trois refus d'obtemp\u00e9rer et des courses-poursuites en seulement quelques heures - Ouest-France",
+			"link": "https://news.google.com/rss/articles/CBMirAFodHRwczovL3d3dy5vdWVzdC1mcmFuY2UuZnIvcGF5cy1kZS1sYS1sb2lyZS9sZS1tYW5zLTcyMDAwL2F1LW1hbnMtdHJvaXMtY291cnNlcy1wb3Vyc3VpdGVzLWF2ZWMtbGEtcG9saWNlLWVuLXNldWxlbWVudC1xdWVscXVlcy1oZXVyZXMtZTI2OGFkOWMtNWUyMS0xMWVlLTgwNzEtYjNkZjk4Yjg1MWU50gEA?oc=5",
+			"pubDate": "Thu, 28 Sep 2023 18:28:48 GMT",
+			"image": "https://picsum.photos/200/300?grayscale",
 			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "leparisien.fr",
-			"url": "https://www.leparisien.fr/societe/sante/cannabis-medical-lexperimentation-doit-laisser-place-a-la-legislation-demandent-17-associations-28-09-2023-ETIZEFHVRNFQFIJRQZSBO5PW7M.php",
-			"description": "Dans une tribune que nous publions, les associations de malades demandent \u00e0 l\u2019\u00c9tat d\u2019agir. Elles craignent que le projet sur la g\u00e9n\u00e9ralisati"
+			"site_name": "",
+			"url": "",
+			"description": ""
 		},
 		{
-			"title": "Agn\u00e8s Buzyn: \u00abJ'\u00e9tais devenue l'ennemie publique num\u00e9ro un\u00bb - Le Figaro",
-			"link": "https://www.lefigaro.fr/politique/agnes-buzyn-j-etais-devenue-l-ennemie-publique-numero-20230928",
-			"pubDate": "Thu, 28 Sep 2023 14:34:29 GMT",
-			"image": "https://i.f1g.fr/media/cms/1200x630_crop/2023/09/28/8cf58cdb6955ac845d7b611a597450d5bccd43977286b4428b2da6d2bcab4c0f.jpg",
+			"title": "\"Je n'accepte pas \u00e7a\": Beno\u00eet Payan compte se \"battre\" contre l'arr\u00eat du m\u00e9tro \u00e0 21h30 \u00e0 Marseille - BFM Marseille",
+			"link": "https://www.bfmtv.com/marseille/je-n-accepte-pas-ca-benoit-payan-compte-se-battre-contre-l-arret-du-metro-a-21h30-a-marseille_AV-202309280970.html",
+			"pubDate": "Thu, 28 Sep 2023 19:01:22 GMT",
+			"image": "https://images.bfmtv.com/hIKuJxn0XiKtfdohd2mf95exoj0=/327x396:2039x1359/1712x0/images/Benoit-Payan-1712336.jpg",
 			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "LEFIGARO",
-			"url": "https://www.lefigaro.fr/politique/agnes-buzyn-j-etais-devenue-l-ennemie-publique-numero-20230928",
-			"description": "ENTRETIEN - L\u2019ancienne ministre de la Sant\u00e9 livre dans son Journal publi\u00e9 chez Flammarion sa version des six premiers mois du Covid. Une plong\u00e9e dans les arcanes du pouvoir."
+			"site_name": "BFMTV",
+			"url": "https://www.bfmtv.com/marseille/je-n-accepte-pas-ca-benoit-payan-compte-se-battre-contre-l-arret-du-metro-a-21h30-a-marseille_AV-202309280970.html",
+			"description": "La RTM a annonc\u00e9 l'arr\u00eat d\u00e8s 21h30 du m\u00e9tro \u00e0 Marseille d\u00e8s fin octobre et pour deux ans. Une d\u00e9cision que le maire de Marseille regrette et ne comprend pas."
 		},
 		{
-			"title": "Bretagne : une fillette de six mois d\u00e9c\u00e8de, la r\u00e9gulation des urgences point\u00e9e du doigt - Sud Ouest",
-			"link": "https://www.sudouest.fr/faits-divers/bretagne-une-fillette-de-six-mois-decede-la-regulation-des-urgences-pointee-du-doigt-16847417.php",
-			"pubDate": "Thu, 28 Sep 2023 19:05:27 GMT",
-			"image": "https://media.sudouest.fr/16847417/1200x-1/sudouest-photo-1-29622005.jpg",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "SudOuest.fr",
-			"url": "https://www.sudouest.fr/faits-divers/bretagne-une-fillette-de-six-mois-decede-la-regulation-des-urgences-pointee-du-doigt-16847417.php",
-			"description": "Une enfant de six mois est d\u00e9c\u00e9d\u00e9e dans la nuit de mercredi \u00e0 jeudi \u00e0 Carhaix, en Bretagne. Si la r\u00e9gulation de l\u2019acc\u00e8s aux urgences \u00e0 l\u2019h\u00f4pital de Carhaix est point\u00e9e du doigt, le CHU de Brest assure que cela n\u2019a pas eu d\u2019incidence sur le d\u00e9c\u00e8s"
-		},
-		{
-			"title": "\"\u00c7a aurait pu \u00eatre dramatique\" : plusieurs foyers priv\u00e9s d'\u00e9lectricit\u00e9 apr\u00e8s l'installation sauvage de 500 caravanes de gens du voyage - L'Ind\u00e9pendant",
-			"link": "https://www.lindependant.fr/2023/09/28/ca-aurait-pu-etre-dramatique-plusieurs-foyers-prives-delectricite-apres-linstallation-sauvage-de-500-caravanes-de-gens-du-voyage-11484167.php",
-			"pubDate": "Thu, 28 Sep 2023 15:00:00 GMT",
-			"image": "https://images.lindependant.fr/api/v1/images/view/65159483b3b32a0cea5cf018/large/image.jpg?v=1",
+			"title": "Cueillette des champignons: Quel est le montant de l'amende en cas de r\u00e9colte sans autorisation? - L'Ind\u00e9pendant",
+			"link": "https://www.lindependant.fr/2023/09/29/cueillette-des-champignons-quel-est-le-montant-de-lamende-en-cas-de-recolte-sans-autorisation-11484442.php",
+			"pubDate": "Fri, 29 Sep 2023 04:02:00 GMT",
+			"image": "https://images.lindependant.fr/api/v1/images/view/6515b43d514f082dc50d96b8/large/image.jpg?v=1",
 			"logo": "https://picsum.photos/32/32?grayscale",
 			"site_name": "lindependant.fr",
-			"url": "https://www.lindependant.fr/2023/09/28/ca-aurait-pu-etre-dramatique-plusieurs-foyers-prives-delectricite-apres-linstallation-sauvage-de-500-caravanes-de-gens-du-voyage-11484167.php",
-			"description": "Une situation qui suscite de plus en plus le m\u00e9contentement de la population locale, qui craint de recevoir une facture plus sal\u00e9e en fin de mois."
-		},
-		{
-			"title": "Harc\u00e8lement scolaire : que faire si un enfant en est victime ? - Le Monde",
-			"link": "https://www.youtube.com/watch?v=B5Dghe7UM9U",
-			"pubDate": "Wed, 27 Sep 2023 17:03:03 GMT",
-			"image": "https://i.ytimg.com/vi/B5Dghe7UM9U/maxresdefault.jpg",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "YouTube",
-			"url": "https://www.youtube.com/watch?v=B5Dghe7UM9U",
-			"description": "Nombreux sont les parents \u00e0 s\u2019interroger sur la bonne mani\u00e8re d\u2019aider son enfant \u00e0 surmonter le harc\u00e8lement scolaire dont il est victime. Emmanuelle Piquet, ..."
-		},
-		{
-			"title": "Une \u00e9l\u00e8ve de 5e d\u00e9c\u00e8de d\u00e9c\u00e8de apr\u00e8s un cours d'EPS dans l'Aisne - La Voix du Nord",
-			"link": "https://www.lavoixdunord.fr/1378562/article/2023-09-28/une-eleve-de-5e-decede-decede-apres-un-cours-d-eps-dans-l-aisne",
-			"pubDate": "Thu, 28 Sep 2023 10:18:26 GMT",
-			"image": "https://lvdneng.rosselcdn.net/sites/default/files/dpistyles_v2/ena_16_9_extra_big/2023/09/28/node_1378562/56769055/public/2023/09/28/B9735180681Z.1_20230928121826_000%2BGDANHKR8V.1-0.jpg?itok=KrpkzWlL1695896312",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "La Voix du Nord",
-			"url": "https://www.lavoixdunord.fr/1378562/article/2023-09-28/une-eleve-de-5e-decede-decede-apres-un-cours-d-eps-dans-l-aisne",
-			"description": "Selon Le Courrier Picard, une \u00e9l\u00e8ve de 5e de Neuilly-Saint-Front est d\u00e9c\u00e9d\u00e9e mer..."
+			"url": "https://www.lindependant.fr/2023/09/29/cueillette-des-champignons-quel-est-le-montant-de-lamende-en-cas-de-recolte-sans-autorisation-11484442.php",
+			"description": "La saison de la cueillette des champignons bat son plein. Mais que dit la loi \u00e0 ce sujet?"
 		}
 	],
-	"timestamp": "2023-09-29 08:18:36.774638"
+	"timestamp": "2023-09-29 12:26:57.376989"
 }
