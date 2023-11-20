@@ -1,124 +1,14 @@
 {
 	"content": [
 		{
-			"title": "\u00abC'est triste pour l'Am\u00e9rique latine\u00bb : les r\u00e9actions contrast\u00e9es des chefs d'\u00c9tat au nouveau pr\u00e9sident argentin Milei - Le Figaro",
-			"link": "https://www.lefigaro.fr/international/c-est-triste-pour-l-amerique-latine-les-felicitations-ameres-des-chefs-d-etat-au-nouveau-president-argentin-milei-20231120",
-			"pubDate": "Mon, 20 Nov 2023 11:55:00 GMT",
-			"image": "https://i.f1g.fr/media/cms/1200x630_crop/2023/11/20/eaf6e2b25cd4ee6ec9b4e2ad50907f14c4e1f1d9bffa50d3d4ec238bbd627cf2.jpg",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "Le Figaro",
-			"url": "https://www.lefigaro.fr/international/c-est-triste-pour-l-amerique-latine-les-felicitations-ameres-des-chefs-d-etat-au-nouveau-president-argentin-milei-20231120",
-			"description": "Si beaucoup ont salu\u00e9, \u00e0 l\u2019image du Paraguay, l\u2019\u00abexemplarit\u00e9\u00bb du d\u00e9roulement du scrutin, l\u2019\u00e9lection de l\u2019ultralib\u00e9ral et antisyst\u00e8me Javier Milei divise en Am\u00e9rique du Sud."
-		},
-		{
-			"title": "En direct, guerre Isra\u00ebl-Hamas : plusieurs \u00e9changes de tirs \u00e0 la fronti\u00e8re entre Isra\u00ebl et le Liban, selon l'arm\u00e9e isra\u00e9lienne - Le Monde",
-			"link": "https://www.lemonde.fr/international/live/2023/11/20/en-direct-guerre-israel-hamas-plusieurs-echanges-de-tirs-a-la-frontiere-entre-israel-et-le-liban-selon-l-armee-israelienne_6200413_3210.html",
-			"pubDate": "Mon, 20 Nov 2023 12:01:53 GMT",
-			"image": "https://img.lemde.fr/2023/11/20/76/0/5808/2904/1440/720/60/0/60537a2_1700482712766-969314.jpg",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "Le Monde.fr",
-			"url": "https://www.lemonde.fr/international/live/2023/11/20/en-direct-guerre-israel-hamas-plusieurs-echanges-de-tirs-a-la-frontiere-entre-israel-et-le-liban-selon-l-armee-israelienne_6200413_3210.html",
-			"description": "Le Hamas a d\u00e9menti lundi l\u2019imminence d\u2019un accord de lib\u00e9ration des otages. Le premier ministre qatari avait pr\u00e9tendu dimanche qu\u2019il ne restait que des obstacles \u00ab\u00a0mineurs\u00a0\u00bb avant un tel accord, sans toutefois fournir de calendrier."
-		},
-		{
-			"title": "Rosalynn Carter, ancienne premi\u00e8re dame des Etats-Unis, est d\u00e9c\u00e9d\u00e9e \u00e0 96 ans - 20 Minutes",
-			"link": "https://www.20minutes.fr/monde/etats-unis/4063057-20231120-rosalynn-carter-ancienne-premiere-dame-etats-unis-decedee-96-ans",
-			"pubDate": "Mon, 20 Nov 2023 02:50:35 GMT",
-			"image": "https://img.20mn.fr/iqgvl-uiQIChAa_HIJQ0Uyk/1200x768_file-rosalynn-carter-left-and-her-husband-former-president-jimmy-carter-update-donors-about-current-activities-of-the-carter-center-in-atlanta-april-23-2010-rosalynn-carter-the-closest-adviser-to-jimmy-carter-during-his-one-term-as-u-s-president-and-their-four-decades-thereafter-as-global-humanitarians-has-died-at-the-age-of-96-the-carter-center-said-she-died-sunday-nov-19-2023-ap-photo-john-amis-file-ny770-23323754896802-file-photo-2311192205",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "www.20minutes.fr",
-			"url": "https://www.20minutes.fr/monde/etats-unis/4063057-20231120-rosalynn-carter-ancienne-premiere-dame-etats-unis-decedee-96-ans",
-			"description": "Lors de l\u2019unique mandat de Jimmy Carter, de\u00a01977 \u00e0\u00a01981, Rosalynn Carter s\u2019\u00e9tait distingu\u00e9e par sa volont\u00e9 de s\u2019impliquer dans la politique"
-		},
-		{
-			"title": "EN DIRECT - Guerre Hamas-Isra\u00ebl : Les b\u00e9b\u00e9s pr\u00e9matur\u00e9s \u00e9vacu\u00e9s d'Al-Shifa sont arriv\u00e9s en Egypte - Lib\u00e9ration",
+			"title": "EN DIRECT - Guerre Hamas-Isra\u00ebl : 1,7 million de personnes d\u00e9plac\u00e9es \u00e0 Gaza, selon l'ONU - Lib\u00e9ration",
 			"link": "https://news.google.com/rss/articles/CBMi5gFodHRwczovL3d3dy5saWJlcmF0aW9uLmZyL2ludGVybmF0aW9uYWwvbW95ZW4tb3JpZW50L2VuLWRpcmVjdC1ndWVycmUtaGFtYXMtaXNyYWVsLWJhbmRlLWRlLWdhemEtbmVnb2NpYXRpb25zLWRpcGxvbWF0aXF1ZXMtbGliZXJhdGlvbi1kZXMtb3RhZ2VzLXN1aXZlei10b3V0ZS1sYWN0dWFsaXRlLWRlLWNlLWx1bmRpLTIwLW5vdmVtYnJlLTIwMjMxMTIwX0FQQjMyS0dFQVZBSkxLTjQ3RjNDSkFOQzQ0L9IBAA?oc=5",
-			"pubDate": "Mon, 20 Nov 2023 06:47:00 GMT",
-			"image": "https://www.liberation.fr/resizer/zHzqOVXXdgmkmlHhvAGYS7S2FHk=/1200x630/filters:format(jpg):quality(70):focal(1685x1035:1695x1045)/cloudfront-eu-central-1.images.arcpublishing.com/liberation/ISYDLDSUEZAUZK6FA5GHB4EAFM.jpg",
+			"pubDate": "Mon, 20 Nov 2023 15:20:47 GMT",
+			"image": "https://www.liberation.fr/resizer/MsVvSzmLlYd6z80iMMy93IfsCQE=/1200x630/filters:format(jpg):quality(70):focal(2145x760:2155x770)/cloudfront-eu-central-1.images.arcpublishing.com/liberation/WFBZIWGFTVEJJPCSD2PUMCURU4.jpg",
 			"logo": "https://picsum.photos/32/32?grayscale",
 			"site_name": "Lib\u00e9ration",
 			"url": "",
 			"description": ""
-		},
-		{
-			"title": "EN DIRECT - Guerre en Ukraine : visite surprise du secr\u00e9taire am\u00e9ricain \u00e0 la D\u00e9fense \u00e0 Kiev - TF1 INFO",
-			"link": "https://www.tf1info.fr/international/guerre-ukraine-russie-en-direct-bataille-du-dniepr-poutine-zelensky-les-dernieres-infos-aujourd-hui-lundi-20-novembre-2023-2276743.html",
-			"pubDate": "Mon, 20 Nov 2023 09:52:41 GMT",
-			"image": "https://photos.tf1info.fr/images/1280/720/drapeau-ukrainien-5d58a3-0@1x.jpeg?overlayImage=bG9nby10ZjFpbmZvLnBuZw==&overlayWidth=18&overlayGravity=northwest&s=951bcb",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "TF1 INFO",
-			"url": "https://www.tf1info.fr/international/guerre-ukraine-russie-en-direct-bataille-du-dniepr-poutine-zelensky-les-dernieres-infos-aujourd-hui-lundi-20-novembre-2023-2276743.html",
-			"description": "[VID\u00c9O] - \u00c0 Kherson, le bombardement d'un parking a fait deux morts et deux bless\u00e9s ce lundi dans la matin\u00e9e, indique l'administration r\u00e9gionale.\nLa grande ville su sud de l'Ukraine, qui a c\u00e9l\u00e9br\u00e9 d\u00e9but novembre le premier anniversaire de sa lib\u00e9ration, est pilonn\u00e9e quasi quotidiennement par l'arm\u00e9e russe.\nSuivez les derni\u00e8res informations sur le conflit.  "
-		},
-		{
-			"title": "S\u00e9curit\u00e9 maritime : Les rebelles y\u00e9m\u00e9nites ont captur\u00e9 un cargo en mer Rouge - Zone Militaire",
-			"link": "https://www.opex360.com/2023/11/20/securite-maritime-les-rebelles-yemenites-ont-capture-un-cargo-en-mer-rouge/",
-			"pubDate": "Mon, 20 Nov 2023 11:20:38 GMT",
-			"image": "https://www.opex360.com/wp-content/uploads/babelmandeb-20150323.jpg",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "Zone Militaire",
-			"url": "https://www.opex360.com/2023/11/20/securite-maritime-les-rebelles-yemenites-ont-capture-un-cargo-en-mer-rouge/",
-			"description": "La semaine pass\u00e9e, les rebelles Houthis du Y\u00e9men, parrain\u00e9s par l'Iran, ont pr\u00e9venu qu'ils s'en prendraient aux navires isra\u00e9liens susceptibles de"
-		},
-		{
-			"title": "Les n\u00e9gociations pour la lib\u00e9ration des otages du Hamas s'acc\u00e9l\u00e8rent - Le Monde",
-			"link": "https://www.lemonde.fr/international/article/2023/11/20/les-negociations-pour-la-liberation-des-otages-s-accelerent_6201260_3210.html",
-			"pubDate": "Mon, 20 Nov 2023 09:53:25 GMT",
-			"image": "https://img.lemde.fr/2023/11/20/0/0/6000/4000/1440/960/60/0/dbde227_1700469370064-asurp-israel-103698.jpg",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "Le Monde.fr",
-			"url": "https://www.lemonde.fr/international/article/2023/11/20/les-negociations-pour-la-liberation-des-otages-s-accelerent_6201260_3210.html",
-			"description": "Un accord, sous l\u2019\u00e9gide du Qatar et des Etats-Unis, pourrait inclure la remise en libert\u00e9 d\u2019une cinquantaine d\u2019otages, sur environ 240, en \u00e9change d\u2019une pause de l\u2019op\u00e9ration militaire isra\u00e9lienne de quatre \u00e0 cinq jours et de la lib\u00e9ration du m\u00eame nombre de femmes et d\u2019enfants palestiniens d\u00e9tenus dans des prisons de l\u2019Etat h\u00e9breu."
-		},
-		{
-			"title": "S\u00e9n\u00e9gal: le Pastef d\u00e9signe Diomaye Faye candidat \u00e0 la pr\u00e9sidentielle \u00e0 la place d'Ousmane Sonko - RFI",
-			"link": "https://news.google.com/rss/articles/CBMiowFodHRwczovL3d3dy5yZmkuZnIvZnIvYWZyaXF1ZS8yMDIzMTExOS1zJUMzJUE5biVDMyVBOWdhbC1sZS1wYXN0ZWYtZCVDMyVBOXNpZ25lLWRpb21heWUtZmF5ZS1jYW5kaWRhdC0lQzMlQTAtbGEtcHIlQzMlQTlzaWRlbnRpZWxsZS0lQzMlQTAtbGEtcGxhY2UtZC1vdXNtYW5lLXNvbmtv0gEA?oc=5",
-			"pubDate": "Sun, 19 Nov 2023 23:05:00 GMT",
-			"image": "https://picsum.photos/200/300?grayscale",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "",
-			"url": "",
-			"description": ""
-		},
-		{
-			"title": "A Gaza, les pertes isra\u00e9liennes d\u00e9sormais aussi \u00e9lev\u00e9es qu'en 2014 - Ouest-France",
-			"link": "https://news.google.com/rss/articles/CBMijAFodHRwczovL3d3dy5vdWVzdC1mcmFuY2UuZnIvbW9uZGUvZ2F6YS9hLWdhemEtbGVzLXBlcnRlcy1pc3JhZWxpZW5uZXMtZGVzb3JtYWlzLWF1c3NpLWVsZXZlZXMtcXVlbi0yMDE0LWQ0YTQ5ODQwLTg3OGItMTFlZS05NjMyLWI2MmYwMDY4OWU3OdIBAA?oc=5",
-			"pubDate": "Mon, 20 Nov 2023 11:07:06 GMT",
-			"image": "https://picsum.photos/200/300?grayscale",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "",
-			"url": "",
-			"description": ""
-		},
-		{
-			"title": "La 'Ndrangheta, une organisation tentaculaire : \u00e9pisode \u2022 1/4 du podcast Les mafias \u00e0 la conqu\u00eate du monde - France Culture",
-			"link": "https://www.radiofrance.fr/franceculture/podcasts/cultures-monde/la-ndrangheta-une-organisation-tentaculaire-4399746",
-			"pubDate": "Mon, 20 Nov 2023 10:41:15 GMT",
-			"image": "https://www.radiofrance.fr/s3/cruiser-production/2023/11/9440eeec-ea20-4d23-bf88-2f39bce222b7/1200x680_sc_000-33p36fg.jpg",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "France Culture",
-			"url": "https://www.radiofrance.fr/franceculture/podcasts/cultures-monde/la-ndrangheta-une-organisation-tentaculaire-4399746",
-			"description": "AUDIO \u2022 1/4 : La \u2018Ndrangheta, une organisation tentaculaire . Les mafias \u00e0 la conqu\u00eate du monde est une s\u00e9rie in\u00e9dite propos\u00e9e par France Culture. \u00c9coutez gratuitement en ligne ce podcast et parcourez tout notre catalogue."
-		},
-		{
-			"title": "S\u00e9ismes et volcans: l'Islande au bord du point de rupture | Slate.fr - Slate.fr",
-			"link": "https://www.slate.fr/story/256527/seismes-volcans-islande-alerte-eruption",
-			"pubDate": "Mon, 20 Nov 2023 10:25:00 GMT",
-			"image": "https://www.slate.fr/sites/default/files/styles/1200x680/public/toby-elliott-m3srhemrmbq-unsplash.jpg",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "Slate.fr",
-			"url": "https://www.slate.fr/story/256527/seismes-volcans-islande-alerte-eruption",
-			"description": "Des signaux indiquent que le magma est proche de la surface au sud-ouest du pays, ce qui a entra\u00een\u00e9 des \u00e9vacuations de populations."
-		},
-		{
-			"title": "Antis\u00e9mitisme en France : un ancien r\u00e9sistant et d\u00e9port\u00e9 de Dachau tire la sonnette d'alarme : Actualit\u00e9s - Orange - Actu Orange",
-			"link": "https://actu.orange.fr/france/antisemitisme-en-france-un-ancien-resistant-et-deporte-de-dachau-tire-la-sonnette-d-alarme-magic-CNT0000029s0mG.html",
-			"pubDate": "Mon, 20 Nov 2023 07:40:00 GMT",
-			"image": "//media3.woopic.com/api/v1/images/2275%2Factu%2Fmagic-articles-6medias%2Fa5e%2F16a%2F557f74404c7ebc5b17b2e7bc94%2Fa5e16a557f74404c7ebc5b17b2e7bc94.jpg?format=1200x630&facedetect=1&quality=85",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "Orange Actualit\u00e9s",
-			"url": "https://actu.orange.fr/france/antisemitisme-en-france-un-ancien-resistant-et-deporte-de-dachau-tire-la-sonnette-d-alarme-magic-CNT0000029s0mG.html",
-			"description": "Jean Lafaurie, ancien r\u00e9sistant et d\u00e9port\u00e9 du camp de Dachau durant la Seconde Guerre mondiale, s\u2019est exprim\u00e9, samedi 18 novembre, sur la recrudescence des actes antis\u00e9mites en France. Il a notamment d\u00e9nonc\u00e9 un manque de patriotisme de la part de la jeunesse, rapporte Le Parisien, lundi.\n \nUn climat qui lui rem\u00e9more son pass\u00e9 douloureux. \u00c0 bient\u00f4t 100 ans, Jean Lafaurie fait part de son inqui\u00e9tude sur la mont\u00e9e de l\u2019antis\u00e9mitisme en France. Samedi 18 novembre, cet ancien r\u00e9sistant et rescap\u00e9 du camp de Dachau durant la Seconde Guerre mondiale a fait part de son inqui\u00e9tude lors d\u2019un discours au Lions Club de Milly-la-For\u00eat (Essonne), rapporte Le Parisien, lundi.\n \n&quot;Quand je vois que des \u00e9toiles de David sont tagu\u00e9es sur les murs de Paris, \u00e7a me r\u00e9volte. Ce sont des choses comme \u00e7a qui peuvent nous mener \u00e0 la guerre. Maintenant, il y a de la violence partout&quot;, a-t-il ainsi d\u00e9plor\u00e9, indique le quotidien francilien. Selon lui, le pays est marqu\u00e9 &quot;par la droite dure des fauteurs de troubles&quot;. Une situation qu\u2019il compare \u00e0 celle des ann\u00e9es 1930. Il a notamment d\u00e9nonc\u00e9 une perte de &quot;confiance et de patriotisme&quot; de la part de la jeunesse. &quot;J\u2019ai peur que tout cela se termine par une troisi\u00e8me guerre mondiale&quot;, alerte-t-il.\n\nPlus de 1 200 actes depuis le 7 octobre\n \nCette jeunesse, Jean Lafaurie tente pourtant de la sensibiliser en racontant son histoire dans les \u00e9coles. En avril dernier, il s\u2019\u00e9tait notamment rendu dans un \u00e9tablissement de Vaulx-en-Velin, o\u00f9 pr\u00e8s de 150 \u00e9l\u00e8ves de primaire avaient pu entendre le r\u00e9cit de celui qui, \u00e0 sa sortie du camp de concentration apr\u00e8s la Lib\u00e9ration, avait perdu pr\u00e8s de 50 kilos pour n\u2019en peser plus qu\u2019une trentaine, indiquait France 3 Auvergne-Rh\u00f4ne-Alpes.\n \nDepuis l\u2019attaque du 7 octobre en Isra\u00ebl, plus de 1 200 actes antis\u00e9mites ont \u00e9t\u00e9 enregistr\u00e9s, 300 enqu\u00eates ont ouvertes et plus de 530 personnes ont \u00e9t\u00e9 interpell\u00e9es en France, selon les chiffres du minist\u00e8re de la Justice, cit\u00e9s par Le Parisien."
 		},
 		{
 			"title": "Guerre Isra\u00ebl-Hamas : l'Etat h\u00e9breu toujours uni derri\u00e8re son arm\u00e9e - Le Monde",
@@ -131,34 +21,164 @@
 			"description": "Malgr\u00e9 le carnage caus\u00e9 par les frappes sur Gaza, les voix dissidentes se font tr\u00e8s rares sur la n\u00e9cessit\u00e9 de mener cette op\u00e9ration militaire."
 		},
 		{
-			"title": "VID\u00c9O - \"J'ai le droit d'\u00eatre l\u00e0, je ne vais pas partir\" : en Cisjordanie, le face-\u00e0-face tendu entre colons et Palestiniens - TF1 INFO",
-			"link": "https://www.tf1info.fr/international/video-reportage-tf1-guerre-israel-hamas-en-cisjordanie-les-tensions-exacerbees-entre-colons-et-palestiniens-2276724.html",
-			"pubDate": "Mon, 20 Nov 2023 06:00:00 GMT",
-			"image": "https://photos.tf1info.fr/images/1280/720/des-colonies-israeliennes-en-cisjordanie-eb9241-0@1x.jpeg?overlayImage=bG9nby10ZjFpbmZvLnBuZw==&overlayWidth=18&overlayGravity=northwest&s=951bcb",
+			"title": "Rosalynn Carter, ancienne premi\u00e8re dame des Etats-Unis, est d\u00e9c\u00e9d\u00e9e \u00e0 96 ans - 20 Minutes",
+			"link": "https://www.20minutes.fr/monde/etats-unis/4063057-20231120-rosalynn-carter-ancienne-premiere-dame-etats-unis-decedee-96-ans",
+			"pubDate": "Mon, 20 Nov 2023 02:50:35 GMT",
+			"image": "https://img.20mn.fr/iqgvl-uiQIChAa_HIJQ0Uyk/1200x768_file-rosalynn-carter-left-and-her-husband-former-president-jimmy-carter-update-donors-about-current-activities-of-the-carter-center-in-atlanta-april-23-2010-rosalynn-carter-the-closest-adviser-to-jimmy-carter-during-his-one-term-as-u-s-president-and-their-four-decades-thereafter-as-global-humanitarians-has-died-at-the-age-of-96-the-carter-center-said-she-died-sunday-nov-19-2023-ap-photo-john-amis-file-ny770-23323754896802-file-photo-2311192205",
 			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "TF1 INFO",
-			"url": "https://www.tf1info.fr/international/video-reportage-tf1-guerre-israel-hamas-en-cisjordanie-les-tensions-exacerbees-entre-colons-et-palestiniens-2276724.html",
-			"description": "[VID\u00c9O] - 500.000 colons juifs vivent aujourd'hui en Cisjordanie.\nUne occupation encourag\u00e9e par le gouvernement isra\u00e9lien ces derni\u00e8res ann\u00e9es.\nDepuis les attaques du Hamas, les heurts se multiplient entre colons et Palestiniens et menacent la paix future."
+			"site_name": "www.20minutes.fr",
+			"url": "https://www.20minutes.fr/monde/etats-unis/4063057-20231120-rosalynn-carter-ancienne-premiere-dame-etats-unis-decedee-96-ans",
+			"description": "Lors de l\u2019unique mandat de Jimmy Carter, de\u00a01977 \u00e0\u00a01981, Rosalynn Carter s\u2019\u00e9tait distingu\u00e9e par sa volont\u00e9 de s\u2019impliquer dans la politique"
 		},
 		{
-			"title": "Espagne : les droites et extr\u00eames droites continuent de mobiliser contre le \u00ab tra\u00eetre \u00bb S\u00e1nchez - Mediapart",
-			"link": "https://www.mediapart.fr/journal/international/191123/espagne-les-droites-et-extremes-droites-continuent-de-mobiliser-contre-le-traitre-sanchez",
-			"pubDate": "Sun, 19 Nov 2023 14:12:26 GMT",
-			"image": "https://static.mediapart.fr/etmagine/og/journal/files/2023/11/19/000-34443q7.jpg",
+			"title": "Guerre en Ukraine, jour 635 : le patron du Pentagone \u00e0 Kiev, perc\u00e9e des Ukrainiens sur le Dniepr - La Croix",
+			"link": "https://www.la-croix.com/international/guerre-ukraine-russie-jour-635-point-conflit-ukrainien-poutine-aujourdhu-2023-11-20-1201291500",
+			"pubDate": "Mon, 20 Nov 2023 10:11:58 GMT",
+			"image": "https://i.la-croix.com/1400x933/smart/2023/11/20/1201291500/Un-soldat-ukrainien-souterrain-ligne-front-Bakhmout-18-novembre-2023_0.jpg",
 			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "Mediapart",
-			"url": "https://www.mediapart.fr/journal/international/191123/espagne-les-droites-et-extremes-droites-continuent-de-mobiliser-contre-le-traitre-sanchez",
-			"description": "Deux jours apr\u00e8s la r\u00e9investiture du socialiste Pedro S\u00e1nchez \u00e0 la t\u00eate de l\u2019ex\u00e9cutif en Espagne, les droites et extr\u00eames droites ont encore mobilis\u00e9 samedi contre le projet de loi d\u2019amnistie pour le\u2026"
+			"site_name": "La Croix",
+			"url": "https://www.la-croix.com/international/guerre-ukraine-russie-jour-635-point-conflit-ukrainien-poutine-aujourdhu-2023-11-20-1201291500",
+			"description": "Lloyd Austin, le secr\u00e9taire am\u00e9ricain \u00e0 la d\u00e9fense, est arriv\u00e9 lundi 20\u00a0novembre \u00e0 Kiev pour une visite destin\u00e9e \u00e0 rappeler le soutien des \u00c9tats-Unis. Les forces ukrainiennes assurent avoir r\u00e9alis\u00e9 une perc\u00e9e de plusieurs kilom\u00e8tres sur la rive gauche du Dniepr occup\u00e9e par l\u2019arm\u00e9e de Moscou."
 		},
 		{
-			"title": "Nicolas Baverez: \u00abLes \u00c9tats-Unis reprennent la main face \u00e0 la Chine\u00bb - Le Figaro",
-			"link": "https://www.lefigaro.fr/vox/monde/nicolas-baverez-les-etats-unis-reprennent-la-main-face-a-la-chine-20231119",
-			"pubDate": "Sun, 19 Nov 2023 18:51:43 GMT",
-			"image": "https://i.f1g.fr/media/cms/1200x630_crop/2023/11/19/52e8c901fcbbdc8c1d9f5da27ea0d797a552385b605fe6ac101bb41733f03af0.jpg",
+			"title": "Abandon du peso, privatisations\u2026 Les mesures \"choc\" du nouveau pr\u00e9sident argentin Javier Milei - BFM Business",
+			"link": "https://www.bfmtv.com/economie/international/abandon-du-peso-privatisations-les-mesures-choc-du-nouveau-president-argentin-javier-milei_AD-202311200570.html",
+			"pubDate": "Mon, 20 Nov 2023 12:33:53 GMT",
+			"image": "https://images.bfmtv.com/6fjCOZN8eSGtD21RtSHrdKBlaKg=/0x106:2048x1258/2048x0/images/Javier-Milei-1751738.jpg",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "BFM BUSINESS",
+			"url": "https://www.bfmtv.com/economie/international/abandon-du-peso-privatisations-les-mesures-choc-du-nouveau-president-argentin-javier-milei_AD-202311200570.html",
+			"description": "Javier Milei, vainqueur de l'\u00e9lection pr\u00e9sidentielle argentine, a promis des mesures drastiques pour redresser l'\u00e9conomie du pays."
+		},
+		{
+			"title": "Covid-19 : il \u00e9tait \u00abhorrible\u00bb de voir Boris Johnson tenter de comprendre les statistiques, selon son ancien conseiller scientifique - Le Figaro",
+			"link": "https://www.lefigaro.fr/international/covid-19-il-etait-horrible-de-voir-boris-johnson-tenter-de-comprendre-les-statistiques-selon-son-ancien-conseiller-scientifique-20231120",
+			"pubDate": "Mon, 20 Nov 2023 15:42:21 GMT",
+			"image": "https://i.f1g.fr/media/cms/1200x630_crop/2023/11/20/c554900de9d2b6ce0eea9b444397c54aa199b327260a3d4e7622983588f9119e.jpg",
 			"logo": "https://picsum.photos/32/32?grayscale",
 			"site_name": "Le Figaro",
-			"url": "https://www.lefigaro.fr/vox/monde/nicolas-baverez-les-etats-unis-reprennent-la-main-face-a-la-chine-20231119",
-			"description": "CHRONIQUE - La rencontre entre Joe Biden et Xi Jinping \u00e0 San Francisco constitue une \u00e9tape modeste dans un vaste choc des civilisations, mais elle nous livre des enseignements pr\u00e9cieux : le XXIe si\u00e8cle ne sera pas forc\u00e9ment chinois et les d\u00e9mocraties ne sont pas condamn\u00e9es au d\u00e9clin."
+			"url": "https://www.lefigaro.fr/international/covid-19-il-etait-horrible-de-voir-boris-johnson-tenter-de-comprendre-les-statistiques-selon-son-ancien-conseiller-scientifique-20231120",
+			"description": "Interrog\u00e9 dans le cadre d\u2019une enqu\u00eate publique sur la gestion du Covid-19 au Royaume-Uni, Patrick Vallance a d\u00fb commenter des extraits de son carnet de bord \u00e9crit durant la pand\u00e9mie."
+		},
+		{
+			"title": "\u00ab De quel islam parle-t-on ? \u00bb : la d\u00e9tresse d\u2019un p\u00e8re arabe isra\u00e9lien, dont la femme a \u00e9t\u00e9 tu\u00e9e par le Hamas - Le Parisien",
+			"link": "https://www.leparisien.fr/international/israel/de-quel-islam-parle-t-on-la-detresse-dun-pere-arabe-israelien-dont-la-femme-a-ete-tuee-par-le-hamas-20-11-2023-JZXWOSIPZZGENAFQ7CVPSWGVBY.php",
+			"pubDate": "Mon, 20 Nov 2023 12:23:00 GMT",
+			"image": "https://www.leparisien.fr/resizer/8CgpOFlz7TpYialTg9vGO-EXJZ0=/1200x675/cloudfront-eu-central-1.images.arcpublishing.com/leparisien/PH5U7R2LUFBDDKXRVD55E2ZZGA.jpg",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "leparisien.fr",
+			"url": "https://www.leparisien.fr/international/israel/de-quel-islam-parle-t-on-la-detresse-dun-pere-arabe-israelien-dont-la-femme-a-ete-tuee-par-le-hamas-20-11-2023-JZXWOSIPZZGENAFQ7CVPSWGVBY.php",
+			"description": "Hamid Abu Ar\u2019ar a perdu sa femme, tu\u00e9e par des terroristes du Hamas, lors de l\u2019attaque du 7\u00a0octobre. Il t\u00e9moigne de son destin \u00e0 la fois tra"
+		},
+		{
+			"title": "Espagne: Pedro Sanchez devrait conserver ses principaux ministres au sein de son futur gouvernement - L'Ind\u00e9pendant",
+			"link": "https://www.lindependant.fr/2023/11/20/espagne-pedro-sanchez-devrait-conserver-ses-principaux-ministres-au-sein-de-son-futur-gouvernement-11591255.php",
+			"pubDate": "Mon, 20 Nov 2023 10:19:00 GMT",
+			"image": "https://images.lindependant.fr/api/v1/images/view/655b322c75b6a5154c5f5916/large/image.jpg?v=1",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "lindependant.fr",
+			"url": "https://www.lindependant.fr/2023/11/20/espagne-pedro-sanchez-devrait-conserver-ses-principaux-ministres-au-sein-de-son-futur-gouvernement-11591255.php",
+			"description": "La composition de son \u00e9quipe devrait \u00eatre r\u00e9v\u00e9l\u00e9e dans la journ\u00e9e."
+		},
+		{
+			"title": "Rapport du PNUE sur le r\u00e9chauffement : \u00ab Nous sommes en train de ruiner notre budget carbone \u00bb - Le Monde",
+			"link": "https://www.lemonde.fr/planete/article/2023/11/20/rapport-du-pnue-sur-le-rechauffement-nous-sommes-en-train-de-ruiner-notre-budget-carbone_6201285_3244.html",
+			"pubDate": "Mon, 20 Nov 2023 14:00:08 GMT",
+			"image": "https://img.lemde.fr/2023/11/20/0/0/8008/5339/1440/960/60/0/70ceed0_1700481629938-894975.jpg",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "Le Monde.fr",
+			"url": "https://www.lemonde.fr/planete/article/2023/11/20/rapport-du-pnue-sur-le-rechauffement-nous-sommes-en-train-de-ruiner-notre-budget-carbone_6201285_3244.html",
+			"description": "Les efforts des Etats pour limiter les \u00e9missions de gaz \u00e0 effet de serre sont tr\u00e8s insuffisants pour atteindre les objectifs de l\u2019accord de Paris, alerte le Programme des Nations unies pour l\u2019environnement \u00e0 quelques jours de la COP28."
+		},
+		{
+			"title": "La 'Ndrangheta, une organisation tentaculaire : \u00e9pisode \u2022 1/4 du podcast Les mafias \u00e0 la conqu\u00eate du monde - France Culture",
+			"link": "https://www.radiofrance.fr/franceculture/podcasts/cultures-monde/la-ndrangheta-une-organisation-tentaculaire-4399746",
+			"pubDate": "Mon, 20 Nov 2023 12:24:25 GMT",
+			"image": "https://www.radiofrance.fr/s3/cruiser-production/2023/11/9440eeec-ea20-4d23-bf88-2f39bce222b7/1200x680_sc_000-33p36fg.jpg",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "France Culture",
+			"url": "https://www.radiofrance.fr/franceculture/podcasts/cultures-monde/la-ndrangheta-une-organisation-tentaculaire-4399746",
+			"description": "AUDIO \u2022 1/4 : La \u2018Ndrangheta, une organisation tentaculaire . Les mafias \u00e0 la conqu\u00eate du monde est une s\u00e9rie in\u00e9dite propos\u00e9e par France Culture. \u00c9coutez gratuitement en ligne ce podcast et parcourez tout notre catalogue."
+		},
+		{
+			"title": "Guerre Isra\u00ebl-Hamas : que sait-on de la capture d'un cargo en mer Rouge par les rebelles Houthis du Y\u00e9men ? - TF1 INFO",
+			"link": "https://www.tf1info.fr/international/video-guerre-israel-hamas-que-sait-on-de-la-prise-d-un-cargo-par-les-rebelles-houthis-du-yemen-en-mer-rouge-2276759.html",
+			"pubDate": "Mon, 20 Nov 2023 09:08:52 GMT",
+			"image": "https://photos.tf1info.fr/images/1280/720/cargo-illustration-5e9547-1@1x.jpeg?overlayImage=bG9nby10ZjFpbmZvLnBuZw==&overlayWidth=18&overlayGravity=northwest&s=951bcb",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "TF1 INFO",
+			"url": "https://www.tf1info.fr/international/video-guerre-israel-hamas-que-sait-on-de-la-prise-d-un-cargo-par-les-rebelles-houthis-du-yemen-en-mer-rouge-2276759.html",
+			"description": "[VID\u00c9O] - Les rebelles Houthis du Y\u00e9men ont annonc\u00e9 dimanche avoir pris le contr\u00f4le en mer Rouge d'un cargo appartenant \u00e0 une soci\u00e9t\u00e9 contr\u00f4l\u00e9e par un homme d'affaires isra\u00e9lien.\nCette saisie se fonde \"sur la responsabilit\u00e9 religieuse, humanitaire et morale envers le peuple palestinien opprim\u00e9\", a indiqu\u00e9 un porte-parole des rebelles.\nLe navire est affr\u00e9t\u00e9 par une compagnie maritime japonaise. "
+		},
+		{
+			"title": "Quand l'\u00e9cologie accentue la fracture entre villes et campagnes - Les \u00c9chos",
+			"link": "https://www.lesechos.fr/idees-debats/editos-analyses/quand-lecologie-accentue-la-fracture-entre-villes-et-campagnes-2030002",
+			"pubDate": "Mon, 20 Nov 2023 06:38:11 GMT",
+			"image": "https://media.lesechos.com/api/v1/images/view/655b012476cdf96cd200b74c/1280x720/0100201578815-web-tete.jpg",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "Les Echos",
+			"url": "https://www.lesechos.fr/idees-debats/editos-analyses/quand-lecologie-accentue-la-fracture-entre-villes-et-campagnes-2030002",
+			"description": "Plusieurs \u00e9lections en Europe d\u00e9montrent l'existence d'un clivage fort entre villes et campagnes. Les questions environnementales jouent un r\u00f4le croissant dans le vote protestataire rural. A Bruxelles, les ambitions autour du \u00ab\u00a0pacte vert\u00a0\u00bb sont revues \u00e0 la baisse."
+		},
+		{
+			"title": "S\u00e9ismes et volcans: l'Islande au bord du point de rupture | Slate.fr - Slate.fr",
+			"link": "https://www.slate.fr/story/256527/seismes-volcans-islande-alerte-eruption",
+			"pubDate": "Mon, 20 Nov 2023 10:25:00 GMT",
+			"image": "https://www.slate.fr/sites/default/files/styles/1200x680/public/toby-elliott-m3srhemrmbq-unsplash.jpg",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "Slate.fr",
+			"url": "https://www.slate.fr/story/256527/seismes-volcans-islande-alerte-eruption",
+			"description": "Des signaux indiquent que le magma est proche de la surface au sud-ouest du pays, ce qui a entra\u00een\u00e9 des \u00e9vacuations de populations."
+		},
+		{
+			"title": "Unicef : La pauvret\u00e9 frappe plus les enfants des outre-mer que ceux de la m\u00e9tropole - 20 Minutes",
+			"link": "https://www.20minutes.fr/societe/4063059-20231120-unicef-pauvrete-frappe-plus-enfants-outre-mer-ceux-metropole",
+			"pubDate": "Mon, 20 Nov 2023 04:24:11 GMT",
+			"image": "https://img.20mn.fr/UJ4PYusBSPmEY_3PukvyGik/1200x768_while-the-o-wuambushu-o-operation-has-barely-started-is-experiencing-a-legal-setback-particularly-in-the-long-planned-decasing-of-majicavo-in-the-face-of-which-civil-society-associations-and-collectives-have-been-able-to-organize-themselves-uncertainty-persists-in-the-obangas-o-from-the-rest-of-the-island-in-the-municipality-of-kaweni-often-referred-to-as-the-olargest-slum-in-europe-o-the-question-of-the-future-of-these-neighborhoods-with-precarious-living-conditions-is-all-the-greater-because-projects-carried-out-in-consultation-between-the-city-and-the-inhabitants-are-underway-whether-the-inhabitants-of-this-area-are-in-a-regular-situation-or-not-the-need-to-improve-safety-and-living-conditions-on-public-roads-seems-to-be-taken-very-seriously-since-150-million-euros-of-investment-are-planned-for-the-development-of-the-whole-municipality-development-work-on-the-path-passages-is-for-example-programmed-and-the-inhabitants-of-the-district-have-been-working-for-months-to-move-their-sheet-metal-oboxes-o-back-sometimes-up-to-1-m-on-either-side-of-the-path-to-facilitate-the-work-to-come-some-dwellings-will-however-be-demolished-but-to-rebuild-housing-to-o-french-standards-o-to-however-rehouse-exclusively-the-inhabitants-of-the-district-according-to-the-administrative-situations-of-the-households-zeppelinnetwork-sipa-07141-credit-mathys-zeppelin-sipa-2305021448",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "www.20minutes.fr",
+			"url": "https://www.20minutes.fr/societe/4063059-20231120-unicef-pauvrete-frappe-plus-enfants-outre-mer-ceux-metropole",
+			"description": "L'Unicef indique notamment qu'\u00e0 \u00ab\u00a0Mayotte huit enfants sur dix vivent en situation de pauvret\u00e9 et en Guyane ils sont six sur dix\u00a0\u00bb"
+		},
+		{
+			"title": "Les n\u00e9gociations pour la lib\u00e9ration des otages du Hamas s'acc\u00e9l\u00e8rent - Le Monde",
+			"link": "https://www.lemonde.fr/international/article/2023/11/20/les-negociations-pour-la-liberation-des-otages-s-accelerent_6201260_3210.html",
+			"pubDate": "Mon, 20 Nov 2023 09:53:25 GMT",
+			"image": "https://img.lemde.fr/2023/11/20/0/0/6000/4000/1440/960/60/0/dbde227_1700469370064-asurp-israel-103698.jpg",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "Le Monde.fr",
+			"url": "https://www.lemonde.fr/international/article/2023/11/20/les-negociations-pour-la-liberation-des-otages-s-accelerent_6201260_3210.html",
+			"description": "Un accord, sous l\u2019\u00e9gide du Qatar et des Etats-Unis, pourrait inclure la remise en libert\u00e9 d\u2019une cinquantaine d\u2019otages, sur environ 240, en \u00e9change d\u2019une pause de l\u2019op\u00e9ration militaire isra\u00e9lienne de quatre \u00e0 cinq jours et de la lib\u00e9ration du m\u00eame nombre de femmes et d\u2019enfants palestiniens d\u00e9tenus dans des prisons de l\u2019Etat h\u00e9breu."
+		},
+		{
+			"title": "REPORTAGE. \"Quand les enfants ont recommenc\u00e9 \u00e0 dessiner, ils ont dessin\u00e9 des morceaux de corps\" : en Cisjordanie, l'impact d\u00e9vastateur des violences sur les enfants - franceinfo",
+			"link": "https://www.francetvinfo.fr/monde/palestine/reportage-quand-les-enfants-ont-recommence-a-dessiner-ils-ont-dessine-des-morceaux-de-corps-en-cisjordanie-l-impact-devastateur-des-violences-sur-les-enfants_6195099.html",
+			"pubDate": "Mon, 20 Nov 2023 08:21:12 GMT",
+			"image": "https://www.francetvinfo.fr/pictures/EUaRIKYcaijO8KYZvUd_SR4Yl5Q/1500x843/2023/11/20/000-34332ru-655b00af6c98f834720059.jpg",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "Franceinfo",
+			"url": "https://www.francetvinfo.fr/monde/palestine/reportage-quand-les-enfants-ont-recommence-a-dessiner-ils-ont-dessine-des-morceaux-de-corps-en-cisjordanie-l-impact-devastateur-des-violences-sur-les-enfants_6195099.html",
+			"description": "Les violences entre les colons isra\u00e9liens et les Palestiniens se sont accrues depuis les attaques du Hamas sur Isra\u00ebl le 7 octobre. Et les enfants cisjordaniens paient un lourd tribut psychologique."
+		},
+		{
+			"title": "S\u00e9n\u00e9gal: avec le plan Bassirou Diomaye Faye, la strat\u00e9gie \u00e9lectorale du Pastef - RFI",
+			"link": "https://news.google.com/rss/articles/CBMiowFodHRwczovL3d3dy5yZmkuZnIvZnIvYWZyaXF1ZS8yMDIzMTExOS1zJUMzJUE5biVDMyVBOWdhbC1sZS1wYXN0ZWYtZCVDMyVBOXNpZ25lLWRpb21heWUtZmF5ZS1jYW5kaWRhdC0lQzMlQTAtbGEtcHIlQzMlQTlzaWRlbnRpZWxsZS0lQzMlQTAtbGEtcGxhY2UtZC1vdXNtYW5lLXNvbmtv0gEA?oc=5",
+			"pubDate": "Sun, 19 Nov 2023 23:05:00 GMT",
+			"image": "https://picsum.photos/200/300?grayscale",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "",
+			"url": "",
+			"description": ""
+		},
+		{
+			"title": "Au Kenya, fin des n\u00e9gociations internationales pour r\u00e9duire la pollution plastique sur fond de d\u00e9saccord - Le Monde",
+			"link": "https://www.lemonde.fr/afrique/article/2023/11/20/au-kenya-fin-des-negociations-internationales-pour-reduire-la-pollution-plastique-sur-fond-de-desaccord_6201266_3212.html",
+			"pubDate": "Mon, 20 Nov 2023 10:08:51 GMT",
+			"image": "https://img.lemde.fr/2023/11/20/3/0/6016/4010/1440/960/60/0/0193560_1700474698584-000-was8992278.jpg",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "Le Monde.fr",
+			"url": "https://www.lemonde.fr/afrique/article/2023/11/20/au-kenya-fin-des-negociations-internationales-pour-reduire-la-pollution-plastique-sur-fond-de-desaccord_6201266_3212.html",
+			"description": "Les discussions, qui r\u00e9unissaient 175\u00a0pays, ont achopp\u00e9 sur le caract\u00e8re contraignant d\u2019un trait\u00e9 alors que la production mondiale a plus que doubl\u00e9 en vingt ans."
 		},
 		{
 			"title": "Pr\u00e9sidentielle au Liberia : pas de second mandat pour George Weah, battu par Joseph Boakai - Le Parisien",
@@ -171,19 +191,9 @@
 			"description": "Samedi, George Weah a reconnu la victoire de Joseph Boakai \u00e0 l\u2019\u00e9lection pr\u00e9sidentielle du Liberia. Pr\u00e9sident sortant, l\u2019ancienne gloire du P"
 		},
 		{
-			"title": "Assassinat de John F. Kennedy : des enqu\u00eateurs relancent les recherches autour de sa mort - franceinfo",
-			"link": "https://www.francetvinfo.fr/monde/usa/assassinat-de-kennedy/assassinat-de-john-f-kennedy-des-enqueteurs-relancent-les-recherches-autour-de-sa-mort_6193578.html",
-			"pubDate": "Sun, 19 Nov 2023 10:47:08 GMT",
-			"image": "https://www.francetvinfo.fr/pictures/fj6ToxD7SMPsUY9YIPbIK9_saxU/1500x843/2023/11/19/assassinat-de-john-f-kennedy-des-enqueteurs-relancent-les-recherches-autour-de-sa-mort-6559e77f59134632745396.png",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "Franceinfo",
-			"url": "https://www.francetvinfo.fr/monde/usa/assassinat-de-kennedy/assassinat-de-john-f-kennedy-des-enqueteurs-relancent-les-recherches-autour-de-sa-mort_6193578.html",
-			"description": "60 ans plus tard, la mort du pr\u00e9sident am\u00e9ricain John Fitzgerald Kennedy demeure entour\u00e9e d'un \u00e9pais myst\u00e8re. Plusieurs enqu\u00eateurs se sont retrouv\u00e9s aux \u00c9tats-Unis, pour \u00e9valuer diverses th\u00e9ories qui \u00e9clairciraient les circonstances de sa mort."
-		},
-		{
-			"title": "A Gaza, des milliers de corps enfouis dans les d\u00e9combres, parfois recherch\u00e9s \u00e0 la main - The Times of Isra\u00ebl",
-			"link": "https://news.google.com/rss/articles/CBMicmh0dHBzOi8vZnIudGltZXNvZmlzcmFlbC5jb20vYS1nYXphLWRlcy1taWxsaWVycy1kZS1jb3Jwcy1lbmZvdWlzLWRhbnMtbGVzLWRlY29tYnJlcy1wYXJmb2lzLXJlY2hlcmNoZXMtYS1sYS1tYWluL9IBdmh0dHBzOi8vZnIudGltZXNvZmlzcmFlbC5jb20vYS1nYXphLWRlcy1taWxsaWVycy1kZS1jb3Jwcy1lbmZvdWlzLWRhbnMtbGVzLWRlY29tYnJlcy1wYXJmb2lzLXJlY2hlcmNoZXMtYS1sYS1tYWluL2FtcC8?oc=5",
-			"pubDate": "Sun, 19 Nov 2023 20:15:00 GMT",
+			"title": "C\u00f4te d'Ivoire: \u00e0 l'examen des candidatures au PDCI, le cas de Tidjane Thiam pose question - RFI",
+			"link": "https://news.google.com/rss/articles/CBMiiAFodHRwczovL3d3dy5yZmkuZnIvZnIvYWZyaXF1ZS8yMDIzMTEyMC1jJUMzJUI0dGUtZC1pdm9pcmUtJUMzJUEwLWwtZXhhbWVuLWRlcy1jYW5kaWRhdHVyZXMtYXUtcGRjaS1sZS1jYXMtZGUtdGlkamFuZS10aGlhbS1wb3NlLXF1ZXN0aW9u0gEA?oc=5",
+			"pubDate": "Mon, 20 Nov 2023 05:35:55 GMT",
 			"image": "https://picsum.photos/200/300?grayscale",
 			"logo": "https://picsum.photos/32/32?grayscale",
 			"site_name": "",
@@ -191,14 +201,54 @@
 			"description": ""
 		},
 		{
-			"title": "Les images impressionnantes des pluies diluviennes qui ont fait au moins 21 morts en R\u00e9publique dominicaine - Le HuffPost",
-			"link": "https://www.huffingtonpost.fr/international/video/en-republique-dominicaine-au-moins-21-morts-apres-des-pluies-diluviennes_225977.html",
-			"pubDate": "Mon, 20 Nov 2023 05:15:09 GMT",
-			"image": "https://huffpost-focus.sirius.press/2023/11/20/0/0/1920/1080/1820/1023/75/0/63ddff0_1700474457556-vignette-repdom-papier.jpg",
+			"title": "Nicolas Baverez: \u00abLes \u00c9tats-Unis reprennent la main face \u00e0 la Chine\u00bb - Le Figaro",
+			"link": "https://www.lefigaro.fr/vox/monde/nicolas-baverez-les-etats-unis-reprennent-la-main-face-a-la-chine-20231119",
+			"pubDate": "Sun, 19 Nov 2023 18:51:43 GMT",
+			"image": "https://i.f1g.fr/media/cms/1200x630_crop/2023/11/19/52e8c901fcbbdc8c1d9f5da27ea0d797a552385b605fe6ac101bb41733f03af0.jpg",
 			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "Le HuffPost",
-			"url": "https://www.huffingtonpost.fr/international/video/en-republique-dominicaine-au-moins-21-morts-apres-des-pluies-diluviennes_225977.html",
-			"description": "Le pr\u00e9sident dominicain Luis Abinader a d\u00e9clar\u00e9 qu\u2019il s\u2019agissait \u00ab\u00a0des plus fortes pr\u00e9cipitations jamais enregistr\u00e9es en R\u00e9publique\u00a0dominicaine\u00a0\u00bb."
+			"site_name": "Le Figaro",
+			"url": "https://www.lefigaro.fr/vox/monde/nicolas-baverez-les-etats-unis-reprennent-la-main-face-a-la-chine-20231119",
+			"description": "CHRONIQUE - La rencontre entre Joe Biden et Xi Jinping \u00e0 San Francisco constitue une \u00e9tape modeste dans un vaste choc des civilisations, mais elle nous livre des enseignements pr\u00e9cieux : le XXIe si\u00e8cle ne sera pas forc\u00e9ment chinois et les d\u00e9mocraties ne sont pas condamn\u00e9es au d\u00e9clin."
+		},
+		{
+			"title": "En direct, guerre en Ukraine : Emmanuel Macron a exprim\u00e9 \u00e0 Xi Jinping sa \u00ab vive pr\u00e9occupation \u00bb sur la coop\u00e9ration militaire entre la Russie et la Cor\u00e9e du Nord - Le Monde",
+			"link": "https://www.lemonde.fr/international/live/2023/11/20/en-direct-guerre-en-ukraine-emmanuel-macron-a-exprime-a-xi-jinping-sa-vive-preoccupation-sur-la-cooperation-militaire-moscou-pyongyang_6201064_3210.html",
+			"pubDate": "Mon, 20 Nov 2023 13:30:00 GMT",
+			"image": "https://img.lemde.fr/2023/11/16/320/0/3840/1920/1440/720/60/0/ab4b18e_5889375-01-06.jpg",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "Le Monde.fr",
+			"url": "https://www.lemonde.fr/international/live/2023/11/20/en-direct-guerre-en-ukraine-emmanuel-macron-a-exprime-a-xi-jinping-sa-vive-preoccupation-sur-la-cooperation-militaire-moscou-pyongyang_6201064_3210.html",
+			"description": "\u00ab\u00a0Nous souhaitons que la Chine r\u00e9alise \u00e0 quel point c\u2019est une \u00e9volution probl\u00e9matique pour la France et l\u2019ensemble de l\u2019Union europ\u00e9enne. \u00c7a conduirait naturellement \u00e0 alimenter la port\u00e9e de cette agression russe\u00a0\u00bb contre l\u2019Ukraine, a ajout\u00e9 la pr\u00e9sidence fran\u00e7aise aupr\u00e8s de quelques journalistes."
+		},
+		{
+			"title": "R\u00e9publique dominicaine : Des pluies diluviennes font au moins 21 morts - 20 Minutes",
+			"link": "https://www.20minutes.fr/planete/4063058-20231120-republique-dominicaine-pluies-diluviennes-font-moins-21-morts",
+			"pubDate": "Mon, 20 Nov 2023 03:27:50 GMT",
+			"image": "https://img.20mn.fr/jAQfYdD1TZCOndrcaj-6_yk/1200x768_rescue-teams-work-at-the-place-where-a-wall-collapsed-at-the-entrance-of-a-tunnel-in-santo-domingo-dominican-republic-saturday-nov-18-2023-according-to-civil-defense-at-least-9-people-were-killed-when-the-wall-fell-down-due-to-heavy-rains-ap-photo-eddy-vittini-xre103-23323663725788-2311191935",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "www.20minutes.fr",
+			"url": "https://www.20minutes.fr/planete/4063058-20231120-republique-dominicaine-pluies-diluviennes-font-moins-21-morts",
+			"description": "Selon le pr\u00e9sident Luis Abinader, les pr\u00e9cipitations au cours des dernieres 48 heures sont les plus importantes \u00ab\u00a0jamais enregistr\u00e9es\u00a0\u00bb dans le pays"
+		},
+		{
+			"title": "Assassinat de JFK \u2013 60 ans apr\u00e8s, l'Am\u00e9rique s'interroge encore - Tribune de Gen\u00e8ve",
+			"link": "https://www.tdg.ch/assassinat-de-jfk-60-ans-apres-lamerique-sinterroge-encore-225742117361",
+			"pubDate": "Sun, 19 Nov 2023 16:29:42 GMT",
+			"image": "https://cdn.unitycms.io/images/8h8IDY5eK2J90hQjKHiudL.jpg?op=ocroped&val=1200,1200,1000,1000,0,0&sum=fPDPG85dI1U",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "Tribune de Gen\u00e8ve",
+			"url": "https://www.tdg.ch/assassinat-de-jfk-60-ans-apres-lamerique-sinterroge-encore-225742117361",
+			"description": "Le 22 novembre 1963, John F. Kennedy \u00e9tait abattu dans les rues de Dallas. Soixante ans plus tard, l\u2019assassinat fait encore l\u2019objet de nombreuses sp\u00e9culations.  "
+		},
+		{
+			"title": "Un rapport officiel confirme-t-il que des h\u00e9licopt\u00e8res isra\u00e9liens ont tu\u00e9 des participants \u00e0 la rave le 7 octobre ? - Lib\u00e9ration",
+			"link": "https://news.google.com/rss/articles/CBMiugFodHRwczovL3d3dy5saWJlcmF0aW9uLmZyL2NoZWNrbmV3cy91bi1yYXBwb3J0LW9mZmljaWVsLWNvbmZpcm1lLXQtaWwtcXVlLWRlcy1oZWxpY29wdGVyZXMtaXNyYWVsaWVucy1vbnQtdHVlLWRlcy1wYXJ0aWNpcGFudHMtYS1sYS1yYXZlLWxlLTctb2N0b2JyZS0yMDIzMTExOV80UTJOQ0pUR01CR1JSSTdOSjRDQU5LM0tRNC_SAQA?oc=5",
+			"pubDate": "Sun, 19 Nov 2023 16:22:00 GMT",
+			"image": "https://www.liberation.fr/resizer/MMtmFo_ZklhKQOuuWk5edQ5giYU=/1200x630/filters:format(jpg):quality(70):focal(2635x1785:2645x1795)/cloudfront-eu-central-1.images.arcpublishing.com/liberation/4DSTUPPG5BGR3IG7MBGIINDYGM.jpg",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "Lib\u00e9ration",
+			"url": "",
+			"description": ""
 		},
 		{
 			"title": "Crise \u00e9lectorale \u00e0 Madagascar : les observateurs internationaux appellent au dialogue - Le Monde",
@@ -211,34 +261,14 @@
 			"description": "Le pr\u00e9sident sortant Andry Rajoelina devrait \u00eatre r\u00e9\u00e9lu d\u00e8s le premier tour \u00e0 l\u2019issue d\u2019un scrutin boycott\u00e9 par l\u2019opposition et marqu\u00e9 par une faible participation"
 		},
 		{
-			"title": "\u00c9lections g\u00e9n\u00e9rales en RDC: F\u00e9lix Tshisekedi d\u00e9marre sa campagne avec un grand meeting \u00e0 Kinshasa - RFI",
-			"link": "https://news.google.com/rss/articles/CBMipQFodHRwczovL3d3dy5yZmkuZnIvZnIvYWZyaXF1ZS8yMDIzMTExOS0lQzMlQTlsZWN0aW9ucy1nJUMzJUE5biVDMyVBOXJhbGVzLWVuLXJkYy1mJUMzJUE5bGl4LXRzaGlzZWtlZGktZCVDMyVBOW1hcnJlLXNhLWNhbXBhZ25lLWF2ZWMtdW4tZ3JhbmQtbWVldGluZy0lQzMlQTAta2luc2Foc2HSAQA?oc=5",
-			"pubDate": "Sun, 19 Nov 2023 18:38:17 GMT",
+			"title": "Ivre, un conducteur de train abandonne ses passagers au milieu du trajet - Ouest-France",
+			"link": "https://news.google.com/rss/articles/CBMinQFodHRwczovL3d3dy5vdWVzdC1mcmFuY2UuZnIvc29jaWV0ZS9mYWl0cy1kaXZlcnMvaXZyZS11bi1jb25kdWN0ZXVyLWRlLXRyYWluLWFiYW5kb25uZS1zZXMtcGFzc2FnZXJzLWF1LW1pbGlldS1kdS10cmFqZXQtZDcyYzllOTYtODc5MC0xMWVlLWIwNWItODliNzg5YWYwZGM40gEA?oc=5",
+			"pubDate": "Mon, 20 Nov 2023 11:16:33 GMT",
 			"image": "https://picsum.photos/200/300?grayscale",
 			"logo": "https://picsum.photos/32/32?grayscale",
 			"site_name": "",
 			"url": "",
 			"description": ""
-		},
-		{
-			"title": "Guerre Isra\u00ebl-Hamas: cinq \u00c9tats saisissent la Cour p\u00e9nale internationale pour enqu\u00eater sur les crimes commis - RFI",
-			"link": "https://news.google.com/rss/articles/CBMiqwFodHRwczovL3d3dy5yZmkuZnIvZnIvbW95ZW4tb3JpZW50LzIwMjMxMTE4LWd1ZXJyZS1pc3JhJUMzJUFCbC1oYW1hcy1jaW5xLSVDMyVBOXRhdHMtc2Fpc2lzc2VudC1sYS1jb3VyLXAlQzMlQTluYWxlLWludGVybmF0aW9uYWxlLXBvdXItZW5xdSVDMyVBQXRlci1zdXItbGVzLWNyaW1lcy1jb21taXPSAQA?oc=5",
-			"pubDate": "Sat, 18 Nov 2023 23:40:00 GMT",
-			"image": "https://picsum.photos/200/300?grayscale",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "",
-			"url": "",
-			"description": ""
-		},
-		{
-			"title": "EN DIRECT - Conflit Isra\u00ebl-Hamas: le monde doit \u0153uvrer pour mettre fin \u00e0 \u00abla catastrophe humanitaire\u00bb, alerte la Chine - Le Figaro",
-			"link": "https://www.lefigaro.fr/international/en-direct-conflit-israel-hamas-poursuite-des-combats-sur-fond-de-pourparlers-pour-liberer-les-otages-20231120",
-			"pubDate": "Mon, 20 Nov 2023 05:55:36 GMT",
-			"image": "https://i.f1g.fr/media/cms/1200x630_crop/2023/11/20/6ae1125e8a6203b9e3f3cdac66ab054710e495de18f6f84c5b433ab3daf3ccb7.jpg",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "Le Figaro",
-			"url": "https://www.lefigaro.fr/international/en-direct-conflit-israel-hamas-poursuite-des-combats-sur-fond-de-pourparlers-pour-liberer-les-otages-20231120",
-			"description": "Quarante camions contenant les \u00e9quipements de cet h\u00f4pital et 17 soignants et techniciens jordaniens sont entr\u00e9s depuis l'\u00c9gypte par le terminal de Rafah, ont indiqu\u00e9 des responsables m\u00e9dicaux de Gaza."
 		},
 		{
 			"title": "Allemagne : soup\u00e7onn\u00e9 d\u2019avoir tu\u00e9 son ex-petite amie, un \u00e9tudiant italien arr\u00eat\u00e9 apr\u00e8s une chasse \u00e0 l\u2019homme - CNEWS",
@@ -251,34 +281,54 @@
 			"description": ""
 		},
 		{
-			"title": "Un rapport officiel confirme-t-il que des h\u00e9licopt\u00e8res isra\u00e9liens ont tu\u00e9 des participants \u00e0 la rave le 7 octobre ? - Lib\u00e9ration",
-			"link": "https://news.google.com/rss/articles/CBMiugFodHRwczovL3d3dy5saWJlcmF0aW9uLmZyL2NoZWNrbmV3cy91bi1yYXBwb3J0LW9mZmljaWVsLWNvbmZpcm1lLXQtaWwtcXVlLWRlcy1oZWxpY29wdGVyZXMtaXNyYWVsaWVucy1vbnQtdHVlLWRlcy1wYXJ0aWNpcGFudHMtYS1sYS1yYXZlLWxlLTctb2N0b2JyZS0yMDIzMTExOV80UTJOQ0pUR01CR1JSSTdOSjRDQU5LM0tRNC_SAQA?oc=5",
-			"pubDate": "Sun, 19 Nov 2023 16:47:56 GMT",
-			"image": "https://www.liberation.fr/resizer/MMtmFo_ZklhKQOuuWk5edQ5giYU=/1200x630/filters:format(jpg):quality(70):focal(2635x1785:2645x1795)/cloudfront-eu-central-1.images.arcpublishing.com/liberation/4DSTUPPG5BGR3IG7MBGIINDYGM.jpg",
+			"title": "\u00c9lections g\u00e9n\u00e9rales en RDC: F\u00e9lix Tshisekedi d\u00e9marre sa campagne avec un grand meeting \u00e0 Kinshasa - RFI",
+			"link": "https://news.google.com/rss/articles/CBMipQFodHRwczovL3d3dy5yZmkuZnIvZnIvYWZyaXF1ZS8yMDIzMTExOS0lQzMlQTlsZWN0aW9ucy1nJUMzJUE5biVDMyVBOXJhbGVzLWVuLXJkYy1mJUMzJUE5bGl4LXRzaGlzZWtlZGktZCVDMyVBOW1hcnJlLXNhLWNhbXBhZ25lLWF2ZWMtdW4tZ3JhbmQtbWVldGluZy0lQzMlQTAta2luc2Foc2HSAQA?oc=5",
+			"pubDate": "Sun, 19 Nov 2023 18:38:17 GMT",
+			"image": "https://picsum.photos/200/300?grayscale",
 			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "Lib\u00e9ration",
+			"site_name": "",
 			"url": "",
 			"description": ""
 		},
 		{
-			"title": "Catherine Draveil, ancienne religieuse : \u201c\u00c0 22 ans, je suis rentr\u00e9e dans un monast\u00e8re clo\u00eetr\u00e9, j\u2019en suis sortie 40 ans plus tard\u201d - Yahoo Actualit\u00e9s",
-			"link": "https://fr.news.yahoo.com/catherine-draveil-ancienne-religieuse--a-22-ans-je-suis-rentree-dans-un-monastere-cloitre-jen-suis-sortie-40-ans-plus-tard-090357208.html",
-			"pubDate": "Mon, 20 Nov 2023 09:03:57 GMT",
-			"image": "https://s.yimg.com/ny/api/res/1.2/I2KISiSQXG6Y3G3D.W2m4w--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD05MDA-/https://s.yimg.com/os/creatr-uploaded-images/2023-11/858f2110-8774-11ee-8eb5-be185c01004d",
+			"title": "Pr\u00e9sidentielle en RDC: les candidats Seth Kikuni et Franck Diongo annoncent leur d\u00e9sistement en faveur de Mo\u00efse Katumbi - RFI",
+			"link": "https://news.google.com/rss/articles/CBMilgFodHRwczovL3d3dy5yZmkuZnIvZnIvZW4tYnJlZi8yMDIzMTEyMC1wciVDMyVBOXNpZGVudGllbGxlLWVuLXJkYy1sZS1jYW5kaWRhdC1zZXRoLWtpa3VuaS1hbm5vbmNlLXNvbi1kJUMzJUE5c2lzdGVtZW50LWVuLWZhdmV1ci1kZS1tbyVDMyVBRnNlLWthdHVtYmnSAQA?oc=5",
+			"pubDate": "Mon, 20 Nov 2023 10:56:04 GMT",
+			"image": "https://picsum.photos/200/300?grayscale",
 			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "Yahoo News",
-			"url": "https://fr.news.yahoo.com/catherine-draveil-ancienne-religieuse--a-22-ans-je-suis-rentree-dans-un-monastere-cloitre-jen-suis-sortie-40-ans-plus-tard-090357208.html",
-			"description": "\u201cIl n\u2019y a pas d\u2019\u00e2ge pour apprendre \u00e0 vivre\u201d. Nonne pendant 40 ans, Catherine Draveil s\u2019est lib\u00e9r\u00e9e de cette emprise il y a peu. Aujourd\u2019hui, elle a d\u00e9cid\u00e9 de croquer la vie \u00e0 pleines dents et de r\u00e9aliser toutes ses premi\u00e8res fois, \u00e0 60 ans pass\u00e9s. Pour Yahoo, elle a accept\u00e9 de se livrer sur son histoire, revenant notamment sur son \u00e9ducation, sur sa vie dans le monast\u00e8re mais aussi sur sa lib\u00e9ration. Un t\u00e9moignage poignant."
+			"site_name": "",
+			"url": "",
+			"description": ""
 		},
 		{
-			"title": "Russie-Ukraine : \u00ab Donner un sens \u00e0 la guerre \u00bb - Mediapart",
-			"link": "https://www.mediapart.fr/journal/international/191123/russie-ukraine-donner-un-sens-la-guerre",
-			"pubDate": "Sun, 19 Nov 2023 09:59:49 GMT",
-			"image": "https://static.mediapart.fr/etmagine/og/journal/files/2023/11/03/20231103-img-le-sens-historique-de-la-guerre-russo-ukrainienne.jpg",
+			"title": "VID\u00c9O - \"J'ai le droit d'\u00eatre l\u00e0, je ne vais pas partir\" : en Cisjordanie, le face-\u00e0-face tendu entre colons et Palestiniens - TF1 INFO",
+			"link": "https://www.tf1info.fr/international/video-reportage-tf1-guerre-israel-hamas-en-cisjordanie-les-tensions-exacerbees-entre-colons-et-palestiniens-2276724.html",
+			"pubDate": "Mon, 20 Nov 2023 06:00:00 GMT",
+			"image": "https://photos.tf1info.fr/images/1280/720/des-colonies-israeliennes-en-cisjordanie-eb9241-0@1x.jpeg?overlayImage=bG9nby10ZjFpbmZvLnBuZw==&overlayWidth=18&overlayGravity=northwest&s=951bcb",
 			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "Mediapart",
-			"url": "https://www.mediapart.fr/journal/international/191123/russie-ukraine-donner-un-sens-la-guerre",
-			"description": "Dans son dernier livre, l\u2019historien Serhii Plokhy d\u00e9crit les chemins contradictoires pris par la Russie et l\u2019Ukraine tout au long des ann\u00e9es 1990 et 2000, et remet en perspective le conflit qui boule\u2026"
+			"site_name": "TF1 INFO",
+			"url": "https://www.tf1info.fr/international/video-reportage-tf1-guerre-israel-hamas-en-cisjordanie-les-tensions-exacerbees-entre-colons-et-palestiniens-2276724.html",
+			"description": "[VID\u00c9O] - 500.000 colons juifs vivent aujourd'hui en Cisjordanie.\nUne occupation encourag\u00e9e par le gouvernement isra\u00e9lien ces derni\u00e8res ann\u00e9es.\nDepuis les attaques du Hamas, les heurts se multiplient entre colons et Palestiniens et menacent la paix future."
+		},
+		{
+			"title": "Puits, forages, solutions... comment les 41 ouvriers pris au pi\u00e8ge dans un tunnel en Inde vont \u00eatre \u00e9vacu\u00e9s ? - Midi Libre",
+			"link": "https://www.midilibre.fr/2023/11/20/puits-forages-solutions-comment-les-41-ouvriers-pris-au-piege-dans-un-tunnel-en-inde-vont-etre-evacues-11590980.php",
+			"pubDate": "Mon, 20 Nov 2023 06:46:00 GMT",
+			"image": "https://images.midilibre.fr/api/v1/images/view/655afb2b154f6338173b23db/large/image.jpg?v=1",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "midilibre.fr",
+			"url": "https://www.midilibre.fr/2023/11/20/puits-forages-solutions-comment-les-41-ouvriers-pris-au-piege-dans-un-tunnel-en-inde-vont-etre-evacues-11590980.php",
+			"description": "Le dimanche 12 novembre 2023, un terrible accident a eu lieu dans la matin\u00e9e en Inde. Un tunnel s'est effondr\u00e9 pi\u00e9geant \u00e0 l'int\u00e9rieur 41 ouvriers. Les secours envisagent de creuser un puits afin de les lib\u00e9rer."
+		},
+		{
+			"title": "600.000 cochons dans un gratte-ciel : la Chine r\u00e9invente la porcherie - Les \u00c9chos",
+			"link": "https://www.lesechos.fr/industrie-services/conso-distribution/80000-cochons-dans-un-gratte-ciel-la-chine-reinvente-la-porcherie-2029994",
+			"pubDate": "Mon, 20 Nov 2023 06:17:10 GMT",
+			"image": "https://media.lesechos.com/api/v1/images/view/655af9ecfad708511f55a0d7/1280x720/01004452318-web-tete.jpg",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "Les Echos",
+			"url": "https://www.lesechos.fr/industrie-services/conso-distribution/80000-cochons-dans-un-gratte-ciel-la-chine-reinvente-la-porcherie-2029994",
+			"description": "La ferme o\u00f9 sont \u00e9lev\u00e9s des cochons sur 26 \u00e9tages a ouvert ses portes fin\u00a02022. Un deuxi\u00e8me b\u00e2timent sera inaugur\u00e9 d\u00e9but\u00a02024. L'objectif\u00a0est de produire 1,2\u00a0million de porcs par an en pleine capacit\u00e9. P\u00e9kin a \u00e9rig\u00e9 la s\u00e9curit\u00e9 alimentaire parmi ses priorit\u00e9s et compte sur ces m\u00e9gafermes \u00ab\u00a0intelligentes\u00a0\u00bb."
 		},
 		{
 			"title": "Bangladesh: le principal parti islamiste interdit de participer aux \u00e9lections - Le Figaro",
@@ -291,22 +341,42 @@
 			"description": "La Cour supr\u00eame du Bangladesh a confirm\u00e9 dimanche que le principal parti islamiste du pays, le Jamaat-e-Islami, serait interdit de participer aux..."
 		},
 		{
+			"title": "[VIDEO] VIDEO. Une rappeuse abat son manager \u00e0 bout portant en pleine rue avant de se faire rouler dessus - LaDepeche.fr",
+			"link": "https://www.ladepeche.fr/2023/11/20/video-une-rappeuse-abat-son-manager-a-bout-portant-en-pleine-rue-avant-de-se-faire-rouler-dessus-11591481.php",
+			"pubDate": "Mon, 20 Nov 2023 14:08:00 GMT",
+			"image": "https://images.ladepeche.fr/api/v1/images/view/655b6703ddbd5011543f4b7d/large/image.png?v=1",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "ladepeche.fr",
+			"url": "https://www.ladepeche.fr/2023/11/20/video-une-rappeuse-abat-son-manager-a-bout-portant-en-pleine-rue-avant-de-se-faire-rouler-dessus-11591481.php",
+			"description": "La sc\u00e8ne a eu lieu en octobre \u00e0 Miami en Floride. Sur des images de vid\u00e9osurveillance publi\u00e9es par une cha\u00eene locale, on peut voir Key Vhani abattre \u00e0 bout portant son manager apr\u00e8s une violente altercation avec ce..."
+		},
+		{
+			"title": "Russie-Ukraine : \u00ab Donner un sens \u00e0 la guerre \u00bb - Mediapart",
+			"link": "https://www.mediapart.fr/journal/international/191123/russie-ukraine-donner-un-sens-la-guerre",
+			"pubDate": "Sun, 19 Nov 2023 09:59:49 GMT",
+			"image": "https://static.mediapart.fr/etmagine/og/journal/files/2023/11/03/20231103-img-le-sens-historique-de-la-guerre-russo-ukrainienne.jpg",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "Mediapart",
+			"url": "https://www.mediapart.fr/journal/international/191123/russie-ukraine-donner-un-sens-la-guerre",
+			"description": "Dans son dernier livre, l\u2019historien Serhii Plokhy d\u00e9crit les chemins contradictoires pris par la Russie et l\u2019Ukraine tout au long des ann\u00e9es 1990 et 2000, et remet en perspective le conflit qui boule\u2026"
+		},
+		{
+			"title": "Finlande : la communaut\u00e9 russe s'inqui\u00e8te de la fermeture de plusieurs postes fronti\u00e8res - Euronews",
+			"link": "https://fr.euronews.com/2023/11/19/finlande-la-communaute-russe-sinquiete-de-la-fermeture-de-plusieurs-postes-frontieres",
+			"pubDate": "Sun, 19 Nov 2023 11:35:05 GMT",
+			"image": "https://static.euronews.com/articles/stories/08/05/03/30/1000x563_cmsv2_24e10014-26ce-5199-9a08-556134fbb035-8050330.jpg",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "euronews",
+			"url": "https://fr.euronews.com/2023/11/19/finlande-la-communaute-russe-sinquiete-de-la-fermeture-de-plusieurs-postes-frontieres",
+			"description": "Face \u00e0 l\u2019afflux de migrants, Helsinki a d\u00e9cid\u00e9 de fermer quatre points de passages dans le sud-est du pays."
+		},
+		{
 			"title": "\u00c9tats-Unis: dans la presse, Biden d\u00e9fend une solution \u00e0 deux \u00c9tats pour l'avenir d'Isra\u00ebl et de la Palestine - RFI",
 			"link": "https://news.google.com/rss/articles/CBMisQFodHRwczovL3d3dy5yZmkuZnIvZnIvYW0lQzMlQTlyaXF1ZXMvMjAyMzExMTktJUMzJUE5dGF0cy11bmlzLWRhbnMtbGEtcHJlc3NlLWJpZGVuLWQlQzMlQTlmZW5kLXVuZS1zb2x1dGlvbi0lQzMlQTAtZGV1eC0lQzMlQTl0YXRzLXBvdXItbC1hdmVuaXItZC1pc3JhJUMzJUFCbC1ldC1kZS1sYS1wYWxlc3RpbmXSAQA?oc=5",
 			"pubDate": "Sun, 19 Nov 2023 12:24:55 GMT",
 			"image": "https://picsum.photos/200/300?grayscale",
 			"logo": "https://picsum.photos/32/32?grayscale",
 			"site_name": "",
-			"url": "",
-			"description": ""
-		},
-		{
-			"title": "\u00abDonnez-nous une chance\u00bb : aux Pays-Bas, Frans Timmermans tente de r\u00e9veiller la gauche - Lib\u00e9ration",
-			"link": "https://news.google.com/rss/articles/CBMipQFodHRwczovL3d3dy5saWJlcmF0aW9uLmZyL2ludGVybmF0aW9uYWwvZXVyb3BlL2Rvbm5lei1ub3VzLXVuZS1jaGFuY2UtYXV4LXBheXMtYmFzLWZyYW5zLXRpbW1lcm1hbnMtdGVudGUtZGUtcmV2ZWlsbGVyLWxhLWdhdWNoZS0yMDIzMTExOV9YMjJaNFk0WEdGSFhWSFBSSEJMN001S043QS_SAQA?oc=5",
-			"pubDate": "Sun, 19 Nov 2023 19:25:39 GMT",
-			"image": "https://www.liberation.fr/resizer/tQKg9MtijqDmO41m-HzvywsyXMg=/1200x630/filters:format(jpg):quality(70):focal(1525x1794:1535x1804)/cloudfront-eu-central-1.images.arcpublishing.com/liberation/J3K6B4T2RNDLPLJOBBMUF2CHZU.jpg",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "Lib\u00e9ration",
 			"url": "",
 			"description": ""
 		},
@@ -321,134 +391,94 @@
 			"description": ""
 		},
 		{
-			"title": "Finlande : la communaut\u00e9 russe s'inqui\u00e8te de la fermeture de plusieurs postes fronti\u00e8res - Euronews",
-			"link": "https://fr.euronews.com/2023/11/19/finlande-la-communaute-russe-sinquiete-de-la-fermeture-de-plusieurs-postes-frontieres",
-			"pubDate": "Sun, 19 Nov 2023 11:35:05 GMT",
-			"image": "https://static.euronews.com/articles/stories/08/05/03/30/1000x563_cmsv2_24e10014-26ce-5199-9a08-556134fbb035-8050330.jpg",
+			"title": "En direct, guerre Isra\u00ebl-Hamas : la France pr\u00eate \u00e0 recevoir des enfants gazaouis bless\u00e9s dans ses h\u00f4pitaux \u00ab si cela est utile et n\u00e9cessaire \u00bb, selon Emmanuel Macron - Le Monde",
+			"link": "https://www.lemonde.fr/international/live/2023/11/20/en-direct-guerre-israel-hamas-le-point-sur-la-situation-a-la-mi-journee_6200413_3210.html",
+			"pubDate": "Sun, 19 Nov 2023 20:02:27 GMT",
+			"image": "https://img.lemde.fr/2023/11/20/720/0/8640/4320/1440/720/60/0/1586c16_fa586817f66048df837841349cc9d288-0-9ce717f6908744809ecaef6fc92893a8.jpg",
 			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "euronews",
-			"url": "https://fr.euronews.com/2023/11/19/finlande-la-communaute-russe-sinquiete-de-la-fermeture-de-plusieurs-postes-frontieres",
-			"description": "Face \u00e0 l\u2019afflux de migrants, Helsinki a d\u00e9cid\u00e9 de fermer quatre points de passages dans le sud-est du pays."
+			"site_name": "Le Monde.fr",
+			"url": "https://www.lemonde.fr/international/live/2023/11/20/en-direct-guerre-israel-hamas-le-point-sur-la-situation-a-la-mi-journee_6200413_3210.html",
+			"description": "Le mouvement chiite libanais, qui soutient le Hamas palestinien, a fait savoir dans un communiqu\u00e9 que ses combattants avaient pris pour cible, lundi, plusieurs sites isra\u00e9liens."
 		},
 		{
-			"title": "Le conducteur du train grille deux feux, rate un arr\u00eat puis descend et laisse ses passagers en plan - France Live",
-			"link": "https://www.francelive.fr/article/france-live/le-conducteur-du-train-grille-deux-feux-rate-un-arret-puis-descend-et-laisse-ses-passagers-en-plan-8279650/",
-			"pubDate": "Mon, 20 Nov 2023 10:05:00 GMT",
-			"image": "https://api.francelive.fr/resources/Jrb9CPou0YLx68fBAvHJ0QB4Cth6L6ad7U9Ya_e5CN6n2RACUlyM8tySDIMKdP6ZiaCnfnKkwmL6RpLR5AcKyhZjNXir85-i5opoMkBOF4M",
+			"title": "Oussama-Mania - Le billet de Sophia Aram - France Inter",
+			"link": "https://www.youtube.com/watch?v=y7RmsgY-Ibw",
+			"pubDate": "Mon, 20 Nov 2023 09:32:32 GMT",
+			"image": "https://i.ytimg.com/vi/y7RmsgY-Ibw/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGH8gISgqMA8=&rs=AOn4CLA2V8hg6Dw4RYeupEkIccq84H2Jxg",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "YouTube",
+			"url": "https://www.youtube.com/watch?v=y7RmsgY-Ibw",
+			"description": "22 ans apr\u00e8s l\u2019attentat du World Trade Center, la \u00ab Lettre \u00e0 l\u2019Am\u00e9rique \u00bb d\u2019Oussama Ben Laden fait un tel carton sur TikTok qu\u2019elle est entr\u00e9e dans les tenda..."
+		},
+		{
+			"title": "Des militaires australiens \u201cprobablement\u201d bless\u00e9s par un sonar de l'arm\u00e9e chinoise - Nouvelle-Cal\u00e9donie la 1\u00e8re - Outre-mer la 1\u00e8re",
+			"link": "https://la1ere.francetvinfo.fr/nouvellecaledonie/des-militaires-australiens-probablement-blesses-par-un-sonar-de-l-armee-chinoise-1444517.html",
+			"pubDate": "Sat, 18 Nov 2023 23:39:20 GMT",
+			"image": "https://la1ere.francetvinfo.fr/image/nkNeqbzORCT88MOfwto1M_WscPU/930x620/outremer/2023/11/19/348926602-634430514981653-3776494114056121827-n-65594a6e1bb63059533671.jpeg",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "Nouvelle-Cal\u00e9donie la 1\u00e8re",
+			"url": "https://la1ere.francetvinfo.fr/nouvellecaledonie/des-militaires-australiens-probablement-blesses-par-un-sonar-de-l-armee-chinoise-1444517.html",
+			"description": "Des plongeurs de la marine australienne ont \"probablement\" \u00e9t\u00e9 bless\u00e9s par des impulsions \u00e9mises par le sonar d'un navire de guerre chinois, a d\u00e9clar\u00e9 samedi le ministre australien de la D\u00e9fense, d\u00e9plorant une conduite \"dangereuse\" de P\u00e9kin en mer."
+		},
+		{
+			"title": "Donald Trump bient\u00f4t interdit de commenter son proc\u00e8s pour l'\u00e9lection de 2020 ? - FRANCE 24",
+			"link": "https://news.google.com/rss/articles/CBMipwFodHRwczovL3d3dy5mcmFuY2UyNC5jb20vZnIvYW0lQzMlQTlyaXF1ZXMvMjAyMzExMjAtJUMzJUE5dGF0cy11bmlzLWRvbmFsZC10cnVtcC1iaWVudCVDMyVCNHQtaW50ZXJkaXQtZGUtY29tbWVudGFpcmVzLXN1ci1zb24tcHJvYyVDMyVBOHMtcG91ci1sLSVDMyVBOWxlY3Rpb24tZGUtMjAyMNIBAA?oc=5",
+			"pubDate": "Mon, 20 Nov 2023 07:21:36 GMT",
+			"image": "https://picsum.photos/200/300?grayscale",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "",
+			"url": "",
+			"description": ""
+		},
+		{
+			"title": "Au Br\u00e9sil, une vague de chaleur \u00e9crase tout et surtout les plus pauvres - Le HuffPost",
+			"link": "https://www.huffingtonpost.fr/environnement/video/au-bresil-a-un-mois-de-l-ete-une-vague-de-chaleur-ecrase-tout-et-surtout-les-plus-pauvres_225964.html",
+			"pubDate": "Sun, 19 Nov 2023 17:50:08 GMT",
+			"image": "https://huffpost-focus.sirius.press/2023/11/19/0/0/1920/1080/1820/1023/75/0/07a3395_1700407546829-brei-sil-chaleur.jpg",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "Le HuffPost",
+			"url": "https://www.huffingtonpost.fr/environnement/video/au-bresil-a-un-mois-de-l-ete-une-vague-de-chaleur-ecrase-tout-et-surtout-les-plus-pauvres_225964.html",
+			"description": "\u00c0 Rio, la temp\u00e9rature ressentie approche les 60\u00a0degr\u00e9s. Cette chaleur \u00e9touffante exacerbe les in\u00e9galit\u00e9s entre les diff\u00e9rents quartiers."
+		},
+		{
+			"title": "Comment la Russie \u00e9tend son emprise sur la G\u00e9orgie - Le Monde",
+			"link": "https://www.lemonde.fr/international/article/2023/11/20/comment-la-russie-etend-petit-a-petit-son-emprise-sur-la-georgie_6201215_3210.html",
+			"pubDate": "Mon, 20 Nov 2023 04:30:14 GMT",
+			"image": "https://img.lemde.fr/2023/11/19/233/0/3500/2333/1440/960/60/0/cc9fbc6_1700418653518-jm-geo-eupath-026.JPG",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "Le Monde.fr",
+			"url": "https://www.lemonde.fr/international/article/2023/11/20/comment-la-russie-etend-petit-a-petit-son-emprise-sur-la-georgie_6201215_3210.html",
+			"description": "Depuis l\u2019invasion de l\u2019Ukraine, Moscou, soutenu par le gouvernement prorusse de Tbilissi, recourt \u00e0 tous les moyens pour emp\u00eacher cette autre ex-r\u00e9publique sovi\u00e9tique de se rapprocher de l\u2019Union europ\u00e9enne."
+		},
+		{
+			"title": "Tchad: l'opposant Succ\u00e8s Masra pr\u00f4ne le dialogue lors de son premier meeting depuis son retour - RFI",
+			"link": "https://news.google.com/rss/articles/CBMijgFodHRwczovL3d3dy5yZmkuZnIvZnIvYWZyaXF1ZS8yMDIzMTEyMC10Y2hhZC1sLW9wcG9zYW50LXN1Y2MlQzMlQThzLW1hc3JhLXByJUMzJUI0bmUtbGUtZGlhbG9ndWUtbG9ycy1kZS1zb24tcHJlbWllci1tZWV0aW5nLWRlcHVpcy1zb24tcmV0b3Vy0gEA?oc=5",
+			"pubDate": "Mon, 20 Nov 2023 02:00:12 GMT",
+			"image": "https://picsum.photos/200/300?grayscale",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "",
+			"url": "",
+			"description": ""
+		},
+		{
+			"title": "Un enfant de 10 ans sauvagement attaqu\u00e9 par un groupe de singes : le petit gar\u00e7on n'a pas surv\u00e9cu - France Live",
+			"link": "https://www.francelive.fr/article/france-live/un-enfant-de-10-ans-sauvagement-attaque-par-un-groupe-de-singes-le-petit-garcon-na-pas-survecu-8280167/",
+			"pubDate": "Mon, 20 Nov 2023 15:17:00 GMT",
+			"image": "https://api.francelive.fr/resources/Jrb9CPou0YLx68fBAvHJ0QB4Cth6L6ad7U9Ya_e5CN4kmMxRm_FJnci52ICGRspo8cvRZQeqKhm7wkNiD-LN0B-3i-gJ5kRnIGtme0UF-SA",
 			"logo": "https://picsum.photos/32/32?grayscale",
 			"site_name": "Francelive",
-			"url": "https://www.francelive.fr/article/france-live/le-conducteur-du-train-grille-deux-feux-rate-un-arret-puis-descend-et-laisse-ses-passagers-en-plan-8279650/",
-			"description": "[Francelive] Le conducteur d'un train reliant Tournai (Belgique) \u00e0 Bruxelles, a donn\u00e9 des sueurs froides \u00e0 ses passagers jeudi 16 novembre 2023. Vraisemblablement ivre, l'agent de la SNCB (l'\u00e9quivalent belge de la SNCF) a multipli\u00e9 les erreurs avant d'abandonner son poste et de laisser les voyageurs en plan. Une enqu\u00eate a \u00e9t\u00e9 ouverte.  "
+			"url": "https://www.francelive.fr/article/france-live/un-enfant-de-10-ans-sauvagement-attaque-par-un-groupe-de-singes-le-petit-garcon-na-pas-survecu-8280167/",
+			"description": "[Francelive] Un enfant de 10 ans a \u00e9t\u00e9 attaqu\u00e9 par un groupe de singes \u00e0 Salki (Inde), mardi 14 novembre 2023. Tr\u00e8s gri\u00e8vement bless\u00e9 \u00e0 l'abdomen, la jeune victime n'a pas surv\u00e9cu. Il s'agit l\u00e0 de la troisi\u00e8me attaque contre des hommes, en l'espace d'une semaine dans le m\u00eame village. "
 		},
 		{
-			"title": "Br\u00e9sil : le pays touch\u00e9 par une vague de chaleur extr\u00eame - franceinfo",
-			"link": "https://www.francetvinfo.fr/monde/bresil/bresil-le-pays-touche-par-une-vague-de-chaleur-extreme_6193977.html",
-			"pubDate": "Sun, 19 Nov 2023 21:04:17 GMT",
-			"image": "https://www.francetvinfo.fr/pictures/9qhF7QYXGnovyxE1jNJ-xtomKh8/1500x843/2023/11/19/bresil-chaleur-655a7827c7562136515999.png",
+			"title": "Guerre en Ukraine : La Russie place Jamala, gagnante de l\u2019Eurovision, sur la liste des \u00ab personnes\u2026 - 20 Minutes",
+			"link": "https://www.20minutes.fr/arts-stars/culture/4063194-20231120-guerre-ukraine-russie-place-jamala-gagnante-eurovision-liste-personnes-recherchees",
+			"pubDate": "Mon, 20 Nov 2023 15:10:30 GMT",
+			"image": "https://img.20mn.fr/NmW2J05ISXWtKahWehDDACk/1200x768_jamala-lors-du-concert-de-presentation-de-son-dernier-album-qirim-a-kiev-ukraine-le-5-mai-2023",
 			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "Franceinfo",
-			"url": "https://www.francetvinfo.fr/monde/bresil/bresil-le-pays-touche-par-une-vague-de-chaleur-extreme_6193977.html",
-			"description": "Le soleil br\u00fble dans le centre-est du Br\u00e9sil. Il y a eu jusqu\u2019\u00e0 59\u00b0C ressenti \u00e0 Rio de Janeiro, des incendies sont toujours en cours et la sensation d\u2019\u00e9touffement est quasiment permanente. Un concert de la chanteuse Taylor Swift a \u00e9t\u00e9 endeuill\u00e9 par la mort d\u2019une jeune femme."
-		},
-		{
-			"title": "DIRECT. Guerre entre Isra\u00ebl et le Hamas : le premier h\u00f4pital de campagne, venu de Jordanie, entre \u00e0 Gaza - franceinfo",
-			"link": "https://www.francetvinfo.fr/monde/proche-orient/israel-palestine/direct-guerre-entre-israel-et-le-hamas-une-catastrophe-humanitaire-se-deroule-a-gaza-selon-pekin_6195075.html",
-			"pubDate": "Mon, 20 Nov 2023 12:17:05 GMT",
-			"image": "https://www.francetvinfo.fr/pictures/1O4PB1RN2oAi7l5NwZ-vv1PeMso/1500x843/2023/11/20/000-34483fn-655b4be867d09634324843.jpg",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "Franceinfo",
-			"url": "https://www.francetvinfo.fr/monde/proche-orient/israel-palestine/direct-guerre-entre-israel-et-le-hamas-une-catastrophe-humanitaire-se-deroule-a-gaza-selon-pekin_6195075.html",
-			"description": "Quarante camions contenant les \u00e9quipements de cet h\u00f4pital et 17 soignants et techniciens jordaniens sont entr\u00e9s depuis l'Egypte par le terminal de Rafah, selon des responsables m\u00e9dicaux du territoire palestinien."
-		},
-		{
-			"title": "Guerre en Ukraine : grosse avanc\u00e9e de l'arm\u00e9e ukrainienne, Poutine au G20, 5 personnes bless\u00e9es... Le point sur la situation - Midi Libre",
-			"link": "https://www.midilibre.fr/2023/11/19/guerre-en-ukraine-grosse-avancee-de-larmee-ukrainienne-poutine-au-g20-5-personnes-blessees-le-point-sur-la-situation-11590100.php",
-			"pubDate": "Sun, 19 Nov 2023 20:24:00 GMT",
-			"image": "https://images.midilibre.fr/api/v1/images/view/655a564b0b9a5a30e2679a2c/large/image.jpg?v=1",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "midilibre.fr",
-			"url": "https://www.midilibre.fr/2023/11/19/guerre-en-ukraine-grosse-avancee-de-larmee-ukrainienne-poutine-au-g20-5-personnes-blessees-le-point-sur-la-situation-11590100.php",
-			"description": "L'Ukraine assure ce dimanche 19 novembre, avoir repouss\u00e9 l'arm\u00e9e russe de 3 \u00e0 8 km en profondeur sur la rive gauche du Dniepr.\u00a0"
-		},
-		{
-			"title": "Guerre Isra\u00ebl-Hamas : 13 000 morts selon le Hamas, un tunnel sous Al-Chifa... Le bilan du 44e jour - La Croix",
-			"link": "https://www.la-croix.com/international/guerre-israel-hamas-jour-44-attaque-bande-gaza-otages-liban-resume-2023-11-19-1201291376",
-			"pubDate": "Sun, 19 Nov 2023 11:34:02 GMT",
-			"image": "https://i.la-croix.com/1400x933/smart/2023/11/19/1201291376/ap23305737087544_0.jpg",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "La Croix",
-			"url": "https://www.la-croix.com/international/guerre-israel-hamas-jour-44-attaque-bande-gaza-otages-liban-resume-2023-11-19-1201291376",
-			"description": "Volker T\u00fcrk, Haut-Commissaire de l\u2019ONU aux droits de l\u2019homme, a qualifi\u00e9 \u00ab\u00a0d\u2019horribles\u00a0\u00bb et de \u00ab\u00a0d\u00e9passant l\u2019entendement\u00a0\u00bb les \u00e9v\u00e9nements survenus \u00e0 Gaza ces derni\u00e8res 48\u00a0heures. Le premier ministre qatari a d\u00e9clar\u00e9 que la conclusion d\u2019un accord sur la lib\u00e9ration des otages enlev\u00e9s le 7\u00a0octobre reposait sur des questions pratiques \u00ab\u00a0mineures\u00a0\u00bb."
-		},
-		{
-			"title": "En Inde, un nouvel espoir pour les 41 ouvriers pris au pi\u00e8ge dans un tunnel - Lib\u00e9ration",
-			"link": "https://news.google.com/rss/articles/CBMipgFodHRwczovL3d3dy5saWJlcmF0aW9uLmZyL2ludGVybmF0aW9uYWwvYXNpZS1wYWNpZmlxdWUvZW4taW5kZS11bi1ub3V2ZWwtZXNwb2lyLXBvdXItbGVzLTQxLW91dnJpZXJzLXByaXMtYXUtcGllZ2UtZGFucy11bi10dW5uZWwtMjAyMzExMTlfVzNMVEdBTjJYVkEyQkE2UDJINjM1NU1YUUUv0gEA?oc=5",
-			"pubDate": "Sun, 19 Nov 2023 14:33:07 GMT",
-			"image": "https://www.liberation.fr/resizer/Yleoy81wP2WemMlVbYcSHN0C2U0=/1200x630/filters:format(jpg):quality(70):focal(1851x1362:1861x1372)/cloudfront-eu-central-1.images.arcpublishing.com/liberation/GFG7CLYMRVE57KXM4GE4JX3G4Q.jpg",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "Lib\u00e9ration",
-			"url": "",
-			"description": ""
-		},
-		{
-			"title": "Guerre entre Isra\u00ebl et le Hamas : quelles sont les conditions pos\u00e9es pour une pause dans les combats et des couloirs humanitaires ? - franceinfo",
-			"link": "https://www.francetvinfo.fr/monde/proche-orient/israel-palestine/guerre-entre-israel-et-le-hamas-quelles-sont-les-conditions-posees-pour-une-pause-dans-les-combats-et-des-couloirs-humanitaires_6191757.html",
-			"pubDate": "Sat, 18 Nov 2023 17:49:21 GMT",
-			"image": "https://www.francetvinfo.fr/pictures/86APuQ0TkRSbk_ckyJBDPvjLlfk/1500x843/2023/11/18/000-343y7z9-6558e8f2142f5689786153.jpg",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "Franceinfo",
-			"url": "https://www.francetvinfo.fr/monde/proche-orient/israel-palestine/guerre-entre-israel-et-le-hamas-quelles-sont-les-conditions-posees-pour-une-pause-dans-les-combats-et-des-couloirs-humanitaires_6191757.html",
-			"description": "Isra\u00ebl mart\u00e8le qu'aucun cessez-le-feu n'est envisageable avant la lib\u00e9ration des otages par le Hamas. Les appels de la communaut\u00e9 internationale tournent principalement autour de \"pauses humanitaires\", sans r\u00e9sultats concrets pour le moment."
-		},
-		{
-			"title": "L'Union europ\u00e9enne tent\u00e9e par l'externalisation de la gestion de l'immigration - Le Monde",
-			"link": "https://www.lemonde.fr/international/article/2023/11/20/l-union-europeenne-tentee-par-l-externalisation-de-la-gestion-de-l-immigration_6201223_3210.html",
-			"pubDate": "Mon, 20 Nov 2023 05:00:20 GMT",
-			"image": "https://img.lemde.fr/2023/08/10/0/0/3241/2161/1440/960/60/0/cec24d2_5981720-01-06.jpg",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "Le Monde.fr",
-			"url": "https://www.lemonde.fr/international/article/2023/11/20/l-union-europeenne-tentee-par-l-externalisation-de-la-gestion-de-l-immigration_6201223_3210.html",
-			"description": "ANALYSE. L\u2019UE voudrait stopper \u00e0 sa p\u00e9riph\u00e9rie les migrants d\u00e9sireux de demander l\u2019asile, voire renvoyer vers un Etat tiers l\u2019examen de leur situation."
-		},
-		{
-			"title": "S\u00e9bastien Lecornu, ministre des Arm\u00e9es, au JDD : \u00ab La r\u00e9gion est inqui\u00e8te, nous devons l'\u00eatre aussi ! \u00bb - Le Journal du dimanche",
-			"link": "https://news.google.com/rss/articles/CBMigQFodHRwczovL3d3dy5sZWpkZC5mci9wb2xpdGlxdWUvc2ViYXN0aWVuLWxlY29ybnUtbWluaXN0cmUtZGVzLWFybWVlcy1hdS1qZGQtbGEtcmVnaW9uLWVzdC1pbnF1aWV0ZS1ub3VzLWRldm9ucy1sZXRyZS1hdXNzaS0xMzk3MzLSAQA?oc=5",
-			"pubDate": "Sun, 19 Nov 2023 06:31:08 GMT",
-			"image": "https://www.lejdd.fr/lmnr/var/jdd/public/media/image/2023/11/19/01/s-lecornu-cdicod.jpg?VersionId=UbVhHHbVO.PNZHjycudo3pZUTlCaSPCX",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "",
-			"url": "",
-			"description": ""
-		},
-		{
-			"title": "\u00ab Pakistan, notre meilleur ennemi \u00bb, sur France 5 : le \u00ab pays des purs \u00bb et du double jeu - Le Monde",
-			"link": "https://www.lemonde.fr/culture/article/2023/11/19/pakistan-notre-meilleur-ennemi-sur-france-5-le-pays-des-purs-et-du-double-jeu_6201124_3246.html",
-			"pubDate": "Sun, 19 Nov 2023 18:00:15 GMT",
-			"image": "https://img.lemde.fr/2023/11/16/0/150/1620/1080/1440/960/60/0/81c19f6_1700148551048-pakistan2cnotremeilleurennemi.jpg",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "Le Monde.fr",
-			"url": "https://www.lemonde.fr/culture/article/2023/11/19/pakistan-notre-meilleur-ennemi-sur-france-5-le-pays-des-purs-et-du-double-jeu_6201124_3246.html",
-			"description": "N\u00e9e en\u00a01947 de la partition de l\u2019empire des Indes, la premi\u00e8re r\u00e9publique islamique joue depuis soixante-quinze\u00a0ans un r\u00f4le \u00e0 double tranchant dans le destin de l\u2019Occident."
-		},
-		{
-			"title": "Le week-end marqu\u00e9 par une escalade des combats entre Isra\u00ebl et le Hezbollah - L'Orient-Le Jour",
-			"link": "https://news.google.com/rss/articles/CBMif2h0dHBzOi8vd3d3LmxvcmllbnRsZWpvdXIuY29tL2FydGljbGUvMTM1Nzk3My9sZS13ZWVrLWVuZC1tYXJxdWUtcGFyLXVuZS1lc2NhbGFkZS1kZXMtY29tYmF0cy1lbnRyZS1pc3JhZWwtZXQtbGUtaGV6Ym9sbGFoLmh0bWzSAQA?oc=5",
-			"pubDate": "Sun, 19 Nov 2023 22:01:39 GMT",
-			"image": "https://picsum.photos/200/300?grayscale",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "",
-			"url": "",
-			"description": ""
-		},
-		{
-			"title": "Face aux effets de la guerre, le sentiment anti-ukrainien gagne du terrain en Pologne - Reportage international - RFI",
-			"link": "https://news.google.com/rss/articles/CBMilAFodHRwczovL3d3dy5yZmkuZnIvZnIvcG9kY2FzdHMvcmVwb3J0YWdlLWludGVybmF0aW9uYWwvMjAyMzExMTktZmFjZS1hdXgtZWZmZXRzLWRlLWxhLWd1ZXJyZS1sZS1zZW50aW1lbnQtYW50aS11a3JhaW5pZW4tZ2FnbmUtZHUtdGVycmFpbi1lbi1wb2xvZ25l0gEA?oc=5",
-			"pubDate": "Sun, 19 Nov 2023 23:09:00 GMT",
-			"image": "https://picsum.photos/200/300?grayscale",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "",
-			"url": "",
-			"description": ""
+			"site_name": "www.20minutes.fr",
+			"url": "https://www.20minutes.fr/arts-stars/culture/4063194-20231120-guerre-ukraine-russie-place-jamala-gagnante-eurovision-liste-personnes-recherchees",
+			"description": "Selon les sites Politico, qui cite ce lundi des agences de presse russes, et Mediazona, l\u2019artiste ukrainienne de 40 ans a \u00e9t\u00e9 plac\u00e9e en octobre, par la Russie, sur la liste des \u00ab\u00a0personnes recherch\u00e9es\u00a0\u00bb et condamn\u00e9e par contumace en novembre"
 		},
 		{
 			"title": "Apr\u00e8s des mois d'exil forc\u00e9 en Russie, le soulagement d'un jeune orphelin ukrainien - TF1 INFO",
@@ -461,14 +491,74 @@
 			"description": "[VID\u00c9O] - Le jeune Bogdan Yermokhin a retrouv\u00e9 le sol ukrainien ce dimanche. \nCet orphelin avait \u00e9t\u00e9 envoy\u00e9 de force en Russie au printemps 2022 apr\u00e8s le si\u00e8ge de Marioupol. \nApr\u00e8s l'\u00e9chec de sa premi\u00e8re fuite, il avait re\u00e7u sa convocation pour l'arm\u00e9e."
 		},
 		{
-			"title": "Mali : l'arm\u00e9e annonce avoir d\u00e9couvert \u00ab un charnier \u00bb \u00e0 Kidal - Le Parisien",
-			"link": "https://www.leparisien.fr/international/mali-larmee-annonce-avoir-decouvert-un-charnier-a-kidal-19-11-2023-6J6VHSO5IBCS5IB5AKW6DXU3EI.php",
-			"pubDate": "Sun, 19 Nov 2023 10:16:00 GMT",
-			"image": "https://www.leparisien.fr/resizer/qgeg7IUk9aOQ9YAmDDNgspl1lNI=/1200x675/cloudfront-eu-central-1.images.arcpublishing.com/leparisien/VQG75POI6JHJNB5K3BEG6OJDEU.jpg",
+			"title": "L'Ukraine \"\u00e0 des ann\u00e9es-lumi\u00e8re\" de l'adh\u00e9sion \u00e0 l'UE, selon Viktor Orban - Euronews",
+			"link": "https://fr.euronews.com/2023/11/19/lukraine-a-des-annees-lumiere-de-ladhesion-a-lue-selon-viktor-orban",
+			"pubDate": "Sun, 19 Nov 2023 08:05:01 GMT",
+			"image": "https://static.euronews.com/articles/stories/08/05/03/56/1000x563_cmsv2_d160d2ba-8a80-5deb-9f3e-6f49345d50fa-8050356.jpg",
 			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "leparisien.fr",
-			"url": "https://www.leparisien.fr/international/mali-larmee-annonce-avoir-decouvert-un-charnier-a-kidal-19-11-2023-6J6VHSO5IBCS5IB5AKW6DXU3EI.php",
-			"description": "\u00ab\u00a0Ce charnier rappelle les atrocit\u00e9s commises par les terroristes sans foi ni loi\u00a0\u00bb, ajoute l\u2019arm\u00e9e sans donner davantage de pr\u00e9cisions."
+			"site_name": "euronews",
+			"url": "https://fr.euronews.com/2023/11/19/lukraine-a-des-annees-lumiere-de-ladhesion-a-lue-selon-viktor-orban",
+			"description": "Le Premier ministre hongrois a annonc\u00e9 faire du blocage de l\u2019adh\u00e9sion de l\u2019Ukraine \u00e0 l\u2019Union europ\u00e9enne une priorit\u00e9."
+		},
+		{
+			"title": "A Zurich, la cinglante d\u00e9faite du camp bourgeois - Le Temps",
+			"link": "https://news.google.com/rss/articles/CBMiX2h0dHBzOi8vd3d3LmxldGVtcHMuY2gvc3Vpc3NlL3N1aXNzZS1hbGVtYW5pcXVlL2EtenVyaWNoLWxhLWNpbmdsYW50ZS1kZWZhaXRlLWR1LWNhbXAtYm91cmdlb2lz0gEA?oc=5",
+			"pubDate": "Sun, 19 Nov 2023 13:05:19 GMT",
+			"image": "https://letemps-17455.kxcdn.com/photos/dade2f10-29bc-437a-b881-fe911b47fdae/medium",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "",
+			"url": "",
+			"description": ""
+		},
+		{
+			"title": "S\u00e9bastien Lecornu, ministre des Arm\u00e9es, au JDD : \u00ab La r\u00e9gion est inqui\u00e8te, nous devons l'\u00eatre aussi ! \u00bb - Le Journal du dimanche",
+			"link": "https://news.google.com/rss/articles/CBMigQFodHRwczovL3d3dy5sZWpkZC5mci9wb2xpdGlxdWUvc2ViYXN0aWVuLWxlY29ybnUtbWluaXN0cmUtZGVzLWFybWVlcy1hdS1qZGQtbGEtcmVnaW9uLWVzdC1pbnF1aWV0ZS1ub3VzLWRldm9ucy1sZXRyZS1hdXNzaS0xMzk3MzLSAQA?oc=5",
+			"pubDate": "Sun, 19 Nov 2023 06:31:08 GMT",
+			"image": "https://www.lejdd.fr/lmnr/var/jdd/public/media/image/2023/11/19/01/s-lecornu-cdicod.jpg?VersionId=UbVhHHbVO.PNZHjycudo3pZUTlCaSPCX",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "",
+			"url": "",
+			"description": ""
+		},
+		{
+			"title": "EN DIRECT - Guerre en Ukraine : le Pentagone assure Zelensky d'un soutien am\u00e9ricain \"pour longtemps\" - TF1 INFO",
+			"link": "https://www.tf1info.fr/international/guerre-ukraine-russie-en-direct-bataille-du-dniepr-poutine-zelensky-les-dernieres-infos-aujourd-hui-lundi-20-novembre-2023-2276743.html",
+			"pubDate": "Mon, 20 Nov 2023 14:27:52 GMT",
+			"image": "https://photos.tf1info.fr/images/1280/720/char-abrams-864541-0@1x.jpeg?overlayImage=bG9nby10ZjFpbmZvLnBuZw==&overlayWidth=18&overlayGravity=northwest&s=951bcb",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "TF1 INFO",
+			"url": "https://www.tf1info.fr/international/guerre-ukraine-russie-en-direct-bataille-du-dniepr-poutine-zelensky-les-dernieres-infos-aujourd-hui-lundi-20-novembre-2023-2276743.html",
+			"description": "[VID\u00c9O] - En visite surprise \u00e0 Kiev, le secr\u00e9taire am\u00e9ricain \u00e0 la D\u00e9fense, Lloyd Austin, affirme ce lundi que le soutien des \u00c9tats-Unis \u00e0 l'Ukraine pour faire face \u00e0 la Russie s'inscrit dans la dur\u00e9e.\nUn \"signal tr\u00e8s important\", salue le pr\u00e9sident ukrainien Volodymyr Zelensky.\nSuivez les derni\u00e8res informations en direct.  "
+		},
+		{
+			"title": "\"Il faut r\u00e9gler la question palestinienne\" : Juifs et Arabes isra\u00e9liens de plus en plus divis\u00e9s - franceinfo",
+			"link": "https://www.francetvinfo.fr/monde/proche-orient/israel-palestine/il-faut-regler-la-question-palestinienne-juifs-et-arabes-israeliens-de-plus-en-plus-divises_6195297.html",
+			"pubDate": "Mon, 20 Nov 2023 11:52:53 GMT",
+			"image": "https://www.francetvinfo.fr/pictures/wmzk6ag-t9J7t-cgVyOz7NSibgE/1500x843/2023/11/20/haifa-655b3ce675b3e902179860.jpg",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "Franceinfo",
+			"url": "https://www.francetvinfo.fr/monde/proche-orient/israel-palestine/il-faut-regler-la-question-palestinienne-juifs-et-arabes-israeliens-de-plus-en-plus-divises_6195297.html",
+			"description": "Crise de guerre, crise humanitaire\u2026 Et bient\u00f4t crise politique en Isra\u00ebl\u00a0? Depuis les attaques massives du Hamas d\u00e9but octobre, le foss\u00e9 entre Arabes et Juifs isra\u00e9liens ne fait que s'accentuer."
+		},
+		{
+			"title": "Mali : l'arm\u00e9e annonce avoir d\u00e9couvert \u00abun charnier\u00bb \u00e0 Kidal - Le Figaro",
+			"link": "https://www.lefigaro.fr/international/mali-l-armee-annonce-avoir-decouvert-un-charnier-a-kidal-20231119",
+			"pubDate": "Sun, 19 Nov 2023 08:52:40 GMT",
+			"image": "https://i.f1g.fr/media/cms/1200x630_crop/2023/11/19/b169c6147b84dd1ebf10c4944a2c2a99d1c8b41dd1ac80a3ca28e80dd3669eb6.jpg",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "Le Figaro",
+			"url": "https://www.lefigaro.fr/international/mali-l-armee-annonce-avoir-decouvert-un-charnier-a-kidal-20231119",
+			"description": "L'arm\u00e9e malienne a annonc\u00e9 avoir d\u00e9couvert cette semaine \u00abun charnier\u00bb \u00e0 Kidal (nord-est), une ville-bastion des s\u00e9paratistes touareg qu'elle a..."
+		},
+		{
+			"title": "Les finances portugaises se portent \u00e0 merveille, Moody\u2019s rel\u00e8ve fortement sa note - La Tribune.fr",
+			"link": "https://www.latribune.fr/economie/union-europeenne/les-finances-portugaises-se-portent-a-merveille-moody-s-releve-fortement-sa-note-983661.html",
+			"pubDate": "Mon, 20 Nov 2023 10:26:00 GMT",
+			"image": "https://static.latribune.fr/full_width/2144693/importantes-hausses-d-impots-au-portugal.jpg",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "La Tribune",
+			"url": "https://www.latribune.fr/economie/union-europeenne/les-finances-portugaises-se-portent-a-merveille-moody-s-releve-fortement-sa-note-983661.html",
+			"description": "L'agence de notation a relev\u00e9 la note de la dette portugaise de Baa2 \u00e0 A3 vendredi. Un rel\u00e8vement de 2 crans qui montre le retour en force de l\u2019\u00e9conomie portugaise apr\u00e8s plusieurs ann\u00e9es de crise. Moody's pointe n\u00e9anmoins, les risques que pourrait faire peser la situation politique du pays, apr\u00e8s la d\u00e9mission surprise du Premier ministre, Antonio Costa."
 		},
 		{
 			"title": "L'\u00e9conomie isra\u00e9lienne encaisse le choc d'un conflit sans pr\u00e9c\u00e9dent - BFM Business",
@@ -481,6 +571,36 @@
 			"description": "Au-del\u00e0 des plus de 360.000 r\u00e9servistes mobilis\u00e9s selon des chiffres officiels, au moins 125.000 Isra\u00e9liens ont \u00e9t\u00e9 contraints de quitter leurs domiciles dans le sud d'Isra\u00ebl, ou au nord, \u00e0 la fronti\u00e8re avec le Liban."
 		},
 		{
+			"title": "Isra\u00ebl : La mort en h\u00e9ros d\u2019un soldat gay a fait changer la loi - 20 Minutes",
+			"link": "https://www.20minutes.fr/monde/israel/4063168-20231120-israel-mort-heros-soldat-gay-fait-changer-loi",
+			"pubDate": "Mon, 20 Nov 2023 15:05:32 GMT",
+			"image": "https://img.20mn.fr/133Vxx8DSA2TqlMZf-S9Cik/1200x768_an-undated-handout-picture-provided-on-november-19-2023-by-omer-ohana-r-partner-of-israeli-army-captain-sagi-golan-l-who-was-killed-in-the-october-7-attack-by-palestinian-hamas-militants-shows-them-during-a-protest-in-tel-aviv-ohana-s-partner-a-special-forces-military-reservist-was-killed-in-the-october-7-attack-just-two-weeks-before-their-planned-marriage-which-is-not-officially-recognised-in-israel-since-the-tragedy-ohana-has-won-the-same-rights-for-widowers-of-gay-soldiers-as-married-couples-have-photo-by-omer-ohana-afp-restricted-to-editorial-use-mandatory-credit-afp-photo-omer-ohana-no-marketing-no-advertising-campaigns-distributed-as-a-service-to-clients",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "www.20minutes.fr",
+			"url": "https://www.20minutes.fr/monde/israel/4063168-20231120-israel-mort-heros-soldat-gay-fait-changer-loi",
+			"description": "Le partenaire d\u2019un soldat isra\u00e9lien tu\u00e9 le 7 novembre a r\u00e9ussi \u00e0 obtenir, pour les concubins de combattants homosexuels d\u00e9c\u00e9d\u00e9s, les m\u00eames droits que les couples mari\u00e9s"
+		},
+		{
+			"title": "\u00ab Pakistan, notre meilleur ennemi \u00bb, sur France 5 : le \u00ab pays des purs \u00bb et du double jeu - Le Monde",
+			"link": "https://www.lemonde.fr/culture/article/2023/11/19/pakistan-notre-meilleur-ennemi-sur-france-5-le-pays-des-purs-et-du-double-jeu_6201124_3246.html",
+			"pubDate": "Sun, 19 Nov 2023 18:00:15 GMT",
+			"image": "https://img.lemde.fr/2023/11/16/0/150/1620/1080/1440/960/60/0/81c19f6_1700148551048-pakistan2cnotremeilleurennemi.jpg",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "Le Monde.fr",
+			"url": "https://www.lemonde.fr/culture/article/2023/11/19/pakistan-notre-meilleur-ennemi-sur-france-5-le-pays-des-purs-et-du-double-jeu_6201124_3246.html",
+			"description": "N\u00e9e en\u00a01947 de la partition de l\u2019empire des Indes, la premi\u00e8re r\u00e9publique islamique joue depuis soixante-quinze\u00a0ans un r\u00f4le \u00e0 double tranchant dans le destin de l\u2019Occident."
+		},
+		{
+			"title": "Catherine Draveil, ancienne religieuse : \u201c\u00c0 22 ans, je suis rentr\u00e9e dans un monast\u00e8re clo\u00eetr\u00e9, j\u2019en suis sortie 40 ans plus tard\u201d - Yahoo Actualit\u00e9s",
+			"link": "https://fr.news.yahoo.com/catherine-draveil-ancienne-religieuse--a-22-ans-je-suis-rentree-dans-un-monastere-cloitre-jen-suis-sortie-40-ans-plus-tard-090357208.html",
+			"pubDate": "Mon, 20 Nov 2023 09:03:57 GMT",
+			"image": "https://s.yimg.com/ny/api/res/1.2/I2KISiSQXG6Y3G3D.W2m4w--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD05MDA-/https://s.yimg.com/os/creatr-uploaded-images/2023-11/858f2110-8774-11ee-8eb5-be185c01004d",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "Yahoo News",
+			"url": "https://fr.news.yahoo.com/catherine-draveil-ancienne-religieuse--a-22-ans-je-suis-rentree-dans-un-monastere-cloitre-jen-suis-sortie-40-ans-plus-tard-090357208.html",
+			"description": "\u201cIl n\u2019y a pas d\u2019\u00e2ge pour apprendre \u00e0 vivre\u201d. Nonne pendant 40 ans, Catherine Draveil s\u2019est lib\u00e9r\u00e9e de cette emprise il y a peu. Aujourd\u2019hui, elle a d\u00e9cid\u00e9 de croquer la vie \u00e0 pleines dents et de r\u00e9aliser toutes ses premi\u00e8res fois, \u00e0 60 ans pass\u00e9s. Pour Yahoo, elle a accept\u00e9 de se livrer sur son histoire, revenant notamment sur son \u00e9ducation, sur sa vie dans le monast\u00e8re mais aussi sur sa lib\u00e9ration. Un t\u00e9moignage poignant."
+		},
+		{
 			"title": "Henry Laurens : \u00ab On est sur la voie d'un processus de destruction de masse \u00bb \u00e0 Gaza - Mediapart",
 			"link": "https://www.mediapart.fr/journal/international/191123/henry-laurens-est-sur-la-voie-d-un-processus-de-destruction-de-masse-gaza",
 			"pubDate": "Sun, 19 Nov 2023 17:32:53 GMT",
@@ -491,34 +611,34 @@
 			"description": "Pour l\u2019historien, sp\u00e9cialiste de la Palestine, professeur au coll\u00e8ge de France, \u00ab\u00a0l\u2019effondrement des conditions sanitaires et l\u2019absence de ravitaillement \u00e0 destination des populations concern\u00e9es peuv\u2026"
 		},
 		{
-			"title": "A Zurich, la cinglante d\u00e9faite du camp bourgeois - Le Temps",
-			"link": "https://news.google.com/rss/articles/CBMiX2h0dHBzOi8vd3d3LmxldGVtcHMuY2gvc3Vpc3NlL3N1aXNzZS1hbGVtYW5pcXVlL2EtenVyaWNoLWxhLWNpbmdsYW50ZS1kZWZhaXRlLWR1LWNhbXAtYm91cmdlb2lz0gEA?oc=5",
-			"pubDate": "Sun, 19 Nov 2023 13:03:52 GMT",
-			"image": "https://letemps-17455.kxcdn.com/photos/dade2f10-29bc-437a-b881-fe911b47fdae/medium",
+			"title": "\u00c0 J\u00e9rusalem, les \u00c9glises chr\u00e9tiennes au secours des Arm\u00e9niens menac\u00e9s d'expulsion - La Croix",
+			"link": "https://www.la-croix.com/religion/A-Jerusalem-Eglises-chretiennes-secours-Armeniens-menaces-dexpulsion-2023-11-19-1201291377",
+			"pubDate": "Sun, 19 Nov 2023 11:44:41 GMT",
+			"image": "https://i.la-croix.com/1400x933/smart/2023/11/19/1201291377/ap23157617350324_0.jpg",
 			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "",
-			"url": "",
-			"description": ""
+			"site_name": "La Croix",
+			"url": "https://www.la-croix.com/religion/A-Jerusalem-Eglises-chretiennes-secours-Armeniens-menaces-dexpulsion-2023-11-19-1201291377",
+			"description": "Les chefs des \u00c9glises chr\u00e9tiennes de Terre sainte ont manifest\u00e9, samedi 18\u00a0novembre, leur solidarit\u00e9 avec le Patriarcat arm\u00e9nien \u00e0 J\u00e9rusalem. Ces derniers jours, la communaut\u00e9 fait face \u00e0 l\u2019arriv\u00e9e de colons qui tentent de mettre la main sur une grande partie du quartier poss\u00e9d\u00e9 par l\u2019\u00c9glise arm\u00e9nienne."
 		},
 		{
-			"title": "Iran : Le rappeur Toomaj Salehi lib\u00e9r\u00e9 apr\u00e8s un an de prison pour son soutien aux contestations - 20 Minutes",
-			"link": "https://www.20minutes.fr/monde/4063023-20231119-iran-rappeur-toomaj-salehi-libere-apres-an-prison-soutien-contestations",
-			"pubDate": "Sun, 19 Nov 2023 16:35:40 GMT",
-			"image": "https://img.20mn.fr/yPz-rPNESEeSjf9jCjrOeCk/1200x768_a-berlin-en-novembre-2022-environ-200-personnes-avaient-manifeste-pour-protester-contre-l-arrestation-du-rappeur-iranien-toomaj-salehi",
+			"title": "Ces pays qui veulent \"exporter\" leurs demandeurs d'asile : les inform\u00e9s de l'Europe du 19 novembre - franceinfo",
+			"link": "https://www.francetvinfo.fr/replay-radio/les-informes-de-l-europe/ces-pays-qui-veulent-exporter-leurs-demandeurs-d-asile-les-informes-de-l-europe-du-19-novembre_6163893.html",
+			"pubDate": "Sun, 19 Nov 2023 09:07:14 GMT",
+			"image": "https://www.francetvinfo.fr/pictures/ITAOC-P24MnMG05b5ZzkjWZ1Xb4/1500x843/2023/11/19/hotsp-6559cb50b7e46549449488.jpg",
 			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "www.20minutes.fr",
-			"url": "https://www.20minutes.fr/monde/4063023-20231119-iran-rappeur-toomaj-salehi-libere-apres-an-prison-soutien-contestations",
-			"description": "L'artiste avait soutenu dans ses chansons le mouvement de contestation li\u00e9 \u00e0 la mort de Mahsa Amini en septembre 2022"
+			"site_name": "Franceinfo",
+			"url": "https://www.francetvinfo.fr/replay-radio/les-informes-de-l-europe/ces-pays-qui-veulent-exporter-leurs-demandeurs-d-asile-les-informes-de-l-europe-du-19-novembre_6163893.html",
+			"description": "Chaque dimanche, un tour d'horizon de l'actualit\u00e9 europ\u00e9enne avec Fran\u00e7ois Beaudonnet, r\u00e9dacteur en chef de la r\u00e9daction europ\u00e9enne de France T\u00e9l\u00e9visions, et nos invit\u00e9s."
 		},
 		{
-			"title": "Netanyahou ne veut pas du retour de l\u2019Autorit\u00e9 palestinienne \u00e0 Gaza et l\u2019accuse de \u00ab nier le massacre \u00bb du festival - Le Parisien",
-			"link": "https://www.leparisien.fr/international/israel/netanyahou-ne-veut-pas-du-retour-de-lautorite-palestinienne-a-gaza-et-laccuse-de-nier-le-massacre-du-festival-19-11-2023-5MOIJ67MMZGJJPZDQU7Z7YKZW4.php",
-			"pubDate": "Sun, 19 Nov 2023 19:39:00 GMT",
-			"image": "https://www.leparisien.fr/resizer/m8Dy0YHGtHYM4wu8sxb5ttgLT3c=/1200x675/cloudfront-eu-central-1.images.arcpublishing.com/leparisien/72OOVGTXHZDFJHD7K666QI6ENA.jpg",
+			"title": "EN DIRECT - Conflit Isra\u00ebl-Hamas: le monde doit \u0153uvrer pour mettre fin \u00e0 \u00abla catastrophe humanitaire\u00bb, alerte la Chine - Le Figaro",
+			"link": "https://www.lefigaro.fr/international/en-direct-conflit-israel-hamas-poursuite-des-combats-sur-fond-de-pourparlers-pour-liberer-les-otages-20231120",
+			"pubDate": "Mon, 20 Nov 2023 05:55:00 GMT",
+			"image": "https://i.f1g.fr/media/cms/1200x630_crop/2023/11/20/b45aafffd9b86031d8093e81bc64c4eab075cab466021a1827fd6c9b026e3c95.jpg",
 			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "leparisien.fr",
-			"url": "https://www.leparisien.fr/international/israel/netanyahou-ne-veut-pas-du-retour-de-lautorite-palestinienne-a-gaza-et-laccuse-de-nier-le-massacre-du-festival-19-11-2023-5MOIJ67MMZGJJPZDQU7Z7YKZW4.php",
-			"description": "Le pr\u00e9sident am\u00e9ricain Joe Biden a plaid\u00e9 samedi pour une r\u00e9unification de Gaza et de la Cisjordanie apr\u00e8s la guerre, sous la gouvernance d\u2019"
+			"site_name": "Le Figaro",
+			"url": "https://www.lefigaro.fr/international/en-direct-conflit-israel-hamas-poursuite-des-combats-sur-fond-de-pourparlers-pour-liberer-les-otages-20231120",
+			"description": "Le r\u00e9tablissement de la paix passe par \u00abune Autorit\u00e9 palestinienne renforc\u00e9e, endossant les responsabilit\u00e9s \u00e0 Gaza\u00bb, a affirm\u00e9 le secr\u00e9taire g\u00e9n\u00e9ral des Nations unies."
 		},
 		{
 			"title": "\"Un r\u00e9el coup dur pour la junte\" : en Birmanie, une offensive in\u00e9dite de la r\u00e9sistance - FRANCE 24",
@@ -531,14 +651,14 @@
 			"description": ""
 		},
 		{
-			"title": "Alerte : une centaine de scientifiques sonnent l'alarme ! La sant\u00e9 est menac\u00e9e par le changement climatique ! - Tameteo.com",
-			"link": "https://www.tameteo.com/actualites/science/une-centaine-de-scientifiques-sonnent-l-alarme-la-sante-est-menacee-par-le-changement-climatique-drame-catastrophe.html",
-			"pubDate": "Sun, 19 Nov 2023 10:00:00 GMT",
-			"image": "https://services.meteored.com/img/article/une-centaine-de-scientifiques-sonnent-l-alarme-la-sante-est-menacee-par-le-changement-climatique-1700149890501_1280.jpeg",
+			"title": "Commission europ\u00e9enne : Retrait de la commissaire aux Partenariats internationaux pour briguer la t\u00eate de la\u2026 - 20 Minutes",
+			"link": "https://www.20minutes.fr/monde/finlande/4063048-20231120-commission-europeenne-retrait-commissaire-partenariats-internationaux-briguer-tete-finlande",
+			"pubDate": "Mon, 20 Nov 2023 00:42:03 GMT",
+			"image": "https://img.20mn.fr/lLyIbATBTEysAT2Sd4gmjSk/1200x768_european-commissioner-for-international-partnerships-jutta-urpilainen-speaks-during-a-video-press-conference-on-the-eu-s-multi-annual-financial-framework-at-eu-headquarters-in-brussels-tuesday-june-2-2020-olivier-hoslet-pool-photo-via-ap-vlm109-20154402163409-pool-photo-via-ap-2006021307",
 			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "Tameteo.com | Meteored",
-			"url": "https://www.tameteo.com/actualites/science/une-centaine-de-scientifiques-sonnent-l-alarme-la-sante-est-menacee-par-le-changement-climatique-drame-catastrophe.html",
-			"description": "Une centaine de scientifiques sonnent l'alarme : la sant\u00e9 est menac\u00e9e par le changement climatique ! L'inaction persistante induit des co\u00fbts humains. "
+			"site_name": "www.20minutes.fr",
+			"url": "https://www.20minutes.fr/monde/finlande/4063048-20231120-commission-europeenne-retrait-commissaire-partenariats-internationaux-briguer-tete-finlande",
+			"description": "Jutta Urpilainen prend un \u00ab\u00a0cong\u00e9 sans solde\u00a0\u00bb avec \u00ab\u00a0l\u2019option de revenir\u00a0\u00bb en cas d\u2019\u00e9chec \u00e0 la pr\u00e9sidentielle finlandaise, dont le premier tour se tiendra le 28\u00a0janvier"
 		},
 		{
 			"title": "Guerre en Ukraine : Thierry Breton promet une acc\u00e9l\u00e9ration de la production de munitions en Europe - TF1 INFO",
@@ -551,64 +671,14 @@
 			"description": "[VID\u00c9O] - Thierry Breton \u00e9tait l'invit\u00e9 de L'\u00e9v\u00e9nement du dimanche sur LCI.\nLe Commissaire europ\u00e9en a notamment \u00e9t\u00e9 interrog\u00e9 sur la politique industrielle du continent. \nIl s'est dit confiant quant aux capacit\u00e9s de l'industrie europ\u00e9enne."
 		},
 		{
-			"title": "Isra\u00ebl M\u00e8ne Un Raid Dans Un Quartier Chic De Gaza - I24NEWS - i24NEWS en Fran\u00e7ais",
-			"link": "https://www.i24news.tv/fr/actu/israel-en-guerre/1700386110-israel-mene-un-raid-dans-un-quartier-chic-de-gaza",
-			"pubDate": "Sun, 19 Nov 2023 10:11:02 GMT",
-			"image": "https://cdn.i24news.tv/uploads/ba/08/7c/5d/69/9b/e7/4a/0e/34/a9/1f/f9/cc/d3/4c/ba087c5d699be74a0e34a91ff9ccd34c.jpg",
+			"title": "Face aux effets de la guerre, le sentiment anti-ukrainien gagne du terrain en Pologne - Reportage international - RFI",
+			"link": "https://news.google.com/rss/articles/CBMilAFodHRwczovL3d3dy5yZmkuZnIvZnIvcG9kY2FzdHMvcmVwb3J0YWdlLWludGVybmF0aW9uYWwvMjAyMzExMTktZmFjZS1hdXgtZWZmZXRzLWRlLWxhLWd1ZXJyZS1sZS1zZW50aW1lbnQtYW50aS11a3JhaW5pZW4tZ2FnbmUtZHUtdGVycmFpbi1lbi1wb2xvZ25l0gEA?oc=5",
+			"pubDate": "Sun, 19 Nov 2023 23:09:00 GMT",
+			"image": "https://picsum.photos/200/300?grayscale",
 			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "I24news",
-			"url": "https://www.i24news.tv/fr/actu/israel-en-guerre/1700386110-israel-mene-un-raid-dans-un-quartier-chic-de-gaza",
-			"description": "Au cours de l'op\u00e9ration, environ 35 tunnels et divers \u00e9quipements militaires ont \u00e9t\u00e9 d\u00e9couverts, tandis que des membres du Hamas ont \u00e9t\u00e9 \u00e9limin\u00e9s"
-		},
-		{
-			"title": "L'Ukraine \"\u00e0 des ann\u00e9es-lumi\u00e8re\" de l'adh\u00e9sion \u00e0 l'UE, selon Viktor Orban - Euronews",
-			"link": "https://fr.euronews.com/2023/11/19/lukraine-a-des-annees-lumiere-de-ladhesion-a-lue-selon-viktor-orban",
-			"pubDate": "Sun, 19 Nov 2023 08:05:01 GMT",
-			"image": "https://static.euronews.com/articles/stories/08/05/03/56/1000x563_cmsv2_d160d2ba-8a80-5deb-9f3e-6f49345d50fa-8050356.jpg",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "euronews",
-			"url": "https://fr.euronews.com/2023/11/19/lukraine-a-des-annees-lumiere-de-ladhesion-a-lue-selon-viktor-orban",
-			"description": "Le Premier ministre hongrois a annonc\u00e9 faire du blocage de l\u2019adh\u00e9sion de l\u2019Ukraine \u00e0 l\u2019Union europ\u00e9enne une priorit\u00e9."
-		},
-		{
-			"title": "Vladimir Poutine participera mercredi au sommet virtuel du G20 organis\u00e9 par l'Inde - franceinfo",
-			"link": "https://www.francetvinfo.fr/monde/russie/vladimir-poutine/vladimir-poutine-participera-mercredi-au-sommet-virtuel-du-g20-organise-par-l-inde_6193761.html",
-			"pubDate": "Sun, 19 Nov 2023 15:40:57 GMT",
-			"image": "https://www.francetvinfo.fr/pictures/oPBz3g0_Bv698_D765ucynP-Hus/1500x843/2023/11/19/000-343m7ad-655a2bf89dd26570755046.jpg",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "Franceinfo",
-			"url": "https://www.francetvinfo.fr/monde/russie/vladimir-poutine/vladimir-poutine-participera-mercredi-au-sommet-virtuel-du-g20-organise-par-l-inde_6193761.html",
-			"description": "Le pr\u00e9sident russe avait renonc\u00e9 \u00e0 participer \u00e0 la rencontre physique du Groupe des Vingt, en septembre."
-		},
-		{
-			"title": "Russie : des m\u00e9decins demandent \u00e0 Poutine de lib\u00e9rer de prison l'artiste Skotchilenko, malade - Le Figaro",
-			"link": "https://www.lefigaro.fr/flash-actu/russie-des-medecins-demandent-a-poutine-de-liberer-de-prison-l-artiste-skotchilenko-malade-20231118",
-			"pubDate": "Sat, 18 Nov 2023 15:58:44 GMT",
-			"image": "https://i.f1g.fr/media/cms/1200x630_crop/2023/11/18/49e80d704ddef1077d3ed06efdb6081db410032b9fa07aeb246dc63e9c27499e.jpg",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "Le Figaro",
-			"url": "https://www.lefigaro.fr/flash-actu/russie-des-medecins-demandent-a-poutine-de-liberer-de-prison-l-artiste-skotchilenko-malade-20231118",
-			"description": "Plus d'une centaine de m\u00e9decins russes ont demand\u00e9 samedi au pr\u00e9sident Vladimir Poutine de lib\u00e9rer \u00abimm\u00e9diatement\u00bb de prison l'artiste Alexandra..."
-		},
-		{
-			"title": "Attention, ne pas chauffer son logement l'hiver peut vous causer des pertes financi\u00e8res cons\u00e9quentes et de gros probl\u00e8mes de sant\u00e9 - LaDepeche.fr",
-			"link": "https://www.ladepeche.fr/2023/11/20/attention-ne-pas-chauffer-son-logement-lhiver-peut-vous-causer-des-pertes-financieres-consequentes-et-de-gros-problemes-de-sante-11579893.php",
-			"pubDate": "Mon, 20 Nov 2023 06:01:00 GMT",
-			"image": "https://images.ladepeche.fr/api/v1/images/view/6553b1b9959c380af43eacab/large/image.jpg?v=1",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "ladepeche.fr",
-			"url": "https://www.ladepeche.fr/2023/11/20/attention-ne-pas-chauffer-son-logement-lhiver-peut-vous-causer-des-pertes-financieres-consequentes-et-de-gros-problemes-de-sante-11579893.php",
-			"description": "Si vous faites partie de ceux qui ont pris la r\u00e9solution de traverser l'hiver sans chauffage, attention. Cela peut avoir un impact consid\u00e9rable sur votre portefeuille le jour o\u00f9, en tant que locataire, vous..."
-		},
-		{
-			"title": "En Ukraine, Zelenski s'inqui\u00e8te des retards de livraison d'armes - reportage #cdanslair 17.11.2023 - C dans l'air",
-			"link": "https://www.youtube.com/watch?v=nZn9WBjqVpQ",
-			"pubDate": "Sat, 18 Nov 2023 10:01:57 GMT",
-			"image": "https://i.ytimg.com/vi/nZn9WBjqVpQ/maxresdefault.jpg",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "YouTube",
-			"url": "https://www.youtube.com/watch?v=nZn9WBjqVpQ",
-			"description": "Le retour de la guerre au Proche-Orient menace-t-elle les livraisons d'armes \u00e0 l'Ukraine ? C'est ce qui inqui\u00e8te le pr\u00e9sident ukrainien Zelensky, qui constat..."
+			"site_name": "",
+			"url": "",
+			"description": ""
 		},
 		{
 			"title": "Gaza : MSF d\u00e9nonce une attaque d\u00e9lib\u00e9r\u00e9e contre un convoi cherchant \u00e0 \u00e9vacuer son personnel, faisant un mort et un bless\u00e9 - MSF",
@@ -621,85 +691,15 @@
 			"description": ""
 		},
 		{
-			"title": "Afrique-France : Faut-il \u00e9vacuer les bases militaires ? | Ces id\u00e9es qui gouvernent le monde - LCP - Assembl\u00e9e nationale",
-			"link": "https://www.youtube.com/watch?v=Ek0HgqOeATo",
-			"pubDate": "Sun, 19 Nov 2023 17:00:18 GMT",
-			"image": "https://i.ytimg.com/vi/Ek0HgqOeATo/maxresdefault.jpg",
+			"title": "\u00abUne vraie machine de guerre\u00bb : un porte-parole de Tsahal \u00e9voque les tunnels de la bande de Gaza - Europe 1",
+			"link": "https://www.europe1.fr/international/une-vraie-machine-de-guerre-un-porte-parole-de-tsahal-evoque-les-tunnels-de-la-bande-de-gaza-4215198",
+			"pubDate": "Sat, 18 Nov 2023 20:30:35 GMT",
+			"image": "https://cdn-europe1.lanmedia.fr/var/europe1/storage/images/europe1/international/une-vraie-machine-de-guerre-un-porte-parole-de-tsahal-evoque-les-tunnels-de-la-bande-de-gaza-4215198/60847341-1-fre-FR/Une-vraie-machine-de-guerre-un-porte-parole-de-Tsahal-evoque-les-tunnels-de-la-bande-de-Gaza.jpg",
 			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "YouTube",
-			"url": "https://www.youtube.com/watch?v=Ek0HgqOeATo",
-			"description": "Beaucoup de pays africains qui aujourd'hui cultivent un sentiment anti-fran\u00e7ais se sont \u00e9loign\u00e9s de l'ancien pays colonisateur \u00e0 travers un putsch militaire...."
-		},
-		{
-			"title": "Commission europ\u00e9enne : Retrait de la commissaire aux Partenariats internationaux pour briguer la t\u00eate de la\u2026 - 20 Minutes",
-			"link": "https://www.20minutes.fr/monde/finlande/4063048-20231120-commission-europeenne-retrait-commissaire-partenariats-internationaux-briguer-tete-finlande",
-			"pubDate": "Mon, 20 Nov 2023 00:42:03 GMT",
-			"image": "https://img.20mn.fr/lLyIbATBTEysAT2Sd4gmjSk/1200x768_european-commissioner-for-international-partnerships-jutta-urpilainen-speaks-during-a-video-press-conference-on-the-eu-s-multi-annual-financial-framework-at-eu-headquarters-in-brussels-tuesday-june-2-2020-olivier-hoslet-pool-photo-via-ap-vlm109-20154402163409-pool-photo-via-ap-2006021307",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "www.20minutes.fr",
-			"url": "https://www.20minutes.fr/monde/finlande/4063048-20231120-commission-europeenne-retrait-commissaire-partenariats-internationaux-briguer-tete-finlande",
-			"description": "Jutta Urpilainen prend un \u00ab\u00a0cong\u00e9 sans solde\u00a0\u00bb avec \u00ab\u00a0l\u2019option de revenir\u00a0\u00bb en cas d\u2019\u00e9chec \u00e0 la pr\u00e9sidentielle finlandaise, dont le premier tour se tiendra le 28\u00a0janvier"
-		},
-		{
-			"title": "Proche-Orient : Le cyberespace, autre champ de bataille entre Isra\u00ebl et le Hamas - 20 Minutes",
-			"link": "https://www.20minutes.fr/high-tech/by-the-web/4062944-20231118-proche-orient-cyberespace-autre-champ-bataille-entre-israel-hamas",
-			"pubDate": "Sat, 18 Nov 2023 14:31:52 GMT",
-			"image": "https://img.20mn.fr/sLUZVW2BSvqqAx76YegLlw/1200x768_trois_banques_grecques_etaient_lundi_sous_la_menace_serieuse_d_une_cyberattaque_revendiquee_par_un_groupe_de_pirates_se_faisant_appeler_armada_collective",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "www.20minutes.fr",
-			"url": "https://www.20minutes.fr/high-tech/by-the-web/4062944-20231118-proche-orient-cyberespace-autre-champ-bataille-entre-israel-hamas",
-			"description": "Les cyberattaques se sont multipli\u00e9es depuis l\u2019attaque terrestre du 7 octobre"
-		},
-		{
-			"title": "Le PPDG s'ancre dans sa revendication autonomiste - Guadeloupe la 1\u00e8re - Outre-mer la 1\u00e8re",
-			"link": "https://la1ere.francetvinfo.fr/guadeloupe/le-ppdg-s-ancre-dans-sa-revendication-autonomiste-1444496.html",
-			"pubDate": "Sun, 19 Nov 2023 11:00:01 GMT",
-			"image": "https://la1ere.francetvinfo.fr/image/MVWLAdd48Us_wJvVkWVWW4Y2w4Y/930x620/outremer/2023/11/18/2023-11-18-querin-l-9eme-congres-ppdg-frame-13460-65592d48eecc7863334543.jpg",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "Guadeloupe la 1\u00e8re",
-			"url": "https://la1ere.francetvinfo.fr/guadeloupe/le-ppdg-s-ancre-dans-sa-revendication-autonomiste-1444496.html",
-			"description": "Le Parti progressiste d\u00e9mocratique guadeloup\u00e9en tenait ce samedi son 9\u00e8me Congr\u00e8s. Une occasion pour les militants du parti dirig\u00e9 par Jacques Bangou d'\u00e9changer sur leur grandes orientations et de confirmer leur volont\u00e9 d'inscrire la Guadeloupe dans un processus d'acc\u00e8s \u00e0 l'autonomie. Les interventions de ce congr\u00e8s visaient d'ailleurs \u00e0 \u00e9tayer cette th\u00e8se port\u00e9e par le parti"
-		},
-		{
-			"title": "Br\u00e9sil: des feux ravagent la plus grande zone humide de la plan\u00e8te, de nombreux animaux en danger - BFMTV",
-			"link": "https://www.bfmtv.com/international/amerique-latine/bresil/bresil-des-feux-ravagent-la-plus-grande-zone-humide-de-la-planete-de-nombreux-animaux-en-danger_AV-202311180414.html",
-			"pubDate": "Sat, 18 Nov 2023 17:03:05 GMT",
-			"image": "https://images.bfmtv.com/9YHgJweFTyr7ceY0sGolbuSyBrw=/0x143:2048x1295/2048x0/images/Vue-aerienne-montrant-un-feu-de-foret-faisant-rage-dans-la-zone-humide-du-Pantanal-le-12-novembre-2023-1750816.jpg",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "BFMTV",
-			"url": "https://www.bfmtv.com/international/amerique-latine/bresil/bresil-des-feux-ravagent-la-plus-grande-zone-humide-de-la-planete-de-nombreux-animaux-en-danger_AV-202311180414.html",
-			"description": "Le Pantanal, la plus grande zone humide de la plan\u00e8te, est en proie \u00e0 plusieurs incendies violents. La faune qui y vit est en grand danger, menac\u00e9e par les fum\u00e9es et la famine."
-		},
-		{
-			"title": "Massacre Du 7 Octobre: Des Survivants Du Kibbout Nir Oz Racontent - I24NEWS - i24NEWS en Fran\u00e7ais",
-			"link": "https://www.i24news.tv/fr/actu/israel/1700403301-massacre-du-7-octobre-des-survivants-du-kibbout-nir-oz-racontent",
-			"pubDate": "Sun, 19 Nov 2023 14:17:43 GMT",
-			"image": "https://cdn.i24news.tv/uploads/a4/22/a4/41/be/57/4f/15/b6/6d/93/ff/9d/55/04/ad/a422a441be574f15b66d93ff9d5504ad.jpg",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "I24news",
-			"url": "https://www.i24news.tv/fr/actu/israel/1700403301-massacre-du-7-octobre-des-survivants-du-kibbout-nir-oz-racontent",
-			"description": "Massacre du 7 octobre: des survivants du kibbout Nir Oz racontent"
-		},
-		{
-			"title": "USA : Cardona menace de coupes budg\u00e9taires les universit\u00e9s tol\u00e8rant l\u2019antis\u00e9mitisme - The Times of Isra\u00ebl",
-			"link": "https://news.google.com/rss/articles/CBMibmh0dHBzOi8vZnIudGltZXNvZmlzcmFlbC5jb20vdXNhLWNhcmRvbmEtbWVuYWNlLWRlLWNvdXBlcy1idWRnZXRhaXJlcy1sZXMtdW5pdmVyc2l0ZXMtdG9sZXJhbnQtbGFudGlzZW1pdGlzbWUv0gFyaHR0cHM6Ly9mci50aW1lc29maXNyYWVsLmNvbS91c2EtY2FyZG9uYS1tZW5hY2UtZGUtY291cGVzLWJ1ZGdldGFpcmVzLWxlcy11bml2ZXJzaXRlcy10b2xlcmFudC1sYW50aXNlbWl0aXNtZS9hbXAv?oc=5",
-			"pubDate": "Sun, 19 Nov 2023 13:42:00 GMT",
-			"image": "https://picsum.photos/200/300?grayscale",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "",
-			"url": "",
-			"description": ""
-		},
-		{
-			"title": "Covid-19 : ces deux sympt\u00f4mes qui refont surface avec la propagation de nouveaux variants - LaDepeche.fr",
-			"link": "https://www.ladepeche.fr/2023/11/20/covid-19-ces-deux-symptomes-qui-pourraient-sans-doute-refaire-parler-deux-avec-la-propagation-de-nouveaux-variants-11591143.php",
-			"pubDate": "Mon, 20 Nov 2023 10:21:00 GMT",
-			"image": "https://images.ladepeche.fr/api/v1/images/view/655b32b8fe6ce611755d1b07/large/image.jpg?v=3",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "ladepeche.fr",
-			"url": "https://www.ladepeche.fr/2023/11/20/covid-19-ces-deux-symptomes-qui-pourraient-sans-doute-refaire-parler-deux-avec-la-propagation-de-nouveaux-variants-11591143.php",
-			"description": "Dans les premiers mois qui ont suivi le d\u00e9but de la pand\u00e9mie de Covid-19, les patients qui \u00e9taient touch\u00e9s par le Covid-19 t\u00e9moignaient d'une perte du go\u00fbt et / ou de l'odorat. Ces deux sympt\u00f4mes ont progressivement..."
+			"site_name": "Europe 1",
+			"url": "https://www.europe1.fr/international/une-vraie-machine-de-guerre-un-porte-parole-de-tsahal-evoque-les-tunnels-de-la-bande-de-gaza-4215198",
+			"description": "Invit\u00e9 de l'\u00e9mission &quot;Europe 1 Soir week-end&quot; ce samedi, Olivier&nbsp;Rafowicz, un porte-parole de l'arm\u00e9e isra\u00e9lienne, a estim\u00e9 que la bande de Gaza et ses innombrables tunnels \u00e9taient &quot;une machine de guerre&quot; pour les terroristes. Des souterrains &quot;extr\u00eamement sophistiqu\u00e9s&quot;, affirme-t-il sur Europe 1."
 		}
 	],
-	"timestamp": "2023-11-20 12:28:13.323610"
+	"timestamp": "2023-11-20 16:19:39.905310"
 }
