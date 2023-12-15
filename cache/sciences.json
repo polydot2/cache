@@ -21,16 +21,6 @@
 			"description": "\"Rembobinons\", c'est l'\u00e9dito de Vincent Rea pour le nouveau num\u00e9ro des \"Indispensables\" de Sciences et Avenir, titr\u00e9 \"Ce qu'il faut savoir\". Il est disponible partout."
 		},
 		{
-			"title": "L'atmosph\u00e8re de Mars a litt\u00e9ralement explos\u00e9 sous l'effet d'un vide de vent solaire - Futura",
-			"link": "https://www.futura-sciences.com/sciences/actualites/mars-atmosphere-mars-litteralement-explose-sous-effet-vide-vent-solaire-110129/",
-			"pubDate": "Thu, 14 Dec 2023 15:11:42 GMT",
-			"image": "https://cdn.futura-sciences.com/buildsv6/images/largeoriginal/3/2/9/3299486050_50209909_mars-vent-solaire.jpg",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "Futura",
-			"url": "https://www.futura-sciences.com/sciences/actualites/mars-atmosphere-mars-litteralement-explose-sous-effet-vide-vent-solaire-110129/",
-			"description": "Il y a environ un an, le vent solaire a litt\u00e9ralement disparu de la surface de Mars. Et ce, de mani\u00e8re totalement inattendue. Faisant pour ainsi dire exploser l\u2019atmosph\u00e8re de la Plan\u00e8te rouge...."
-		},
-		{
 			"title": "Tintin : mille milliards de mille savoirs ! - France Culture",
 			"link": "https://www.radiofrance.fr/franceculture/podcasts/la-science-cqfd/tintin-mille-milliards-de-mille-savoirs-9346929",
 			"pubDate": "Thu, 14 Dec 2023 17:40:07 GMT",
@@ -39,6 +29,16 @@
 			"site_name": "France Culture",
 			"url": "https://www.radiofrance.fr/franceculture/podcasts/la-science-cqfd/tintin-mille-milliards-de-mille-savoirs-9346929",
 			"description": "Avec quinze ans d\u2019avance, Herg\u00e9 imaginait d\u00e9j\u00e0 les premiers pas de l\u2019Homme sur la Lune. Gr\u00e2ce \u00e0 son grand souci de minutie, quel rapport aux sciences Herg\u00e9 nous fait-il transpara\u00eetre dans ses albums \u201cLes Aventures de Tintin\u201d ?\n"
+		},
+		{
+			"title": "D\u00e9couverte d'une forteresse de plus de 8 000 ans qui bouleverse nos connaissances sur la Pr\u00e9histoire - Futura",
+			"link": "https://www.futura-sciences.com/sciences/actualites/homme-decouverte-forteresse-plus-8-000-ans-bouleverse-nos-connaissances-prehistoire-110074/",
+			"pubDate": "Wed, 13 Dec 2023 10:22:29 GMT",
+			"image": "https://cdn.futura-sciences.com/buildsv6/images/largeoriginal/9/a/1/9a1e722dea_50209864_forteresse.jpg",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "Futura",
+			"url": "https://www.futura-sciences.com/sciences/actualites/homme-decouverte-forteresse-plus-8-000-ans-bouleverse-nos-connaissances-prehistoire-110074/",
+			"description": "Sur la base de nouvelles datations, une \u00e9tude r\u00e9v\u00e8le que la forteresse d\u2019Amnya, situ\u00e9e dans la ta\u00efga sib\u00e9rienne, serait en r\u00e9alit\u00e9 bien plus ancienne qu\u2019on ne le pensait. Construite il y a environ..."
 		},
 		{
 			"title": "\u00c0 Sciences Po Paris, le wokisme pris \u00e0 son propre pi\u00e8ge - Le Figaro",
@@ -101,6 +101,16 @@
 			"description": ""
 		},
 		{
+			"title": "Sciences de l'ing\u00e9nierie et du num\u00e9rique - Universit\u00e9 de Bordeaux",
+			"link": "https://www.u-bordeaux.fr/recherche/structures-de-recherche/departements-de-recherche/SIN",
+			"pubDate": "Tue, 12 Dec 2023 08:00:00 GMT",
+			"image": "https://www.u-bordeaux.fr/packages/ub/img/og-default.jpg",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "Universit\u00e9 de Bordeaux",
+			"url": "https://www.u-bordeaux.fr/recherche/structures-de-recherche/departements-de-recherche/SIN",
+			"description": "Le d\u00e9partement Sciences de l\u2019ing\u00e9nierie et du num\u00e9rique (SIN) regroupe l\u2019ensemble des comp\u00e9tences dans les domaines de l\u2019informatique, de l\u2019\u00e9lectronique, des math\u00e9matiques et de la m\u00e9canique. Ces disciplines scientifiques pr\u00e9sentent des compl\u00e9mentarit\u00e9s pour r\u00e9pondre aux grands enjeux que constituent l\u2019industrie du futur et le num\u00e9rique."
+		},
+		{
 			"title": "CNRS Sciences informatiques - INS2I",
 			"link": "https://www.ins2i.cnrs.fr/fr/institut-ins2i",
 			"pubDate": "Mon, 11 Dec 2023 12:00:00 GMT",
@@ -111,30 +121,20 @@
 			"description": ""
 		},
 		{
-			"title": "La performance comme m\u00e9thode. Quand les arts vivants rencontrent les sciences sociales (Cerisy) - Fabula",
-			"link": "https://news.google.com/rss/articles/CBMiYWh0dHBzOi8vd3d3LmZhYnVsYS5vcmcvYWN0dWFsaXRlcy8xMTc4NjUvbGEtcGVyZm9ybWFuY2UtY29tbWUtbWV0aG9kZS1xdWFuZC1sZXMtYXJ0cy12aXZhbnRzLmh0bWzSAQA?oc=5",
-			"pubDate": "Thu, 14 Dec 2023 18:27:46 GMT",
-			"image": "https://www.fabula.org/actualites/documents/117865_d846044268a87475019faf86841697b8.jpg",
+			"title": "Former aux sciences du futur, former diff\u00e9remment - UNESCO",
+			"link": "https://news.google.com/rss/articles/CBMiU2h0dHBzOi8vd3d3LnVuZXNjby5vcmcvZnIvYXJ0aWNsZXMvZm9ybWVyLWF1eC1zY2llbmNlcy1kdS1mdXR1ci1mb3JtZXItZGlmZmVyZW1tZW500gEA?oc=5",
+			"pubDate": "Thu, 14 Dec 2023 12:11:45 GMT",
+			"image": "https://www.unesco.org/sites/default/files/styles/best_image/article/2023-12/Enseignants%20en%20exercices%20pratiques.jpeg?itok=UHvBRQJM",
 			"logo": "https://picsum.photos/32/32?grayscale",
 			"site_name": "",
 			"url": "",
 			"description": ""
 		},
 		{
-			"title": "Sant\u00e9 - \"Il est compliqu\u00e9 pour la science de se faire une place\" : la sociologue Romy Sauvayre explore le doute face ... - La Montagne",
-			"link": "https://www.lamontagne.fr/clermont-ferrand-63000/actualites/il-est-complique-pour-la-science-de-se-faire-une-place-la-sociologue-romy-sauvayre-explore-le-doute-face-aux-vaccins_14410484/",
-			"pubDate": "Thu, 14 Dec 2023 18:00:00 GMT",
-			"image": "https://img.lamontagne.fr/H94VUU1H_V2yxY5tmgPbSQzej_kuy6X5cwTLRA0TJ8k/fit/657/438/sm/0/bG9jYWw6Ly8vMDAvMDAvMDYvNjUvNjYvMjAwMDAwNjY1NjYxMg.jpg",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "www.lamontagne.fr",
-			"url": "https://www.lamontagne.fr/clermont-ferrand-63000/actualites/il-est-complique-pour-la-science-de-se-faire-une-place-la-sociologue-romy-sauvayre-explore-le-doute-face-aux-vaccins_14410484/",
-			"description": "Dans une population qui doute, quelle place est r\u00e9serv\u00e9e \u00e0 la science ? La pand\u00e9mie de Covid a, entre autres, accentu\u00e9 cette d\u00e9fiance."
-		},
-		{
-			"title": "Les Jeudis de l'histoire et de la philosophie des sciences (JHPS) - 2023-2024 | ENS - ENS",
-			"link": "https://news.google.com/rss/articles/CBMieWh0dHBzOi8vd3d3LmVucy5wc2wuZXUvYWdlbmRhL2xlcy1qZXVkaXMtZGUtbC1oaXN0b2lyZS1ldC1kZS1sYS1waGlsb3NvcGhpZS1kZXMtc2NpZW5jZXMtamhwcy0yMDIzLTIwMjQvMjAyMy0xMi0xNHQxNTAwMDDSAQA?oc=5",
-			"pubDate": "Wed, 13 Dec 2023 16:52:38 GMT",
-			"image": "https://picsum.photos/200/300?grayscale",
+			"title": "La performance comme m\u00e9thode. Quand les arts vivants rencontrent les sciences sociales (Cerisy) - Fabula",
+			"link": "https://news.google.com/rss/articles/CBMiYWh0dHBzOi8vd3d3LmZhYnVsYS5vcmcvYWN0dWFsaXRlcy8xMTc4NjUvbGEtcGVyZm9ybWFuY2UtY29tbWUtbWV0aG9kZS1xdWFuZC1sZXMtYXJ0cy12aXZhbnRzLmh0bWzSAQA?oc=5",
+			"pubDate": "Thu, 14 Dec 2023 18:27:46 GMT",
+			"image": "https://www.fabula.org/actualites/documents/117865_d846044268a87475019faf86841697b8.jpg",
 			"logo": "https://picsum.photos/32/32?grayscale",
 			"site_name": "",
 			"url": "",
@@ -151,6 +151,26 @@
 			"description": ""
 		},
 		{
+			"title": "Les Jeudis de l'histoire et de la philosophie des sciences (JHPS) - 2023-2024 | ENS - ENS",
+			"link": "https://news.google.com/rss/articles/CBMieWh0dHBzOi8vd3d3LmVucy5wc2wuZXUvYWdlbmRhL2xlcy1qZXVkaXMtZGUtbC1oaXN0b2lyZS1ldC1kZS1sYS1waGlsb3NvcGhpZS1kZXMtc2NpZW5jZXMtamhwcy0yMDIzLTIwMjQvMjAyMy0xMi0xNHQxNTAwMDDSAQA?oc=5",
+			"pubDate": "Wed, 13 Dec 2023 16:52:38 GMT",
+			"image": "https://picsum.photos/200/300?grayscale",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "",
+			"url": "",
+			"description": ""
+		},
+		{
+			"title": "Sant\u00e9 - \"Il est compliqu\u00e9 pour la science de se faire une place\" : la sociologue Romy Sauvayre explore le doute face ... - La Montagne",
+			"link": "https://www.lamontagne.fr/clermont-ferrand-63000/actualites/il-est-complique-pour-la-science-de-se-faire-une-place-la-sociologue-romy-sauvayre-explore-le-doute-face-aux-vaccins_14410484/",
+			"pubDate": "Thu, 14 Dec 2023 18:00:00 GMT",
+			"image": "https://img.lamontagne.fr/H94VUU1H_V2yxY5tmgPbSQzej_kuy6X5cwTLRA0TJ8k/fit/657/438/sm/0/bG9jYWw6Ly8vMDAvMDAvMDYvNjUvNjYvMjAwMDAwNjY1NjYxMg.jpg",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "www.lamontagne.fr",
+			"url": "https://www.lamontagne.fr/clermont-ferrand-63000/actualites/il-est-complique-pour-la-science-de-se-faire-une-place-la-sociologue-romy-sauvayre-explore-le-doute-face-aux-vaccins_14410484/",
+			"description": "Dans une population qui doute, quelle place est r\u00e9serv\u00e9e \u00e0 la science ? La pand\u00e9mie de Covid a, entre autres, accentu\u00e9 cette d\u00e9fiance."
+		},
+		{
 			"title": "CO2 : du jamais vu depuis\u2026 14 millions d'ann\u00e9es - Les \u00c9chos",
 			"link": "https://www.lesechos.fr/idees-debats/sciences-prospective/co2-du-jamais-vu-depuis-14-millions-dannees-2041556",
 			"pubDate": "Thu, 14 Dec 2023 15:22:10 GMT",
@@ -159,26 +179,6 @@
 			"site_name": "Les Echos",
 			"url": "https://www.lesechos.fr/idees-debats/sciences-prospective/co2-du-jamais-vu-depuis-14-millions-dannees-2041556",
 			"description": "Moins d'une semaine avant la conclusion de la COP28 \u00e0 Duba\u00ef, une \u00e9tude choc de \u00ab\u00a0Science\u00a0\u00bb est venue livrer une r\u00e9trospective des variations de la teneur atmosph\u00e9rique en dioxyde de carbone au cours des 66 derniers millions d'ann\u00e9es."
-		},
-		{
-			"title": "L'Acad\u00e9mie des sciences et technologies d\u00e9veloppe la peinture d'isolation thermique nano-r\u00e9fl\u00e9chissante - Le Courrier du Vietnam",
-			"link": "https://news.google.com/rss/articles/CBMiiAFodHRwczovL2xlY291cnJpZXIudm4vbGFjYWRlbWllLWRlcy1zY2llbmNlcy1ldC10ZWNobm9sb2dpZXMtZGV2ZWxvcHBlLWxhLXBlaW50dXJlLWRpc29sYXRpb24tdGhlcm1pcXVlLW5hbm8tcmVmbGVjaGlzc2FudGUvMTIyMzE0NS5odG1s0gEA?oc=5",
-			"pubDate": "Thu, 14 Dec 2023 14:07:00 GMT",
-			"image": "https://picsum.photos/200/300?grayscale",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "",
-			"url": "",
-			"description": ""
-		},
-		{
-			"title": "Propos \"intol\u00e9rables\" tenus au sein de Sciences Po Bordeaux : la direction saisit la justice - Le Journal du Pays Yonnais",
-			"link": "https://news.google.com/rss/articles/CBMilgFodHRwczovL2FjdHUuZnIvbm91dmVsbGUtYXF1aXRhaW5lL3Blc3NhY18zMzMxOC9wcm9wb3MtaW50b2xlcmFibGVzLXRlbnVzLWF1LXNlaW4tZGUtc2NpZW5jZXMtcG8tYm9yZGVhdXgtbGEtZGlyZWN0aW9uLXNhaXNpdC1sYS1qdXN0aWNlXzYwNDU5NjU3Lmh0bWzSAQA?oc=5",
-			"pubDate": "Thu, 14 Dec 2023 17:27:42 GMT",
-			"image": "https://picsum.photos/200/300?grayscale",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "",
-			"url": "",
-			"description": ""
 		},
 		{
 			"title": "Semaine du num\u00e9rique et des sciences informatiques, du 4 au 9 d\u00e9cembre 2023 - Direction G\u00e9n\u00e9rale des Entreprises",
@@ -191,19 +191,29 @@
 			"description": ""
 		},
 		{
-			"title": "Sciences Po Bordeaux : des propos \u00ab racistes \u00bb, \u00ab antis\u00e9mites \u00bb, \u00ab n\u00e9grophobes \u00bb \u00e9chang\u00e9s entre des \u00e9tudiants - Sud Ouest",
-			"link": "https://www.sudouest.fr/etudiant/vie-etudiante/bordeaux-des-propos-racistes-antisemites-negrophobes-echanges-entre-des-etudiants-a-sciences-po-17750488.php",
-			"pubDate": "Mon, 11 Dec 2023 11:24:47 GMT",
-			"image": "https://media.sudouest.fr/17750488/1200x-1/20231206153518-lart292.jpg",
+			"title": "L'Acad\u00e9mie des sciences et technologies d\u00e9veloppe la peinture d'isolation thermique nano-r\u00e9fl\u00e9chissante - Le Courrier du Vietnam",
+			"link": "https://news.google.com/rss/articles/CBMiiAFodHRwczovL2xlY291cnJpZXIudm4vbGFjYWRlbWllLWRlcy1zY2llbmNlcy1ldC10ZWNobm9sb2dpZXMtZGV2ZWxvcHBlLWxhLXBlaW50dXJlLWRpc29sYXRpb24tdGhlcm1pcXVlLW5hbm8tcmVmbGVjaGlzc2FudGUvMTIyMzE0NS5odG1s0gEA?oc=5",
+			"pubDate": "Thu, 14 Dec 2023 14:07:00 GMT",
+			"image": "https://picsum.photos/200/300?grayscale",
 			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "SudOuest.fr",
-			"url": "https://www.sudouest.fr/etudiant/vie-etudiante/bordeaux-des-propos-racistes-antisemites-negrophobes-echanges-entre-des-etudiants-a-sciences-po-17750488.php",
-			"description": "Syndicats et associations \u00e9tudiantes ont d\u00e9nonc\u00e9 aupr\u00e8s de la direction de Sciences Po Bordeaux l\u2019existence d\u2019un groupe de discussion contenant des propos haineux regroupant des premi\u00e8res ann\u00e9es. La procureure de la R\u00e9publique a \u00e9t\u00e9 saisie"
+			"site_name": "",
+			"url": "",
+			"description": ""
 		},
 		{
-			"title": "Une \u00e9tude d\u00e9voile l'histoire de chiens laineux chers aux Am\u00e9rindiens, aujourd'hui disparus - Sciences et Avenir",
-			"link": "https://news.google.com/rss/articles/CBMiiQFodHRwczovL3d3dy5zY2llbmNlc2V0YXZlbmlyLmZyL3NjaWVuY2VzL3VuZS1ldHVkZS1kZXZvaWxlLWwtaGlzdG9pcmUtZGUtY2hpZW5zLWxhaW5ldXgtY2hlcnMtYXV4LWFtZXJpbmRpZW5zLWF1am91cmQtaHVpLWRpc3BhcnVzXzE3NTY2OdIBAA?oc=5",
-			"pubDate": "Thu, 14 Dec 2023 21:49:00 GMT",
+			"title": "Propos \"intol\u00e9rables\" tenus au sein de Sciences Po Bordeaux : la direction saisit la justice - actu.fr",
+			"link": "https://news.google.com/rss/articles/CBMilgFodHRwczovL2FjdHUuZnIvbm91dmVsbGUtYXF1aXRhaW5lL3Blc3NhY18zMzMxOC9wcm9wb3MtaW50b2xlcmFibGVzLXRlbnVzLWF1LXNlaW4tZGUtc2NpZW5jZXMtcG8tYm9yZGVhdXgtbGEtZGlyZWN0aW9uLXNhaXNpdC1sYS1qdXN0aWNlXzYwNDU5NjU3Lmh0bWzSAQA?oc=5",
+			"pubDate": "Thu, 14 Dec 2023 17:27:42 GMT",
+			"image": "https://picsum.photos/200/300?grayscale",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "",
+			"url": "",
+			"description": ""
+		},
+		{
+			"title": "Communiqu\u00e9 de presse : 18 nouveaux membres \u00e9lus \u00e0 l'Acad\u00e9mie des sciences | Communiqu\u00e9s de presse | Presse ... - Acad\u00e9mie des sciences",
+			"link": "https://news.google.com/rss/articles/CBMiVWh0dHBzOi8vd3d3LmFjYWRlbWllLXNjaWVuY2VzLmZyL2ZyL0NvbW11bmlxdWVzLWRlLXByZXNzZS9lbGVjdGlvbnMtbWVtYnJlcy0yMDIzLmh0bWzSAQA?oc=5",
+			"pubDate": "Tue, 12 Dec 2023 09:40:15 GMT",
 			"image": "https://picsum.photos/200/300?grayscale",
 			"logo": "https://picsum.photos/32/32?grayscale",
 			"site_name": "",
@@ -221,14 +231,14 @@
 			"description": "La pr\u00e9sidente de la Fondation nationale des sciences politiques doit d\u00e9finir\u00a0les modalit\u00e9s et le calendrier du \u00ab\u00a0retrait\u00a0\u00bb du directeur, qui seront pr\u00e9sent\u00e9s \u00e0 diff\u00e9rentes instances entre mardi\u00a012\u00a0et jeudi 14\u00a0d\u00e9cembre."
 		},
 		{
-			"title": "Anthropoc\u00e8ne sur la Lune, manger t\u00f4t et oiseau mi-m\u00e2le mi-femelle : l'actu des sciences en ultrabr\u00e8ves - Yahoo Actualit\u00e9s",
-			"link": "https://fr.news.yahoo.com/anthropoc%C3%A8ne-lune-manger-t%C3%B4t-oiseau-164834449.html",
-			"pubDate": "Thu, 14 Dec 2023 16:48:34 GMT",
-			"image": "https://media.zenfs.com/fr/sciencesetavenir.fr/e403536e9f2cf6a59e6b9b4f9997efbd",
+			"title": "Sciences Po Bordeaux : des propos \u00ab racistes \u00bb, \u00ab antis\u00e9mites \u00bb, \u00ab n\u00e9grophobes \u00bb \u00e9chang\u00e9s entre des \u00e9tudiants - Sud Ouest",
+			"link": "https://www.sudouest.fr/etudiant/vie-etudiante/bordeaux-des-propos-racistes-antisemites-negrophobes-echanges-entre-des-etudiants-a-sciences-po-17750488.php",
+			"pubDate": "Mon, 11 Dec 2023 11:24:47 GMT",
+			"image": "https://media.sudouest.fr/17750488/1200x-1/20231206153518-lart292.jpg",
 			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "Yahoo News",
-			"url": "https://fr.news.yahoo.com/anthropoc%C3%A8ne-lune-manger-t%C3%B4t-oiseau-164834449.html",
-			"description": "Au sommaire des ultrabr\u00e8ves du 14 d\u00e9cembre 2023 : la Lune d\u00e9j\u00e0 dans l'anthropoc\u00e8ne, manger t\u00f4t pour r\u00e9duire les risques de maladies cardiovasculaires et un oiseau mi-m\u00e2le mi-femelle photographi\u00e9 en Colombie"
+			"site_name": "SudOuest.fr",
+			"url": "https://www.sudouest.fr/etudiant/vie-etudiante/bordeaux-des-propos-racistes-antisemites-negrophobes-echanges-entre-des-etudiants-a-sciences-po-17750488.php",
+			"description": "Syndicats et associations \u00e9tudiantes ont d\u00e9nonc\u00e9 aupr\u00e8s de la direction de Sciences Po Bordeaux l\u2019existence d\u2019un groupe de discussion contenant des propos haineux regroupant des premi\u00e8res ann\u00e9es. La procureure de la R\u00e9publique a \u00e9t\u00e9 saisie"
 		},
 		{
 			"title": "Le directeur de Sciences Po se met en \u00ab retrait provisoire \u00bb - Les \u00c9chos",
@@ -261,16 +271,6 @@
 			"description": ""
 		},
 		{
-			"title": "Issues de fili\u00e8res scientifiques, elles sensibilisent ces lyc\u00e9ennes du Rheu aux m\u00e9tiers des sciences - Ouest-France",
-			"link": "https://news.google.com/rss/articles/CBMiuwFodHRwczovL3d3dy5vdWVzdC1mcmFuY2UuZnIvYnJldGFnbmUvbGUtcmhldS0zNTY1MC9pc3N1ZXMtZGUtZmlsaWVyZXMtc2NpZW50aWZpcXVlcy1lbGxlcy1zZW5zaWJpbGlzZW50LWNlcy1seWNlZW5uZXMtZHUtcmhldS1hdXgtbWV0aWVycy1kZXMtc2NpZW5jZXMtNTdhM2NmNGMtOThkOC0xMWVlLThjMGMtMzk0Mzk0NTBmNmFk0gEA?oc=5",
-			"pubDate": "Thu, 14 Dec 2023 15:37:40 GMT",
-			"image": "https://picsum.photos/200/300?grayscale",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "",
-			"url": "",
-			"description": ""
-		},
-		{
 			"title": "\u00abJ'\u00e9coutais la radio tous les matins\u00bb : les secrets de r\u00e9ussite de Paul, major de Sciences Po \u00e0 16 ans - Le Figaro",
 			"link": "https://etudiant.lefigaro.fr/article/etudes/j-ecoutais-la-radio-tous-les-matins-les-secrets-de-reussite-de-paul-major-de-sciences-po-a-16-ans-20231213/",
 			"pubDate": "Wed, 13 Dec 2023 05:00:00 GMT",
@@ -279,6 +279,26 @@
 			"site_name": "Le Figaro Etudiant",
 			"url": "https://etudiant.lefigaro.fr/article/etudes/j-ecoutais-la-radio-tous-les-matins-les-secrets-de-reussite-de-paul-major-de-sciences-po-a-16-ans-20231213/",
 			"description": "VID\u00c9O - L\u2019\u00e9tudiant fait partie des meilleurs candidats qui ont int\u00e9gr\u00e9 Sciences Po en septembre dernier, gr\u00e2ce \u00e0 sa moyenne au bac de 18,8/20 et sa curiosit\u00e9 pour l\u2019actualit\u00e9."
+		},
+		{
+			"title": "Anthropoc\u00e8ne sur la Lune, manger t\u00f4t et oiseau mi-m\u00e2le mi-femelle : l'actu des sciences en ultrabr\u00e8ves - Yahoo Actualit\u00e9s",
+			"link": "https://fr.news.yahoo.com/anthropoc%C3%A8ne-lune-manger-t%C3%B4t-oiseau-164834449.html",
+			"pubDate": "Thu, 14 Dec 2023 16:48:34 GMT",
+			"image": "https://media.zenfs.com/fr/sciencesetavenir.fr/e403536e9f2cf6a59e6b9b4f9997efbd",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "Yahoo News",
+			"url": "https://fr.news.yahoo.com/anthropoc%C3%A8ne-lune-manger-t%C3%B4t-oiseau-164834449.html",
+			"description": "Au sommaire des ultrabr\u00e8ves du 14 d\u00e9cembre 2023 : la Lune d\u00e9j\u00e0 dans l'anthropoc\u00e8ne, manger t\u00f4t pour r\u00e9duire les risques de maladies cardiovasculaires et un oiseau mi-m\u00e2le mi-femelle photographi\u00e9 en Colombie"
+		},
+		{
+			"title": "Issues de fili\u00e8res scientifiques, elles sensibilisent ces lyc\u00e9ennes du Rheu aux m\u00e9tiers des sciences - Ouest-France",
+			"link": "https://news.google.com/rss/articles/CBMiuwFodHRwczovL3d3dy5vdWVzdC1mcmFuY2UuZnIvYnJldGFnbmUvbGUtcmhldS0zNTY1MC9pc3N1ZXMtZGUtZmlsaWVyZXMtc2NpZW50aWZpcXVlcy1lbGxlcy1zZW5zaWJpbGlzZW50LWNlcy1seWNlZW5uZXMtZHUtcmhldS1hdXgtbWV0aWVycy1kZXMtc2NpZW5jZXMtNTdhM2NmNGMtOThkOC0xMWVlLThjMGMtMzk0Mzk0NTBmNmFk0gEA?oc=5",
+			"pubDate": "Thu, 14 Dec 2023 15:37:40 GMT",
+			"image": "https://picsum.photos/200/300?grayscale",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "",
+			"url": "",
+			"description": ""
 		},
 		{
 			"title": "Sciences Po: Aurore Berg\u00e9 encourage la mise en retrait de Mathias Vicherat jusqu'\u00e0 la fin de l'enqu\u00eate - Le Figaro",
@@ -301,16 +321,6 @@
 			"description": "Une assembl\u00e9e g\u00e9n\u00e9rale r\u00e9unissant 250\u00a0personnes le 6\u00a0d\u00e9cembre \u00e0 Sciences Po Paris avait vot\u00e9 une occupation du si\u00e8ge historique de l\u2019\u00e9cole pour obtenir la d\u00e9mission du directeur."
 		},
 		{
-			"title": "Sant\u00e9 et industrie du futur : les Sciences humaines et sociales apportent leur \u00e9clairage aux grands enjeux de demain - Universit\u00e9 de Nantes",
-			"link": "https://www.univ-nantes.fr/universite/vision-strategie-et-grands-projets/sante-et-industrie-du-futur-les-sciences-humaines-et-sociales-apportent-leur-eclairage-aux-grands-enjeux-de-demain",
-			"pubDate": "Tue, 12 Dec 2023 17:02:34 GMT",
-			"image": "https://www.univ-nantes.fr/medias/photo/elit_1702306326439-jpg",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "Nantes Universit\u00e9",
-			"url": "https://www.univ-nantes.fr/universite/vision-strategie-et-grands-projets/sante-et-industrie-du-futur-les-sciences-humaines-et-sociales-apportent-leur-eclairage-aux-grands-enjeux-de-demain",
-			"description": "Depuis 2022, un r\u00e9seau de recherche (ELIT) cherche \u00e0 faire dialoguer les Sciences humaines et sociales (SHS) et les Sciences de l&#39;ing\u00e9nieur et de la sant\u00e9 pour \u00e9laborer ensemble des probl\u00e9matiques et des perspectives de recherche communes sur deux grands d\u00e9fis soci\u00e9taux : l&#39;industrie et la sant\u00e9 du futur. Focus."
-		},
-		{
 			"title": "Sciences Po : Mathias Vicherat \u00ab propose \u00bb sa \u00ab mise en retrait provisoire \u00bb - La Croix",
 			"link": "https://www.la-croix.com/sciences-po-mathias-vicherat-propose-sa-mise-en-retrait-provisoire-20231211",
 			"pubDate": "Mon, 11 Dec 2023 08:07:12 GMT",
@@ -319,16 +329,6 @@
 			"site_name": "La Croix",
 			"url": "https://www.la-croix.com/sciences-po-mathias-vicherat-propose-sa-mise-en-retrait-provisoire-20231211",
 			"description": "Le directeur de Sciences Po, Mathias Vicherat, a propos\u00e9 lundi 11\u00a0d\u00e9cembre sa \u00ab\u00a0mise en retrait provisoire\u00a0\u00bb. Entendu r\u00e9cemment par la police dans une affaire de violences conjugales, il a contest\u00e9 avoir \u00ab\u00a0jamais commis de tels actes\u00a0\u00bb."
-		},
-		{
-			"title": "Conseil pr\u00e9sidentiel de la science : \u00ab La multiplication de ce type d'instances affaiblit les structures traditionnelles du ... - Le Monde",
-			"link": "https://www.lemonde.fr/idees/article/2023/12/14/conseil-presidentiel-de-la-science-la-multiplication-de-ce-type-d-instances-affaiblit-les-structures-traditionnelles-du-regime_6205777_3232.html",
-			"pubDate": "Thu, 14 Dec 2023 08:00:06 GMT",
-			"image": "https://img.lemde.fr/2023/12/07/0/0/7224/4816/1440/960/60/0/c8c05e7_2023-12-07t122311z-1589337989-rc2cs4aofduh-rtrmadp-3-france-politics.JPG",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "Le Monde.fr",
-			"url": "https://www.lemonde.fr/idees/article/2023/12/14/conseil-presidentiel-de-la-science-la-multiplication-de-ce-type-d-instances-affaiblit-les-structures-traditionnelles-du-regime_6205777_3232.html",
-			"description": "TRIBUNE. Pour anodine que puisse para\u00eetre la mise en place d\u2019un groupe de scientifiques destin\u00e9 \u00e0 \u00e9clairer le chef de l\u2019Etat, cette initiative augmente le nombre des interm\u00e9diaires dans la prise de d\u00e9cision, en marge de la Constitution, rel\u00e8ve, dans une tribune au \u00ab\u00a0Monde\u00a0\u00bb, le juriste Thibaud Mulier."
 		},
 		{
 			"title": "Sciences de l'environnement - Universit\u00e9 de Bordeaux",
@@ -341,14 +341,14 @@
 			"description": "Le d\u00e9partement des Sciences de l\u2019environnement f\u00e9d\u00e8re les unit\u00e9s de recherche du site bordelais dont les travaux visent \u00e0 r\u00e9pondre aux grands d\u00e9fis environnementaux, scientifiques et soci\u00e9taux de demain. Les recherches couvrent un large spectre en sciences de l\u2019environnement et sont conduites \u00e0 plusieurs \u00e9chelles d\u2019int\u00e9gration du vivant, du g\u00e9nome \u00e0 l\u2019\u00e9cosyst\u00e8me en passant par les organismes v\u00e9g\u00e9taux, animaux et microbiens, \u00e0 diff\u00e9rentes \u00e9chelles spatiales et temporelles (du pal\u00e9oenvironnement \u00e0 l\u2019environnement actuel voire futur), et \u00e9galement \u00e0 l'\u00e9chelle des interactions entre agrosyst\u00e8mes, hydrosyst\u00e8mes, \u00e9cosyst\u00e8mes, g\u00e9osyst\u00e8mes et socio-syst\u00e8mes."
 		},
 		{
-			"title": "Communiqu\u00e9 de presse : 18 nouveaux membres \u00e9lus \u00e0 l'Acad\u00e9mie des sciences | Communiqu\u00e9s de presse | Presse ... - Acad\u00e9mie des sciences",
-			"link": "https://news.google.com/rss/articles/CBMiVWh0dHBzOi8vd3d3LmFjYWRlbWllLXNjaWVuY2VzLmZyL2ZyL0NvbW11bmlxdWVzLWRlLXByZXNzZS9lbGVjdGlvbnMtbWVtYnJlcy0yMDIzLmh0bWzSAQA?oc=5",
-			"pubDate": "Tue, 12 Dec 2023 09:40:15 GMT",
-			"image": "https://picsum.photos/200/300?grayscale",
+			"title": "Le D\u00e9partement universitaire des sciences d'Agen vainqueur des Int\u00e9gra'jeunaises - Le Petit Bleu d'Agen",
+			"link": "https://www.petitbleu.fr/2023/12/13/le-departement-universitaire-des-sciences-dagen-vainqueur-des-integrajeunaises-11639376.php",
+			"pubDate": "Wed, 13 Dec 2023 09:36:00 GMT",
+			"image": "https://images.petitbleu.fr/api/v1/images/view/65797999707a097a4e6f11ff/large/image.jpg?v=1",
 			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "",
-			"url": "",
-			"description": ""
+			"site_name": "petitbleu.fr",
+			"url": "https://www.petitbleu.fr/2023/12/13/le-departement-universitaire-des-sciences-dagen-vainqueur-des-integrajeunaises-11639376.php",
+			"description": "Depuis 2015, l'Agglom\u00e9ration et la ville d'Agen, en collaboration avec le Mouvement jeunesse - Monte le son (MJMLS), organisent des rencontres entre \u00e9tudiants des facult\u00e9s et \u00e9coles sup\u00e9rieures d'Agen. La neuvi\u00e8me..."
 		},
 		{
 			"title": "Sciences-po Paris : le directeur Mathias Vicherat, accus\u00e9 de violences conjugales, \u00ab propose \u00bb sa \u00ab mise en retrait \u00bb - Le Parisien",
@@ -361,29 +361,19 @@
 			"description": "Mathias Vicherat a propos\u00e9 sa \u00ab\u00a0mise en retrait provisoire\u00a0\u00bb de la t\u00eate de Sciences-po Paris. Lui et sa compagne s\u2019accusent chacun de violen"
 		},
 		{
-			"title": "Question de science. Pourquoi les petits ont-ils plus froid que les grands ? - Ouest-France",
-			"link": "https://news.google.com/rss/articles/CBMiqgFodHRwczovL3d3dy5vdWVzdC1mcmFuY2UuZnIvcGFydGVuYWlyZXMvZXNwYWNlLWRlcy1zY2llbmNlcy9xdWVzdGlvbi1kZS1zY2llbmNlLXBvdXJxdW9pLWxlcy1wZXRpdHMtb250LWlscy1wbHVzLWZyb2lkLXF1ZS1sZXMtZ3JhbmRzLTdjNzI4YWE2LTkzODQtMTFlZS1hY2Q0LTMyMzFmYzgxOTVhN9IBAA?oc=5",
-			"pubDate": "Thu, 14 Dec 2023 09:18:01 GMT",
-			"image": "https://picsum.photos/200/300?grayscale",
+			"title": "Un nouveau Conseil pr\u00e9sidentiel de la science - Centre national de la recherche scientifique (CNRS)",
+			"link": "https://www.cnrs.fr/fr/cnrsinfo/un-nouveau-conseil-presidentiel-de-la-science",
+			"pubDate": "Fri, 08 Dec 2023 12:00:00 GMT",
+			"image": "https://www.cnrs.fr/sites/default/files/image/Conseil%20scientifique_Photo%20Macron%203.PNG",
 			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "",
-			"url": "",
-			"description": ""
+			"site_name": "CNRS",
+			"url": "https://www.cnrs.fr/fr/cnrsinfo/un-nouveau-conseil-presidentiel-de-la-science",
+			"description": "Un nouveau Conseil pr\u00e9sidentiel de la science, annonc\u00e9 par le pr\u00e9sident de la R\u00e9publique fran\u00e7aise Emmanuel Macron le 7 d\u00e9cembre 2023, vise"
 		},
 		{
-			"title": "Le D\u00e9partement universitaire des sciences d'Agen vainqueur des Int\u00e9gra'jeunaises - Le Petit Bleu d'Agen",
-			"link": "https://www.petitbleu.fr/2023/12/13/le-departement-universitaire-des-sciences-dagen-vainqueur-des-integrajeunaises-11639376.php",
-			"pubDate": "Wed, 13 Dec 2023 09:36:00 GMT",
-			"image": "https://images.petitbleu.fr/api/v1/images/view/65797999707a097a4e6f11ff/large/image.jpg?v=1",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "petitbleu.fr",
-			"url": "https://www.petitbleu.fr/2023/12/13/le-departement-universitaire-des-sciences-dagen-vainqueur-des-integrajeunaises-11639376.php",
-			"description": "Depuis 2015, l'Agglom\u00e9ration et la ville d'Agen, en collaboration avec le Mouvement jeunesse - Monte le son (MJMLS), organisent des rencontres entre \u00e9tudiants des facult\u00e9s et \u00e9coles sup\u00e9rieures d'Agen. La neuvi\u00e8me..."
-		},
-		{
-			"title": "Exploration des lunes de Mars: l'instrument fran\u00e7ais MIRS pr\u00eat \u00e0 partir au Japon - Sciences et Avenir",
-			"link": "https://news.google.com/rss/articles/CBMif2h0dHBzOi8vd3d3LnNjaWVuY2VzZXRhdmVuaXIuZnIvc2NpZW5jZXMvZXhwbG9yYXRpb24tZGVzLWx1bmVzLWRlLW1hcnMtbC1pbnN0cnVtZW50LWZyYW5jYWlzLW1pcnMtcHJldC1hLXBhcnRpci1hdS1qYXBvbl8xNzU2NjfSAQA?oc=5",
-			"pubDate": "Thu, 14 Dec 2023 16:43:00 GMT",
+			"title": "Sciences Po Paris : Quels sont les campus en r\u00e9gion les plus attractifs ? - Challenges",
+			"link": "https://news.google.com/rss/articles/CBMibWh0dHBzOi8vd3d3LmNoYWxsZW5nZXMuZnIvZnJhbmNlL3NjaWVuY2VzLXBvLXBhcmlzLXF1ZWxzLXNvbnQtbGVzLWNhbXB1cy1lbi1yZWdpb24tbGVzLXBsdXMtYXR0cmFjdGlmc184NzcxMzTSAQA?oc=5",
+			"pubDate": "Wed, 13 Dec 2023 16:00:00 GMT",
 			"image": "https://picsum.photos/200/300?grayscale",
 			"logo": "https://picsum.photos/32/32?grayscale",
 			"site_name": "",
@@ -401,9 +391,9 @@
 			"description": "Ce lundi, le directeur de l\u2019institut d\u2019\u00e9tudes politiques a annonc\u00e9 sa mise en retrait provisoire de ses fonctions."
 		},
 		{
-			"title": "Sciences Po Paris : Quels sont les campus en r\u00e9gion les plus attractifs ? - Challenges",
-			"link": "https://news.google.com/rss/articles/CBMibWh0dHBzOi8vd3d3LmNoYWxsZW5nZXMuZnIvZnJhbmNlL3NjaWVuY2VzLXBvLXBhcmlzLXF1ZWxzLXNvbnQtbGVzLWNhbXB1cy1lbi1yZWdpb24tbGVzLXBsdXMtYXR0cmFjdGlmc184NzcxMzTSAQA?oc=5",
-			"pubDate": "Wed, 13 Dec 2023 16:00:00 GMT",
+			"title": "Les vid\u00e9os Sciences et Avenir - Sciences et Avenir",
+			"link": "https://news.google.com/rss/articles/CBMiJ2h0dHBzOi8vd3d3LnNjaWVuY2VzZXRhdmVuaXIuZnIvdmlkZW9zL9IBAA?oc=5",
+			"pubDate": "Fri, 08 Dec 2023 15:25:00 GMT",
 			"image": "https://picsum.photos/200/300?grayscale",
 			"logo": "https://picsum.photos/32/32?grayscale",
 			"site_name": "",
@@ -411,9 +401,9 @@
 			"description": ""
 		},
 		{
-			"title": "Les vid\u00e9os Sciences et Avenir - Sciences et Avenir",
-			"link": "https://news.google.com/rss/articles/CBMiJ2h0dHBzOi8vd3d3LnNjaWVuY2VzZXRhdmVuaXIuZnIvdmlkZW9zL9IBAA?oc=5",
-			"pubDate": "Fri, 08 Dec 2023 15:25:00 GMT",
+			"title": "Exploration des lunes de Mars: l'instrument fran\u00e7ais MIRS pr\u00eat \u00e0 partir au Japon - Sciences et Avenir",
+			"link": "https://news.google.com/rss/articles/CBMif2h0dHBzOi8vd3d3LnNjaWVuY2VzZXRhdmVuaXIuZnIvc2NpZW5jZXMvZXhwbG9yYXRpb24tZGVzLWx1bmVzLWRlLW1hcnMtbC1pbnN0cnVtZW50LWZyYW5jYWlzLW1pcnMtcHJldC1hLXBhcnRpci1hdS1qYXBvbl8xNzU2NjfSAQA?oc=5",
+			"pubDate": "Thu, 14 Dec 2023 16:43:00 GMT",
 			"image": "https://picsum.photos/200/300?grayscale",
 			"logo": "https://picsum.photos/32/32?grayscale",
 			"site_name": "",
@@ -431,14 +421,24 @@
 			"description": ""
 		},
 		{
-			"title": "CNRS Biologie - CNRS-INSB",
-			"link": "https://www.insb.cnrs.fr/fr/institut-des-sciences-biologiques",
-			"pubDate": "Fri, 08 Dec 2023 12:00:00 GMT",
-			"image": "https://www.insb.cnrs.fr/sites/institut_insb/files/styles/institut_home_top/public/image/Une%203_0.jpg?h=991f08c2&itok=nFuQDk8m",
+			"title": "Question de science. Pourquoi les petits ont-ils plus froid que les grands ? - Ouest-France",
+			"link": "https://news.google.com/rss/articles/CBMiqgFodHRwczovL3d3dy5vdWVzdC1mcmFuY2UuZnIvcGFydGVuYWlyZXMvZXNwYWNlLWRlcy1zY2llbmNlcy9xdWVzdGlvbi1kZS1zY2llbmNlLXBvdXJxdW9pLWxlcy1wZXRpdHMtb250LWlscy1wbHVzLWZyb2lkLXF1ZS1sZXMtZ3JhbmRzLTdjNzI4YWE2LTkzODQtMTFlZS1hY2Q0LTMyMzFmYzgxOTVhN9IBAA?oc=5",
+			"pubDate": "Thu, 14 Dec 2023 09:18:01 GMT",
+			"image": "https://picsum.photos/200/300?grayscale",
 			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "CNRS Biologie",
-			"url": "https://www.insb.cnrs.fr/fr/institut-des-sciences-biologiques",
+			"site_name": "",
+			"url": "",
 			"description": ""
+		},
+		{
+			"title": "Conseil pr\u00e9sidentiel de la science : \u00ab La multiplication de ce type d'instances affaiblit les structures traditionnelles du ... - Le Monde",
+			"link": "https://www.lemonde.fr/idees/article/2023/12/14/conseil-presidentiel-de-la-science-la-multiplication-de-ce-type-d-instances-affaiblit-les-structures-traditionnelles-du-regime_6205777_3232.html",
+			"pubDate": "Thu, 14 Dec 2023 08:00:06 GMT",
+			"image": "https://img.lemde.fr/2023/12/07/0/0/7224/4816/1440/960/60/0/c8c05e7_2023-12-07t122311z-1589337989-rc2cs4aofduh-rtrmadp-3-france-politics.JPG",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "Le Monde.fr",
+			"url": "https://www.lemonde.fr/idees/article/2023/12/14/conseil-presidentiel-de-la-science-la-multiplication-de-ce-type-d-instances-affaiblit-les-structures-traditionnelles-du-regime_6205777_3232.html",
+			"description": "TRIBUNE. Pour anodine que puisse para\u00eetre la mise en place d\u2019un groupe de scientifiques destin\u00e9 \u00e0 \u00e9clairer le chef de l\u2019Etat, cette initiative augmente le nombre des interm\u00e9diaires dans la prise de d\u00e9cision, en marge de la Constitution, rel\u00e8ve, dans une tribune au \u00ab\u00a0Monde\u00a0\u00bb, le juriste Thibaud Mulier."
 		},
 		{
 			"title": "Soup\u00e7ons de violences conjugales : Mathias Vicherat, directeur de Sciences Po Paris, \"propose\" sa \"mise en retrait ... - franceinfo",
@@ -451,13 +451,13 @@
 			"description": "Mathias Vicherat et sa compagne se sont accus\u00e9s r\u00e9ciproquement de violences conjugales et ont \u00e9t\u00e9 plac\u00e9s en garde \u00e0 vue la semaine derni\u00e8re. Aucune plainte n'a \u00e9t\u00e9 d\u00e9pos\u00e9e \u00e0 ce stade, mais une enqu\u00eate pr\u00e9liminaire est ouverte."
 		},
 		{
-			"title": "Vill\u00e9. Les sciences se d\u00e9clinent au f\u00e9minin au coll\u00e8ge du Klosterwald - DNA - Derni\u00e8res Nouvelles d'Alsace",
-			"link": "https://news.google.com/rss/articles/CBMiZmh0dHBzOi8vd3d3LmRuYS5mci9lZHVjYXRpb24vMjAyMy8xMi8xNC9sZXMtc2NpZW5jZXMtc2UtZGVjbGluZW50LWF1LWZlbWluaW4tYXUtY29sbGVnZS1kdS1rbG9zdGVyd2FsZNIBAA?oc=5",
-			"pubDate": "Thu, 14 Dec 2023 00:20:48 GMT",
-			"image": "https://cdn-s-www.dna.fr/images/B315B54F-96B0-43EF-8C20-7CEB3E05A0DB/FB1200/photo-1702583260.jpg",
+			"title": "CNRS Biologie - CNRS-INSB",
+			"link": "https://www.insb.cnrs.fr/fr/institut-des-sciences-biologiques",
+			"pubDate": "Fri, 08 Dec 2023 12:00:00 GMT",
+			"image": "https://www.insb.cnrs.fr/sites/institut_insb/files/styles/institut_home_top/public/image/Une%203_0.jpg?h=991f08c2&itok=nFuQDk8m",
 			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "",
-			"url": "",
+			"site_name": "CNRS Biologie",
+			"url": "https://www.insb.cnrs.fr/fr/institut-des-sciences-biologiques",
 			"description": ""
 		},
 		{
@@ -481,16 +481,6 @@
 			"description": ""
 		},
 		{
-			"title": "Des chercheurs cr\u00e9ent des v\u00eatements aliment\u00e9s par l'\u00e9nergie solaire et qui s'adaptent aux changements de temp\u00e9rature - Yahoo Actualit\u00e9s",
-			"link": "https://fr.news.yahoo.com/chercheurs-cr%C3%A9ent-v%C3%AAtements-aliment%C3%A9s-l%C3%A9nergie-190000576.html",
-			"pubDate": "Thu, 14 Dec 2023 19:00:00 GMT",
-			"image": "https://media.zenfs.com/fr/sciencesetavenir.fr/b29729b9c2a6b59bebdd46f0cbdb19b9",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "Yahoo News",
-			"url": "https://fr.news.yahoo.com/chercheurs-cr%C3%A9ent-v%C3%AAtements-aliment%C3%A9s-l%C3%A9nergie-190000576.html",
-			"description": "Des chercheurs de l'Universit\u00e9 de Nankai \u00e0 Tianjin (Chine) ont cr\u00e9\u00e9 un syst\u00e8me de v\u00eatements thermor\u00e9gulateurs fonctionnant \u00e0 l'\u00e9nergie solaire. Ce nouveau dispositif permettrait au corps de s'adapter rapidement \u00e0 divers changements de temp\u00e9rature ambiante."
-		},
-		{
 			"title": "6e \u00e9dition du Festival Sud de Sciences \"d\u00e9fis environnementaux et soci\u00e9taux\" | Site Web IRD - IRD",
 			"link": "https://news.google.com/rss/articles/CBMiXWh0dHBzOi8vd3d3LmlyZC5mci82ZS1lZGl0aW9uLWR1LWZlc3RpdmFsLXN1ZC1kZS1zY2llbmNlcy1kZWZpcy1lbnZpcm9ubmVtZW50YXV4LWV0LXNvY2lldGF1eNIBAA?oc=5",
 			"pubDate": "Mon, 27 Nov 2023 08:00:00 GMT",
@@ -501,16 +491,6 @@
 			"description": ""
 		},
 		{
-			"title": "Les r\u00e9sultats de la premi\u00e8re chasse aux civilisations extra-terrestres dans d'autres galaxies r\u00e9v\u00e9l\u00e9s - Futura",
-			"link": "https://www.futura-sciences.com/sciences/actualites/astronomie-resultats-premiere-chasse-civilisations-extra-terrestres-autres-galaxies-reveles-110118/",
-			"pubDate": "Thu, 14 Dec 2023 20:19:15 GMT",
-			"image": "https://cdn.futura-sciences.com/buildsv6/images/largeoriginal/d/d/c/ddcb87a034_50188299_message-extraterrestre-capsule-temporelle.jpg",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "Futura",
-			"url": "https://www.futura-sciences.com/sciences/actualites/astronomie-resultats-premiere-chasse-civilisations-extra-terrestres-autres-galaxies-reveles-110118/",
-			"description": "Le programme Seti, lanc\u00e9 il y a presque 60 ans dans le but de d\u00e9tecter des \u00e9missions radio extra-terrestres, et m\u00eame d'y r\u00e9pondre par ce moyen, a le vent en poupe depuis une d\u00e9cennie. Il peut se..."
-		},
-		{
 			"title": "Coll\u00e8ge sciences et technologies - Universit\u00e9 de Bordeaux",
 			"link": "https://www.u-bordeaux.fr/universite/organisation-et-fonctionnement/composantes-de-formation/college-sciences-et-technologies",
 			"pubDate": "Thu, 30 Nov 2023 08:00:00 GMT",
@@ -519,16 +499,6 @@
 			"site_name": "Universit\u00e9 de Bordeaux",
 			"url": "https://www.u-bordeaux.fr/universite/organisation-et-fonctionnement/composantes-de-formation/college-sciences-et-technologies",
 			"description": "Le coll\u00e8ge sciences et technologies rassemble dans toutes ses composantes pr\u00e8s de 8 200 \u00e9tudiants consacrant leurs efforts aux grands domaines des math\u00e9matiques et de leurs interactions, de l\u2019informatique, de la physique, des sciences de l\u2019ing\u00e9nieur, de la chimie, de la biologie et des sciences de la Terre et de l\u2019environnement."
-		},
-		{
-			"title": "Sciences Po: Mathias Vicherat \u00abpropose\u00bb sa \u00abmise en retrait provisoire\u00bb - Le Figaro",
-			"link": "https://www.lefigaro.fr/actualite-france/sciences-po-mathias-vicherat-propose-sa-mise-en-retrait-provisoire-20231211",
-			"pubDate": "Mon, 11 Dec 2023 08:23:00 GMT",
-			"image": "https://i.f1g.fr/media/cms/1200x630_crop/2023/12/11/6e842b7e0198ebcaa5d1341f63945db114e6ebbf297501f7b888bdc020373103.jpg",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "Le Figaro",
-			"url": "https://www.lefigaro.fr/actualite-france/sciences-po-mathias-vicherat-propose-sa-mise-en-retrait-provisoire-20231211",
-			"description": "Entendu r\u00e9cemment par la police dans une affaire de violences conjugales, le directeur de l\u2019\u00e9cole a \u00abpropos\u00e9\u00bb lundi sa \u00abmise en retrait provisoire\u00bb \u00e0 la pr\u00e9sidente de la Fondation nationale des sciences politiques (FNSP), dans un message adress\u00e9 \u00e0 toute l'\u00e9cole."
 		},
 		{
 			"title": "Le directeur de Sciences Po propose sa \u00ab mise en retrait provisoire \u00bb apr\u00e8s des accusations de violences\u2026 - 20 Minutes",
@@ -561,6 +531,16 @@
 			"description": "Jeudi 14 d\u00e9cembre, dix lyc\u00e9ens cal\u00e9doniens passeront le grand oral d\u2019admission \u00e0 Sciences Po, en visio, depuis Noum\u00e9a. Un record depuis la signature, en 2010, d\u2019une convention d\u2019\u00e9ducation prioritaire entre la Nouvelle-Cal\u00e9donie et la grande \u00e9cole. Elle permet de lever certains obstacles."
 		},
 		{
+			"title": "Summer School 2024 : rejoignez la communaut\u00e9 internationale de Sciences Po ! - Sciences Po",
+			"link": "https://news.google.com/rss/articles/CBMiWmh0dHBzOi8vd3d3LnNjaWVuY2VzcG8uZnIvc3VtbWVyLXNjaG9vbC9mci9hY3R1YWxpdGVzL3N1bW1lci1zY2hvb2wtb3V2ZXJ0dXJlLWNhbmRpZGF0dXJlc9IBAA?oc=5",
+			"pubDate": "Wed, 06 Dec 2023 03:33:45 GMT",
+			"image": "https://www.sciencespo.fr/summer-school/fr/static/f8c3c6f6d2f2c96756fce8d1560fae18/8c6f8/summer_school_applications_2023_2024_sciencespo_957d299d9e.jpg",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "Summer School & Short Courses",
+			"url": "",
+			"description": ""
+		},
+		{
 			"title": "AI Act : l'UE trouve un terrain d'entente pour encadrer l'intelligence artificielle - Sciences - FRANCE 24",
 			"link": "https://news.google.com/rss/articles/CBMijgFodHRwczovL3d3dy5mcmFuY2UyNC5jb20vZnIvJUMzJUE5bWlzc2lvbnMvc2NpZW5jZXMvMjAyMzEyMTEtYWktYWN0LWwtdWUtdHJvdXZlLXVuLXRlcnJhaW4tZC1lbnRlbnRlLXBvdXItZW5jYWRyZXItbC1pbnRlbGxpZ2VuY2UtYXJ0aWZpY2llbGxl0gEA?oc=5",
 			"pubDate": "Mon, 11 Dec 2023 13:16:35 GMT",
@@ -569,26 +549,6 @@
 			"site_name": "",
 			"url": "",
 			"description": ""
-		},
-		{
-			"title": "Un nouveau Conseil pr\u00e9sidentiel de la science - Centre national de la recherche scientifique (CNRS)",
-			"link": "https://www.cnrs.fr/fr/cnrsinfo/un-nouveau-conseil-presidentiel-de-la-science",
-			"pubDate": "Fri, 08 Dec 2023 12:00:00 GMT",
-			"image": "https://www.cnrs.fr/sites/default/files/image/Conseil%20scientifique_Photo%20Macron%203.PNG",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "CNRS",
-			"url": "https://www.cnrs.fr/fr/cnrsinfo/un-nouveau-conseil-presidentiel-de-la-science",
-			"description": "Un nouveau Conseil pr\u00e9sidentiel de la science, annonc\u00e9 par le pr\u00e9sident de la R\u00e9publique fran\u00e7aise Emmanuel Macron le 7 d\u00e9cembre 2023, vise"
-		},
-		{
-			"title": "Manger de bonne heure pourrait r\u00e9duire le risque cardiovasculaire, selon une nouvelle \u00e9tude - Les \u00c9chos",
-			"link": "https://www.lesechos.fr/idees-debats/sciences-prospective/manger-de-bonne-heure-pourrait-reduire-le-risque-cardiovasculaire-selon-une-nouvelle-etude-2041447",
-			"pubDate": "Thu, 14 Dec 2023 10:24:00 GMT",
-			"image": "https://media.lesechos.com/api/v1/images/view/657ad7c7f1ae9c648e31177d/1280x720/01001021355924-web-tete.jpg",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "Les Echos",
-			"url": "https://www.lesechos.fr/idees-debats/sciences-prospective/manger-de-bonne-heure-pourrait-reduire-le-risque-cardiovasculaire-selon-une-nouvelle-etude-2041447",
-			"description": "Les scientifiques se sont pench\u00e9s sur les associations entre rythmes de repas et maladies cardiovasculaires. Prendre ses premier et dernier repas plus t\u00f4t avec une plus longue p\u00e9riode de je\u00fbne nocturne serait le meilleur sc\u00e9nario pour rester en bonne sant\u00e9."
 		},
 		{
 			"title": "Racisme, homophobie\u2026 plainte du directeur de Sciences-po Bordeaux apr\u00e8s des messages haineux entre \u00e9l\u00e8ves - Le Parisien",
@@ -601,6 +561,16 @@
 			"description": "Depuis juin\u00a02023, les nouveaux \u00e9l\u00e8ves de la prestigieuse \u00e9cole \u00e9changent sur Instagram. Une conversation qui a donn\u00e9 lieu \u00e0 de nombreux d\u00e9ra"
 		},
 		{
+			"title": "Des chercheurs cr\u00e9ent des v\u00eatements aliment\u00e9s par l'\u00e9nergie solaire et qui s'adaptent aux changements de temp\u00e9rature - Yahoo Actualit\u00e9s",
+			"link": "https://fr.news.yahoo.com/chercheurs-cr%C3%A9ent-v%C3%AAtements-aliment%C3%A9s-l%C3%A9nergie-190000576.html",
+			"pubDate": "Thu, 14 Dec 2023 19:00:00 GMT",
+			"image": "https://media.zenfs.com/fr/sciencesetavenir.fr/b29729b9c2a6b59bebdd46f0cbdb19b9",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "Yahoo News",
+			"url": "https://fr.news.yahoo.com/chercheurs-cr%C3%A9ent-v%C3%AAtements-aliment%C3%A9s-l%C3%A9nergie-190000576.html",
+			"description": "Des chercheurs de l'Universit\u00e9 de Nankai \u00e0 Tianjin (Chine) ont cr\u00e9\u00e9 un syst\u00e8me de v\u00eatements thermor\u00e9gulateurs fonctionnant \u00e0 l'\u00e9nergie solaire. Ce nouveau dispositif permettrait au corps de s'adapter rapidement \u00e0 divers changements de temp\u00e9rature ambiante."
+		},
+		{
 			"title": "Retrait de Mathias Vicherat \u00e0 Sciences Po : \u00ab une bonne nouvelle insuffisante \u00bb - Le Point",
 			"link": "https://www.lepoint.fr/societe/retrait-de-mathias-vicherat-a-sciences-po-une-bonne-nouvelle-insuffisante-11-12-2023-2546625_23.php",
 			"pubDate": "Mon, 11 Dec 2023 17:38:00 GMT",
@@ -609,26 +579,6 @@
 			"site_name": "Le Point",
 			"url": "https://www.lepoint.fr/societe/retrait-de-mathias-vicherat-a-sciences-po-une-bonne-nouvelle-insuffisante-11-12-2023-2546625_23.php",
 			"description": "Les syndicats \u00e9tudiants saluent la mise en retrait du directeur de l\u2019\u00e9cole, une semaine apr\u00e8s sa\u00a0garde \u00e0 vue pour violences conjugales. Mais certains continuent d\u2019appeler\u00a0\u00e0 sa d\u00e9mission."
-		},
-		{
-			"title": "Summer School 2024 : rejoignez la communaut\u00e9 internationale de Sciences Po ! - Sciences Po",
-			"link": "https://news.google.com/rss/articles/CBMiWmh0dHBzOi8vd3d3LnNjaWVuY2VzcG8uZnIvc3VtbWVyLXNjaG9vbC9mci9hY3R1YWxpdGVzL3N1bW1lci1zY2hvb2wtb3V2ZXJ0dXJlLWNhbmRpZGF0dXJlc9IBAA?oc=5",
-			"pubDate": "Tue, 05 Dec 2023 08:00:00 GMT",
-			"image": "https://www.sciencespo.fr/summer-school/fr/static/f8c3c6f6d2f2c96756fce8d1560fae18/8c6f8/summer_school_applications_2023_2024_sciencespo_957d299d9e.jpg",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "Summer School & Short Courses",
-			"url": "",
-			"description": ""
-		},
-		{
-			"title": "Sport et sciences, th\u00e9matique de La science se livre 2024 - Conseil d\u00e9partemental des Hauts-de-Seine",
-			"link": "https://www.hauts-de-seine.fr/toutes-les-actualites/detail/sport-et-sciences-thematique-e-la-science-se-livre-2024",
-			"pubDate": "Fri, 08 Dec 2023 14:03:45 GMT",
-			"image": "https://www.hauts-de-seine.fr/fileadmin/_processed_/d/5/csm_SSL-2024-940x520__003__fabc7eef45.jpg",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "Conseil d\u00e9partemental des Hauts-de-Seine",
-			"url": "https://www.hauts-de-seine.fr/toutes-les-actualites/detail/sport-et-sciences-thematique-e-la-science-se-livre-2024",
-			"description": "Le D\u00e9partement lance la 28e \u00e9dition de La Science se livre, du 20 janvier au 11 f\u00e9vrier, manifestation culturelle gratuite pour partager la science avec tous les publics Cette ann\u00e9e, \u00e0 l\u2019occasion des Jeux Olympiques et Paralympiques de Paris, La Science se livre mettra le sport \u00e0 l\u2019honneur. "
 		},
 		{
 			"title": "Les partis pris : \"Sciences Po/Woke, le retour de flamme\", \"COP 28, des avanc\u00e9es mais...\" et \"Le p\u00e9tage de plomb d'un d\u00e9put\u00e9\" - TF1 INFO",
@@ -671,6 +621,26 @@
 			"description": "Du lundi au vendredi de 16h &agrave; 17h sur France Culture, Natacha Triou pr&eacute;sente \"La Science, CQFD\", une &eacute;mission de vulgarisation scientifique qui donne la parole aux chercheuses et..."
 		},
 		{
+			"title": "Sport et sciences, th\u00e9matique de La science se livre 2024 - Conseil d\u00e9partemental des Hauts-de-Seine",
+			"link": "https://www.hauts-de-seine.fr/toutes-les-actualites/detail/sport-et-sciences-thematique-e-la-science-se-livre-2024",
+			"pubDate": "Fri, 08 Dec 2023 14:03:45 GMT",
+			"image": "https://www.hauts-de-seine.fr/fileadmin/_processed_/d/5/csm_SSL-2024-940x520__003__fabc7eef45.jpg",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "Conseil d\u00e9partemental des Hauts-de-Seine",
+			"url": "https://www.hauts-de-seine.fr/toutes-les-actualites/detail/sport-et-sciences-thematique-e-la-science-se-livre-2024",
+			"description": "Le D\u00e9partement lance la 28e \u00e9dition de La Science se livre, du 20 janvier au 11 f\u00e9vrier, manifestation culturelle gratuite pour partager la science avec tous les publics Cette ann\u00e9e, \u00e0 l\u2019occasion des Jeux Olympiques et Paralympiques de Paris, La Science se livre mettra le sport \u00e0 l\u2019honneur. "
+		},
+		{
+			"title": "Vill\u00e9. Les sciences se d\u00e9clinent au f\u00e9minin au coll\u00e8ge du Klosterwald - DNA - Derni\u00e8res Nouvelles d'Alsace",
+			"link": "https://news.google.com/rss/articles/CBMiZmh0dHBzOi8vd3d3LmRuYS5mci9lZHVjYXRpb24vMjAyMy8xMi8xNC9sZXMtc2NpZW5jZXMtc2UtZGVjbGluZW50LWF1LWZlbWluaW4tYXUtY29sbGVnZS1kdS1rbG9zdGVyd2FsZNIBAA?oc=5",
+			"pubDate": "Thu, 14 Dec 2023 03:19:23 GMT",
+			"image": "https://cdn-s-www.dna.fr/images/B315B54F-96B0-43EF-8C20-7CEB3E05A0DB/FB1200/photo-1702583260.jpg",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "",
+			"url": "",
+			"description": ""
+		},
+		{
 			"title": "\u00c0 Plou\u00e9zec, le sculpteur Kito, m\u00e9daill\u00e9 de platine des Arts Sciences et Lettres - Ouest-France",
 			"link": "https://news.google.com/rss/articles/CBMimwFodHRwczovL3d3dy5vdWVzdC1mcmFuY2UuZnIvY3VsdHVyZS9hcnRzL2EtcGxvdWV6ZWMtbGUtc2N1bHB0ZXVyLWtpdG8tbWVkYWlsbGUtZGUtcGxhdGluZS1kZXMtYXJ0cy1zY2llbmNlcy1ldC1sZXR0cmVzLTdmNjJhZTg0LTk3M2ItMTFlZS1iNWFiLTRjOWRiYmM0Y2UxOdIBAA?oc=5",
 			"pubDate": "Wed, 13 Dec 2023 06:15:37 GMT",
@@ -681,14 +651,14 @@
 			"description": ""
 		},
 		{
-			"title": "Sous le vent galactique : premi\u00e8re cartographie de la mati\u00e8re expuls\u00e9e des galaxies - France Culture",
-			"link": "https://www.radiofrance.fr/franceculture/podcasts/avec-sciences/sous-le-vent-galactique-la-premiere-cartographie-de-la-matiere-expulsee-des-galaxies-5816073",
-			"pubDate": "Thu, 14 Dec 2023 06:59:37 GMT",
-			"image": "https://www.radiofrance.fr/s3/cruiser-production/2023/12/f42a5174-2e29-49b0-bd99-0911f346edf2/1200x680_sc_gettyimages-1455373371.jpg",
+			"title": "Sciences Po : le directeur Mathias Vicherat \"propose\" sa \"mise en retrait provisoire\" - France 3 R\u00e9gions",
+			"link": "https://france3-regions.francetvinfo.fr/paris-ile-de-france/paris/sciences-po-le-directeur-mathias-vicherat-propose-sa-mise-en-retrait-provisoire-2887799.html",
+			"pubDate": "Mon, 11 Dec 2023 10:18:33 GMT",
+			"image": "https://france3-regions.francetvinfo.fr/image/WG0rExCpXmAq_1fH39OX_O6SqhU/930x620/regions/2023/12/11/maxmatinnews515200-6576e05382afd680076797.jpg",
 			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "France Culture",
-			"url": "https://www.radiofrance.fr/franceculture/podcasts/avec-sciences/sous-le-vent-galactique-la-premiere-cartographie-de-la-matiere-expulsee-des-galaxies-5816073",
-			"description": "En explosant, les \u00e9toiles massives propulsent de la mati\u00e8re hors de la galaxie sous forme de vents galactiques, mais leur nature diffuse et peu dense les rendent difficilement observables. Une nouvelle \u00e9tude \u00e9tablit la premi\u00e8re cartographie de la morphologie de ces vents cosmiques."
+			"site_name": "France 3 Paris Ile-de-France",
+			"url": "https://france3-regions.francetvinfo.fr/paris-ile-de-france/paris/sciences-po-le-directeur-mathias-vicherat-propose-sa-mise-en-retrait-provisoire-2887799.html",
+			"description": "Entendu r\u00e9cemment par la police dans une affaire de violences conjugales, le directeur de Sciences Po propose sa \"mise en retrait provisoire\" dans un message adress\u00e9 \u00e0 toute l'\u00e9cole."
 		},
 		{
 			"title": "Violences conjugales : le directeur de Sciences Po Paris Mathias Vicherat propose sa mise en retrait - Ouest-France",
@@ -711,6 +681,16 @@
 			"description": "Dans un message adress\u00e9 lundi \u00e0 toute l'\u00e9cole, Mathias Vicherat a expliqu\u00e9 avoir \"propos\u00e9 \u00e0 la pr\u00e9sidente de la Fondation nationale des sciences politiques (FNSP), Laurence Bertrand Dorl\u00e9ac, de (se) mettre provisoirement en retrait de (ses) fonctions\". \r\nJusqu'\u00e0 jeudi, trois r\u00e9unions ont lieu \u00e0 Scie"
 		},
 		{
+			"title": "Les r\u00e9sultats de la premi\u00e8re chasse aux civilisations extra-terrestres dans d'autres galaxies r\u00e9v\u00e9l\u00e9s - Futura",
+			"link": "https://www.futura-sciences.com/sciences/actualites/astronomie-resultats-premiere-chasse-civilisations-extra-terrestres-autres-galaxies-reveles-110118/",
+			"pubDate": "Thu, 14 Dec 2023 20:19:15 GMT",
+			"image": "https://cdn.futura-sciences.com/buildsv6/images/largeoriginal/d/d/c/ddcb87a034_50188299_message-extraterrestre-capsule-temporelle.jpg",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "Futura",
+			"url": "https://www.futura-sciences.com/sciences/actualites/astronomie-resultats-premiere-chasse-civilisations-extra-terrestres-autres-galaxies-reveles-110118/",
+			"description": "Le programme Seti, lanc\u00e9 il y a presque 60 ans dans le but de d\u00e9tecter des \u00e9missions radio extra-terrestres, et m\u00eame d'y r\u00e9pondre par ce moyen, a le vent en poupe depuis une d\u00e9cennie. Il peut se..."
+		},
+		{
 			"title": "Cycle de conf\u00e9rences \"Quelle science pour une transition \u00e9cologique ?\" - Nantes Universit\u00e9",
 			"link": "https://sciences-techniques.univ-nantes.fr/actualites-agenda/actualites-vie-de-la-faculte-et-de-luniversite/cycle-de-conferences-quelles-sciences-pour-une-transition-ecologique",
 			"pubDate": "Tue, 05 Dec 2023 08:00:00 GMT",
@@ -719,6 +699,26 @@
 			"site_name": "UFR Sciences et techniques",
 			"url": "https://sciences-techniques.univ-nantes.fr/actualites-agenda/actualites-vie-de-la-faculte-et-de-luniversite/cycle-de-conferences-quelles-sciences-pour-une-transition-ecologique",
 			"description": "Le cycle de conf\u00e9rence &#34;Quelle science pour une transition \u00e9cologique&#34; a \u00e9t\u00e9 mis en place en parall\u00e8le de l&#39;UE &#34;Transition \u00e9cologique&#34; propos\u00e9e aux \u00e9tudiants de L2. Il a pour objectif le questionnement vers l&#39;occupation plus durable et \u00e9quilibr\u00e9e de notre \u00e9cosyst\u00e8me qui para\u00eet aujourd&#39;hui n\u00e9cessaire. La science est \u00e0 la fois la &#34;connaissance du monde (abstrait, physique, vivant...)&#34; et la &#34;m\u00e9thode de recherche de cette connaissance&#34;. Elle permettra d&#39;\u00e9clairer la justesse, ou non, de nos choix."
+		},
+		{
+			"title": "Sous le vent galactique : premi\u00e8re cartographie de la mati\u00e8re expuls\u00e9e des galaxies - France Culture",
+			"link": "https://www.radiofrance.fr/franceculture/podcasts/avec-sciences/sous-le-vent-galactique-la-premiere-cartographie-de-la-matiere-expulsee-des-galaxies-5816073",
+			"pubDate": "Thu, 14 Dec 2023 06:59:37 GMT",
+			"image": "https://www.radiofrance.fr/s3/cruiser-production/2023/12/f42a5174-2e29-49b0-bd99-0911f346edf2/1200x680_sc_gettyimages-1455373371.jpg",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "France Culture",
+			"url": "https://www.radiofrance.fr/franceculture/podcasts/avec-sciences/sous-le-vent-galactique-la-premiere-cartographie-de-la-matiere-expulsee-des-galaxies-5816073",
+			"description": "En explosant, les \u00e9toiles massives propulsent de la mati\u00e8re hors de la galaxie sous forme de vents galactiques, mais leur nature diffuse et peu dense les rendent difficilement observables. Une nouvelle \u00e9tude \u00e9tablit la premi\u00e8re cartographie de la morphologie de ces vents cosmiques."
+		},
+		{
+			"title": "Manger de bonne heure pourrait r\u00e9duire le risque cardiovasculaire, selon une nouvelle \u00e9tude - Les \u00c9chos",
+			"link": "https://www.lesechos.fr/idees-debats/sciences-prospective/manger-de-bonne-heure-pourrait-reduire-le-risque-cardiovasculaire-selon-une-nouvelle-etude-2041447",
+			"pubDate": "Thu, 14 Dec 2023 10:24:00 GMT",
+			"image": "https://media.lesechos.com/api/v1/images/view/657ad7c7f1ae9c648e31177d/1280x720/01001021355924-web-tete.jpg",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "Les Echos",
+			"url": "https://www.lesechos.fr/idees-debats/sciences-prospective/manger-de-bonne-heure-pourrait-reduire-le-risque-cardiovasculaire-selon-une-nouvelle-etude-2041447",
+			"description": "Les scientifiques se sont pench\u00e9s sur les associations entre rythmes de repas et maladies cardiovasculaires. Prendre ses premier et dernier repas plus t\u00f4t avec une plus longue p\u00e9riode de je\u00fbne nocturne serait le meilleur sc\u00e9nario pour rester en bonne sant\u00e9."
 		},
 		{
 			"title": "Accus\u00e9 de violences conjugales, le directeur de Science Po Paris \u00ab propose \u00bb sa \u00ab mise en retrait provisoire \u00bb - Le Point",
@@ -731,17 +731,17 @@
 			"description": "Le directeur de Sciences Po Paris s\u2019est exprim\u00e9 dans un courrier aux \u00e9tudiants, contestant fermement\u00a0toutes violences sur son ex-compagne."
 		},
 		{
-			"title": "Si vous \u00eates un \u00ab couche-t\u00f4t \u00bb, \u00e7a pourrait venir de votre h\u00e9ritage g\u00e9n\u00e9tique n\u00e9andertalien ! - Futura",
-			"link": "https://www.futura-sciences.com/sciences/actualites/homme-si-vous-etes-couche-tot-ca-pourrait-venir-votre-heritage-genetique-neandertalien-110127/",
-			"pubDate": "Thu, 14 Dec 2023 13:15:20 GMT",
-			"image": "https://cdn.futura-sciences.com/buildsv6/images/largeoriginal/b/d/9/bd9ae12a2e_50209913_reveil-lever.jpg",
+			"title": "Mathias Vicherat se met \u00ab provisoirement en retrait \u00bb de la direction de Sciences Po - Le HuffPost",
+			"link": "https://www.huffingtonpost.fr/faits-divers/article/mathias-vicherat-directeur-de-sciences-po-paris-se-met-en-retrait-provisoire_226856.html",
+			"pubDate": "Mon, 11 Dec 2023 08:26:24 GMT",
+			"image": "https://huffpost-focus.sirius.press/2023/12/11/0/0/7479/4206/1820/1023/75/0/614df78_1702282659898-000-346x9bb.jpg",
 			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "Futura",
-			"url": "https://www.futura-sciences.com/sciences/actualites/homme-si-vous-etes-couche-tot-ca-pourrait-venir-votre-heritage-genetique-neandertalien-110127/",
-			"description": "Debout d\u00e8s l\u2019aurore et couch\u00e9 de bonne heure ? Ce comportement habituellement consid\u00e9r\u00e9 comme sain serait tout bonnement un avantage pour la vie dans les r\u00e9gions de hautes latitudes, o\u00f9 la dur\u00e9e..."
+			"site_name": "Le HuffPost",
+			"url": "https://www.huffingtonpost.fr/faits-divers/article/mathias-vicherat-directeur-de-sciences-po-paris-se-met-en-retrait-provisoire_226856.html",
+			"description": "Alors que le patron de Sciences Po Paris et son ex-compagne s\u2019accusent mutuellement de violences conjugales, le directeur a \u00ab\u00a0propos\u00e9\u00a0\u00bb de se mettre en retrait de l\u2019\u00e9tablissement."
 		},
 		{
-			"title": "Violences conjugales: le directeur de Sciences Po Paris \"propose\" sa \"mise en retrait provisoire\" - BFM Paris Ile-de-France",
+			"title": "Violences conjugales: le directeur de Sciences Po Paris \"propose\" sa \"mise en retrait provisoire\" - BFMTV",
 			"link": "https://www.bfmtv.com/paris/violences-conjugales-le-directeur-de-sciences-po-paris-propose-sa-mise-en-retrait-provisoire_AD-202312110320.html",
 			"pubDate": "Mon, 11 Dec 2023 08:17:00 GMT",
 			"image": "https://images.bfmtv.com/gBuE8hmkRK2Mouz4fC2EIKSO8uE=/0x106:2048x1258/2048x0/images/Mathias-Vicherat-1761246.jpg",
@@ -751,14 +751,14 @@
 			"description": "Mathias Vicherat, le directeur de Sciences Po Paris, et son \u00e9pouse s'accusent r\u00e9ciproquement de violences conjugales. Il a propos\u00e9 ce lundi 11 d\u00e9cembre sa \"mise en retrait provisoire\". "
 		},
 		{
-			"title": "Des oc\u00e9ans habitables sous la surface d'exoplan\u00e8tes glac\u00e9es ? - Futura",
-			"link": "https://www.futura-sciences.com/sciences/actualites/espace-oceans-habitables-sous-surface-exoplanetes-glacees-110139/",
-			"pubDate": "Thu, 14 Dec 2023 18:15:25 GMT",
-			"image": "https://cdn.futura-sciences.com/buildsv6/images/largeoriginal/c/b/a/cba03e92af_50209933_enceladus-plume.jpg",
+			"title": "Mati\u00e8re noire : tu veux mon photon ? - France Culture",
+			"link": "https://www.radiofrance.fr/franceculture/podcasts/la-science-cqfd/matiere-noire-tu-veux-mon-photon-6621329",
+			"pubDate": "Wed, 13 Dec 2023 14:32:29 GMT",
+			"image": "https://www.radiofrance.fr/s3/cruiser-production/2023/12/64890fe9-bcff-4e24-b088-bc31cccc0a3b/1200x680_sc_gettyimages-1424608190.jpg",
 			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "Futura",
-			"url": "https://www.futura-sciences.com/sciences/actualites/espace-oceans-habitables-sous-surface-exoplanetes-glacees-110139/",
-			"description": "Lorsque les scientifiques recherchent de la vie ailleurs que dans notre Syst\u00e8me solaire, ils se cantonnent g\u00e9n\u00e9ralement \u00e0 des exoplan\u00e8tes situ\u00e9es dans la zone habitable de leur \u00e9toile, sur..."
+			"site_name": "France Culture",
+			"url": "https://www.radiofrance.fr/franceculture/podcasts/la-science-cqfd/matiere-noire-tu-veux-mon-photon-6621329",
+			"description": "Des particules th\u00e9oriques appel\u00e9es \u201cphotons sombres\u201d pourraient jouer le r\u00f4le de \u201cportail\u201d entre la mati\u00e8re noire et le domaine visible. Comment d\u00e9crire ces particules\u00a0? Comment en est-on arriv\u00e9 \u00e0 formuler une telle hypoth\u00e8se, et surtout, comment la v\u00e9rifier de fa\u00e7on exp\u00e9rimentale\u00a0? "
 		},
 		{
 			"title": "Les Jeudis de l'histoire et de la philosophie des sciences (JHPS) - 2023-2024 | ENS - ENS",
@@ -771,14 +771,14 @@
 			"description": ""
 		},
 		{
-			"title": "Violences conjugales : Sciences Po sans conscience - Le Point",
-			"link": "https://www.lepoint.fr/invites-du-point/violences-conjugales-sciences-po-sans-conscience-09-12-2023-2546338_420.php",
-			"pubDate": "Sat, 09 Dec 2023 11:50:00 GMT",
-			"image": "https://static.lpnt.fr/images/2023/12/09/25697080lpw-25697184-mega-une-jpg_9964295.jpg",
+			"title": "PISA 2022 : une baisse du niveau en sciences - cafepedagogique.net",
+			"link": "https://www.cafepedagogique.net/2023/12/06/pisa-2022-une-baisse-du-niveau-en-sciences/",
+			"pubDate": "Wed, 06 Dec 2023 08:00:00 GMT",
+			"image": "https://www.cafepedagogique.net/wp-content/uploads/2023/12/labo-svt-2.jpg",
 			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "Le Point",
-			"url": "https://www.lepoint.fr/invites-du-point/violences-conjugales-sciences-po-sans-conscience-09-12-2023-2546338_420.php",
-			"description": "LA CHRONIQUE DE MICHEL RICHARD. Nouvelle affaire au sommet de la prestigieuse \u00e9cole et m\u00eame d\u00e9robade de ses dirigeants. Comment s\u2019obstiner \u00e0 ne pas assumer\u00a0son comportement\u00a0: dr\u00f4le de le\u00e7on\u00a0!"
+			"site_name": "Le Caf\u00e9 p\u00e9dagogique",
+			"url": "https://www.cafepedagogique.net/2023/12/06/pisa-2022-une-baisse-du-niveau-en-sciences/",
+			"description": "Le score fran\u00e7ais en culture scientifique diminue de 6 points en 4 ans. Avec un score \u00e0 487, la France se classe juste au-dessus de la moyenne des pays de l\u2019OCDE. L\u2019enqu\u00eate PISA 2022 montre surtout que\u00a0 les \u00e9carts se creusent davantage entre les bons \u00e9l\u00e8ves et les moins performants. S\u2019il fallait des preuves, le\u2026"
 		},
 		{
 			"title": "Coll\u00e8ge sciences de l'Homme - Universit\u00e9 de Bordeaux",
@@ -791,47 +791,17 @@
 			"description": "Le coll\u00e8ge sciences de l\u2019Homme comprend cinq composantes de formations : facult\u00e9 d\u2019anthropologie, facult\u00e9 de psychologie, facult\u00e9 des sciences de l\u2019\u00e9ducation, facult\u00e9 de sociologie et facult\u00e9 des STAPS."
 		},
 		{
-			"title": "PISA 2022 : une baisse du niveau en sciences - cafepedagogique.net",
-			"link": "https://www.cafepedagogique.net/2023/12/06/pisa-2022-une-baisse-du-niveau-en-sciences/",
-			"pubDate": "Wed, 06 Dec 2023 08:00:00 GMT",
-			"image": "https://www.cafepedagogique.net/wp-content/uploads/2023/12/labo-svt-2.jpg",
+			"title": "Violences conjugales : Sciences Po sans conscience - Le Point",
+			"link": "https://www.lepoint.fr/invites-du-point/violences-conjugales-sciences-po-sans-conscience-09-12-2023-2546338_420.php",
+			"pubDate": "Sat, 09 Dec 2023 11:50:00 GMT",
+			"image": "https://static.lpnt.fr/images/2023/12/09/25697080lpw-25697184-mega-une-jpg_9964295.jpg",
 			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "Le Caf\u00e9 p\u00e9dagogique",
-			"url": "https://www.cafepedagogique.net/2023/12/06/pisa-2022-une-baisse-du-niveau-en-sciences/",
-			"description": "Le score fran\u00e7ais en culture scientifique diminue de 6 points en 4 ans. Avec un score \u00e0 487, la France se classe juste au-dessus de la moyenne des pays de l\u2019OCDE. L\u2019enqu\u00eate PISA 2022 montre surtout que\u00a0 les \u00e9carts se creusent davantage entre les bons \u00e9l\u00e8ves et les moins performants. S\u2019il fallait des preuves, le\u2026"
+			"site_name": "Le Point",
+			"url": "https://www.lepoint.fr/invites-du-point/violences-conjugales-sciences-po-sans-conscience-09-12-2023-2546338_420.php",
+			"description": "LA CHRONIQUE DE MICHEL RICHARD. Nouvelle affaire au sommet de la prestigieuse \u00e9cole et m\u00eame d\u00e9robade de ses dirigeants. Comment s\u2019obstiner \u00e0 ne pas assumer\u00a0son comportement\u00a0: dr\u00f4le de le\u00e7on\u00a0!"
 		},
 		{
-			"title": "Les rivi\u00e8res des Pyr\u00e9n\u00e9es vont fortement s'ass\u00e9cher d'ici 2040 - Futura",
-			"link": "https://www.futura-sciences.com/planete/breves/rechauffement-climatique-rivieres-pyrenees-vont-fortement-assecher-ici-2040-9037/",
-			"pubDate": "Thu, 14 Dec 2023 13:50:52 GMT",
-			"image": "https://cdn.futura-sciences.com/buildsv6/images/largeoriginal/e/9/e/e9ed25000c_50209916_secheresse-riviere.jpg",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "Futura",
-			"url": "https://www.futura-sciences.com/planete/breves/rechauffement-climatique-rivieres-pyrenees-vont-fortement-assecher-ici-2040-9037/",
-			"description": "Les Pyr\u00e9n\u00e9es s'ass\u00e8chent d'ann\u00e9e en ann\u00e9e et la crainte concernant les stocks d'eau ne va faire que se confirmer, telles sont les conclusions d'une nouvelle \u00e9tude du Bureau de Recherches..."
-		},
-		{
-			"title": "\u00c0 Sciences Po, les \u00e9tudiants s'emparent de la question du \"retour au pays\" - Outre-mer la 1\u00e8re - Outre-mer la 1\u00e8re",
-			"link": "https://la1ere.francetvinfo.fr/a-sciences-po-les-etudiants-s-emparent-de-la-question-du-retour-au-pays-1449251.html",
-			"pubDate": "Fri, 08 Dec 2023 16:49:11 GMT",
-			"image": "https://la1ere.francetvinfo.fr/image/ltDG10UzKPJXv4jV4yIn4OVkgcA/930x620/outremer/2023/12/08/large-6573389d30a00590148216.jpg",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "Outre-mer la 1\u00e8re",
-			"url": "https://la1ere.francetvinfo.fr/a-sciences-po-les-etudiants-s-emparent-de-la-question-du-retour-au-pays-1449251.html",
-			"description": "Au sein du prestigieux institut de sciences politiques \u00e0 Paris, s'est tenue mercredi soir une conf\u00e9rence autour du th\u00e8me \" Refaire p\u00e9yi dans les Outre-mer\". Face aux parlementaires, aux associations et aux institutions publiques pr\u00e9sentes, les \u00e9tudiants ultramarins n'ont pas h\u00e9sit\u00e9 \u00e0 prendre la parole pour partager leur propre vision du \"retour au pays\"."
-		},
-		{
-			"title": "Mathias Vicherat se met \u00ab provisoirement en retrait \u00bb de la direction de Sciences Po - Le HuffPost",
-			"link": "https://www.huffingtonpost.fr/faits-divers/article/mathias-vicherat-directeur-de-sciences-po-paris-se-met-en-retrait-provisoire_226856.html",
-			"pubDate": "Mon, 11 Dec 2023 08:26:24 GMT",
-			"image": "https://huffpost-focus.sirius.press/2023/12/11/0/0/7479/4206/1820/1023/75/0/614df78_1702282659898-000-346x9bb.jpg",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "Le HuffPost",
-			"url": "https://www.huffingtonpost.fr/faits-divers/article/mathias-vicherat-directeur-de-sciences-po-paris-se-met-en-retrait-provisoire_226856.html",
-			"description": "Alors que le patron de Sciences Po Paris et son ex-compagne s\u2019accusent mutuellement de violences conjugales, le directeur a \u00ab\u00a0propos\u00e9\u00a0\u00bb de se mettre en retrait de l\u2019\u00e9tablissement."
-		},
-		{
-			"title": "Mise en retrait du directeur de Sciences po, Paris-Berlin de nuit... L'info \u00e0 midi en \u00cele-de-France - Le Journal du Pays Yonnais",
+			"title": "Mise en retrait du directeur de Sciences po, Paris-Berlin de nuit... L'info \u00e0 midi en \u00cele-de-France - actu.fr",
 			"link": "https://news.google.com/rss/articles/CBMihQFodHRwczovL2FjdHUuZnIvc29jaWV0ZS9taXNlLWVuLXJldHJhaXQtZHUtZGlyZWN0ZXVyLWRlLXNjaWVuY2VzLXBvLXBhcmlzLWJlcmxpbi1kZS1udWl0LWwtaW5mby1hLW1pZGktZW4taWxlLWRlLWZyYW5jZV82MDQ0MDkwMS5odG1s0gEA?oc=5",
 			"pubDate": "Mon, 11 Dec 2023 10:52:01 GMT",
 			"image": "https://picsum.photos/200/300?grayscale",
@@ -851,14 +821,14 @@
 			"description": ""
 		},
 		{
-			"title": "James-Webb tente de percer les secrets d'un myst\u00e9rieux nuage noir au c\u0153ur de la Voie lact\u00e9e - Futura",
-			"link": "https://www.futura-sciences.com/sciences/actualites/astronomie-james-webb-tente-percer-secrets-mysterieux-nuage-noir-coeur-voie-lactee-110099/",
-			"pubDate": "Thu, 14 Dec 2023 10:52:43 GMT",
-			"image": "https://cdn.futura-sciences.com/buildsv6/images/largeoriginal/2/e/d/2ed76c8b30_50170770_voie-lactee-gaia-edr3-esa.jpg",
+			"title": "\u00c0 Sciences Po, les \u00e9tudiants s'emparent de la question du \"retour au pays\" - Outre-mer la 1\u00e8re - Outre-mer la 1\u00e8re",
+			"link": "https://la1ere.francetvinfo.fr/a-sciences-po-les-etudiants-s-emparent-de-la-question-du-retour-au-pays-1449251.html",
+			"pubDate": "Fri, 08 Dec 2023 16:49:11 GMT",
+			"image": "https://la1ere.francetvinfo.fr/image/ltDG10UzKPJXv4jV4yIn4OVkgcA/930x620/outremer/2023/12/08/large-6573389d30a00590148216.jpg",
 			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "Futura",
-			"url": "https://www.futura-sciences.com/sciences/actualites/astronomie-james-webb-tente-percer-secrets-mysterieux-nuage-noir-coeur-voie-lactee-110099/",
-			"description": "Dans la r\u00e9gion centrale de la Voie lact\u00e9e, un myst\u00e9rieux nuage mol\u00e9culaire dense et froid devrait contenir aussi des pouponni\u00e8res d'\u00e9toiles en formation selon la th\u00e9orie standard de la formation..."
+			"site_name": "Outre-mer la 1\u00e8re",
+			"url": "https://la1ere.francetvinfo.fr/a-sciences-po-les-etudiants-s-emparent-de-la-question-du-retour-au-pays-1449251.html",
+			"description": "Au sein du prestigieux institut de sciences politiques \u00e0 Paris, s'est tenue mercredi soir une conf\u00e9rence autour du th\u00e8me \" Refaire p\u00e9yi dans les Outre-mer\". Face aux parlementaires, aux associations et aux institutions publiques pr\u00e9sentes, les \u00e9tudiants ultramarins n'ont pas h\u00e9sit\u00e9 \u00e0 prendre la parole pour partager leur propre vision du \"retour au pays\"."
 		},
 		{
 			"title": "Sciences Po et le monde - Sciences Po",
@@ -881,24 +851,14 @@
 			"description": ""
 		},
 		{
-			"title": "L'exposition \u00e0 la lumi\u00e8re bleue acc\u00e9l\u00e9rerait le vieillissement ! - Futura",
-			"link": "https://www.futura-sciences.com/sante/breves/vieillissement-exposition-lumiere-bleue-accelererait-vieillissement-9036/",
-			"pubDate": "Thu, 14 Dec 2023 15:06:15 GMT",
-			"image": "https://cdn.futura-sciences.com/buildsv6/images/largeoriginal/1/5/d/15daa43cc1_50209911_exposition-telephone-ecran.jpg",
+			"title": "Si vous \u00eates un \u00ab couche-t\u00f4t \u00bb, \u00e7a pourrait venir de votre h\u00e9ritage g\u00e9n\u00e9tique n\u00e9andertalien ! - Futura",
+			"link": "https://www.futura-sciences.com/sciences/actualites/homme-si-vous-etes-couche-tot-ca-pourrait-venir-votre-heritage-genetique-neandertalien-110127/",
+			"pubDate": "Thu, 14 Dec 2023 13:15:20 GMT",
+			"image": "https://cdn.futura-sciences.com/buildsv6/images/largeoriginal/b/d/9/bd9ae12a2e_50209913_reveil-lever.jpg",
 			"logo": "https://picsum.photos/32/32?grayscale",
 			"site_name": "Futura",
-			"url": "https://www.futura-sciences.com/sante/breves/vieillissement-exposition-lumiere-bleue-accelererait-vieillissement-9036/",
-			"description": "Vous \u00eates accro \u00e0 votre t\u00e9l\u00e9phone et \u00e0 votre ordinateur, et vous ne trouvez pas le courage de vous d\u00e9tacher de vos \u00e9crans ? Voici une nouvelle qui devrait vous aider \u00e0 passer \u00e0 l\u2019action :..."
-		},
-		{
-			"title": "Violences conjugales : le directeur de Sciences Po Paris propose sa \u00ab mise en retrait provisoire \u00bb - ELLE France",
-			"link": "https://news.google.com/rss/articles/CBMihQFodHRwczovL3d3dy5lbGxlLmZyL1NvY2lldGUvTmV3cy9WaW9sZW5jZXMtY29uanVnYWxlcy1sZS1kaXJlY3RldXItZGUtU2NpZW5jZXMtUG8tUGFyaXMtcHJvcG9zZS1zYS1taXNlLWVuLXJldHJhaXQtcHJvdmlzb2lyZS00MTgzOTQy0gGFAWh0dHBzOi8vYW1wLmVsbGUuZnIvU29jaWV0ZS9OZXdzL1Zpb2xlbmNlcy1jb25qdWdhbGVzLWxlLWRpcmVjdGV1ci1kZS1TY2llbmNlcy1Qby1QYXJpcy1wcm9wb3NlLXNhLW1pc2UtZW4tcmV0cmFpdC1wcm92aXNvaXJlLTQxODM5NDI?oc=5",
-			"pubDate": "Mon, 11 Dec 2023 09:23:48 GMT",
-			"image": "https://resize.elle.fr/original/var/plain_site/storage/images/societe/news/violences-conjugales-le-directeur-de-sciences-po-paris-propose-sa-mise-en-retrait-provisoire-4183942/100913247-1-fre-FR/Violences-conjugales-le-directeur-de-Sciences-Po-Paris-propose-sa-mise-en-retrait-provisoire.jpg",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "",
-			"url": "",
-			"description": ""
+			"url": "https://www.futura-sciences.com/sciences/actualites/homme-si-vous-etes-couche-tot-ca-pourrait-venir-votre-heritage-genetique-neandertalien-110127/",
+			"description": "Debout d\u00e8s l\u2019aurore et couch\u00e9 de bonne heure ? Ce comportement habituellement consid\u00e9r\u00e9 comme sain serait tout bonnement un avantage pour la vie dans les r\u00e9gions de hautes latitudes, o\u00f9 la dur\u00e9e..."
 		},
 		{
 			"title": "Quels sujets occupent les chercheurs de Sciences Po ? - Sciences Po",
@@ -911,7 +871,37 @@
 			"description": ""
 		},
 		{
-			"title": "Vieillissement : la science se d\u00e9ride ! - Radio France",
+			"title": "Les rivi\u00e8res des Pyr\u00e9n\u00e9es vont fortement s'ass\u00e9cher d'ici 2040 - Futura",
+			"link": "https://www.futura-sciences.com/planete/breves/rechauffement-climatique-rivieres-pyrenees-vont-fortement-assecher-ici-2040-9037/",
+			"pubDate": "Thu, 14 Dec 2023 13:50:52 GMT",
+			"image": "https://cdn.futura-sciences.com/buildsv6/images/largeoriginal/e/9/e/e9ed25000c_50209916_secheresse-riviere.jpg",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "Futura",
+			"url": "https://www.futura-sciences.com/planete/breves/rechauffement-climatique-rivieres-pyrenees-vont-fortement-assecher-ici-2040-9037/",
+			"description": "Les Pyr\u00e9n\u00e9es s'ass\u00e8chent d'ann\u00e9e en ann\u00e9e et la crainte concernant les stocks d'eau ne va faire que se confirmer, telles sont les conclusions d'une nouvelle \u00e9tude du Bureau de Recherches..."
+		},
+		{
+			"title": "Violences conjugales : le directeur de Sciences Po Paris propose sa \u00ab mise en retrait provisoire \u00bb - ELLE France",
+			"link": "https://news.google.com/rss/articles/CBMihQFodHRwczovL3d3dy5lbGxlLmZyL1NvY2lldGUvTmV3cy9WaW9sZW5jZXMtY29uanVnYWxlcy1sZS1kaXJlY3RldXItZGUtU2NpZW5jZXMtUG8tUGFyaXMtcHJvcG9zZS1zYS1taXNlLWVuLXJldHJhaXQtcHJvdmlzb2lyZS00MTgzOTQy0gGFAWh0dHBzOi8vYW1wLmVsbGUuZnIvU29jaWV0ZS9OZXdzL1Zpb2xlbmNlcy1jb25qdWdhbGVzLWxlLWRpcmVjdGV1ci1kZS1TY2llbmNlcy1Qby1QYXJpcy1wcm9wb3NlLXNhLW1pc2UtZW4tcmV0cmFpdC1wcm92aXNvaXJlLTQxODM5NDI?oc=5",
+			"pubDate": "Mon, 11 Dec 2023 09:23:48 GMT",
+			"image": "https://resize.elle.fr/original/var/plain_site/storage/images/societe/news/violences-conjugales-le-directeur-de-sciences-po-paris-propose-sa-mise-en-retrait-provisoire-4183942/100913247-1-fre-FR/Violences-conjugales-le-directeur-de-Sciences-Po-Paris-propose-sa-mise-en-retrait-provisoire.jpg",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "",
+			"url": "",
+			"description": ""
+		},
+		{
+			"title": "A Sciences Po, un master pour former les cadres du secteur de l'\u00e9ducation et de la recherche - Le Monde",
+			"link": "https://www.lemonde.fr/societe/article/2023/12/07/a-sciences-po-un-master-pour-former-les-cadres-du-secteur-de-l-education-et-de-la-recherche_6204463_3224.html",
+			"pubDate": "Thu, 07 Dec 2023 17:30:07 GMT",
+			"image": "https://img.lemde.fr/2023/12/06/0/3/3993/2662/1440/960/60/0/85db14b_1701876640676-000-par2357184.jpg",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "Le Monde.fr",
+			"url": "https://www.lemonde.fr/societe/article/2023/12/07/a-sciences-po-un-master-pour-former-les-cadres-du-secteur-de-l-education-et-de-la-recherche_6204463_3224.html",
+			"description": "Le domaine des politiques \u00e9ducatives, consid\u00e9r\u00e9 jusqu\u2019ici comme un faible pourvoyeur de d\u00e9bouch\u00e9s, deviendra une sp\u00e9cialit\u00e9 de master de l\u2019\u00e9tablissement \u00e0 la rentr\u00e9e 2024."
+		},
+		{
+			"title": "Vieillissement : la science se d\u00e9ride ! - France Culture",
 			"link": "https://www.radiofrance.fr/franceculture/podcasts/la-science-cqfd/vieillissement-la-science-se-deride-2646503",
 			"pubDate": "Tue, 12 Dec 2023 15:22:30 GMT",
 			"image": "https://www.radiofrance.fr/s3/cruiser-production/2023/12/b0ff6948-7f4a-4935-afe9-5920de7306d7/1200x680_sc_sc_gettyimages-508219713.jpg",
@@ -931,34 +921,14 @@
 			"description": "Alors qu\u2019elle s\u2019\u00e9tait lanc\u00e9e en fac de sciences sans ambition, Manon Cairat, originaire de Rivesaltes, a finalement trouv\u00e9 sa voie et a \u00e9t\u00e9 r\u00e9compens\u00e9e par l\u2019Or\u00e9al-Unesco.\u00a0La Catalane a \u00e9t\u00e9 s\u00e9lectionn\u00e9e par..."
 		},
 		{
-			"title": "A Sciences Po, un master pour former les cadres du secteur de l'\u00e9ducation et de la recherche - Le Monde",
-			"link": "https://www.lemonde.fr/societe/article/2023/12/07/a-sciences-po-un-master-pour-former-les-cadres-du-secteur-de-l-education-et-de-la-recherche_6204463_3224.html",
-			"pubDate": "Thu, 07 Dec 2023 17:30:07 GMT",
-			"image": "https://img.lemde.fr/2023/12/06/0/3/3993/2662/1440/960/60/0/85db14b_1701876640676-000-par2357184.jpg",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "Le Monde.fr",
-			"url": "https://www.lemonde.fr/societe/article/2023/12/07/a-sciences-po-un-master-pour-former-les-cadres-du-secteur-de-l-education-et-de-la-recherche_6204463_3224.html",
-			"description": "Le domaine des politiques \u00e9ducatives, consid\u00e9r\u00e9 jusqu\u2019ici comme un faible pourvoyeur de d\u00e9bouch\u00e9s, deviendra une sp\u00e9cialit\u00e9 de master de l\u2019\u00e9tablissement \u00e0 la rentr\u00e9e 2024."
-		},
-		{
-			"title": "Une pluie d'\u00e9toiles filantes dans le ciel ce jeudi soir? Voici ce qu'il faut savoir sur les \"G\u00e9minides\" visibles en d\u00e9cembre - Nice matin",
-			"link": "https://www.nicematin.com/sciences/une-pluie-detoiles-filantes-dans-le-ciel-ce-jeudi-soir-voici-ce-quil-faut-savoir-sur-les-geminides-visibles-en-decembre-891550",
-			"pubDate": "Thu, 14 Dec 2023 16:20:00 GMT",
-			"image": "https://fyooyzbm.filerobot.com/v7/upwk61918359-wikimedia-image-GyIaP4c6.jpg?vh=be0498&ci_seal=8c8870ab86",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "Nice-Matin",
-			"url": "https://www.nicematin.com/sciences/une-pluie-detoiles-filantes-dans-le-ciel-ce-jeudi-soir-voici-ce-quil-faut-savoir-sur-les-geminides-visibles-en-decembre-891550",
-			"description": "C'est un peu l'\u00e9v\u00e9nement astronomique de ce mois de d\u00e9cembre. Elles sont appel\u00e9es les \"G\u00e9minides\" et vont offrir un magnifique spectacle dans le ciel et illuminer la nuit des azur\u00e9ens \u00e0 partir de ce jeudi soir.\u00a0 \r\nPlus de 150 \u00e9toiles filantes pourraient \u00eatre observ\u00e9es dans le ciel dans la nuit de je"
-		},
-		{
-			"title": "La lointaine sonde Voyager 1 fait face \u00e0 une panne informatique ! - Futura",
-			"link": "https://www.futura-sciences.com/sciences/breves/espace-lointaine-sonde-voyager-1-fait-face-panne-informatique-9038/",
-			"pubDate": "Thu, 14 Dec 2023 16:16:14 GMT",
-			"image": "https://cdn.futura-sciences.com/buildsv6/images/largeoriginal/9/b/9/9b9708ce0f_50207741_1-voyager-artists-concept-16.jpg",
+			"title": "L'atmosph\u00e8re de Mars a litt\u00e9ralement explos\u00e9 sous l'effet d'un vide de vent solaire - Futura",
+			"link": "https://www.futura-sciences.com/sciences/actualites/mars-atmosphere-mars-litteralement-explose-sous-effet-vide-vent-solaire-110129/",
+			"pubDate": "Thu, 14 Dec 2023 15:11:42 GMT",
+			"image": "https://cdn.futura-sciences.com/buildsv6/images/largeoriginal/3/2/9/3299486050_50209909_mars-vent-solaire.jpg",
 			"logo": "https://picsum.photos/32/32?grayscale",
 			"site_name": "Futura",
-			"url": "https://www.futura-sciences.com/sciences/breves/espace-lointaine-sonde-voyager-1-fait-face-panne-informatique-9038/",
-			"description": "Depuis peu, les ing\u00e9nieurs de la Nasa ne re\u00e7oivent plus les habituelles donn\u00e9es scientifiques transmises par la sonde Voyager 1. \u00c0 la place, une sorte de message d\u2019erreur, cod\u00e9 en langage binaire...."
+			"url": "https://www.futura-sciences.com/sciences/actualites/mars-atmosphere-mars-litteralement-explose-sous-effet-vide-vent-solaire-110129/",
+			"description": "Il y a environ un an, le vent solaire a litt\u00e9ralement disparu de la surface de Mars. Et ce, de mani\u00e8re totalement inattendue. Faisant pour ainsi dire exploser l\u2019atmosph\u00e8re de la Plan\u00e8te rouge...."
 		},
 		{
 			"title": "Prix de l'Acad\u00e9mie des sciences 2023 : plus de 50 laur\u00e9ats li\u00e9s au CNRS - Centre national de la recherche scientifique (CNRS)",
@@ -971,15 +941,45 @@
 			"description": "L'Acad\u00e9mie des sciences remet chaque ann\u00e9e pr\u00e8s de quatre-vingt prix couvrant l'ensemble des domaines scientifiques, aussi bien fondamentaux qu'appliqu\u00e9s."
 		},
 		{
-			"title": "L'Acad\u00e9mie internationale d'histoire des sciences au fil des archives et de ses publications | ENS - ENS",
-			"link": "https://news.google.com/rss/articles/CBMiemh0dHBzOi8vd3d3LmVucy5wc2wuZXUvYWdlbmRhL2wtYWNhZGVtaWUtaW50ZXJuYXRpb25hbGUtZC1oaXN0b2lyZS1kZXMtc2NpZW5jZXMtYXUtZmlsLWRlcy1hcmNoaXZlcy1ldC1kZS1zZXMtcHVibGljYXRpb25z0gEA?oc=5",
-			"pubDate": "Fri, 08 Dec 2023 08:35:27 GMT",
-			"image": "https://picsum.photos/200/300?grayscale",
+			"title": "James-Webb tente de percer les secrets d'un myst\u00e9rieux nuage noir au c\u0153ur de la Voie lact\u00e9e - Futura",
+			"link": "https://www.futura-sciences.com/sciences/actualites/astronomie-james-webb-tente-percer-secrets-mysterieux-nuage-noir-coeur-voie-lactee-110099/",
+			"pubDate": "Thu, 14 Dec 2023 10:52:43 GMT",
+			"image": "https://cdn.futura-sciences.com/buildsv6/images/largeoriginal/2/e/d/2ed76c8b30_50170770_voie-lactee-gaia-edr3-esa.jpg",
 			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "",
-			"url": "",
-			"description": ""
+			"site_name": "Futura",
+			"url": "https://www.futura-sciences.com/sciences/actualites/astronomie-james-webb-tente-percer-secrets-mysterieux-nuage-noir-coeur-voie-lactee-110099/",
+			"description": "Dans la r\u00e9gion centrale de la Voie lact\u00e9e, un myst\u00e9rieux nuage mol\u00e9culaire dense et froid devrait contenir aussi des pouponni\u00e8res d'\u00e9toiles en formation selon la th\u00e9orie standard de la formation..."
+		},
+		{
+			"title": "L'exposition \u00e0 la lumi\u00e8re bleue acc\u00e9l\u00e9rerait le vieillissement ! - Futura",
+			"link": "https://www.futura-sciences.com/sante/breves/vieillissement-exposition-lumiere-bleue-accelererait-vieillissement-9036/",
+			"pubDate": "Thu, 14 Dec 2023 15:06:15 GMT",
+			"image": "https://cdn.futura-sciences.com/buildsv6/images/largeoriginal/1/5/d/15daa43cc1_50209911_exposition-telephone-ecran.jpg",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "Futura",
+			"url": "https://www.futura-sciences.com/sante/breves/vieillissement-exposition-lumiere-bleue-accelererait-vieillissement-9036/",
+			"description": "Vous \u00eates accro \u00e0 votre t\u00e9l\u00e9phone et \u00e0 votre ordinateur, et vous ne trouvez pas le courage de vous d\u00e9tacher de vos \u00e9crans ? Voici une nouvelle qui devrait vous aider \u00e0 passer \u00e0 l\u2019action :..."
+		},
+		{
+			"title": "Des oc\u00e9ans habitables sous la surface d'exoplan\u00e8tes glac\u00e9es ? - Futura",
+			"link": "https://www.futura-sciences.com/sciences/actualites/espace-oceans-habitables-sous-surface-exoplanetes-glacees-110139/",
+			"pubDate": "Thu, 14 Dec 2023 18:15:25 GMT",
+			"image": "https://cdn.futura-sciences.com/buildsv6/images/largeoriginal/c/b/a/cba03e92af_50209933_enceladus-plume.jpg",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "Futura",
+			"url": "https://www.futura-sciences.com/sciences/actualites/espace-oceans-habitables-sous-surface-exoplanetes-glacees-110139/",
+			"description": "Lorsque les scientifiques recherchent de la vie ailleurs que dans notre Syst\u00e8me solaire, ils se cantonnent g\u00e9n\u00e9ralement \u00e0 des exoplan\u00e8tes situ\u00e9es dans la zone habitable de leur \u00e9toile, sur..."
+		},
+		{
+			"title": "Baisse des comp\u00e9tences en math\u00e9matiques et en sciences : \u00ab Nous lan\u00e7ons un appel pour que soit mise en \u0153uvre ... - Le Monde",
+			"link": "https://www.lemonde.fr/idees/article/2023/12/05/baisse-des-competences-en-mathematiques-nous-lancons-un-appel-pour-que-soit-mise-en-uvre-une-strategie-nationale-ambitieuse_6203938_3232.html",
+			"pubDate": "Tue, 05 Dec 2023 08:00:00 GMT",
+			"image": "https://img.lemde.fr/2023/04/11/0/0/6000/4000/1440/960/60/0/f76e23e_1681225489451-pns-6478446.jpg",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "Le Monde.fr",
+			"url": "https://www.lemonde.fr/idees/article/2023/12/05/baisse-des-competences-en-mathematiques-nous-lancons-un-appel-pour-que-soit-mise-en-uvre-une-strategie-nationale-ambitieuse_6203938_3232.html",
+			"description": "TRIBUNE. Le temps presse pour conjurer le recul de la France comme puissance math\u00e9matique et scientifique, affirme, dans une tribune au \u00ab\u00a0Monde\u00a0\u00bb, un collectif de plus de 180\u00a0personnalit\u00e9s de la science, de l\u2019\u00e9conomie, de l\u2019industrie et de la soci\u00e9t\u00e9 civile, dont quinze r\u00e9cipiendaires de prix internationaux."
 		}
 	],
-	"timestamp": "2023-12-15 01:06:39.089777"
+	"timestamp": "2023-12-15 04:20:20.833946"
 }
