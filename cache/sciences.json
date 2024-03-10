@@ -1,16 +1,6 @@
 {
 	"content": [
 		{
-			"title": "\u00ab Science \u00bb c\u00e9l\u00e8bre les lanceurs d'alerte ayant fait tomber Didier Raoult - Le Point",
-			"link": "https://www.lepoint.fr/sante/science-celebre-les-lanceurs-d-alerte-ayant-fait-tomber-didier-raoult-09-03-2024-2554580_40.php",
-			"pubDate": "Sat, 09 Mar 2024 06:00:00 GMT",
-			"image": "https://static.lpnt.fr/images/2024/03/09/26184197lpw-26184394-mega-une-jpg_10165909.jpg",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "Le Point",
-			"url": "https://www.lepoint.fr/sante/science-celebre-les-lanceurs-d-alerte-ayant-fait-tomber-didier-raoult-09-03-2024-2554580_40.php",
-			"description": "Quatre ans apr\u00e8s\u00a0la pol\u00e9mique autour de l\u2019hydroxychloroquine contre le Covid, la prestigieuse revue scientifique c\u00e9l\u00e8bre la t\u00e9nacit\u00e9 d\u2019un groupe de chercheurs pour d\u00e9noncer l\u2019imposture de Didier Raoult."
-		},
-		{
 			"title": "Comment la r\u00e9forme du lyc\u00e9e \u00e9loigne les filles des maths et des sciences - The Conversation",
 			"link": "http://theconversation.com/comment-la-reforme-du-lycee-eloigne-les-filles-des-maths-et-des-sciences-224773",
 			"pubDate": "Thu, 07 Mar 2024 16:19:17 GMT",
@@ -31,6 +21,16 @@
 			"description": "Le quart des universit\u00e9s ont \u00e9t\u00e9 endommag\u00e9es ou d\u00e9truites en Ukraine, o\u00f9 l'invasion russe a conduit \u00e0 un \u00ab\u00a0scienticide\u00a0\u00bb, selon l\u2019acad\u00e9mie des sciences du pays."
 		},
 		{
+			"title": "Ces stimulantes derni\u00e8res avanc\u00e9es de la science - Le Point",
+			"link": "https://www.lepoint.fr/sciences-nature/ces-stimulantes-dernieres-avancees-de-la-science-07-03-2024-2554460_1924.php",
+			"pubDate": "Thu, 07 Mar 2024 12:00:00 GMT",
+			"image": "https://static.lpnt.fr/images/2024/03/07/26165382lpw-26165352-mega-une-jpg_10164009.jpg",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "Le Point",
+			"url": "https://www.lepoint.fr/sciences-nature/ces-stimulantes-dernieres-avancees-de-la-science-07-03-2024-2554460_1924.php",
+			"description": "Prix Nobel, inventeurs, chercheurs, philosophes, chefs d\u2019entreprise et \u00e9tudiants. Ils \u00e9taient tous r\u00e9unis au Paris-Saclay Summit 2024 pour c\u00e9l\u00e9brer la science et ses derni\u00e8res avanc\u00e9es."
+		},
+		{
 			"title": "\u00c9quit\u00e9 en science : les femmes prennent-elles enfin leur place ? - Futura",
 			"link": "https://www.futura-sciences.com/sciences/actualites/journee-internationale-droits-femmes-equite-science-femmes-prennent-elles-enfin-leur-place-111988/",
 			"pubDate": "Fri, 08 Mar 2024 13:04:50 GMT",
@@ -41,9 +41,29 @@
 			"description": "\u00c0 l'occasion de la Journ\u00e9e internationale des droits des femmes, ce 8 mars, plusieurs femmes de sciences, aujourd'hui \u00e0 la t\u00eate d'\u00e9tablissement de recherche de renom, expriment leurs inqui\u00e9tudes..."
 		},
 		{
+			"title": "Rencontre 1\u00e8re avec Flore Pavy, une chercheuse en sciences sociales. - Guadeloupe la 1\u00e8re - Outre-mer la 1\u00e8re",
+			"link": "https://la1ere.francetvinfo.fr/guadeloupe/rencontre-1ere-avec-flore-pavy-une-chercheuse-en-sciences-sociales-1470855.html",
+			"pubDate": "Sun, 10 Mar 2024 11:00:02 GMT",
+			"image": "https://la1ere.francetvinfo.fr/image/Fc8MA70I5_jvZUagpXM5x4INJ_4/930x620/outremer/2024/03/08/whatsapp-image-2024-03-07-at-10-18-05-65eb6daab0e8e182414387.jpeg",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "Guadeloupe la 1\u00e8re",
+			"url": "https://la1ere.francetvinfo.fr/guadeloupe/rencontre-1ere-avec-flore-pavy-une-chercheuse-en-sciences-sociales-1470855.html",
+			"description": "Au lendemain de la Mi-car\u00eame et de la journ\u00e9e internationale des droits de la femme, coup de projecteur sur une jeune femme qui s\u2019est vu d\u00e9cerner le Prix de la th\u00e8se 2023 par la fondation pour la m\u00e9moire de l\u2019esclavage. Elle s\u2019est int\u00e9ress\u00e9e au groupe Voukoum de Basse-Terre."
+		},
+		{
 			"title": "\u00c0 Rennes, une conf\u00e9rence sur la mort et la conscience \u00e0 l'Espace des sciences - Ouest-France",
 			"link": "https://news.google.com/rss/articles/CBMiogFodHRwczovL3d3dy5vdWVzdC1mcmFuY2UuZnIvYnJldGFnbmUvcmVubmVzLTM1MDAwL2EtcmVubmVzLXVuZS1jb25mZXJlbmNlLXN1ci1sYS1tb3J0LWV0LWxhLWNvbnNjaWVuY2UtYS1sZXNwYWNlLWRlcy1zY2llbmNlcy02NGI3ZGFlNi1kZDU5LTExZWUtYjY2My04NzZiZTY4ZTMwNWHSAQA?oc=5",
 			"pubDate": "Sun, 10 Mar 2024 07:00:38 GMT",
+			"image": "https://picsum.photos/200/300?grayscale",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "",
+			"url": "",
+			"description": ""
+		},
+		{
+			"title": "Petits vers de Tchernobyl: survivants inattendus dans un monde irradi\u00e9 - Science et Vie",
+			"link": "https://news.google.com/rss/articles/CBMiiQFodHRwczovL3d3dy5zY2llbmNlLWV0LXZpZS5jb20vY29ycHMtZXQtc2FudGUvZ2VuZXRpcXVlL3BldGl0cy12ZXJzLWRlLXRjaGVybm9ieWwtc3Vydml2YW50cy1pbmF0dGVuZHVzLWRhbnMtdW4tbW9uZGUtaXJyYWRpZS0xMjg0NDAuaHRtbNIBAA?oc=5",
+			"pubDate": "Sat, 09 Mar 2024 19:00:00 GMT",
 			"image": "https://picsum.photos/200/300?grayscale",
 			"logo": "https://picsum.photos/32/32?grayscale",
 			"site_name": "",
@@ -61,36 +81,6 @@
 			"description": "L\u2019association L\u2019Oc\u00e9an des possibles a amarr\u00e9 sa go\u00e9lette au port de Kern\u00e9vel, \u00e0 Larmor-Plage, il y a quelques semaines et pr\u00e9pare une exp\u00e9dition scientifique collaborative et solidaire."
 		},
 		{
-			"title": "\"Deux visions de l'Europe s'affrontent\", indique Arnaud Mercier, professeur en sciences de l'information et ... - franceinfo",
-			"link": "https://www.francetvinfo.fr/monde/europe/deux-visions-de-l-europe-s-affrontent-indique-arnaud-mercier-professeur-en-sciences-de-l-information-et-communication-a-l-universite-paris-2-assas_6414283.html",
-			"pubDate": "Sat, 09 Mar 2024 19:00:52 GMT",
-			"image": "https://www.francetvinfo.fr/pictures/xulzsf4JihNuRJg2hwPST8RKGqM/1500x843/2024/03/09/deux-visions-de-l-europe-s-affrontent-indique-arnaud-mercier-professeur-en-sciences-de-l-information-et-communication-a-l-universite-paris-2-assas-65ecb0f9403d5144839021.jpg",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "Franceinfo",
-			"url": "https://www.francetvinfo.fr/monde/europe/deux-visions-de-l-europe-s-affrontent-indique-arnaud-mercier-professeur-en-sciences-de-l-information-et-communication-a-l-universite-paris-2-assas_6414283.html",
-			"description": "Arnaud Mercier, professeur en sciences de l'information et de la communication \u00e0 l'Universit\u00e9 Paris 2 Assas et co-auteur de \"Mon voyage au c\u0153ur de la Ve R\u00e9publique\", est invit\u00e9 du 19/20 info."
-		},
-		{
-			"title": "Petits vers de Tchernobyl: survivants inattendus dans un monde irradi\u00e9 - Science et Vie",
-			"link": "https://news.google.com/rss/articles/CBMiiQFodHRwczovL3d3dy5zY2llbmNlLWV0LXZpZS5jb20vY29ycHMtZXQtc2FudGUvZ2VuZXRpcXVlL3BldGl0cy12ZXJzLWRlLXRjaGVybm9ieWwtc3Vydml2YW50cy1pbmF0dGVuZHVzLWRhbnMtdW4tbW9uZGUtaXJyYWRpZS0xMjg0NDAuaHRtbNIBAA?oc=5",
-			"pubDate": "Sat, 09 Mar 2024 19:00:00 GMT",
-			"image": "https://picsum.photos/200/300?grayscale",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "",
-			"url": "",
-			"description": ""
-		},
-		{
-			"title": "La science sait d\u00e9sormais pourquoi certaines musiques nous donnent envie de danser (et pas d'autres) - France Inter",
-			"link": "https://www.radiofrance.fr/franceinter/la-science-sait-desormais-pourquoi-certaines-musiques-nous-donnent-envie-de-danser-et-pas-d-autres-2601827",
-			"pubDate": "Thu, 07 Mar 2024 05:35:21 GMT",
-			"image": "https://www.radiofrance.fr/s3/cruiser-production-eu3/2024/03/481fed86-47f1-4181-be4c-30cdb8171914/1200x680_sc_000-33b74k7.jpg",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "France Inter",
-			"url": "https://www.radiofrance.fr/franceinter/la-science-sait-desormais-pourquoi-certaines-musiques-nous-donnent-envie-de-danser-et-pas-d-autres-2601827",
-			"description": "Qu\u2019est ce qui cr\u00e9e le \"groove\", cette envie de danser qui nous prend sur certains morceaux\u00a0? Une \u00e9tude fran\u00e7aise r\u00e9cente le prouve\u00a0: c\u2019est une histoire de complexit\u00e9 rythmique, et une mani\u00e8re pour votre corps d'analyser les informations envoy\u00e9es par la musique."
-		},
-		{
 			"title": "La science pour tous. Comment b\u00e9b\u00e9 comprend le monde - Le Progr\u00e8s",
 			"link": "https://news.google.com/rss/articles/CBMiWWh0dHBzOi8vd3d3LmxlcHJvZ3Jlcy5mci9zY2llbmNlLWV0LXRlY2hub2xvZ2llLzIwMjQvMDMvMTAvY29tbWVudC1iZWJlLWNvbXByZW5kLWxlLW1vbmRl0gEA?oc=5",
 			"pubDate": "Sun, 10 Mar 2024 05:00:00 GMT",
@@ -101,10 +91,10 @@
 			"description": ""
 		},
 		{
-			"title": "\"Science des chiffres\" : une appellation r\u00e9ductrice et trompeuse - Sciences et Avenir",
-			"link": "https://news.google.com/rss/articles/CBMifWh0dHBzOi8vd3d3LnNjaWVuY2VzZXRhdmVuaXIuZnIvZm9uZGFtZW50YWwvbWF0aGVtYXRpcXVlcy9zY2llbmNlLWRlcy1jaGlmZnJlcy11bmUtYXBwZWxsYXRpb24tcmVkdWN0cmljZS1ldC10cm9tcGV1c2VfMTc2OTQ10gEA?oc=5",
-			"pubDate": "Sun, 10 Mar 2024 13:00:00 GMT",
-			"image": "https://picsum.photos/200/300?grayscale",
+			"title": "Montb\u00e9liard. Bar des sciences : quels secrets se cachent derri\u00e8re nos g\u00e8nes ? - Est R\u00e9publicain",
+			"link": "https://news.google.com/rss/articles/CBMifGh0dHBzOi8vd3d3LmVzdHJlcHVibGljYWluLmZyL3NjaWVuY2UtZXQtdGVjaG5vbG9naWUvMjAyNC8wMy8xMC9iYXItZGVzLXNjaWVuY2VzLXF1ZWxzLXNlY3JldHMtc2UtY2FjaGVudC1kZXJyaWVyZS1ub3MtZ2VuZXPSAQA?oc=5",
+			"pubDate": "Sun, 10 Mar 2024 17:28:12 GMT",
+			"image": "https://cdn-s-www.estrepublicain.fr/images/A7152C33-5234-4977-8E8F-5E827A2F8D61/FB1200/photo-1710093446.jpg",
 			"logo": "https://picsum.photos/32/32?grayscale",
 			"site_name": "",
 			"url": "",
@@ -121,14 +111,14 @@
 			"description": "L\u2019exposition \u00ab\u00a0La Science taille XX elles\u00a0\u00bb, cr\u00e9\u00e9e par le CNRS et l\u2019association Femmes & Science"
 		},
 		{
-			"title": "Rencontre 1\u00e8re avec Flore Pavy, une chercheuse en sciences sociales. - Guadeloupe la 1\u00e8re - Outre-mer la 1\u00e8re",
-			"link": "https://la1ere.francetvinfo.fr/guadeloupe/rencontre-1ere-avec-flore-pavy-une-chercheuse-en-sciences-sociales-1470855.html",
-			"pubDate": "Sun, 10 Mar 2024 11:00:02 GMT",
-			"image": "https://la1ere.francetvinfo.fr/image/Fc8MA70I5_jvZUagpXM5x4INJ_4/930x620/outremer/2024/03/08/whatsapp-image-2024-03-07-at-10-18-05-65eb6daab0e8e182414387.jpeg",
+			"title": "\"Science des chiffres\" : une appellation r\u00e9ductrice et trompeuse - Sciences et Avenir",
+			"link": "https://news.google.com/rss/articles/CBMifWh0dHBzOi8vd3d3LnNjaWVuY2VzZXRhdmVuaXIuZnIvZm9uZGFtZW50YWwvbWF0aGVtYXRpcXVlcy9zY2llbmNlLWRlcy1jaGlmZnJlcy11bmUtYXBwZWxsYXRpb24tcmVkdWN0cmljZS1ldC10cm9tcGV1c2VfMTc2OTQ10gEA?oc=5",
+			"pubDate": "Sun, 10 Mar 2024 13:00:00 GMT",
+			"image": "https://picsum.photos/200/300?grayscale",
 			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "Guadeloupe la 1\u00e8re",
-			"url": "https://la1ere.francetvinfo.fr/guadeloupe/rencontre-1ere-avec-flore-pavy-une-chercheuse-en-sciences-sociales-1470855.html",
-			"description": "Au lendemain de la Mi-car\u00eame et de la journ\u00e9e internationale des droits de la femme, coup de projecteur sur une jeune femme qui s\u2019est vu d\u00e9cerner le Prix de la th\u00e8se 2023 par la fondation pour la m\u00e9moire de l\u2019esclavage. Elle s\u2019est int\u00e9ress\u00e9e au groupe Voukoum de Basse-Terre."
+			"site_name": "",
+			"url": "",
+			"description": ""
 		},
 		{
 			"title": "Entretien avec Th\u00e9ophile Duthoit, pr\u00e9sident de la JE de Sciences Po Paris ! - Planete Grandes Ecoles",
@@ -141,6 +131,26 @@
 			"description": "Dans cette vid\u00e9o, nous rencontrons Th\u00e9ophile Duthoit, pr\u00e9sident de la JE et \u00e9tudiant dans le Master Finance et Strat\u00e9gie de Sciences Po Paris."
 		},
 		{
+			"title": "Toujours plus de froid, la qu\u00eate du z\u00e9ro absolu avec Alain Aspect. - France Culture",
+			"link": "https://www.radiofrance.fr/franceculture/podcasts/les-nuits-de-france-culture/extrait-archipel-sciences-toujours-plus-de-froid-en-quete-du-zero-absolu-1ere-diffusion-26-03-1991-3943530",
+			"pubDate": "Sun, 10 Mar 2024 16:06:52 GMT",
+			"image": "https://www.radiofrance.fr/s3/cruiser-production-eu3/2024/03/ea5ff72d-f2c5-4d53-8490-801072432443/1200x680_sc_gettyimages-960990012.jpg",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "France Culture",
+			"url": "https://www.radiofrance.fr/franceculture/podcasts/les-nuits-de-france-culture/extrait-archipel-sciences-toujours-plus-de-froid-en-quete-du-zero-absolu-1ere-diffusion-26-03-1991-3943530",
+			"description": "Froid extr\u00eame et m\u00e9canique quantique sont les th\u00e8mes de cet extrait\u00a0de l'\u00e9mission \"Archipel sciences\" diffus\u00e9e en 1991 et intitul\u00e9e \"Toujours plus de froid\u00a0: En qu\u00eate du z\u00e9ro absolu\". Elle donne la parole au futur prix Nobel de physique Alain Aspect."
+		},
+		{
+			"title": "\u00ab Science \u00bb c\u00e9l\u00e8bre les lanceurs d'alerte ayant fait tomber Didier Raoult - Le Point",
+			"link": "https://www.lepoint.fr/sante/science-celebre-les-lanceurs-d-alerte-ayant-fait-tomber-didier-raoult-09-03-2024-2554580_40.php",
+			"pubDate": "Sat, 09 Mar 2024 06:00:00 GMT",
+			"image": "https://static.lpnt.fr/images/2024/03/09/26184197lpw-26184394-mega-une-jpg_10165909.jpg",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "Le Point",
+			"url": "https://www.lepoint.fr/sante/science-celebre-les-lanceurs-d-alerte-ayant-fait-tomber-didier-raoult-09-03-2024-2554580_40.php",
+			"description": "Quatre ans apr\u00e8s\u00a0la pol\u00e9mique autour de l\u2019hydroxychloroquine contre le Covid, la prestigieuse revue scientifique c\u00e9l\u00e8bre la t\u00e9nacit\u00e9 d\u2019un groupe de chercheurs pour d\u00e9noncer l\u2019imposture de Didier Raoult."
+		},
+		{
 			"title": "D\u00e9claration conjointe sur la coop\u00e9ration franco-chilienne dans le domaine des Sciences et Technologies Num\u00e9riques - Minist\u00e8re de l'Enseignement Sup\u00e9rieur et de la Recherche",
 			"link": "https://www.enseignementsup-recherche.gouv.fr/fr/declaration-conjointe-sur-la-cooperation-franco-chilienne-dans-le-domaine-des-sciences-et-95115",
 			"pubDate": "Tue, 05 Mar 2024 16:28:20 GMT",
@@ -149,16 +159,6 @@
 			"site_name": "enseignementsup-recherche.gouv.fr",
 			"url": "https://www.enseignementsup-recherche.gouv.fr/fr/declaration-conjointe-sur-la-cooperation-franco-chilienne-dans-le-domaine-des-sciences-et-95115",
 			"description": "Cette coop\u00e9ration est caract\u00e9ris\u00e9e par des programmes scientifiques historiques tels que ECOS-ANID Chili et STIC, Maths et Climat AmSud qui jouent un r\u00f4le d\u00e9terminant pour la constitution de r\u00e9seaux scientifiques."
-		},
-		{
-			"title": "Sciences - En Creuse, d\u00e9couvrez comment votre cerveau a plus de flair que votre nez ! - La Montagne",
-			"link": "https://www.lamontagne.fr/gueret-23000/actualites/en-creuse-decouvrez-comment-votre-cerveau-a-plus-de-flair-que-votre-nez_14465907/",
-			"pubDate": "Sun, 10 Mar 2024 11:00:00 GMT",
-			"image": "https://img.lamontagne.fr/1bxnK8M8w5F817GLiNsWxA0pspcXZFGBAyRpKfcjpBQ/fit/657/438/sm/0/bG9jYWw6Ly8vMDAvMDAvMDYvNzgvMDgvMjAwMDAwNjc4MDgwNw.jpg",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "www.lamontagne.fr",
-			"url": "https://www.lamontagne.fr/gueret-23000/actualites/en-creuse-decouvrez-comment-votre-cerveau-a-plus-de-flair-que-votre-nez_14465907/",
-			"description": "La 26e Semaine du cerveau, \u00e9v\u00e8nement national, fait escale en Limousin. Au programme, des conf\u00e9rences, des discussions et des ateliers autour du cerveau, l\u2019organe le mieux partag\u00e9 au monde mais dont les capacit\u00e9s et pouvoirs sont pourtant des plus secrets."
 		},
 		{
 			"title": "Nef des sciences : un mois autour de la sant\u00e9 et de la recherche m\u00e9dicale \u2013 M+ - M+, l'info de Mulhouse",
@@ -171,6 +171,16 @@
 			"description": "Temps de lecture\u00a0: 3 minutes Tout au long du mois de mars, la Nef des sciences et l\u2019Inserm mettent la sant\u00e9 \u00e0 l\u2019honneur, dans le cadre du Mois de la sant\u00e9 et de la recherche m\u00e9dicale. Expositions, rencontres, cin\u00e9-d\u00e9bat ou encore jeux permettent d\u2019aborder des sujets aussi divers que le cerveau, la sexualit\u00e9, le go\u00fbt, l\u2019intelligence artificielle, l\u2019endom\u00e9triose, la dyspraxie\u2026 [\u2026]"
 		},
 		{
+			"title": "Le fonds ancien scientifique de la biblioth\u00e8que : focus sur les sciences naturelles | ENS - ENS",
+			"link": "https://news.google.com/rss/articles/CBMid2h0dHBzOi8vd3d3LmVucy5wc2wuZXUvYWdlbmRhL2xlLWZvbmRzLWFuY2llbi1zY2llbnRpZmlxdWUtZGUtbGEtYmlibGlvdGhlcXVlLWZvY3VzLXN1ci1sZXMtc2NpZW5jZXMtbmF0dXJlbGxlcy8yMDI0LTAz0gEA?oc=5",
+			"pubDate": "Thu, 07 Mar 2024 12:41:31 GMT",
+			"image": "https://picsum.photos/200/300?grayscale",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "",
+			"url": "",
+			"description": ""
+		},
+		{
 			"title": "Un inqui\u00e9tant climat d'antis\u00e9mitisme gagne Sciences Po Paris - Le Journal du dimanche",
 			"link": "https://news.google.com/rss/articles/CBMiX2h0dHBzOi8vd3d3LmxlamRkLmZyL3NvY2lldGUvdW4taW5xdWlldGFudC1jbGltYXQtZGFudGlzZW1pdGlzbWUtZ2FnbmUtc2NpZW5jZXMtcG8tcGFyaXMtMTQyNzMw0gEA?oc=5",
 			"pubDate": "Tue, 05 Mar 2024 17:15:05 GMT",
@@ -181,14 +191,14 @@
 			"description": ""
 		},
 		{
-			"title": "Le fonds ancien scientifique de la biblioth\u00e8que : focus sur les sciences naturelles | ENS - ENS",
-			"link": "https://news.google.com/rss/articles/CBMid2h0dHBzOi8vd3d3LmVucy5wc2wuZXUvYWdlbmRhL2xlLWZvbmRzLWFuY2llbi1zY2llbnRpZmlxdWUtZGUtbGEtYmlibGlvdGhlcXVlLWZvY3VzLXN1ci1sZXMtc2NpZW5jZXMtbmF0dXJlbGxlcy8yMDI0LTAz0gEA?oc=5",
-			"pubDate": "Thu, 07 Mar 2024 12:41:31 GMT",
-			"image": "https://picsum.photos/200/300?grayscale",
+			"title": "Sciences - En Creuse, d\u00e9couvrez comment votre cerveau a plus de flair que votre nez ! - La Montagne",
+			"link": "https://www.lamontagne.fr/gueret-23000/actualites/en-creuse-decouvrez-comment-votre-cerveau-a-plus-de-flair-que-votre-nez_14465907/",
+			"pubDate": "Sun, 10 Mar 2024 11:00:00 GMT",
+			"image": "https://img.lamontagne.fr/1bxnK8M8w5F817GLiNsWxA0pspcXZFGBAyRpKfcjpBQ/fit/657/438/sm/0/bG9jYWw6Ly8vMDAvMDAvMDYvNzgvMDgvMjAwMDAwNjc4MDgwNw.jpg",
 			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "",
-			"url": "",
-			"description": ""
+			"site_name": "www.lamontagne.fr",
+			"url": "https://www.lamontagne.fr/gueret-23000/actualites/en-creuse-decouvrez-comment-votre-cerveau-a-plus-de-flair-que-votre-nez_14465907/",
+			"description": "La 26e Semaine du cerveau, \u00e9v\u00e8nement national, fait escale en Limousin. Au programme, des conf\u00e9rences, des discussions et des ateliers autour du cerveau, l\u2019organe le mieux partag\u00e9 au monde mais dont les capacit\u00e9s et pouvoirs sont pourtant des plus secrets."
 		},
 		{
 			"title": "F\u00eate de la femme, en version bulgare - Sciences Humaines",
@@ -211,16 +221,6 @@
 			"description": ""
 		},
 		{
-			"title": "Ces stimulantes derni\u00e8res avanc\u00e9es de la science - Le Point",
-			"link": "https://www.lepoint.fr/sciences-nature/ces-stimulantes-dernieres-avancees-de-la-science-07-03-2024-2554460_1924.php",
-			"pubDate": "Thu, 07 Mar 2024 12:00:00 GMT",
-			"image": "https://static.lpnt.fr/images/2024/03/07/26165382lpw-26165352-mega-une-jpg_10164009.jpg",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "Le Point",
-			"url": "https://www.lepoint.fr/sciences-nature/ces-stimulantes-dernieres-avancees-de-la-science-07-03-2024-2554460_1924.php",
-			"description": "Prix Nobel, inventeurs, chercheurs, philosophes, chefs d\u2019entreprise et \u00e9tudiants. Ils \u00e9taient tous r\u00e9unis au Paris-Saclay Summit 2024 pour c\u00e9l\u00e9brer la science et ses derni\u00e8res avanc\u00e9es."
-		},
-		{
 			"title": "Les vid\u00e9os Sciences et Avenir - Sciences et Avenir",
 			"link": "https://news.google.com/rss/articles/CBMiJ2h0dHBzOi8vd3d3LnNjaWVuY2VzZXRhdmVuaXIuZnIvdmlkZW9zL9IBAA?oc=5",
 			"pubDate": "Wed, 06 Mar 2024 11:00:00 GMT",
@@ -231,19 +231,9 @@
 			"description": ""
 		},
 		{
-			"title": "Au CHU de Nice, l'IA r\u00e9pare les os bris\u00e9s - Le Point",
-			"link": "https://www.lepoint.fr/sciences-nature/au-chu-de-nice-l-ia-repare-les-os-brises-10-03-2024-2554632_1924.php",
-			"pubDate": "Sun, 10 Mar 2024 08:00:00 GMT",
-			"image": "https://static.lpnt.fr/images/2024/03/10/26163728lpw-26163723-mega-une-jpg_10166254.jpg",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "Le Point",
-			"url": "https://www.lepoint.fr/sciences-nature/au-chu-de-nice-l-ia-repare-les-os-brises-10-03-2024-2554632_1924.php",
-			"description": "Avec le projet de recherche ReBone, qui sera pr\u00e9sent\u00e9 \u00e0 Neuroplan\u00e8te les 15 et 16\u00a0mars, chirurgiens, scientifiques et industriels construisent le futur de la chirurgie traumatologique."
-		},
-		{
-			"title": "Maison Poincar\u00e9 \u00e0 Paris : les math\u00e9matiques en partage - Sciences et Avenir",
-			"link": "https://news.google.com/rss/articles/CBMidWh0dHBzOi8vd3d3LnNjaWVuY2VzZXRhdmVuaXIuZnIvZm9uZGFtZW50YWwvbWF0aGVtYXRpcXVlcy9tYWlzb24tcG9pbmNhcmUtYS1wYXJpcy1sZXMtbWF0aGVtYXRpcXVlcy1lbi1wYXJ0YWdlXzE3NjkyMNIBAA?oc=5",
-			"pubDate": "Sat, 09 Mar 2024 09:00:00 GMT",
+			"title": "Femmes de sciences: comment pr\u00e9server une \"n\u00e9cessaire diversit\u00e9\" ? - Sciences et Avenir",
+			"link": "https://news.google.com/rss/articles/CBMibWh0dHBzOi8vd3d3LnNjaWVuY2VzZXRhdmVuaXIuZnIvc2NpZW5jZXMvZmVtbWVzLWRlLXNjaWVuY2VzLWNvbW1lbnQtcHJlc2VydmVyLXVuZS1uZWNlc3NhaXJlLWRpdmVyc2l0ZV8xNzcxNDbSAQA?oc=5",
+			"pubDate": "Thu, 07 Mar 2024 04:00:00 GMT",
 			"image": "https://picsum.photos/200/300?grayscale",
 			"logo": "https://picsum.photos/32/32?grayscale",
 			"site_name": "",
@@ -251,9 +241,9 @@
 			"description": ""
 		},
 		{
-			"title": "Le Vietnam veut coop\u00e9rer plus avec l\u2019UNESCO dans les sciences naturelles - Vietnam+",
-			"link": "https://news.google.com/rss/articles/CBMibGh0dHBzOi8vZnIudmlldG5hbXBsdXMudm4vbGUtdmlldG5hbS12ZXV0LWNvb3BlcmVyLXBsdXMtYXZlYy1sdW5lc2NvLWRhbnMtbGVzLXNjaWVuY2VzLW5hdHVyZWxsZXMvMjIxNzAwLnZucNIBbGh0dHBzOi8vZnIudmlldG5hbXBsdXMudm4vbGUtdmlldG5hbS12ZXV0LWNvb3BlcmVyLXBsdXMtYXZlYy1sdW5lc2NvLWRhbnMtbGVzLXNjaWVuY2VzLW5hdHVyZWxsZXMvMjIxNzAwLmFtcA?oc=5",
-			"pubDate": "Sun, 10 Mar 2024 11:45:00 GMT",
+			"title": "Maison Poincar\u00e9 \u00e0 Paris : les math\u00e9matiques en partage - Sciences et Avenir",
+			"link": "https://news.google.com/rss/articles/CBMidWh0dHBzOi8vd3d3LnNjaWVuY2VzZXRhdmVuaXIuZnIvZm9uZGFtZW50YWwvbWF0aGVtYXRpcXVlcy9tYWlzb24tcG9pbmNhcmUtYS1wYXJpcy1sZXMtbWF0aGVtYXRpcXVlcy1lbi1wYXJ0YWdlXzE3NjkyMNIBAA?oc=5",
+			"pubDate": "Sat, 09 Mar 2024 09:00:00 GMT",
 			"image": "https://picsum.photos/200/300?grayscale",
 			"logo": "https://picsum.photos/32/32?grayscale",
 			"site_name": "",
@@ -269,6 +259,16 @@
 			"site_name": "ladepeche.fr",
 			"url": "https://www.ladepeche.fr/2024/03/09/maquens-lacademie-des-arts-et-sciences-dresse-le-bilan-11814238.php",
 			"description": "Une assistance nombreuse avait r\u00e9pondu pr\u00e9sent \u00e0 l\u2019invitation du bureau de l\u2019Acad\u00e9mie des arts et sciences pour participer \u00e0 l\u2019assembl\u00e9e g\u00e9n\u00e9rale. Apr\u00e8s le mot de bienvenue du pr\u00e9sident Jean Fourier, une minute de..."
+		},
+		{
+			"title": "Des \u00e9toiles naines blanches d\u00e9fient leur mort en cristallisant - Futura",
+			"link": "https://www.futura-sciences.com/sciences/actualites/astronomie-etoiles-naines-blanches-defient-leur-mort-cristallisant-111973/",
+			"pubDate": "Sun, 10 Mar 2024 15:16:21 GMT",
+			"image": "https://cdn.futura-sciences.com/buildsv6/images/largeoriginal/3/2/a/32aba0cbb2_50145804_nebuleuse-lyre-hubble-nasa.jpg",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "Futura",
+			"url": "https://www.futura-sciences.com/sciences/actualites/astronomie-etoiles-naines-blanches-defient-leur-mort-cristallisant-111973/",
+			"description": "Les naines blanches sont des \u00e9toiles \u00e0 l'agonie, montrant le destin du Soleil, et se refroidissant lentement dont la premi\u00e8re description th\u00e9orique est presque centenaire. Les astrophysiciens..."
 		},
 		{
 			"title": "Sciences de l'ing\u00e9nierie et du num\u00e9rique - Universit\u00e9 de Bordeaux",
@@ -291,19 +291,19 @@
 			"description": "La c\u00e9l\u00e8bre dune \u00e9toile de Lala Lallia, au Maroc, continue \u00e0 susciter la curiosit\u00e9 des scientifiques. Ces derniers ont r\u00e9ussi \u00e0 d\u00e9terminer la date de sa formatio..."
 		},
 		{
-			"title": "D\u00e9mystifier la science | Les turbulences des \u00e9oliennes - La Presse",
-			"link": "https://www.lapresse.ca/actualites/sciences/2024-03-10/demystifier-la-science/les-turbulences-des-eoliennes.php",
-			"pubDate": "Sun, 10 Mar 2024 06:13:55 GMT",
-			"image": "https://mobile-img.lpcdn.ca/v2/924x/r3996/36aa287b/d2987b53fcfb393888d412d52e9a5522.jpg",
+			"title": "Au CHU de Nice, l'IA r\u00e9pare les os bris\u00e9s - Le Point",
+			"link": "https://www.lepoint.fr/sciences-nature/au-chu-de-nice-l-ia-repare-les-os-brises-10-03-2024-2554632_1924.php",
+			"pubDate": "Sun, 10 Mar 2024 08:00:00 GMT",
+			"image": "https://static.lpnt.fr/images/2024/03/10/26163728lpw-26163723-mega-une-jpg_10166254.jpg",
 			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "La Presse",
-			"url": "https://www.lapresse.ca/actualites/sciences/2024-03-10/demystifier-la-science/les-turbulences-des-eoliennes.php",
-			"description": "Chaque semaine, notre journaliste r\u00e9pond aux questions scientifiques de lecteurs."
+			"site_name": "Le Point",
+			"url": "https://www.lepoint.fr/sciences-nature/au-chu-de-nice-l-ia-repare-les-os-brises-10-03-2024-2554632_1924.php",
+			"description": "Avec le projet de recherche ReBone, qui sera pr\u00e9sent\u00e9 \u00e0 Neuroplan\u00e8te les 15 et 16\u00a0mars, chirurgiens, scientifiques et industriels construisent le futur de la chirurgie traumatologique."
 		},
 		{
-			"title": "PODCAST. Sixi\u00e8me Science, \u00e9pisode 133 : quel est le vrai bilan carbone de l'industrie spatiale ? - Sciences et Avenir",
-			"link": "https://news.google.com/rss/articles/CBMiiwFodHRwczovL3d3dy5zY2llbmNlc2V0YXZlbmlyLmZyL2RlY291dnJpci9wb2RjYXN0LXNpeGllbWUtc2NpZW5jZS1lcGlzb2RlLTEzMy1xdWVsLWVzdC1sZS12cmFpLWJpbGFuLWNhcmJvbmUtZGUtbC1pbmR1c3RyaWUtc3BhdGlhbGVfMTc3MTI10gEA?oc=5",
-			"pubDate": "Fri, 08 Mar 2024 13:00:00 GMT",
+			"title": "Le Vietnam veut coop\u00e9rer plus avec l\u2019UNESCO dans les sciences naturelles - Vietnam+",
+			"link": "https://news.google.com/rss/articles/CBMibGh0dHBzOi8vZnIudmlldG5hbXBsdXMudm4vbGUtdmlldG5hbS12ZXV0LWNvb3BlcmVyLXBsdXMtYXZlYy1sdW5lc2NvLWRhbnMtbGVzLXNjaWVuY2VzLW5hdHVyZWxsZXMvMjIxNzAwLnZucNIBbGh0dHBzOi8vZnIudmlldG5hbXBsdXMudm4vbGUtdmlldG5hbS12ZXV0LWNvb3BlcmVyLXBsdXMtYXZlYy1sdW5lc2NvLWRhbnMtbGVzLXNjaWVuY2VzLW5hdHVyZWxsZXMvMjIxNzAwLmFtcA?oc=5",
+			"pubDate": "Sun, 10 Mar 2024 11:45:00 GMT",
 			"image": "https://picsum.photos/200/300?grayscale",
 			"logo": "https://picsum.photos/32/32?grayscale",
 			"site_name": "",
@@ -321,14 +321,24 @@
 			"description": ""
 		},
 		{
-			"title": "Europ\u00e9ennes: Matthieu Maillard, \u00e9tudiant \u00e0 Sciences Po Lille, a cr\u00e9\u00e9 Adeno, une application pour expliquer les \u00e9lections - BFM Grand Lille",
-			"link": "https://www.bfmtv.com/grand-lille/replay-emissions/bonsoir-lille/europeennes-matthieu-maillard-etudiant-a-sciences-po-lille-a-cree-adeno-une-application-pour-expliquer-les-elections_VN-202403050692.html",
-			"pubDate": "Tue, 05 Mar 2024 16:32:34 GMT",
-			"image": "https://images.bfmtv.com/wIpkBQXcEN9KOEnyTMamV6lfc9w=/0x0:1280x720/1280x0/images/Europeennes-Matthieu-Maillard-etudiant-a-Sciences-Po-Lille-a-cree-Adeno-une-application-pour-expliquer-les-elections-1819210.jpg",
+			"title": "VIDEO. Sciences, coca\u00efne et \u00e9cureuils... Le programme du Grand JT des Territoires - actu.fr",
+			"link": "https://news.google.com/rss/articles/CBMidGh0dHBzOi8vYWN0dS5mci9saWZlc3R5bGUvdmlkZW8tc2NpZW5jZXMtY29jYWluZS1ldC1lY3VyZXVpbHMtbGUtcHJvZ3JhbW1lLWR1LWdyYW5kLWp0LWRlcy10ZXJyaXRvaXJlc182MDc5Nzc3NS5odG1s0gEA?oc=5",
+			"pubDate": "Sat, 09 Mar 2024 09:33:47 GMT",
+			"image": "https://picsum.photos/200/300?grayscale",
 			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "BFMTV",
-			"url": "https://www.bfmtv.com/grand-lille/replay-emissions/bonsoir-lille/europeennes-matthieu-maillard-etudiant-a-sciences-po-lille-a-cree-adeno-une-application-pour-expliquer-les-elections_VN-202403050692.html",
-			"description": "VID\u00c9O - Matthieu Maillard, cr\u00e9ateur de l'application Adeno, \u00e9tudiant \u00e0 Sciences Po Lille, \u00e9tait l'invit\u00e9 de Bonsoir Lille ce mardi 5 mars."
+			"site_name": "",
+			"url": "",
+			"description": ""
+		},
+		{
+			"title": "PODCAST. Sixi\u00e8me Science, \u00e9pisode 133 : quel est le vrai bilan carbone de l'industrie spatiale ? - Sciences et Avenir",
+			"link": "https://news.google.com/rss/articles/CBMiiwFodHRwczovL3d3dy5zY2llbmNlc2V0YXZlbmlyLmZyL2RlY291dnJpci9wb2RjYXN0LXNpeGllbWUtc2NpZW5jZS1lcGlzb2RlLTEzMy1xdWVsLWVzdC1sZS12cmFpLWJpbGFuLWNhcmJvbmUtZGUtbC1pbmR1c3RyaWUtc3BhdGlhbGVfMTc3MTI10gEA?oc=5",
+			"pubDate": "Fri, 08 Mar 2024 13:00:00 GMT",
+			"image": "https://picsum.photos/200/300?grayscale",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "",
+			"url": "",
+			"description": ""
 		},
 		{
 			"title": "IA: le Vatican fait appel \u00e0 un dirigeant de Google DeepMind pour son acad\u00e9mie des sciences - Tech & Co",
@@ -341,14 +351,34 @@
 			"description": "L'\u00e9glise catholique s'int\u00e9resse \u00e0 l'intelligence artificielle, notamment en nommant de nouveaux experts pour le compte de son acad\u00e9mie des sciences."
 		},
 		{
-			"title": "VIDEO. Sciences, coca\u00efne et \u00e9cureuils... Le programme du Grand JT des Territoires - actu.fr",
-			"link": "https://news.google.com/rss/articles/CBMiemh0dHBzOi8vYWN0dS5mci9sb2lzaXJzLWN1bHR1cmUvdmlkZW8tc2NpZW5jZXMtY29jYWluZS1ldC1lY3VyZXVpbHMtbGUtcHJvZ3JhbW1lLWR1LWdyYW5kLWp0LWRlcy10ZXJyaXRvaXJlc182MDc5Nzc3NS5odG1s0gEA?oc=5",
-			"pubDate": "Sat, 09 Mar 2024 09:33:47 GMT",
-			"image": "https://picsum.photos/200/300?grayscale",
+			"title": "Europ\u00e9ennes: Matthieu Maillard, \u00e9tudiant \u00e0 Sciences Po Lille, a cr\u00e9\u00e9 Adeno, une application pour expliquer les \u00e9lections - BFM Grand Lille",
+			"link": "https://www.bfmtv.com/grand-lille/replay-emissions/bonsoir-lille/europeennes-matthieu-maillard-etudiant-a-sciences-po-lille-a-cree-adeno-une-application-pour-expliquer-les-elections_VN-202403050692.html",
+			"pubDate": "Tue, 05 Mar 2024 16:32:34 GMT",
+			"image": "https://images.bfmtv.com/wIpkBQXcEN9KOEnyTMamV6lfc9w=/0x0:1280x720/1280x0/images/Europeennes-Matthieu-Maillard-etudiant-a-Sciences-Po-Lille-a-cree-Adeno-une-application-pour-expliquer-les-elections-1819210.jpg",
 			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "",
-			"url": "",
-			"description": ""
+			"site_name": "BFMTV",
+			"url": "https://www.bfmtv.com/grand-lille/replay-emissions/bonsoir-lille/europeennes-matthieu-maillard-etudiant-a-sciences-po-lille-a-cree-adeno-une-application-pour-expliquer-les-elections_VN-202403050692.html",
+			"description": "VID\u00c9O - Matthieu Maillard, cr\u00e9ateur de l'application Adeno, \u00e9tudiant \u00e0 Sciences Po Lille, \u00e9tait l'invit\u00e9 de Bonsoir Lille ce mardi 5 mars."
+		},
+		{
+			"title": "D\u00e9mystifier la science | Les turbulences des \u00e9oliennes - La Presse",
+			"link": "https://www.lapresse.ca/actualites/sciences/2024-03-10/demystifier-la-science/les-turbulences-des-eoliennes.php",
+			"pubDate": "Sun, 10 Mar 2024 06:13:55 GMT",
+			"image": "https://mobile-img.lpcdn.ca/v2/924x/r3996/36aa287b/d2987b53fcfb393888d412d52e9a5522.jpg",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "La Presse",
+			"url": "https://www.lapresse.ca/actualites/sciences/2024-03-10/demystifier-la-science/les-turbulences-des-eoliennes.php",
+			"description": "Chaque semaine, notre journaliste r\u00e9pond aux questions scientifiques de lecteurs."
+		},
+		{
+			"title": "\"Deux visions de l'Europe s'affrontent\", indique Arnaud Mercier, professeur en sciences de l'information et ... - franceinfo",
+			"link": "https://www.francetvinfo.fr/monde/europe/deux-visions-de-l-europe-s-affrontent-indique-arnaud-mercier-professeur-en-sciences-de-l-information-et-communication-a-l-universite-paris-2-assas_6414283.html",
+			"pubDate": "Sat, 09 Mar 2024 19:00:52 GMT",
+			"image": "https://www.francetvinfo.fr/pictures/xulzsf4JihNuRJg2hwPST8RKGqM/1500x843/2024/03/09/deux-visions-de-l-europe-s-affrontent-indique-arnaud-mercier-professeur-en-sciences-de-l-information-et-communication-a-l-universite-paris-2-assas-65ecb0f9403d5144839021.jpg",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "Franceinfo",
+			"url": "https://www.francetvinfo.fr/monde/europe/deux-visions-de-l-europe-s-affrontent-indique-arnaud-mercier-professeur-en-sciences-de-l-information-et-communication-a-l-universite-paris-2-assas_6414283.html",
+			"description": "Arnaud Mercier, professeur en sciences de l'information et de la communication \u00e0 l'Universit\u00e9 Paris 2 Assas et co-auteur de \"Mon voyage au c\u0153ur de la Ve R\u00e9publique\", est invit\u00e9 du 19/20 info."
 		},
 		{
 			"title": "Les sciences et techniques au f\u00e9minin, une expo \u00e0 t\u00e9l\u00e9charger - cafepedagogique.net",
@@ -361,16 +391,6 @@
 			"description": "La revue Progressistes met \u00e0 disposition des collectivit\u00e9s, syndicats et de la communaut\u00e9 \u00e9ducative une exposition sur \u00ab\u00a0les sciences et techniques au f\u00e9minin\u00a0\u00bb. \u00ab\u00a0D\u00e8s son septi\u00e8me num\u00e9"
 		},
 		{
-			"title": "R\u00e9forme du bac, st\u00e9r\u00e9otypes lors de l'orientation\u2026 Pourquoi les filles ne calculent plus les sciences - Le Parisien",
-			"link": "https://www.leparisien.fr/sentinelles/reforme-du-bac-stereotypes-lors-de-lorientation-pourquoi-les-filles-ne-calculent-plus-les-sciences-04-03-2024-KOG2GQNFK5AGTFHU7KDVG7OZHI.php",
-			"pubDate": "Mon, 04 Mar 2024 05:25:00 GMT",
-			"image": "https://www.leparisien.fr/resizer/KMBB8NgSZlRTHi185l7K2s3WZ5Y=/1200x675/cloudfront-eu-central-1.images.arcpublishing.com/leparisien/SHQ2YU34CFGH5NFAWKQBUBQQR4.jpg",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "leparisien.fr",
-			"url": "https://www.leparisien.fr/sentinelles/reforme-du-bac-stereotypes-lors-de-lorientation-pourquoi-les-filles-ne-calculent-plus-les-sciences-04-03-2024-KOG2GQNFK5AGTFHU7KDVG7OZHI.php",
-			"description": "Sous-repr\u00e9sent\u00e9es dans les \u00e9coles d\u2019ing\u00e9nieurs, les lyc\u00e9ennes renoncent massivement aux carri\u00e8res scientifiques. Une fuite que la derni\u00e8re r"
-		},
-		{
 			"title": "Les secrets de fabrication de la moutarde industrielle - National Geographic France",
 			"link": "https://www.nationalgeographic.fr/video/sciences/les-secrets-de-fabrication-de-la-moutarde-industrielle",
 			"pubDate": "Fri, 08 Mar 2024 07:00:00 GMT",
@@ -381,14 +401,24 @@
 			"description": "Si ce condiment est pr\u00e9par\u00e9 principalement \u00e0 partir des graines de moutarde, plusieurs autres ingr\u00e9dients permettent d'affiner le go\u00fbt et la texture avant la mise en pot."
 		},
 		{
-			"title": "Des \u00e9toiles naines blanches d\u00e9fient leur mort en cristallisant - Futura",
-			"link": "https://www.futura-sciences.com/sciences/actualites/astronomie-etoiles-naines-blanches-defient-leur-mort-cristallisant-111973/",
-			"pubDate": "Sun, 10 Mar 2024 15:16:21 GMT",
-			"image": "https://cdn.futura-sciences.com/buildsv6/images/largeoriginal/3/2/a/32aba0cbb2_50145804_nebuleuse-lyre-hubble-nasa.jpg",
+			"title": "Mars Climate Orbiter : une erreur d'unit\u00e9 qui a co\u00fbt\u00e9 tr\u00e8s cher ! - Caminteresse.fr",
+			"link": "https://www.caminteresse.fr/sciences/mars-climate-orbiter-une-erreur-d-unite-qui-a-coute-tres-cher-11193207/",
+			"pubDate": "Sun, 10 Mar 2024 15:00:00 GMT",
+			"image": "https://www.caminteresse.fr/imgre/fit/~1~cam~2024~01~29~24cb3939-2604-4345-9fa0-e63ac5c638c9.jpeg/1200x630/quality/80/mars-climate-orbiter-une-erreur-d-unite-qui-a-coute-tres-cher.jpg",
 			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "Futura",
-			"url": "https://www.futura-sciences.com/sciences/actualites/astronomie-etoiles-naines-blanches-defient-leur-mort-cristallisant-111973/",
-			"description": "Les naines blanches sont des \u00e9toiles \u00e0 l'agonie, montrant le destin du Soleil, et se refroidissant lentement dont la premi\u00e8re description th\u00e9orique est presque centenaire. Les astrophysiciens..."
+			"site_name": "\u00c7a m'int\u00e9resse",
+			"url": "https://www.caminteresse.fr/sciences/mars-climate-orbiter-une-erreur-d-unite-qui-a-coute-tres-cher-11193207/",
+			"description": "Faute d\u2019avoir converti les unit\u00e9s anglo-saxonnes en unit\u00e9s du syst\u00e8me international, les Am\u00e9ricains ont perdu la sonde Mars Climate Orbiter sur Mars."
+		},
+		{
+			"title": "C\u00e9cile Lony : s'aider de la sororit\u00e9 pour atteindre ses objectifs professionnels - France-Guyane",
+			"link": "https://news.google.com/rss/articles/CBMilAFodHRwczovL3d3dy5mcmFuY2VndXlhbmUuZnIvYWN0dWFsaXRlL3NvY2lldGUtc29jaWFsLWVtcGxvaS9jZWNpbGUtbG9ueS1zYWlkZXItZGUtbGEtc29yb3JpdGUtcG91ci1hdHRlaW5kcmUtc2VzLW9iamVjdGlmcy1wcm9mZXNzaW9ubmVscy05Nzg0MzUucGhw0gEA?oc=5",
+			"pubDate": "Sun, 10 Mar 2024 10:16:14 GMT",
+			"image": "https://medias.franceantilles.fr/api/v1/images/view/65ed86d243977e0c16598d7b/width_1000/image.jpg",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "franceguyane.fr",
+			"url": "",
+			"description": ""
 		},
 		{
 			"title": "Au coll\u00e8ge, une chor\u00e9graphie innovante m\u00eale art et sciences - Midi Libre",
@@ -401,6 +431,16 @@
 			"description": "Une repr\u00e9sentation a eu lieu le 29 f\u00e9vrier au champ noir r\u00e9alis\u00e9e par une classe de 6e devant des \u00e9l\u00e8ves du coll\u00e8ge Alain-Savary et des \u00e9coliers d\u2019Agn\u00e8s-Gelly.Le th\u00e8me original Danse avec les maths a \u00e9t\u00e9 port\u00e9 par la..."
 		},
 		{
+			"title": "R\u00e9forme du bac, st\u00e9r\u00e9otypes lors de l'orientation\u2026 Pourquoi les filles ne calculent plus les sciences - Le Parisien",
+			"link": "https://www.leparisien.fr/sentinelles/reforme-du-bac-stereotypes-lors-de-lorientation-pourquoi-les-filles-ne-calculent-plus-les-sciences-04-03-2024-KOG2GQNFK5AGTFHU7KDVG7OZHI.php",
+			"pubDate": "Mon, 04 Mar 2024 05:25:00 GMT",
+			"image": "https://www.leparisien.fr/resizer/KMBB8NgSZlRTHi185l7K2s3WZ5Y=/1200x675/cloudfront-eu-central-1.images.arcpublishing.com/leparisien/SHQ2YU34CFGH5NFAWKQBUBQQR4.jpg",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "leparisien.fr",
+			"url": "https://www.leparisien.fr/sentinelles/reforme-du-bac-stereotypes-lors-de-lorientation-pourquoi-les-filles-ne-calculent-plus-les-sciences-04-03-2024-KOG2GQNFK5AGTFHU7KDVG7OZHI.php",
+			"description": "Sous-repr\u00e9sent\u00e9es dans les \u00e9coles d\u2019ing\u00e9nieurs, les lyc\u00e9ennes renoncent massivement aux carri\u00e8res scientifiques. Une fuite que la derni\u00e8re r"
+		},
+		{
 			"title": "Australie : la Grande barri\u00e8re de corail subit un \"blanchissement massif\" - Sciences et Avenir",
 			"link": "https://news.google.com/rss/articles/CBMikAFodHRwczovL3d3dy5zY2llbmNlc2V0YXZlbmlyLmZyL25hdHVyZS1lbnZpcm9ubmVtZW50L21lcnMtZXQtb2NlYW5zL2F1c3RyYWxpZS1sYS1ncmFuZGUtYmFycmllcmUtZGUtY29yYWlsLXN1Yml0LXVuLWJsYW5jaGlzc2VtZW50LW1hc3NpZl8xNzcxNTjSAQA?oc=5",
 			"pubDate": "Fri, 08 Mar 2024 00:08:00 GMT",
@@ -409,16 +449,6 @@
 			"site_name": "",
 			"url": "",
 			"description": ""
-		},
-		{
-			"title": "Le pape nomme Didier Queloz \u00e0 l'Acad\u00e9mie pontificale des Sciences - RTS.ch",
-			"link": "https://www.rts.ch/info/sciences-tech/2024/article/le-pape-nomme-didier-queloz-a-l-academie-pontificale-des-sciences-28431164.html",
-			"pubDate": "Fri, 08 Mar 2024 17:57:13 GMT",
-			"image": "https://img.rts.ch/articles/2024/image/fh597i-28431157.image?w=1200&h=630",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "rts.ch",
-			"url": "https://www.rts.ch/info/sciences-tech/2024/article/le-pape-nomme-didier-queloz-a-l-academie-pontificale-des-sciences-28431164.html",
-			"description": "Le pape Fran\u00e7ois a nomm\u00e9 vendredi le prix Nobel suisse Didier Queloz en tant que membre de l'organe du Vatican charg\u00e9 des sciences. Le dirigeant de Google DeepMind Demis Hassabis fait aussi partie des nouveaux experts, signe de l'int\u00e9r\u00eat accord\u00e9 par l'Eglise \u00e0 l'IA."
 		},
 		{
 			"title": "PORTRAIT. \"Le m\u00e9tier d'agriculteur, \u00e7a nous prend au corps\" : No\u00e9mie Calais, des bancs de Sciences Po \u00e0 l'\u00e9levage ... - LaDepeche.fr",
@@ -431,14 +461,24 @@
 			"description": "\u00c9leveuse de porcs noirs dans le Gers, No\u00e9mie Calais a travers\u00e9 de nombreuses \u00e9preuves avant de trouver sa place dans le monde agricole. Elle d\u00e9fend aujourd'hui un mod\u00e8le biologique et raisonn\u00e9, bas\u00e9\u00a0sur la coop\u00e9ration."
 		},
 		{
-			"title": "Nouvelles technologies : les d\u00e9mocraties \u00e0 l'\u00e9preuve des \u00ab Big Tech \u00bb - Sud Ouest",
-			"link": "https://www.sudouest.fr/sciences-et-technologie/nouvelles-technologies-les-democraties-a-l-epreuve-des-big-tech-18863306.php",
-			"pubDate": "Sat, 09 Mar 2024 17:00:00 GMT",
-			"image": "https://media.sudouest.fr/18863306/1200x-1/asma-mhalla-be-ne-dicte-roscot-01s.jpg",
+			"title": "Le pape nomme Didier Queloz \u00e0 l'Acad\u00e9mie pontificale des Sciences - RTS.ch",
+			"link": "https://www.rts.ch/info/sciences-tech/2024/article/le-pape-nomme-didier-queloz-a-l-academie-pontificale-des-sciences-28431164.html",
+			"pubDate": "Fri, 08 Mar 2024 17:57:13 GMT",
+			"image": "https://img.rts.ch/articles/2024/image/fh597i-28431157.image?w=1200&h=630",
 			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "SudOuest.fr",
-			"url": "https://www.sudouest.fr/sciences-et-technologie/nouvelles-technologies-les-democraties-a-l-epreuve-des-big-tech-18863306.php",
-			"description": "Dans un essai remarqu\u00e9, la chercheuse en sciences politiques Asma Mhalla expose les risques li\u00e9s \u00e0 une militarisation des nouvelles technologies. Lesquelles ont chaque jour un peu plus d\u2019emprise sur l\u2019individu"
+			"site_name": "rts.ch",
+			"url": "https://www.rts.ch/info/sciences-tech/2024/article/le-pape-nomme-didier-queloz-a-l-academie-pontificale-des-sciences-28431164.html",
+			"description": "Le pape Fran\u00e7ois a nomm\u00e9 vendredi le prix Nobel suisse Didier Queloz en tant que membre de l'organe du Vatican charg\u00e9 des sciences. Le dirigeant de Google DeepMind Demis Hassabis fait aussi partie des nouveaux experts, signe de l'int\u00e9r\u00eat accord\u00e9 par l'Eglise \u00e0 l'IA."
+		},
+		{
+			"title": "Conf\u00e9rence Femmes et sciences - Universit\u00e9 de Rouen",
+			"link": "https://www.univ-rouen.fr/agenda/conference-femmes-et-sciences/",
+			"pubDate": "Wed, 28 Feb 2024 13:01:50 GMT",
+			"image": "https://www.univ-rouen.fr/wp-content/uploads/2024/02/Claude-Grison.jpg",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "Universit\u00e9 de Rouen Normandie",
+			"url": "https://www.univ-rouen.fr/agenda/conference-femmes-et-sciences/",
+			"description": ""
 		},
 		{
 			"title": "Des sciences \u00e0 l'art contemporain, l'ann\u00e9e de tous les records pour les mus\u00e9es de Toulouse - franceinfo",
@@ -469,6 +509,16 @@
 			"site_name": "France Culture",
 			"url": "https://www.radiofrance.fr/franceculture/podcasts/la-science-cqfd/sandra-lavorel-la-montagne-ca-lui-gagne-6039732",
 			"description": "L\u2019\u00e9cologue Sandra Lavorel a vu ses travaux pionniers sur l\u2019\u00e9cologie fonctionnelle r\u00e9compens\u00e9s par la m\u00e9daille d\u2019or du CNRS 2023. Retour sur son parcours, sa carri\u00e8re, et la d\u00e9finition d\u2019une nouvelle discipline."
+		},
+		{
+			"title": "Nouvelles technologies : les d\u00e9mocraties \u00e0 l'\u00e9preuve des \u00ab Big Tech \u00bb - Sud Ouest",
+			"link": "https://www.sudouest.fr/sciences-et-technologie/nouvelles-technologies-les-democraties-a-l-epreuve-des-big-tech-18863306.php",
+			"pubDate": "Sat, 09 Mar 2024 17:00:00 GMT",
+			"image": "https://media.sudouest.fr/18863306/1200x-1/asma-mhalla-be-ne-dicte-roscot-01s.jpg",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "SudOuest.fr",
+			"url": "https://www.sudouest.fr/sciences-et-technologie/nouvelles-technologies-les-democraties-a-l-epreuve-des-big-tech-18863306.php",
+			"description": "Dans un essai remarqu\u00e9, la chercheuse en sciences politiques Asma Mhalla expose les risques li\u00e9s \u00e0 une militarisation des nouvelles technologies. Lesquelles ont chaque jour un peu plus d\u2019emprise sur l\u2019individu"
 		},
 		{
 			"title": "Le secret d'un bon pain r\u00e9v\u00e9l\u00e9 par des chercheurs fran\u00e7ais - Sciences et Avenir",
@@ -521,14 +571,14 @@
 			"description": "Comment la nouvelle g\u00e9n\u00e9ration de scientifiques envisage-t-elle la recherche\u00a0? Afin d\u2019identifier leurs aspirations, \u00ab\u00a0Le\u00a0Monde\u00a0\u00bb a recueilli les souhaits de seize jeunes sp\u00e9cialistes. Biologistes, \u00e9thologue, physiciens, math\u00e9maticien, virologue\u2026 ils racontent."
 		},
 		{
-			"title": "Au Paris-Saclay Summit, la science otage du technocapitalisme - Reporterre",
-			"link": "https://news.google.com/rss/articles/CBMiU2h0dHBzOi8vcmVwb3J0ZXJyZS5uZXQvQXUtUGFyaXMtU2FjbGF5LVN1bW1pdC1sYS1zY2llbmNlLW90YWdlLWR1LXRlY2hub2NhcGl0YWxpc21l0gEA?oc=5",
-			"pubDate": "Mon, 04 Mar 2024 16:16:00 GMT",
-			"image": "https://picsum.photos/200/300?grayscale",
+			"title": "La science sait d\u00e9sormais pourquoi certaines musiques nous donnent envie de danser (et pas d'autres) - France Inter",
+			"link": "https://www.radiofrance.fr/franceinter/la-science-sait-desormais-pourquoi-certaines-musiques-nous-donnent-envie-de-danser-et-pas-d-autres-2601827",
+			"pubDate": "Thu, 07 Mar 2024 05:35:21 GMT",
+			"image": "https://www.radiofrance.fr/s3/cruiser-production-eu3/2024/03/481fed86-47f1-4181-be4c-30cdb8171914/1200x680_sc_000-33b74k7.jpg",
 			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "",
-			"url": "",
-			"description": ""
+			"site_name": "France Inter",
+			"url": "https://www.radiofrance.fr/franceinter/la-science-sait-desormais-pourquoi-certaines-musiques-nous-donnent-envie-de-danser-et-pas-d-autres-2601827",
+			"description": "Qu\u2019est ce qui cr\u00e9e le \"groove\", cette envie de danser qui nous prend sur certains morceaux\u00a0? Une \u00e9tude fran\u00e7aise r\u00e9cente le prouve\u00a0: c\u2019est une histoire de complexit\u00e9 rythmique, et une mani\u00e8re pour votre corps d'analyser les informations envoy\u00e9es par la musique."
 		},
 		{
 			"title": "Homo erectus, Alzheimer et le pain le plus vieux de l'humanit\u00e9 : l'actu des sciences en ultrabr\u00e8ves - Yahoo Actualit\u00e9s",
@@ -541,6 +591,16 @@
 			"description": "Au sommaire de l\u2019actualit\u00e9 des sciences du 7 mars 2024 : la d\u00e9couverte en Ukraine de la plus ancienne trace de pr\u00e9sence humaine en Europe, les r\u00e9sultats d'une \u00e9tude \u201cinestimable\u201d pour mieux comprendre la maladie d\u2019Alzheimer et un pain dat\u00e9 de 8600 ans retrouv\u00e9 en Turquie."
 		},
 		{
+			"title": "Au Paris-Saclay Summit, la science otage du technocapitalisme - Reporterre",
+			"link": "https://news.google.com/rss/articles/CBMiU2h0dHBzOi8vcmVwb3J0ZXJyZS5uZXQvQXUtUGFyaXMtU2FjbGF5LVN1bW1pdC1sYS1zY2llbmNlLW90YWdlLWR1LXRlY2hub2NhcGl0YWxpc21l0gEA?oc=5",
+			"pubDate": "Mon, 04 Mar 2024 16:16:00 GMT",
+			"image": "https://picsum.photos/200/300?grayscale",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "",
+			"url": "",
+			"description": ""
+		},
+		{
 			"title": "\u00c9tudes en Charente et Charente-Maritime : le littoral, une fili\u00e8re qui a la cote - Sud Ouest",
 			"link": "https://www.sudouest.fr/etudiant/etudes-superieures/etudes-en-charente-et-charente-maritime-le-littoral-une-filiere-qui-a-la-cote-18757857.php",
 			"pubDate": "Fri, 08 Mar 2024 06:00:00 GMT",
@@ -551,24 +611,14 @@
 			"description": "\u00c0 l\u2019universit\u00e9 de La\u00a0Rochelle, les sciences du littoral sont une voie d\u2019excellence, et leurs masters m\u00e8nent \u00e0 la recherche appliqu\u00e9e dans le public comme dans le priv\u00e9"
 		},
 		{
-			"title": "Pourquoi les m\u00e9decins se m\u00e9fient de l'IA - La Presse",
-			"link": "https://www.lapresse.ca/actualites/sciences/2024-03-10/pourquoi-les-medecins-se-mefient-de-l-ia.php",
-			"pubDate": "Sun, 10 Mar 2024 06:13:55 GMT",
-			"image": "https://mobile-img.lpcdn.ca/v2/924x/r3996/9ba6d497/fcde571a760a3cd795324170d2b749ff.jpg",
+			"title": "Cet astrolabe plein de surprises a uni des mondes - Futura",
+			"link": "https://www.futura-sciences.com/sciences/actualites/histoire-cet-astrolabe-plein-surprises-uni-mondes-111970/",
+			"pubDate": "Sat, 09 Mar 2024 14:09:47 GMT",
+			"image": "https://cdn.futura-sciences.com/buildsv6/images/largeoriginal/7/1/a/71a0aa4f2d_50213343_savant-instruments-astronomiques.jpg",
 			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "La Presse",
-			"url": "https://www.lapresse.ca/actualites/sciences/2024-03-10/pourquoi-les-medecins-se-mefient-de-l-ia.php",
-			"description": " En 2022, Jayashree Kalpathy-Cramer a vu dans le Lancet\u00a0Digital\u00a0Health une \u00e9tude qui illustrait parfaitement les promesses de l\u2019intelligence artificielle (IA)\u2026 et les raisons pour lesquelles son adoption par la m\u00e9decine serait compliqu\u00e9e."
-		},
-		{
-			"title": "Ceinture d'ast\u00e9ro\u00efdes, anthropoc\u00e8ne et requins blancs : au clair de la Une - France Culture",
-			"link": "https://www.radiofrance.fr/franceculture/podcasts/la-science-cqfd/ceinture-d-asteroides-anthropocene-et-requins-blancs-au-clair-de-la-une-8331150",
-			"pubDate": "Mon, 04 Mar 2024 16:07:30 GMT",
-			"image": "https://www.radiofrance.fr/s3/cruiser-production-eu3/2024/03/8091fda9-d680-4251-a299-aea6607cabc4/1200x680_sc_gettyimages-124770742.jpg",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "France Culture",
-			"url": "https://www.radiofrance.fr/franceculture/podcasts/la-science-cqfd/ceinture-d-asteroides-anthropocene-et-requins-blancs-au-clair-de-la-une-8331150",
-			"description": "De quoi est compos\u00e9e la ceinture d\u2019ast\u00e9ro\u00efdes\u00a0? Comment et pourquoi dater le d\u00e9but de l\u2019anthropoc\u00e8ne\u00a0? Que sait-on du requin blanc\u00a0? Un tour de l'actualit\u00e9 scientifique\u2026"
+			"site_name": "Futura",
+			"url": "https://www.futura-sciences.com/sciences/actualites/histoire-cet-astrolabe-plein-surprises-uni-mondes-111970/",
+			"description": "En se penchant sur un astrolabe vieux d'environ neuf si\u00e8cles, une historienne a observ\u00e9 des sp\u00e9cificit\u00e9s pourtant inhabituelles sur ce type d'objet. L'instrument, fabriqu\u00e9 en territoire musulman..."
 		},
 		{
 			"title": "Le cerveau a-t-il un sexe ? se demande l'ing\u00e9nieur et chercheur en sciences cognitives Franck Ramus - Europe 1",
@@ -591,16 +641,6 @@
 			"description": ""
 		},
 		{
-			"title": "B\u00e9n\u00e9ficiez de 3 mois offerts en ce moment sur l'abonnement Futura ! - Futura",
-			"link": "https://www.futura-sciences.com/sciences/actualites/futura-sciences-beneficiez-3-mois-offerts-ce-moment-abonnement-futura-87194/",
-			"pubDate": "Fri, 08 Mar 2024 17:10:05 GMT",
-			"image": "https://cdn.futura-sciences.com/buildsv6/images/largeoriginal/1/2/c/12c74a1e77_50213397_extrait-exclusif-cahiers-futura-1.jpg",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "Futura",
-			"url": "https://www.futura-sciences.com/sciences/actualites/futura-sciences-beneficiez-3-mois-offerts-ce-moment-abonnement-futura-87194/",
-			"description": "Du 6 au 20 mars, plongez dans l'univers Futura avec une offre sp\u00e9ciale \u00e0 ne pas manquer ! Nous vous offrons 3 mois d'abonnement num\u00e9rique sur Patreon. Une occasion unique de soutenir les m\u00e9dias..."
-		},
-		{
 			"title": "Sciences et technologies pour la sant\u00e9 - Universit\u00e9 de Bordeaux",
 			"link": "https://www.u-bordeaux.fr/recherche/structures-de-recherche/departements-de-recherche/sciences-technologies-pour-la-sante",
 			"pubDate": "Mon, 22 Jan 2024 08:00:00 GMT",
@@ -621,13 +661,23 @@
 			"description": "Le coll\u00e8ge sciences et technologies rassemble dans toutes ses composantes pr\u00e8s de 8 200 \u00e9tudiants consacrant leurs efforts aux grands domaines des math\u00e9matiques et de leurs interactions, de l\u2019informatique, de la physique, des sciences de l\u2019ing\u00e9nieur, de la chimie, de la biologie et des sciences de la Terre et de l\u2019environnement."
 		},
 		{
-			"title": "Les scientifiques h\u00e9ro\u00efnes de fiction influencent-elles les choix d'orientation des adolescentes ? - The Conversation",
-			"link": "https://news.google.com/rss/articles/CBMiggFodHRwczovL3RoZWNvbnZlcnNhdGlvbi5jb20vbGVzLXNjaWVudGlmaXF1ZXMtaGVyby1uZXMtZGUtZmljdGlvbi1pbmZsdWVuY2VudC1lbGxlcy1sZXMtY2hvaXgtZG9yaWVudGF0aW9uLWRlcy1hZG9sZXNjZW50ZXMtMjIzMTA50gEA?oc=5",
-			"pubDate": "Tue, 05 Mar 2024 16:01:10 GMT",
-			"image": "https://picsum.photos/200/300?grayscale",
+			"title": "Ceinture d'ast\u00e9ro\u00efdes, anthropoc\u00e8ne et requins blancs : au clair de la Une - France Culture",
+			"link": "https://www.radiofrance.fr/franceculture/podcasts/la-science-cqfd/ceinture-d-asteroides-anthropocene-et-requins-blancs-au-clair-de-la-une-8331150",
+			"pubDate": "Mon, 04 Mar 2024 16:07:30 GMT",
+			"image": "https://www.radiofrance.fr/s3/cruiser-production-eu3/2024/03/8091fda9-d680-4251-a299-aea6607cabc4/1200x680_sc_gettyimages-124770742.jpg",
 			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "",
-			"url": "",
+			"site_name": "France Culture",
+			"url": "https://www.radiofrance.fr/franceculture/podcasts/la-science-cqfd/ceinture-d-asteroides-anthropocene-et-requins-blancs-au-clair-de-la-une-8331150",
+			"description": "De quoi est compos\u00e9e la ceinture d\u2019ast\u00e9ro\u00efdes\u00a0? Comment et pourquoi dater le d\u00e9but de l\u2019anthropoc\u00e8ne\u00a0? Que sait-on du requin blanc\u00a0? Un tour de l'actualit\u00e9 scientifique\u2026"
+		},
+		{
+			"title": "CNRS Sciences humaines & sociales - Centre national de la recherche scientifique (CNRS)",
+			"link": "https://www.inshs.cnrs.fr/fr/institut-inshs",
+			"pubDate": "Wed, 07 Feb 2024 08:00:00 GMT",
+			"image": "https://www.inshs.cnrs.fr/sites/institut_inshs/files/styles/institut_home_top/public/image/une1.jpg?itok=Q01Ca19X",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "CNRS Sciences humaines & sociales",
+			"url": "https://www.inshs.cnrs.fr/fr/institut-inshs",
 			"description": ""
 		},
 		{
@@ -651,16 +701,6 @@
 			"description": "Oppenheimer continue de soutenir Gilead Sciences"
 		},
 		{
-			"title": "CNRS Sciences humaines & sociales - Centre national de la recherche scientifique (CNRS)",
-			"link": "https://www.inshs.cnrs.fr/fr/institut-inshs",
-			"pubDate": "Wed, 07 Feb 2024 08:00:00 GMT",
-			"image": "https://www.inshs.cnrs.fr/sites/institut_inshs/files/styles/institut_home_top/public/image/une1.jpg?itok=Q01Ca19X",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "CNRS Sciences humaines & sociales",
-			"url": "https://www.inshs.cnrs.fr/fr/institut-inshs",
-			"description": ""
-		},
-		{
 			"title": "Healt from Space : Les opportunit\u00e9s commerciales et m\u00e9dicales de l'espace. - France Bleu",
 			"link": "https://www.francebleu.fr/emissions/toulouse-capitale-des-etoiles/healt-from-space-les-opportunites-commerciales-et-medicales-de-l-espace-5326033",
 			"pubDate": "Sat, 09 Mar 2024 07:47:00 GMT",
@@ -671,14 +711,14 @@
 			"description": "Les sciences de la vie, la sant\u00e9, et les domaines associ\u00e9s des biomat\u00e9riaux sont sur le point de conna\u00eetre une \u00e9volution, voire une r\u00e9volution, gr\u00e2ce \u00e0 la possibilit\u00e9 d\u2019\u00e9tablir et d\u2019exploiter des installations dans l\u2019espace."
 		},
 		{
-			"title": "L\u2019hippocampe, si\u00e8ge de la m\u00e9moire et GPS de notre cerveau - L'Humanit\u00e9",
-			"link": "https://www.humanite.fr/sciences/academie-des-sciences/lhippocampe-siege-de-la-memoire-et-gps-de-notre-cerveau",
-			"pubDate": "Fri, 08 Mar 2024 13:10:59 GMT",
-			"image": "https://www.humanite.fr/wp-content/uploads/2024/03/IDEES.jpg",
+			"title": "Les scientifiques h\u00e9ro\u00efnes de fiction influencent-elles les choix d'orientation des adolescentes ? - The Conversation",
+			"link": "https://news.google.com/rss/articles/CBMiggFodHRwczovL3RoZWNvbnZlcnNhdGlvbi5jb20vbGVzLXNjaWVudGlmaXF1ZXMtaGVyby1uZXMtZGUtZmljdGlvbi1pbmZsdWVuY2VudC1lbGxlcy1sZXMtY2hvaXgtZG9yaWVudGF0aW9uLWRlcy1hZG9sZXNjZW50ZXMtMjIzMTA50gEA?oc=5",
+			"pubDate": "Tue, 05 Mar 2024 16:01:10 GMT",
+			"image": "https://picsum.photos/200/300?grayscale",
 			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "L'Humanit\u00e9",
-			"url": "https://www.humanite.fr/sciences/academie-des-sciences/lhippocampe-siege-de-la-memoire-et-gps-de-notre-cerveau",
-			"description": "\nNich\u00e9e sous le cortex, cette r\u00e9gion c\u00e9r\u00e9brale construit nos souvenirs, mais nous permet aussi d\u2019explorer le monde, de former des sch\u00e9mas liant entre eux les \u00e9v\u00e9nements et de nous s..."
+			"site_name": "",
+			"url": "",
+			"description": ""
 		},
 		{
 			"title": "Une formation pour \"travailler autrement\" gr\u00e2ce aux sciences comportementales - modernisation.gouv",
@@ -711,14 +751,14 @@
 			"description": ""
 		},
 		{
-			"title": "Sciences Po lance un double dipl\u00f4me de bachelor avec la Luiss \u00e0 Rome - Sciences Po",
-			"link": "https://news.google.com/rss/articles/CBMibGh0dHBzOi8vd3d3LnNjaWVuY2VzcG8uZnIvZnIvYWN0dWFsaXRlcy9zY2llbmNlcy1wby1sYW5jZS11bi1kb3VibGUtZGlwbG9tZS1kZS1iYWNoZWxvci1hdmVjLWxhLWx1aXNzLWEtcm9tZdIBAA?oc=5",
-			"pubDate": "Wed, 20 Dec 2023 08:00:00 GMT",
-			"image": "https://www.sciencespo.fr/fr/static/145eb60cb09c3f7b0bd3aef84ebf9c61/669f3/LUISS_dual_degree_double_diplome_2023_sciencespo_a6ac5bf451.jpg",
+			"title": "L\u2019hippocampe, si\u00e8ge de la m\u00e9moire et GPS de notre cerveau - L'Humanit\u00e9",
+			"link": "https://www.humanite.fr/sciences/academie-des-sciences/lhippocampe-siege-de-la-memoire-et-gps-de-notre-cerveau",
+			"pubDate": "Fri, 08 Mar 2024 13:10:59 GMT",
+			"image": "https://www.humanite.fr/wp-content/uploads/2024/03/IDEES.jpg",
 			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "Sciences Po",
-			"url": "",
-			"description": ""
+			"site_name": "L'Humanit\u00e9",
+			"url": "https://www.humanite.fr/sciences/academie-des-sciences/lhippocampe-siege-de-la-memoire-et-gps-de-notre-cerveau",
+			"description": "\nNich\u00e9e sous le cortex, cette r\u00e9gion c\u00e9r\u00e9brale construit nos souvenirs, mais nous permet aussi d\u2019explorer le monde, de former des sch\u00e9mas liant entre eux les \u00e9v\u00e9nements et de nous s..."
 		},
 		{
 			"title": "L'orchestre culinaire - \u00c9v\u00e9nements pass\u00e9s - Ressources - Cit\u00e9 des sciences et de l'industrie - Cit\u00e9 des Sciences",
@@ -731,14 +771,14 @@
 			"description": ""
 		},
 		{
-			"title": "Cet astrolabe plein de surprises a uni des mondes - Futura",
-			"link": "https://www.futura-sciences.com/sciences/actualites/histoire-cet-astrolabe-plein-surprises-uni-mondes-111970/",
-			"pubDate": "Sat, 09 Mar 2024 14:09:47 GMT",
-			"image": "https://cdn.futura-sciences.com/buildsv6/images/largeoriginal/7/1/a/71a0aa4f2d_50213343_savant-instruments-astronomiques.jpg",
+			"title": "Sciences Po lance un double dipl\u00f4me de bachelor avec la Luiss \u00e0 Rome - Sciences Po",
+			"link": "https://news.google.com/rss/articles/CBMibGh0dHBzOi8vd3d3LnNjaWVuY2VzcG8uZnIvZnIvYWN0dWFsaXRlcy9zY2llbmNlcy1wby1sYW5jZS11bi1kb3VibGUtZGlwbG9tZS1kZS1iYWNoZWxvci1hdmVjLWxhLWx1aXNzLWEtcm9tZdIBAA?oc=5",
+			"pubDate": "Wed, 20 Dec 2023 08:00:00 GMT",
+			"image": "https://www.sciencespo.fr/fr/static/145eb60cb09c3f7b0bd3aef84ebf9c61/669f3/LUISS_dual_degree_double_diplome_2023_sciencespo_a6ac5bf451.jpg",
 			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "Futura",
-			"url": "https://www.futura-sciences.com/sciences/actualites/histoire-cet-astrolabe-plein-surprises-uni-mondes-111970/",
-			"description": "En se penchant sur un astrolabe vieux d'environ neuf si\u00e8cles, une historienne a observ\u00e9 des sp\u00e9cificit\u00e9s pourtant inhabituelles sur ce type d'objet. L'instrument, fabriqu\u00e9 en territoire musulman..."
+			"site_name": "Sciences Po",
+			"url": "",
+			"description": ""
 		},
 		{
 			"title": "6\u00e8me \u00e9dition du festival Sud de sciences | Montpellier M\u00e9diterran\u00e9e M\u00e9tropole - Montpellier M\u00e9diterran\u00e9e M\u00e9tropole |",
@@ -751,6 +791,16 @@
 			"description": ""
 		},
 		{
+			"title": "Pourquoi les m\u00e9decins se m\u00e9fient de l'IA - La Presse",
+			"link": "https://www.lapresse.ca/actualites/sciences/2024-03-10/pourquoi-les-medecins-se-mefient-de-l-ia.php",
+			"pubDate": "Sun, 10 Mar 2024 06:13:55 GMT",
+			"image": "https://mobile-img.lpcdn.ca/v2/924x/r3996/9ba6d497/fcde571a760a3cd795324170d2b749ff.jpg",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "La Presse",
+			"url": "https://www.lapresse.ca/actualites/sciences/2024-03-10/pourquoi-les-medecins-se-mefient-de-l-ia.php",
+			"description": " En 2022, Jayashree Kalpathy-Cramer a vu dans le Lancet\u00a0Digital\u00a0Health une \u00e9tude qui illustrait parfaitement les promesses de l\u2019intelligence artificielle (IA)\u2026 et les raisons pour lesquelles son adoption par la m\u00e9decine serait compliqu\u00e9e."
+		},
+		{
 			"title": "Au \"pays des oiseaux\", une fragile collection de toutes les esp\u00e8ces aviaires de Colombie - TV5MONDE",
 			"link": "https://information.tv5monde.com/science/au-pays-des-oiseaux-une-fragile-collection-de-toutes-les-especes-aviaires-de-colombie",
 			"pubDate": "Fri, 08 Mar 2024 08:01:10 GMT",
@@ -761,24 +811,14 @@
 			"description": "Science"
 		},
 		{
-			"title": "Programme d'\u00e9change - Sciences Po",
-			"link": "https://news.google.com/rss/articles/CBMiOWh0dHBzOi8vd3d3LnNjaWVuY2VzcG8uZnIvZnIvZm9ybWF0aW9ucy9wcm9ncmFtbWUtZWNoYW5nZdIBAA?oc=5",
-			"pubDate": "Thu, 15 Feb 2024 15:49:32 GMT",
-			"image": "https://www.sciencespo.fr/fr/static/5043bee0ff1c104b8cb86153ee4916ad/78f42/sciencespo_bandeau_amphi_06_f8fcfb7401.jpg",
+			"title": "Sciences du sport : le CNRS anime le jeu - Centre national de la recherche scientifique (CNRS)",
+			"link": "https://www.cnrs.fr/fr/cnrsinfo/sciences-du-sport-le-cnrs-anime-le-jeu",
+			"pubDate": "Tue, 09 Jan 2024 08:00:00 GMT",
+			"image": "https://www.cnrs.fr/sites/default/files/image/cnrs_20200003_0059_MD.jpg",
 			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "Sciences Po",
-			"url": "",
-			"description": ""
-		},
-		{
-			"title": "Les pr\u00e9dateurs repr\u00e9sentent une alternative efficace aux pesticides, selon une \u00e9tude - Sciences et Avenir",
-			"link": "https://news.google.com/rss/articles/CBMijwFodHRwczovL3d3dy5zY2llbmNlc2V0YXZlbmlyLmZyL2FuaW1hdXgvYmlvZGl2ZXJzaXRlL2xlcy1wcmVkYXRldXJzLXJlcHJlc2VudGVudC11bmUtYWx0ZXJuYXRpdmUtZWZmaWNhY2UtYXV4LXBlc3RpY2lkZXMtc2Vsb24tdW5lLWV0dWRlXzE3NzExM9IBAA?oc=5",
-			"pubDate": "Wed, 06 Mar 2024 00:01:00 GMT",
-			"image": "https://picsum.photos/200/300?grayscale",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "",
-			"url": "",
-			"description": ""
+			"site_name": "CNRS",
+			"url": "https://www.cnrs.fr/fr/cnrsinfo/sciences-du-sport-le-cnrs-anime-le-jeu",
+			"description": "Pr\u00e8s de cinq ans apr\u00e8s son lancement, le Groupement de recherche Sport et activit\u00e9 physique tenait le 6 d\u00e9cembre 2023 un colloque en guise d"
 		},
 		{
 			"title": "Communiqu\u00e9 de presse : 18 nouveaux membres \u00e9lus \u00e0 l'Acad\u00e9mie des sciences | Communiqu\u00e9s de presse | Presse ... - Acad\u00e9mie des sciences",
@@ -791,6 +831,16 @@
 			"description": ""
 		},
 		{
+			"title": "B\u00e9n\u00e9ficiez de 3 mois offerts en ce moment sur l'abonnement Futura ! - Futura",
+			"link": "https://www.futura-sciences.com/sciences/actualites/futura-sciences-beneficiez-3-mois-offerts-ce-moment-abonnement-futura-87194/",
+			"pubDate": "Fri, 08 Mar 2024 17:10:05 GMT",
+			"image": "https://cdn.futura-sciences.com/buildsv6/images/largeoriginal/1/2/c/12c74a1e77_50213397_extrait-exclusif-cahiers-futura-1.jpg",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "Futura",
+			"url": "https://www.futura-sciences.com/sciences/actualites/futura-sciences-beneficiez-3-mois-offerts-ce-moment-abonnement-futura-87194/",
+			"description": "Du 6 au 20 mars, plongez dans l'univers Futura avec une offre sp\u00e9ciale \u00e0 ne pas manquer ! Nous vous offrons 3 mois d'abonnement num\u00e9rique sur Patreon. Une occasion unique de soutenir les m\u00e9dias..."
+		},
+		{
 			"title": "Quiz. Testez vos connaissances en sciences en 15 questions ! - Edition du soir Ouest-France - 28/02/2024 - L'\u00e9dition du soir",
 			"link": "https://news.google.com/rss/articles/CBMilAFodHRwczovL3d3dy5vdWVzdC1mcmFuY2UuZnIvbGVkaXRpb25kdXNvaXIvMjAyNC0wMi0yOC9xdWl6LXRlc3Rlei12b3MtY29ubmFpc3NhbmNlcy1lbi1zY2llbmNlcy1lbi0xNS1xdWVzdGlvbnMtOGM5MjRkN2UtN2IwNS00NjA4LTg5ZDEtNmVjOTc3NDJhNTBl0gEA?oc=5",
 			"pubDate": "Wed, 28 Feb 2024 08:00:00 GMT",
@@ -799,16 +849,6 @@
 			"site_name": "",
 			"url": "",
 			"description": ""
-		},
-		{
-			"title": "Sciences du sport : le CNRS anime le jeu - Centre national de la recherche scientifique (CNRS)",
-			"link": "https://www.cnrs.fr/fr/cnrsinfo/sciences-du-sport-le-cnrs-anime-le-jeu",
-			"pubDate": "Tue, 09 Jan 2024 08:00:00 GMT",
-			"image": "https://www.cnrs.fr/sites/default/files/image/cnrs_20200003_0059_MD.jpg",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "CNRS",
-			"url": "https://www.cnrs.fr/fr/cnrsinfo/sciences-du-sport-le-cnrs-anime-le-jeu",
-			"description": "Pr\u00e8s de cinq ans apr\u00e8s son lancement, le Groupement de recherche Sport et activit\u00e9 physique tenait le 6 d\u00e9cembre 2023 un colloque en guise d"
 		},
 		{
 			"title": "La semaine du cerveau revient du 12 au 22 mars \u00e0 Un\u00eemes - Midi Libre",
@@ -831,6 +871,16 @@
 			"description": ""
 		},
 		{
+			"title": "Les pr\u00e9dateurs repr\u00e9sentent une alternative efficace aux pesticides, selon une \u00e9tude - Sciences et Avenir",
+			"link": "https://news.google.com/rss/articles/CBMijwFodHRwczovL3d3dy5zY2llbmNlc2V0YXZlbmlyLmZyL2FuaW1hdXgvYmlvZGl2ZXJzaXRlL2xlcy1wcmVkYXRldXJzLXJlcHJlc2VudGVudC11bmUtYWx0ZXJuYXRpdmUtZWZmaWNhY2UtYXV4LXBlc3RpY2lkZXMtc2Vsb24tdW5lLWV0dWRlXzE3NzExM9IBAA?oc=5",
+			"pubDate": "Wed, 06 Mar 2024 00:01:00 GMT",
+			"image": "https://picsum.photos/200/300?grayscale",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "",
+			"url": "",
+			"description": ""
+		},
+		{
 			"title": "Coll\u00e8ge sciences de l'Homme - Universit\u00e9 de Bordeaux",
 			"link": "https://www.u-bordeaux.fr/universite/organisation-et-fonctionnement/composantes-de-formation/college-sciences-de-l-homme",
 			"pubDate": "Wed, 22 Nov 2023 08:00:00 GMT",
@@ -839,16 +889,6 @@
 			"site_name": "Universit\u00e9 de Bordeaux",
 			"url": "https://www.u-bordeaux.fr/universite/organisation-et-fonctionnement/composantes-de-formation/college-sciences-de-l-homme",
 			"description": "Le coll\u00e8ge sciences de l\u2019Homme comprend cinq composantes de formations : facult\u00e9 d\u2019anthropologie, facult\u00e9 de psychologie, facult\u00e9 des sciences de l\u2019\u00e9ducation, facult\u00e9 de sociologie et facult\u00e9 des STAPS."
-		},
-		{
-			"title": "Aucun risque que l'ast\u00e9ro\u00efde Apophis ne tombe sur la Terre en 2029 ! - Futura",
-			"link": "https://www.futura-sciences.com/sciences/actualites/asteroide-aucun-risque-asteroide-apophis-ne-tombe-terre-2029-111945/",
-			"pubDate": "Wed, 06 Mar 2024 17:15:00 GMT",
-			"image": "https://cdn.futura-sciences.com/buildsv6/images/largeoriginal/3/3/7/337b522feb_50213266_asteroide-apophis-terre.jpg",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "Futura",
-			"url": "https://www.futura-sciences.com/sciences/actualites/asteroide-aucun-risque-asteroide-apophis-ne-tombe-terre-2029-111945/",
-			"description": "Il porte le nom du dieu du mal et du chaos. Pourtant, une nouvelle \u00e9tude le confirme aujourd\u2019hui, l\u2019ast\u00e9ro\u00efde baptis\u00e9 Apophis n\u2019entrera pas en collision avec la Terre dans les ann\u00e9es \u00e0 venir."
 		},
 		{
 			"title": "Institut Universitaire des Sciences de la R\u00e9adaptation (IUSR) - Universit\u00e9 de Bordeaux",
@@ -871,22 +911,22 @@
 			"description": ""
 		},
 		{
-			"title": "Un an apr\u00e8s, Bruno Latour nous inspire toujours - Sciences Po",
-			"link": "https://news.google.com/rss/articles/CBMiVmh0dHBzOi8vd3d3LnNjaWVuY2VzcG8uZnIvZnIvYWN0dWFsaXRlcy91bi1hbi1hcHJlcy1icnVuby1sYXRvdXItbm91cy1pbnNwaXJlLXRvdWpvdXJz0gEA?oc=5",
-			"pubDate": "Wed, 11 Oct 2023 07:00:00 GMT",
-			"image": "https://www.sciencespo.fr/fr/static/8d6df6dc95d1b3ebf1df4ab50d8b506a/a764f/Sciences_Po_Bruno_Latour_c697ef052b.jpg",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "Sciences Po",
-			"url": "",
-			"description": ""
-		},
-		{
 			"title": "Villette eSport 24 - \u00c9v\u00e9nements pass\u00e9s - Ressources - Cit\u00e9 des sciences et de l'industrie - Cit\u00e9 des Sciences",
 			"link": "https://news.google.com/rss/articles/CBMiSmh0dHBzOi8vd3d3LmNpdGUtc2NpZW5jZXMuZnIvZnIvYXUtcHJvZ3JhbW1lL2V2ZW5lbWVudHMvdmlsbGV0dGUtZXNwb3J0LTI00gEA?oc=5",
 			"pubDate": "Tue, 30 Jan 2024 13:50:23 GMT",
 			"image": "https://www.cite-sciences.fr/fileadmin/_processed_/e/6/csm_ImgGenCSI2_141566b89e.jpg",
 			"logo": "https://picsum.photos/32/32?grayscale",
 			"site_name": "",
+			"url": "",
+			"description": ""
+		},
+		{
+			"title": "Un an apr\u00e8s, Bruno Latour nous inspire toujours - Sciences Po",
+			"link": "https://news.google.com/rss/articles/CBMiVmh0dHBzOi8vd3d3LnNjaWVuY2VzcG8uZnIvZnIvYWN0dWFsaXRlcy91bi1hbi1hcHJlcy1icnVuby1sYXRvdXItbm91cy1pbnNwaXJlLXRvdWpvdXJz0gEA?oc=5",
+			"pubDate": "Wed, 11 Oct 2023 07:00:00 GMT",
+			"image": "https://www.sciencespo.fr/fr/static/8d6df6dc95d1b3ebf1df4ab50d8b506a/a764f/Sciences_Po_Bruno_Latour_c697ef052b.jpg",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "Sciences Po",
 			"url": "",
 			"description": ""
 		},
@@ -901,12 +941,12 @@
 			"description": ""
 		},
 		{
-			"title": "L'existence d'un troisi\u00e8me ordre magn\u00e9tique confirm\u00e9e par une exp\u00e9rience - Sciences et Avenir",
-			"link": "https://news.google.com/rss/articles/CBMihQFodHRwczovL3d3dy5zY2llbmNlc2V0YXZlbmlyLmZyL2ZvbmRhbWVudGFsL21hdGVyaWF1eC9sLWV4aXN0ZW5jZS1kLXVuLXRyb2lzaWVtZS1vcmRyZS1tYWduZXRpcXVlLWNvbmZpcm1lZS1wYXItdW5lLWV4cGVyaWVuY2VfMTc3MDg10gEA?oc=5",
-			"pubDate": "Mon, 04 Mar 2024 14:59:00 GMT",
-			"image": "https://picsum.photos/200/300?grayscale",
+			"title": "Bienvenue aux 14 nouveaux chercheurs qui rejoignent Sciences Po - Sciences Po",
+			"link": "https://news.google.com/rss/articles/CBMiaGh0dHBzOi8vd3d3LnNjaWVuY2VzcG8uZnIvZnIvYWN0dWFsaXRlcy9iaWVudmVudWUtYXV4LTE0LW5vdXZlYXV4LWNoZXJjaGV1cnMtcXVpLXJlam9pZ25lbnQtc2NpZW5jZXMtcG8v0gEA?oc=5",
+			"pubDate": "Tue, 19 Dec 2023 08:00:00 GMT",
+			"image": "https://www.sciencespo.fr/fr/static/36caace36df4cb3b3262a04fa5955469/3329b/recherche_nouveaux_chercheurs_annonce_researchers_2023_sciencespo_bb5800fa6a.png",
 			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "",
+			"site_name": "Sciences Po",
 			"url": "",
 			"description": ""
 		},
@@ -921,24 +961,14 @@
 			"description": "Le pape Fran\u00e7ois a nomm\u00e9 vendredi le prix Nobel suisse Didier Queloz en tant que membre de l'organe du Vatican charg\u00e9 des sciences. Le dirigeant de Google DeepMind Demis Hassabis fait aussi partie des nouveaux experts, signe de l'int\u00e9r\u00eat accord\u00e9 par l'Eglise \u00e0 l'IA."
 		},
 		{
-			"title": "Le cerveau au rythme du groove ou pourquoi la musique nous donne-t-elle envie de danser ? - Inserm (salle de presse)",
-			"link": "https://presse.inserm.fr/le-cerveau-au-rythme-du-groove-ou-pourquoi-la-musique-nous-donne-t-elle-envie-de-danser/68138/",
-			"pubDate": "Wed, 06 Mar 2024 19:01:09 GMT",
-			"image": "http://presse.inserm.fr/wp-content/uploads/2024/03/AdobeStock_467700846-scaled.jpeg",
+			"title": "Aucun risque que l'ast\u00e9ro\u00efde Apophis ne tombe sur la Terre en 2029 ! - Futura",
+			"link": "https://www.futura-sciences.com/sciences/actualites/asteroide-aucun-risque-asteroide-apophis-ne-tombe-terre-2029-111945/",
+			"pubDate": "Wed, 06 Mar 2024 17:15:00 GMT",
+			"image": "https://cdn.futura-sciences.com/buildsv6/images/largeoriginal/3/3/7/337b522feb_50213266_asteroide-apophis-terre.jpg",
 			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "Salle de presse de l'Inserm",
-			"url": "https://presse.inserm.fr/le-cerveau-au-rythme-du-groove-ou-pourquoi-la-musique-nous-donne-t-elle-envie-de-danser/68138/",
-			"description": "Pourquoi certaines musiques nous donnent-elles plus envie de danser que d\u2019autres\u00a0? C\u2019est \u00e0 cette question qu\u2019une \u00e9quipe de recherche de l\u2019Inserm et d\u2019Aix-Marseille Universit\u00e9 a tent\u00e9 de r\u00e9pondre en \u00e9tudiant l\u2019envie de danser (aussi appel\u00e9e \u00ab\u00a0groove\u00a0\u00bb) et l\u2019activit\u00e9 c\u00e9r\u00e9brale de 30 participants \u00e9coutant de la musique. Les r\u00e9sultats montrent que la sensation de groove est maximale pour un rythme moyennement complexe et que l\u2019envie de bouger se traduit au niveau c\u00e9r\u00e9bral par une anticipation du tempo de la musique."
-		},
-		{
-			"title": "Bienvenue aux 14 nouveaux chercheurs qui rejoignent Sciences Po - Sciences Po",
-			"link": "https://news.google.com/rss/articles/CBMiaGh0dHBzOi8vd3d3LnNjaWVuY2VzcG8uZnIvZnIvYWN0dWFsaXRlcy9iaWVudmVudWUtYXV4LTE0LW5vdXZlYXV4LWNoZXJjaGV1cnMtcXVpLXJlam9pZ25lbnQtc2NpZW5jZXMtcG8v0gEA?oc=5",
-			"pubDate": "Tue, 19 Dec 2023 08:00:00 GMT",
-			"image": "https://www.sciencespo.fr/fr/static/36caace36df4cb3b3262a04fa5955469/3329b/recherche_nouveaux_chercheurs_annonce_researchers_2023_sciencespo_bb5800fa6a.png",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "Sciences Po",
-			"url": "",
-			"description": ""
+			"site_name": "Futura",
+			"url": "https://www.futura-sciences.com/sciences/actualites/asteroide-aucun-risque-asteroide-apophis-ne-tombe-terre-2029-111945/",
+			"description": "Il porte le nom du dieu du mal et du chaos. Pourtant, une nouvelle \u00e9tude le confirme aujourd\u2019hui, l\u2019ast\u00e9ro\u00efde baptis\u00e9 Apophis n\u2019entrera pas en collision avec la Terre dans les ann\u00e9es \u00e0 venir."
 		},
 		{
 			"title": "\u00c9tudier \u00e0 Sciences Po, combien \u00e7a co\u00fbte ? - Sciences Po",
@@ -951,45 +981,15 @@
 			"description": ""
 		},
 		{
-			"title": "Vaccin\u00e9 217 fois, alternative au je\u00fbne et \"com\u00e8te du Diable\" : l'actu des sciences en ultrabr\u00e8ves - Sciences et Avenir",
-			"link": "https://news.google.com/rss/articles/CBMijwFodHRwczovL3d3dy5zY2llbmNlc2V0YXZlbmlyLmZyL3VsdHJhYnJldmVzL3ZhY2NpbmUtMjE3LWZvaXMtYWx0ZXJuYXRpdmUtYXUtamV1bmUtZXQtY29tZXRlLWR1LWRpYWJsZS1sLWFjdHUtZGVzLXNjaWVuY2VzLWVuLXVsdHJhYnJldmVzXzE3NzE2NNIBAA?oc=5",
-			"pubDate": "Fri, 08 Mar 2024 16:07:00 GMT",
-			"image": "https://picsum.photos/200/300?grayscale",
+			"title": "Sciences Po : un nouveau prix pour \u00ab comprendre notre temps \u00bb - ActuaLitt\u00e9",
+			"link": "https://actualitte.com/article/116060/prix-litteraires/sciences-po-un-nouveau-prix-pour-comprendre-notre-temps",
+			"pubDate": "Tue, 05 Mar 2024 12:59:50 GMT",
+			"image": "https://actualitte.com/uploads/images/sciences-po-un-nouveau-prix-pour-comprendre-notre-temps-65e6ffdb8ac71399577145.jpg",
 			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "",
-			"url": "",
-			"description": ""
-		},
-		{
-			"title": "Sciences de la mati\u00e8re et du rayonnement - Universit\u00e9 de Bordeaux",
-			"link": "https://www.u-bordeaux.fr/recherche/structures-de-recherche/departements-de-recherche/SMR",
-			"pubDate": "Mon, 11 Sep 2023 07:00:00 GMT",
-			"image": "https://www.u-bordeaux.fr/packages/ub/img/og-default.jpg",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "Universit\u00e9 de Bordeaux",
-			"url": "https://www.u-bordeaux.fr/recherche/structures-de-recherche/departements-de-recherche/SMR",
-			"description": "Ce d\u00e9partement a pour ambition de rassembler les forces en chimie et physique afin de r\u00e9pondre aux enjeux scientifiques fondamentaux et d\u2019impulser les innovations de demain dans les domaines de la photonique, de l\u2019\u00e9nergie, de l\u2019environnement, des transports, du d\u00e9veloppement durable, de la sant\u00e9, des sciences de la vie et des sciences de l\u2019univers."
-		},
-		{
-			"title": "Aller sur Pluton en 4 semaines plut\u00f4t qu'en 10 ans : les perspectives de l'antimati\u00e8re comme moteur - Caminteresse.fr",
-			"link": "https://www.caminteresse.fr/sciences/aller-sur-pluton-en-4-semaines-plutot-quen-10-ans-les-perspectives-de-lantimatiere-comme-moteur-11193243/",
-			"pubDate": "Sat, 09 Mar 2024 08:00:00 GMT",
-			"image": "https://www.caminteresse.fr/imgre/fit/~1~cam~2024~03~04~75d9f27b-51f2-4015-9fec-c97b0ecf1f3f.jpeg/1200x630/quality/80/aller-sur-pluton-en-4-semaines-plutot-quen-10-ans-les-perspectives-de-lantimatiere-comme-moteur.jpg",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "\u00c7a m'int\u00e9resse",
-			"url": "https://www.caminteresse.fr/sciences/aller-sur-pluton-en-4-semaines-plutot-quen-10-ans-les-perspectives-de-lantimatiere-comme-moteur-11193243/",
-			"description": "La derni\u00e8re fois que la NASA a envoy\u00e9 une sonde sur Pluton, celle-ci a mis pr\u00e8s de dix ans pour arriver... L'antimati\u00e8re serait donc une r\u00e9volution po"
-		},
-		{
-			"title": "Les sciences dans la m\u00eal\u00e9e d\u00e9mocratique - Le Monde",
-			"link": "https://www.lemonde.fr/sciences/article/2023/11/22/les-sciences-dans-la-melee-democratique_6201693_1650684.html",
-			"pubDate": "Wed, 22 Nov 2023 08:00:00 GMT",
-			"image": "https://img.lemde.fr/2023/04/27/0/0/4253/2835/1440/960/60/0/1f3a2c7_1682585728341-4903a4d-1680167844315-le-monde-carte-blanche-def-01.jpg",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "Le Monde.fr",
-			"url": "https://www.lemonde.fr/sciences/article/2023/11/22/les-sciences-dans-la-melee-democratique_6201693_1650684.html",
-			"description": "CARTE BLANCHE. Dans sa Carte blanche au \u00ab\u00a0Monde\u00a0\u00bb, le professeur d\u2019histoire des sciences St\u00e9phane Van Damme salue la tentative de deux philosophes dans leur ouvrage \u00ab\u00a0Les Sciences dans la m\u00eal\u00e9e\u00a0\u00bb de repenser les conditions et les fonctions de l\u2019expertise scientifique afin de restaurer un dialogue f\u00e9cond entre les chercheurs et la soci\u00e9t\u00e9."
+			"site_name": "ActuaLitt\u00e9.com",
+			"url": "https://actualitte.com/article/116060/prix-litteraires/sciences-po-un-nouveau-prix-pour-comprendre-notre-temps",
+			"description": "L'association Sciences Po Alumni a mis en place le &laquo; Prix Litt&eacute;raire des Sciences Po &raquo;, une r&eacute;compense d&eacute;cern&eacute;e annuellement &agrave; une &oelig;uvre de fiction francophone. Cette distinction vise &agrave; honorer un livre qui, suivant l'objectif de Sciences Po, permet de &laquo; comprendre notre temps &raquo;."
 		}
 	],
-	"timestamp": "2024-03-10 16:18:42.931811"
+	"timestamp": "2024-03-10 20:20:01.699137"
 }
