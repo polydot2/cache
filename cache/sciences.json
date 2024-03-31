@@ -11,16 +11,6 @@
 			"description": ""
 		},
 		{
-			"title": "Sciences \u2013 L'avenir du monde transite par le CERN - Tribune de Gen\u00e8ve",
-			"link": "https://www.tdg.ch/sciences-lavenir-du-monde-transite-par-le-cern-976066361859",
-			"pubDate": "Sat, 30 Mar 2024 15:58:58 GMT",
-			"image": "https://cdn.unitycms.io/images/6fRz6cLe4xkBIIy9tNgt-g.jpg?op=ocroped&val=1200,1200,1000,1000,0,0&sum=VF54WWvyuag",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "Tribune de Gen\u00e8ve",
-			"url": "https://www.tdg.ch/sciences-lavenir-du-monde-transite-par-le-cern-976066361859",
-			"description": "Con\u00e7u au d\u00e9but des ann\u00e9es 50, le centre f\u00eate ses 70 ans de recherche et de d\u00e9couvertes. Il a plusieurs fois r\u00e9volutionn\u00e9 la physique moderne."
-		},
-		{
 			"title": "La science r\u00e9v\u00e8le la meilleure mani\u00e8re de se calmer en cas de col\u00e8re - Science et Vie",
 			"link": "https://news.google.com/rss/articles/CBMihAFodHRwczovL3d3dy5zY2llbmNlLWV0LXZpZS5jb20vY29ycHMtZXQtc2FudGUvc2FudGUvbGEtc2NpZW5jZS1yZXZlbGUtbGEtbWVpbGxldXJlLW1hbmllcmUtZGUtc2UtY2FsbWVyLWVuLWNhcy1kZS1jb2xlcmUtMTMwOTE2Lmh0bWzSAQA?oc=5",
 			"pubDate": "Thu, 28 Mar 2024 22:00:00 GMT",
@@ -41,14 +31,24 @@
 			"description": "La Nasa, toujours convaincue qu'Artemis III se posera sur la Lune fin 2026, vient tout juste de r\u00e9v\u00e9ler les premiers instruments qui seront utilis\u00e9s par les astronautes lors de cette mission..."
 		},
 		{
-			"title": "D\u00e9mystifier la science | Des \u00e9oliennes le long des autoroutes ? - La Presse",
-			"link": "https://www.lapresse.ca/actualites/sciences/2024-03-31/demystifier-la-science/des-eoliennes-le-long-des-autoroutes.php",
-			"pubDate": "Sun, 31 Mar 2024 05:20:52 GMT",
-			"image": "https://mobile-img.lpcdn.ca/v2/924x/r3996/bff415c1/e73728b9af593a22a324c325ee585562.jpg",
+			"title": "Immersion dans une usine de cannoli qui produit 100 000 tubes par jour - National Geographic France",
+			"link": "https://www.nationalgeographic.fr/video/sciences/immersion-dans-une-usine-de-cannoli-qui-produit-100-000-tubes-par-jour",
+			"pubDate": "Sat, 30 Mar 2024 07:00:00 GMT",
+			"image": "https://static.nationalgeographic.fr/files/styles/image_3200/public/immersiondansuneusinedecannoliquiproduit100000tubesparjour.jpg?w=1600&h=900",
 			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "La Presse",
-			"url": "https://www.lapresse.ca/actualites/sciences/2024-03-31/demystifier-la-science/des-eoliennes-le-long-des-autoroutes.php",
-			"description": "Chaque semaine, notre journaliste r\u00e9pond aux questions scientifiques de lecteurs."
+			"site_name": "National Geographic",
+			"url": "https://www.nationalgeographic.fr/video/sciences/immersion-dans-une-usine-de-cannoli-qui-produit-100-000-tubes-par-jour",
+			"description": "Pour pr\u00e9server la qualit\u00e9 des produits, cette enseigne prend le parti de laisser aux boutiques le soin d'assembler les tubes et la cr\u00e8me."
+		},
+		{
+			"title": "Valence. Les \u00e9tudiants du d\u00e9partement des sciences enfin r\u00e9unis sur un seul site - Le Dauphin\u00e9 Lib\u00e9r\u00e9",
+			"link": "https://news.google.com/rss/articles/CBMid2h0dHBzOi8vd3d3LmxlZGF1cGhpbmUuY29tL2VkdWNhdGlvbi8yMDI0LzAzLzI5L2xlcy1ldHVkaWFudHMtZHUtZGVwYXJ0ZW1lbnQtZGVzLXNjaWVuY2VzLWVuZmluLXJldW5pcy1zdXItdW4tc2V1bC1zaXRl0gEA?oc=5",
+			"pubDate": "Fri, 29 Mar 2024 14:53:00 GMT",
+			"image": "https://cdn-s-www.ledauphine.com/images/60D49155-4123-48BF-817D-718C7FEB550C/FB1200/photo-1711738222.jpg",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "",
+			"url": "",
+			"description": ""
 		},
 		{
 			"title": "Science : quand le r\u00e9chauffement climatique ralentit la rotation de la Terre - Presse-citron",
@@ -71,9 +71,9 @@
 			"description": "Une \u00e9tude, qui s\u2019appuie sur des milliers de titres sortis au cours des quarante derni\u00e8res ann\u00e9es, note \u00e9galement l\u2019augmentation d\u2019\u00e9motions n"
 		},
 		{
-			"title": "Une \u00e9trange et in\u00e9dite \u00e9longation cr\u00e2nienne observ\u00e9e chez trois femmes vikings - Sciences et Avenir",
-			"link": "https://news.google.com/rss/articles/CBMijgFodHRwczovL3d3dy5zY2llbmNlc2V0YXZlbmlyLmZyL2FyY2hlby1wYWxlby9hcmNoZW9sb2dpZS91bmUtZXRyYW5nZS1ldC1pbmVkaXRlLWVsb25nYXRpb24tY3Jhbmllbm5lLW9ic2VydmVlLWNoZXotdHJvaXMtZmVtbWVzLXZpa2luZ3NfMTc3NTY10gEA?oc=5",
-			"pubDate": "Thu, 28 Mar 2024 08:36:10 GMT",
+			"title": "L'\u00e9longation cr\u00e2nienne de femmes vikings, l'indestructible rat-taupe nu et l'immunoth\u00e9rapie face au glioblastome : l'actu ... - Sciences et Avenir",
+			"link": "https://news.google.com/rss/articles/CBMixQFodHRwczovL3d3dy5zY2llbmNlc2V0YXZlbmlyLmZyL3VsdHJhYnJldmVzL2wtZWxvbmdhdGlvbi1jcmFuaWVubmUtZGUtZmVtbWVzLXZpa2luZ3MtbC1pbmRlc3RydWN0aWJsZS1yYXQtdGF1cGUtbnUtZXQtbC1pbW11bm90aGVyYXBpZS1mYWNlLWF1LWdsaW9ibGFzdG9tZS1sLWFjdHUtZGVzLXNjaWVuY2VzLWVuLXVsdHJhYnJldmVzXzE3NzU3NtIBAA?oc=5",
+			"pubDate": "Thu, 28 Mar 2024 16:09:14 GMT",
 			"image": "https://picsum.photos/200/300?grayscale",
 			"logo": "https://picsum.photos/32/32?grayscale",
 			"site_name": "",
@@ -81,14 +81,34 @@
 			"description": ""
 		},
 		{
-			"title": "La civilisation oubli\u00e9e de l'Upano - Yahoo Actualit\u00e9s",
-			"link": "https://fr.news.yahoo.com/civilisation-oubli%C3%A9e-lupano-130000224.html",
-			"pubDate": "Sun, 31 Mar 2024 13:00:00 GMT",
-			"image": "https://media.zenfs.com/fr/sciencesetavenir.fr/866b5ce196a6191991302a373ff7c6d0",
+			"title": "D\u00e9mystifier la science | Des \u00e9oliennes le long des autoroutes ? - La Presse",
+			"link": "https://www.lapresse.ca/actualites/sciences/2024-03-31/demystifier-la-science/des-eoliennes-le-long-des-autoroutes.php",
+			"pubDate": "Sun, 31 Mar 2024 05:20:52 GMT",
+			"image": "https://mobile-img.lpcdn.ca/v2/924x/r3996/bff415c1/e73728b9af593a22a324c325ee585562.jpg",
 			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "Yahoo News",
-			"url": "https://fr.news.yahoo.com/civilisation-oubli%C3%A9e-lupano-130000224.html",
-			"description": "Le survol d'une zone de jungle au sud de l'\u00c9quateur a livr\u00e9, gr\u00e2ce \u00e0 la technologie du lidar, le plus vaste r\u00e9seau urbain de la r\u00e9gion amazonienne : cinq villes, dix villages, r\u00e9partis sur 300 km2. Mais cette civilisation n'a laiss\u00e9 aucune trace \u00e9crite. Un d\u00e9fi pour les arch\u00e9ologues qui reconnaissent cette culture gr\u00e2ce aux c\u00e9ramiques fabriqu\u00e9es avec la cendre volcanique de la r\u00e9gion."
+			"site_name": "La Presse",
+			"url": "https://www.lapresse.ca/actualites/sciences/2024-03-31/demystifier-la-science/des-eoliennes-le-long-des-autoroutes.php",
+			"description": "Chaque semaine, notre journaliste r\u00e9pond aux questions scientifiques de lecteurs."
+		},
+		{
+			"title": "Nuit des Mus\u00e9es 2024 \u00e0 la Cit\u00e9 des Sciences et de l'Industrie : le programme - Sortiraparis",
+			"link": "https://news.google.com/rss/articles/CBMikQFodHRwczovL3d3dy5zb3J0aXJhcGFyaXMuY29tL2FjdHVhbGl0ZXMvbnVpdC1kZXMtbXVzZWVzL2FydGljbGVzLzYyMjA5LW51aXQtZGVzLW11c2Vlcy0yMDI0LWEtbGEtY2l0ZS1kZXMtc2NpZW5jZXMtZXQtZGUtbC1pbmR1c3RyaWUtbGUtcHJvZ3JhbW1l0gEA?oc=5",
+			"pubDate": "Sun, 31 Mar 2024 08:57:44 GMT",
+			"image": "https://cdn.sortiraparis.com/images/80/103832/969354-cite-des-sciences.jpg",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "",
+			"url": "",
+			"description": ""
+		},
+		{
+			"title": "De quoi parlent les ouvrages du Prix Le Go\u00fbt des sciences, 15e \u00e9dition ? - Minist\u00e8re de l'Enseignement Sup\u00e9rieur et de la Recherche",
+			"link": "https://www.enseignementsup-recherche.gouv.fr/fr/de-quoi-parlent-les-ouvrages-du-prix-le-gout-des-sciences-15e-edition-95406",
+			"pubDate": "Wed, 27 Mar 2024 11:35:50 GMT",
+			"image": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/styles/full_width/public/2024-03/le-go-t-des-sciences-15e-dition-32448.jpg?itok=0rGD7R55",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "enseignementsup-recherche.gouv.fr",
+			"url": "https://www.enseignementsup-recherche.gouv.fr/fr/de-quoi-parlent-les-ouvrages-du-prix-le-gout-des-sciences-15e-edition-95406",
+			"description": "Rencontre avec le vivant"
 		},
 		{
 			"title": "IA, m\u00e9dias, sciences\u2026 Un Barom\u00e8tre \u00e9value l'esprit critique des Fran\u00e7ais - Minist\u00e8re de la Culture",
@@ -98,36 +118,6 @@
 			"logo": "https://picsum.photos/32/32?grayscale",
 			"site_name": "",
 			"url": "",
-			"description": ""
-		},
-		{
-			"title": "Jean Bass\u00e8res est nomm\u00e9 administrateur provisoire de Sciences Po Paris - Minist\u00e8re de l'Enseignement Sup\u00e9rieur et de la Recherche",
-			"link": "https://www.enseignementsup-recherche.gouv.fr/fr/jean-basseres-est-nomme-administrateur-provisoire-de-sciences-po-paris-95421",
-			"pubDate": "Tue, 26 Mar 2024 08:46:16 GMT",
-			"image": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/styles/full_width/public/2021-08/mesri-publication-communiqu-de-presse-9779.jpg?itok=VOSK9W4F",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "enseignementsup-recherche.gouv.fr",
-			"url": "https://www.enseignementsup-recherche.gouv.fr/fr/jean-basseres-est-nomme-administrateur-provisoire-de-sciences-po-paris-95421",
-			"description": "Dipl\u00f4m\u00e9 de Sciences Po Paris, Inspecteur g\u00e9n\u00e9ral des finances, ancien directeur g\u00e9n\u00e9ral de P\u00f4le Emploi, ancien pr\u00e9sident de la commission charg\u00e9e de pr\u00e9figurer la r\u00e9forme de l\u2019Institut national du service public et de l\u2019encadrement sup\u00e9rieur de l\u2019\u00c9tat, Jean Bass\u00e8res dispose d\u2019une exp\u00e9rience unanimement reconnue au service de l\u2019\u00c9tat et dans la conduite de l\u2019action publique."
-		},
-		{
-			"title": "Objectif : vivre 120 ans en bonne sant\u00e9 - Sciences et Avenir",
-			"link": "https://news.google.com/rss/articles/CBMiUmh0dHBzOi8vd3d3LnNjaWVuY2VzZXRhdmVuaXIuZnIvc2FudGUvb2JqZWN0aWYtdml2cmUtMTIwLWFucy1lbi1ib25uZS1zYW50ZV8xNzczOTjSAQA?oc=5",
-			"pubDate": "Sun, 31 Mar 2024 09:00:00 GMT",
-			"image": "https://picsum.photos/200/300?grayscale",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "",
-			"url": "",
-			"description": ""
-		},
-		{
-			"title": "Les sciences humaines, nouveau creuset de l'innovation - Maddyness",
-			"link": "https://www.maddyness.com/2024/03/28/les-sciences-humaines-nouveau-creuset-de-linnovation/",
-			"pubDate": "Thu, 28 Mar 2024 09:01:38 GMT",
-			"image": "https://www.maddyness.com/app/uploads/2024/03/sciences_sociales.png",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "Maddyness - Le m\u00e9dia pour comprendre l'\u00e9conomie de demain",
-			"url": "https://www.maddyness.com/2024/03/28/les-sciences-humaines-nouveau-creuset-de-linnovation/",
 			"description": ""
 		},
 		{
@@ -151,6 +141,26 @@
 			"description": ""
 		},
 		{
+			"title": "Les sciences humaines, nouveau creuset de l'innovation - Maddyness",
+			"link": "https://www.maddyness.com/2024/03/28/les-sciences-humaines-nouveau-creuset-de-linnovation/",
+			"pubDate": "Thu, 28 Mar 2024 09:01:38 GMT",
+			"image": "https://www.maddyness.com/app/uploads/2024/03/sciences_sociales.png",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "Maddyness - Le m\u00e9dia pour comprendre l'\u00e9conomie de demain",
+			"url": "https://www.maddyness.com/2024/03/28/les-sciences-humaines-nouveau-creuset-de-linnovation/",
+			"description": ""
+		},
+		{
+			"title": "Objectif : vivre 120 ans en bonne sant\u00e9 - Sciences et Avenir",
+			"link": "https://news.google.com/rss/articles/CBMiUmh0dHBzOi8vd3d3LnNjaWVuY2VzZXRhdmVuaXIuZnIvc2FudGUvb2JqZWN0aWYtdml2cmUtMTIwLWFucy1lbi1ib25uZS1zYW50ZV8xNzczOTjSAQA?oc=5",
+			"pubDate": "Sun, 31 Mar 2024 09:00:00 GMT",
+			"image": "https://picsum.photos/200/300?grayscale",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "",
+			"url": "",
+			"description": ""
+		},
+		{
 			"title": "Lo\u00efc Martin, ma\u00eetre de conf\u00e9rences en sciences infirmi\u00e8res - Universit\u00e9 de Rouen",
 			"link": "https://www.univ-rouen.fr/temoignages/loic-martin-maitre-de-conferences-en-sciences-infirmieres/",
 			"pubDate": "Wed, 27 Mar 2024 09:41:46 GMT",
@@ -159,6 +169,16 @@
 			"site_name": "Universit\u00e9 de Rouen Normandie",
 			"url": "https://www.univ-rouen.fr/temoignages/loic-martin-maitre-de-conferences-en-sciences-infirmieres/",
 			"description": "D\u00e9couvrez le portrait de Lo\u00efc Martin, ma\u00eetre de conf\u00e9rences en sciences infirmi\u00e8res. Il travaille notamment sur l'apprentissage invers\u00e9 et le raisonnement clinique."
+		},
+		{
+			"title": "Fr\u00e9d\u00e9ric Keck, Pr\u00e9parer l'impr\u00e9visible. L\u00e9cy-Bruhl et les sciences de la vigilance - Fabula",
+			"link": "https://news.google.com/rss/articles/CBMifmh0dHBzOi8vd3d3LmZhYnVsYS5vcmcvYWN0dWFsaXRlcy8xMTk4MTgvZnJlZGVyaWMta2Vjay1wcmVwYXJlci1sLWltcHJldmlzaWJsZS1sZWN5LWJydWhsLWV0LWxlcy1zY2llbmNlcy1kZS1sYS12aWdpbGFuY2UuaHRtbNIBAA?oc=5",
+			"pubDate": "Wed, 27 Mar 2024 06:44:24 GMT",
+			"image": "https://www.fabula.org/actualites/documents/119818_c981e8c8044bfdde8d3127914d212fa0.jpg",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "",
+			"url": "",
+			"description": ""
 		},
 		{
 			"title": "Sciences-Po : Jean Bass\u00e8res nomm\u00e9 administrateur provisoire, plusieurs candidats \u00e0 la direction sur les rangs - Lib\u00e9ration",
@@ -191,24 +211,14 @@
 			"description": "L'ancien directeur g\u00e9n\u00e9ral de P\u00f4le emploi prend la t\u00eate du grand \u00e9tablissement pour quelques mois. Le temps que les conseils de Sciences Po d\u00e9signent un successeur \u00e0 Mathias Vicherat."
 		},
 		{
-			"title": "Un chaos temporel et informatique d\u00fb au changement climatique ? On vous explique pourquoi la rotation de la Terre ... - LaDepeche.fr",
-			"link": "https://www.ladepeche.fr/2024/03/31/un-chaos-temporel-et-informatique-du-au-changement-climatique-on-vous-explique-pourquoi-la-rotation-de-la-terre-peut-tout-perturber-11855645.php",
-			"pubDate": "Sun, 31 Mar 2024 04:31:00 GMT",
-			"image": "https://images.ladepeche.fr/api/v1/images/view/66057cb8dd6fe65ec13c965d/large/image.png?v=1",
+			"title": "Menton: conf\u00e9rence controvers\u00e9e sur la Palestine \u00e0 Sciences Po - BFM Nice C\u00f4te d'Azur",
+			"link": "https://www.bfmtv.com/cote-d-azur/replay-emissions/bonjour-cote-d-azur/menton-conference-controversee-sur-la-palestine-a-sciences-po_VN-202403290280.html",
+			"pubDate": "Fri, 29 Mar 2024 07:57:34 GMT",
+			"image": "https://images.bfmtv.com/gTmNJdhdafeof_MHdwFJ5XaahgU=/0x0:1280x720/1280x0/images/Menton-conference-controversee-sur-la-Palestine-a-Sciences-Po-1834477.jpg",
 			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "ladepeche.fr",
-			"url": "https://www.ladepeche.fr/2024/03/31/un-chaos-temporel-et-informatique-du-au-changement-climatique-on-vous-explique-pourquoi-la-rotation-de-la-terre-peut-tout-perturber-11855645.php",
-			"description": "La fonte des glaces due au r\u00e9chauffement climatique modifie la vitesse de rotation de la Terre plus rapidement que pr\u00e9vu, selon une \u00e9tude parue le 27\u00a0mars. Un ph\u00e9nom\u00e8ne imperceptible pour les humains, mais dont les..."
-		},
-		{
-			"title": "Les poissons-clowns savent compter - Pour la Science",
-			"link": "https:https://www.pourlascience.fr/sd/ethologie/les-poissons-clowns-savent-compter-26206.php",
-			"pubDate": "Sun, 31 Mar 2024 07:39:38 GMT",
-			"image": "https://medias.pourlascience.fr/api/v1/images/view/65fc618b1730d13941276999/wide_1300/image.jpg",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "Pourlascience.fr",
-			"url": "https:https://www.pourlascience.fr/sd/ethologie/les-poissons-clowns-savent-compter-26206.php",
-			"description": "Les poissons-clowns sont capables de reconna\u00eetre les individus de leur esp\u00e8ce en estimant le nombre de bandes blanches dont ils sont dot\u00e9s."
+			"site_name": "BFMTV",
+			"url": "https://www.bfmtv.com/cote-d-azur/replay-emissions/bonjour-cote-d-azur/menton-conference-controversee-sur-la-palestine-a-sciences-po_VN-202403290280.html",
+			"description": "VID\u00c9O - Une conf\u00e9rence sur la Palestine organis\u00e9e jeudi 28 mars \u00e0 Sciences Po Menton et avec comme t\u00eates d'affiche Manuel Bompard et Rima Hassan de la France insoumise a cr\u00e9\u00e9 la controverse. L'Union de \u00e9tudiants juifs de France (UEJF) a d\u00e9nonc\u00e9 une \"propagande haineuse\"."
 		},
 		{
 			"title": "Les Jeudis de l'histoire et de la philosophie des sciences (JHPS) - 2023-2024 | ENS - ENS",
@@ -221,34 +231,34 @@
 			"description": ""
 		},
 		{
-			"title": "Menton: conf\u00e9rence controvers\u00e9e sur la Palestine \u00e0 Sciences Po - BFM Nice C\u00f4te d'Azur",
-			"link": "https://www.bfmtv.com/cote-d-azur/replay-emissions/bonjour-cote-d-azur/menton-conference-controversee-sur-la-palestine-a-sciences-po_VN-202403290280.html",
-			"pubDate": "Fri, 29 Mar 2024 07:57:34 GMT",
-			"image": "https://images.bfmtv.com/gTmNJdhdafeof_MHdwFJ5XaahgU=/0x0:1280x720/1280x0/images/Menton-conference-controversee-sur-la-Palestine-a-Sciences-Po-1834477.jpg",
+			"title": "Les poissons-clowns savent compter - Pour la Science",
+			"link": "https:https://www.pourlascience.fr/sd/ethologie/les-poissons-clowns-savent-compter-26206.php",
+			"pubDate": "Sun, 31 Mar 2024 07:39:38 GMT",
+			"image": "https://medias.pourlascience.fr/api/v1/images/view/65fc618b1730d13941276999/wide_1300/image.jpg",
 			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "BFMTV",
-			"url": "https://www.bfmtv.com/cote-d-azur/replay-emissions/bonjour-cote-d-azur/menton-conference-controversee-sur-la-palestine-a-sciences-po_VN-202403290280.html",
-			"description": "VID\u00c9O - Une conf\u00e9rence sur la Palestine organis\u00e9e jeudi 28 mars \u00e0 Sciences Po Menton et avec comme t\u00eates d'affiche Manuel Bompard et Rima Hassan de la France insoumise a cr\u00e9\u00e9 la controverse. L'Union de \u00e9tudiants juifs de France (UEJF) a d\u00e9nonc\u00e9 une \"propagande haineuse\"."
+			"site_name": "Pourlascience.fr",
+			"url": "https:https://www.pourlascience.fr/sd/ethologie/les-poissons-clowns-savent-compter-26206.php",
+			"description": "Les poissons-clowns sont capables de reconna\u00eetre les individus de leur esp\u00e8ce en estimant le nombre de bandes blanches dont ils sont dot\u00e9s."
 		},
 		{
-			"title": "Des galaxies naines ont rendu l'univers transparent - Radio France",
-			"link": "https://www.radiofrance.fr/franceinfo/podcasts/le-billet-sciences-week-end/des-galaxies-naines-ont-rendu-l-univers-transparent-6113284",
-			"pubDate": "Sun, 31 Mar 2024 07:20:44 GMT",
-			"image": "https://www.radiofrance.fr/s3/cruiser-production-eu3/2024/03/7398bcd5-f6dd-4111-8bf1-1964cc542424/1200x680_sc_gettyimages-73075141-660582b85bc7e278007817.jpg",
+			"title": "Un chaos temporel et informatique d\u00fb au changement climatique ? On vous explique pourquoi la rotation de la Terre ... - LaDepeche.fr",
+			"link": "https://www.ladepeche.fr/2024/03/31/un-chaos-temporel-et-informatique-du-au-changement-climatique-on-vous-explique-pourquoi-la-rotation-de-la-terre-peut-tout-perturber-11855645.php",
+			"pubDate": "Sun, 31 Mar 2024 04:31:00 GMT",
+			"image": "https://images.ladepeche.fr/api/v1/images/view/66057cb8dd6fe65ec13c965d/large/image.png?v=1",
 			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "franceinfo",
-			"url": "https://www.radiofrance.fr/franceinfo/podcasts/le-billet-sciences-week-end/des-galaxies-naines-ont-rendu-l-univers-transparent-6113284",
-			"description": "C\u2019\u00e9tait une grosse question : comment l\u2019univers est-il sorti, tout au d\u00e9but, de son brouillard d\u2019hydrog\u00e8ne ? On a m\u00eame soup\u00e7onn\u00e9 les trous noirs, mais non. R\u00e9ponse aujourd\u2019hui gr\u00e2ce au t\u00e9lescope James Webb : ce sont de petites galaxies, cent fois plus petites que la n\u00f4tre, par leur rayonnement, qui ont excit\u00e9 les gaz, et rendu l\u2019univers transparent."
+			"site_name": "ladepeche.fr",
+			"url": "https://www.ladepeche.fr/2024/03/31/un-chaos-temporel-et-informatique-du-au-changement-climatique-on-vous-explique-pourquoi-la-rotation-de-la-terre-peut-tout-perturber-11855645.php",
+			"description": "La fonte des glaces due au r\u00e9chauffement climatique modifie la vitesse de rotation de la Terre plus rapidement que pr\u00e9vu, selon une \u00e9tude parue le 27\u00a0mars. Un ph\u00e9nom\u00e8ne imperceptible pour les humains, mais dont les..."
 		},
 		{
-			"title": "Nomination de Jean Bass\u00e8res, administrateur provisoire de Sciences Po - Sciences Po",
-			"link": "https://news.google.com/rss/articles/CBMibGh0dHBzOi8vd3d3LnNjaWVuY2VzcG8uZnIvZnIvYWN0dWFsaXRlcy9ub21pbmF0aW9uLWRlLWplYW4tYmFzc2VyZXMtYWRtaW5pc3RyYXRldXItcHJvdmlzb2lyZS1kZS1zY2llbmNlcy1wb9IBAA?oc=5",
-			"pubDate": "Tue, 26 Mar 2024 11:13:01 GMT",
-			"image": "https://www.sciencespo.fr/fr/static/5c5302728bf2c36244175b6e69a4f817/e6d81/jean_basseres_administrateur_provisoire_2024_sciencespo_e88e3681d4.jpg",
+			"title": "Jean Bass\u00e8res est nomm\u00e9 administrateur provisoire de Sciences Po Paris - Minist\u00e8re de l'Enseignement Sup\u00e9rieur et de la Recherche",
+			"link": "https://www.enseignementsup-recherche.gouv.fr/fr/jean-basseres-est-nomme-administrateur-provisoire-de-sciences-po-paris-95421",
+			"pubDate": "Tue, 26 Mar 2024 08:46:16 GMT",
+			"image": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/styles/full_width/public/2021-08/mesri-publication-communiqu-de-presse-9779.jpg?itok=VOSK9W4F",
 			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "Sciences Po",
-			"url": "",
-			"description": ""
+			"site_name": "enseignementsup-recherche.gouv.fr",
+			"url": "https://www.enseignementsup-recherche.gouv.fr/fr/jean-basseres-est-nomme-administrateur-provisoire-de-sciences-po-paris-95421",
+			"description": "Dipl\u00f4m\u00e9 de Sciences Po Paris, Inspecteur g\u00e9n\u00e9ral des finances, ancien directeur g\u00e9n\u00e9ral de P\u00f4le Emploi, ancien pr\u00e9sident de la commission charg\u00e9e de pr\u00e9figurer la r\u00e9forme de l\u2019Institut national du service public et de l\u2019encadrement sup\u00e9rieur de l\u2019\u00c9tat, Jean Bass\u00e8res dispose d\u2019une exp\u00e9rience unanimement reconnue au service de l\u2019\u00c9tat et dans la conduite de l\u2019action publique."
 		},
 		{
 			"title": "EDITO. Les indispensables de Sciences et Avenir : m\u00e9t\u00e9o et climat, le temps qu'il fera demain - Sciences et Avenir",
@@ -271,6 +281,16 @@
 			"description": ""
 		},
 		{
+			"title": "La civilisation oubli\u00e9e de l'Upano - Yahoo Actualit\u00e9s",
+			"link": "https://fr.news.yahoo.com/civilisation-oubli%C3%A9e-lupano-130000224.html",
+			"pubDate": "Sun, 31 Mar 2024 13:24:15 GMT",
+			"image": "https://media.zenfs.com/fr/sciencesetavenir.fr/866b5ce196a6191991302a373ff7c6d0",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "Yahoo News",
+			"url": "https://fr.news.yahoo.com/civilisation-oubli%C3%A9e-lupano-130000224.html",
+			"description": "Le survol d'une zone de jungle au sud de l'\u00c9quateur a livr\u00e9, gr\u00e2ce \u00e0 la technologie du lidar, le plus vaste r\u00e9seau urbain de la r\u00e9gion amazonienne : cinq villes, dix villages, r\u00e9partis sur 300 km2. Mais cette civilisation n'a laiss\u00e9 aucune trace \u00e9crite. Un d\u00e9fi pour les arch\u00e9ologues qui reconnaissent cette culture gr\u00e2ce aux c\u00e9ramiques fabriqu\u00e9es avec la cendre volcanique de la r\u00e9gion."
+		},
+		{
 			"title": "Culture scientifique et technique - Ivry-sur-Seine",
 			"link": "https://news.google.com/rss/articles/CBMiP2h0dHBzOi8vd3d3Lml2cnk5NC5mci8zNjEvY3VsdHVyZS1zY2llbnRpZmlxdWUtZXQtdGVjaG5pcXVlLmh0bdIBAA?oc=5",
 			"pubDate": "Mon, 18 Mar 2024 07:00:00 GMT",
@@ -281,14 +301,44 @@
 			"description": ""
 		},
 		{
-			"title": "Immersion dans une usine de cannoli qui produit 100 000 tubes par jour - National Geographic France",
-			"link": "https://www.nationalgeographic.fr/video/sciences/immersion-dans-une-usine-de-cannoli-qui-produit-100-000-tubes-par-jour",
-			"pubDate": "Sat, 30 Mar 2024 07:00:00 GMT",
-			"image": "https://static.nationalgeographic.fr/files/styles/image_3200/public/immersiondansuneusinedecannoliquiproduit100000tubesparjour.jpg?w=1600&h=900",
+			"title": "Nomination de Jean Bass\u00e8res, administrateur provisoire de Sciences Po - Sciences Po",
+			"link": "https://news.google.com/rss/articles/CBMibGh0dHBzOi8vd3d3LnNjaWVuY2VzcG8uZnIvZnIvYWN0dWFsaXRlcy9ub21pbmF0aW9uLWRlLWplYW4tYmFzc2VyZXMtYWRtaW5pc3RyYXRldXItcHJvdmlzb2lyZS1kZS1zY2llbmNlcy1wb9IBAA?oc=5",
+			"pubDate": "Tue, 26 Mar 2024 11:13:01 GMT",
+			"image": "https://www.sciencespo.fr/fr/static/5c5302728bf2c36244175b6e69a4f817/e6d81/jean_basseres_administrateur_provisoire_2024_sciencespo_e88e3681d4.jpg",
 			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "National Geographic",
-			"url": "https://www.nationalgeographic.fr/video/sciences/immersion-dans-une-usine-de-cannoli-qui-produit-100-000-tubes-par-jour",
-			"description": "Pour pr\u00e9server la qualit\u00e9 des produits, cette enseigne prend le parti de laisser aux boutiques le soin d'assembler les tubes et la cr\u00e8me."
+			"site_name": "Sciences Po",
+			"url": "",
+			"description": ""
+		},
+		{
+			"title": "Le g\u00e9nie cach\u00e9 des plantes - Sciences - Arte.tv",
+			"link": "https://www.arte.tv/fr/videos/RC-024813/le-genie-cache-des-plantes/",
+			"pubDate": "Sun, 31 Mar 2024 00:42:38 GMT",
+			"image": "https://api-cdn.arte.tv/img/v2/image/T2eAfaDJv3kCGQZSxutAHS/1920x1080?type=TEXT&watermark=true",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "ARTE",
+			"url": "https://www.arte.tv/fr/videos/RC-024813/le-genie-cache-des-plantes/",
+			"description": "Elles sentent, touchent, go\u00fbtent, et r\u00e9agissent \u00e0 divers stimuli. Elles ont aussi l\u2019ou\u00efe fine, de la m\u00e9moire et per\u00e7oivent m\u00eame les formes. Les plantes.\u00a0\n\nDans ces deux volets, des scientifiques nous racontent leurs derni\u00e8res et surprenantes d\u00e9couvertes sur les capacit\u00e9s et strat\u00e9gies de survie des plantes et nous am\u00e8nent \u00e0 porter un tout autre regard sur le monde v\u00e9g\u00e9tal."
+		},
+		{
+			"title": "Fiction & sciences sociales (Montpellier) - Fabula",
+			"link": "https://news.google.com/rss/articles/CBMiS2h0dHBzOi8vd3d3LmZhYnVsYS5vcmcvYWN0dWFsaXRlcy8xMTk4MDUvZmljdGlvbi1hbXAtc2NpZW5jZXMtc29jaWFsZXMuaHRtbNIBAA?oc=5",
+			"pubDate": "Wed, 27 Mar 2024 05:38:54 GMT",
+			"image": "https://www.fabula.org/actualites/documents/119805_4e24426b6148597834e8a7a847eff783.png",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "",
+			"url": "",
+			"description": ""
+		},
+		{
+			"title": "Des galaxies naines ont rendu l'univers transparent - Radio France",
+			"link": "https://www.radiofrance.fr/franceinfo/podcasts/le-billet-sciences-week-end/des-galaxies-naines-ont-rendu-l-univers-transparent-6113284",
+			"pubDate": "Sun, 31 Mar 2024 07:20:44 GMT",
+			"image": "https://www.radiofrance.fr/s3/cruiser-production-eu3/2024/03/7398bcd5-f6dd-4111-8bf1-1964cc542424/1200x680_sc_gettyimages-73075141-660582b85bc7e278007817.jpg",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "franceinfo",
+			"url": "https://www.radiofrance.fr/franceinfo/podcasts/le-billet-sciences-week-end/des-galaxies-naines-ont-rendu-l-univers-transparent-6113284",
+			"description": "C\u2019\u00e9tait une grosse question : comment l\u2019univers est-il sorti, tout au d\u00e9but, de son brouillard d\u2019hydrog\u00e8ne ? On a m\u00eame soup\u00e7onn\u00e9 les trous noirs, mais non. R\u00e9ponse aujourd\u2019hui gr\u00e2ce au t\u00e9lescope James Webb : ce sont de petites galaxies, cent fois plus petites que la n\u00f4tre, par leur rayonnement, qui ont excit\u00e9 les gaz, et rendu l\u2019univers transparent."
 		},
 		{
 			"title": "Quand les sciences sociales se penchent sur les enjeux de l'eau - France-Antilles Martinique",
@@ -301,16 +351,6 @@
 			"description": ""
 		},
 		{
-			"title": "Sciences Po Paris : Jean Bass\u00e8res nomm\u00e9 administrateur provisoire - Le Figaro",
-			"link": "https://etudiant.lefigaro.fr/article/etudes/sciences-po-paris-jean-basseres-nomme-administrateur-provisoire-20240326/",
-			"pubDate": "Tue, 26 Mar 2024 05:59:00 GMT",
-			"image": "https://i.f1g.fr/media/cms/604x339_crop/2024/03/26/d5b52cd54d73d47cef860f15f0a6cfd937a5993acd021e60029be8db6ef81004.jpg",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "Le Figaro Etudiant",
-			"url": "https://etudiant.lefigaro.fr/article/etudes/sciences-po-paris-jean-basseres-nomme-administrateur-provisoire-20240326/",
-			"description": "L'ex-directeur g\u00e9n\u00e9ral de P\u00f4le emploi a \u00e9t\u00e9 nomm\u00e9 ce mardi 26 mars, pr\u00e8s de deux semaines apr\u00e8s la d\u00e9mission de Mathias Vicherat."
-		},
-		{
 			"title": "La Science taille XX elles - Centre national de la recherche scientifique (CNRS)",
 			"link": "https://www.cnrs.fr/fr/cnrsinfo/la-science-taille-xx-elles",
 			"pubDate": "Fri, 08 Mar 2024 08:00:00 GMT",
@@ -319,6 +359,16 @@
 			"site_name": "CNRS",
 			"url": "https://www.cnrs.fr/fr/cnrsinfo/la-science-taille-xx-elles",
 			"description": "L\u2019exposition \u00ab\u00a0La Science taille XX elles\u00a0\u00bb, cr\u00e9\u00e9e par le CNRS et l\u2019association Femmes & Science"
+		},
+		{
+			"title": "Sciences Po Paris : Jean Bass\u00e8res nomm\u00e9 administrateur provisoire - Le Figaro",
+			"link": "https://etudiant.lefigaro.fr/article/etudes/sciences-po-paris-jean-basseres-nomme-administrateur-provisoire-20240326/",
+			"pubDate": "Tue, 26 Mar 2024 05:59:00 GMT",
+			"image": "https://i.f1g.fr/media/cms/604x339_crop/2024/03/26/d5b52cd54d73d47cef860f15f0a6cfd937a5993acd021e60029be8db6ef81004.jpg",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "Le Figaro Etudiant",
+			"url": "https://etudiant.lefigaro.fr/article/etudes/sciences-po-paris-jean-basseres-nomme-administrateur-provisoire-20240326/",
+			"description": "L'ex-directeur g\u00e9n\u00e9ral de P\u00f4le emploi a \u00e9t\u00e9 nomm\u00e9 ce mardi 26 mars, pr\u00e8s de deux semaines apr\u00e8s la d\u00e9mission de Mathias Vicherat."
 		},
 		{
 			"title": "Candidats en master : nos conseils pour les oraux - Sciences Po",
@@ -351,20 +401,30 @@
 			"description": ""
 		},
 		{
+			"title": "Sciences \u2013 L'avenir du monde transite par le CERN - Tribune de Gen\u00e8ve",
+			"link": "https://www.tdg.ch/sciences-lavenir-du-monde-transite-par-le-cern-976066361859",
+			"pubDate": "Sat, 30 Mar 2024 15:58:58 GMT",
+			"image": "https://cdn.unitycms.io/images/6fRz6cLe4xkBIIy9tNgt-g.jpg?op=ocroped&val=1200,1200,1000,1000,0,0&sum=VF54WWvyuag",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "Tribune de Gen\u00e8ve",
+			"url": "https://www.tdg.ch/sciences-lavenir-du-monde-transite-par-le-cern-976066361859",
+			"description": "Con\u00e7u au d\u00e9but des ann\u00e9es 50, le centre f\u00eate ses 70 ans de recherche et de d\u00e9couvertes. Il a plusieurs fois r\u00e9volutionn\u00e9 la physique moderne."
+		},
+		{
+			"title": "CNRS Math\u00e9matiques (Insmi) - INSMI",
+			"link": "https://www.insmi.cnrs.fr/fr/cnrs-mathematiques",
+			"pubDate": "Wed, 20 Mar 2024 07:00:00 GMT",
+			"image": "https://www.insmi.cnrs.fr/sites/institut_insmi/files/styles/institut_home_top/public/image/bille_rouge_tournee_0.png?h=c2f605ac&itok=cF0E5dDd",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "CNRS Math\u00e9matiques",
+			"url": "https://www.insmi.cnrs.fr/fr/cnrs-mathematiques",
+			"description": ""
+		},
+		{
 			"title": "Arts et sciences a la renaissance : Conference a Strasbourg - DNA - Derni\u00e8res Nouvelles d'Alsace",
 			"link": "https://news.google.com/rss/articles/CBMijwFodHRwczovL3d3dy5kbmEuZnIvcG91ci1zb3J0aXIvbG9pc2lycy9SZW5jb250cmUtY29uZmVyZW5jZS9Db25mZXJlbmNlcy9BbHNhY2UvQmFzLXJoaW4vU3RyYXNib3VyZy8yMDI0LzA0LzA0L0FydHMtZXQtc2NpZW5jZXMtYS1sYS1yZW5haXNzYW5jZdIBAA?oc=5",
 			"pubDate": "Thu, 28 Mar 2024 19:33:47 GMT",
 			"image": "https://cdn-s-www.dna.fr/images/9f1e175b-5b63-4b82-af41-babf9ef3da45/BES_03/illustration-arts-et-sciences-a-la-renaissance_1-1711642010.jpg",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "",
-			"url": "",
-			"description": ""
-		},
-		{
-			"title": "L'UNESCO pour l'int\u00e9gration des sciences de l'eau dans les cursus de formation - UNESCO",
-			"link": "https://news.google.com/rss/articles/CBMibmh0dHBzOi8vd3d3LnVuZXNjby5vcmcvZnIvYXJ0aWNsZXMvbHVuZXNjby1wb3VyLWxpbnRlZ3JhdGlvbi1kZXMtc2NpZW5jZXMtZGUtbGVhdS1kYW5zLWxlcy1jdXJzdXMtZGUtZm9ybWF0aW9u0gEA?oc=5",
-			"pubDate": "Wed, 27 Mar 2024 13:07:46 GMT",
-			"image": "https://www.unesco.org/sites/default/files/styles/best_image/article/2024-03/WhatsApp%20Image%202024-03-25%20at%201.17.42%20PM%20%282%29.jpeg?itok=6Ulpe4C5",
 			"logo": "https://picsum.photos/32/32?grayscale",
 			"site_name": "",
 			"url": "",
@@ -381,10 +441,10 @@
 			"description": "Chaque ann\u00e9e depuis 2009, Le Go\u00fbt des sciences a pour ambition de rendre la science accessible au grand public en distinguant les travaux des chercheurs et des experts \u00e0 travers deux cat\u00e9gories :"
 		},
 		{
-			"title": "Valence. Les \u00e9tudiants du d\u00e9partement des sciences enfin r\u00e9unis sur un seul site - Le Dauphin\u00e9 Lib\u00e9r\u00e9",
-			"link": "https://news.google.com/rss/articles/CBMid2h0dHBzOi8vd3d3LmxlZGF1cGhpbmUuY29tL2VkdWNhdGlvbi8yMDI0LzAzLzI5L2xlcy1ldHVkaWFudHMtZHUtZGVwYXJ0ZW1lbnQtZGVzLXNjaWVuY2VzLWVuZmluLXJldW5pcy1zdXItdW4tc2V1bC1zaXRl0gEA?oc=5",
-			"pubDate": "Fri, 29 Mar 2024 14:53:00 GMT",
-			"image": "https://cdn-s-www.ledauphine.com/images/60D49155-4123-48BF-817D-718C7FEB550C/FB1200/photo-1711738222.jpg",
+			"title": "L'UNESCO pour l'int\u00e9gration des sciences de l'eau dans les cursus de formation - UNESCO",
+			"link": "https://news.google.com/rss/articles/CBMibmh0dHBzOi8vd3d3LnVuZXNjby5vcmcvZnIvYXJ0aWNsZXMvbHVuZXNjby1wb3VyLWxpbnRlZ3JhdGlvbi1kZXMtc2NpZW5jZXMtZGUtbGVhdS1kYW5zLWxlcy1jdXJzdXMtZGUtZm9ybWF0aW9u0gEA?oc=5",
+			"pubDate": "Wed, 27 Mar 2024 13:07:46 GMT",
+			"image": "https://www.unesco.org/sites/default/files/styles/best_image/article/2024-03/WhatsApp%20Image%202024-03-25%20at%201.17.42%20PM%20%282%29.jpeg?itok=6Ulpe4C5",
 			"logo": "https://picsum.photos/32/32?grayscale",
 			"site_name": "",
 			"url": "",
@@ -431,36 +491,6 @@
 			"description": "Selon une \u00e9tude publi\u00e9e dans la revue Science Advances, les vagues de chaleur et canicules ont de plus en plus tendance \u00e0 s'attarder au-dessus d'une m\u00eame r\u00e9gion, ce qui peut avoir \u00ab\u00a0des cons\u00e9quences importantes pour la population\u00a0\u00bb."
 		},
 		{
-			"title": "CNRS Math\u00e9matiques (Insmi) - INSMI",
-			"link": "https://www.insmi.cnrs.fr/fr/cnrs-mathematiques",
-			"pubDate": "Wed, 20 Mar 2024 07:00:00 GMT",
-			"image": "https://www.insmi.cnrs.fr/sites/institut_insmi/files/styles/institut_home_top/public/image/bille_rouge_tournee_0.png?h=c2f605ac&itok=cF0E5dDd",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "CNRS Math\u00e9matiques",
-			"url": "https://www.insmi.cnrs.fr/fr/cnrs-mathematiques",
-			"description": ""
-		},
-		{
-			"title": "Un \u00ab bon soldat \u00bb pour assurer l'int\u00e9rim \u00e0 Sciences Po - L'Opinion",
-			"link": "https://news.google.com/rss/articles/CBMiU2h0dHBzOi8vd3d3LmxvcGluaW9uLmZyL3BvbGl0aXF1ZS91bi1ib24tc29sZGF0LXBvdXItYXNzdXJlci1saW50ZXJpbS1hLXNjaWVuY2VzLXBv0gEA?oc=5",
-			"pubDate": "Tue, 26 Mar 2024 16:50:44 GMT",
-			"image": "https://picsum.photos/200/300?grayscale",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "",
-			"url": "",
-			"description": ""
-		},
-		{
-			"title": "Sciences-po Paris : l'ancien directeur de P\u00f4le emploi Jean Bass\u00e8res nomm\u00e9 administrateur provisoire - Le Parisien",
-			"link": "https://www.leparisien.fr/societe/sciences-po-paris-lancien-directeur-de-pole-emploi-jean-basseres-nomme-administrateur-provisoire-26-03-2024-ZWHX6SDAZJAB7BEYMGPWPKAARA.php",
-			"pubDate": "Tue, 26 Mar 2024 05:06:00 GMT",
-			"image": "https://www.leparisien.fr/resizer/_XGzxBukR7m8MNu2yjHtdSM1pZY=/1200x675/cloudfront-eu-central-1.images.arcpublishing.com/leparisien/FII4IC3GYZAPPBWQ5R7CEPBEJE.jpg",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "leparisien.fr",
-			"url": "https://www.leparisien.fr/societe/sciences-po-paris-lancien-directeur-de-pole-emploi-jean-basseres-nomme-administrateur-provisoire-26-03-2024-ZWHX6SDAZJAB7BEYMGPWPKAARA.php",
-			"description": "Directeur de P\u00f4le emploi de 2011 \u00e0 2023, Jean Bass\u00e8res occupera provisoirement les fonctions de directeur et d\u2019administrateur g\u00e9n\u00e9ral de Sci"
-		},
-		{
 			"title": "Lancement du rendez-vous de l'Offensive Sciences du Rhin Sup\u00e9rieur - GrandEst",
 			"link": "https://news.google.com/rss/articles/CBMiZWh0dHBzOi8vd3d3LmdyYW5kZXN0LmZyL2FjdHVhbGl0ZXMvbGFuY2VtZW50LWR1LXJlbmRlei12b3VzLWRlLWxvZmZlbnNpdmUtc2NpZW5jZXMtZHUtcmhpbi1zdXBlcmlldXIv0gEA?oc=5",
 			"pubDate": "Wed, 13 Mar 2024 07:42:52 GMT",
@@ -501,14 +531,24 @@
 			"description": "Le d\u00e9partement Sciences de l\u2019ing\u00e9nierie et du num\u00e9rique (SIN) regroupe l\u2019ensemble des comp\u00e9tences dans les domaines de l\u2019informatique, de l\u2019\u00e9lectronique, des math\u00e9matiques et de la m\u00e9canique. Ces disciplines scientifiques pr\u00e9sentent des compl\u00e9mentarit\u00e9s pour r\u00e9pondre aux grands enjeux que constituent l\u2019industrie du futur et le num\u00e9rique."
 		},
 		{
-			"title": "Le collectif pour la Paix \u00e0 Gaza \u00ab solidaire \u00bb de Sciences Po - La Marseillaise",
-			"link": "https://www.lamarseillaise.fr/societe/le-collectif-pour-la-paix-a-gaza-solidaire-de-sciences-po-CF15672707",
-			"pubDate": "Thu, 28 Mar 2024 06:47:00 GMT",
-			"image": "https://www.lamarseillaise.fr/binrepository/480x365/1c114/480d250/none/150910102/YYXS/20240327-184928_542-7650452_20240328074804.jpg",
+			"title": "Un \u00ab bon soldat \u00bb pour assurer l'int\u00e9rim \u00e0 Sciences Po - L'Opinion",
+			"link": "https://news.google.com/rss/articles/CBMiU2h0dHBzOi8vd3d3LmxvcGluaW9uLmZyL3BvbGl0aXF1ZS91bi1ib24tc29sZGF0LXBvdXItYXNzdXJlci1saW50ZXJpbS1hLXNjaWVuY2VzLXBv0gEA?oc=5",
+			"pubDate": "Tue, 26 Mar 2024 16:50:44 GMT",
+			"image": "https://picsum.photos/200/300?grayscale",
 			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "www.lamarseillaise.fr",
-			"url": "https://www.lamarseillaise.fr/societe/le-collectif-pour-la-paix-a-gaza-solidaire-de-sciences-po-CF15672707",
-			"description": "Une centaine de personnes s\u2019est r\u00e9unie mercredi soir devant la mairie puis devant Sciences Po Aix pour le cessez-le-feu \u00e0 Gaza. Juliette Simon repr\u00e9se..."
+			"site_name": "",
+			"url": "",
+			"description": ""
+		},
+		{
+			"title": "Sciences-po Paris : l'ancien directeur de P\u00f4le emploi Jean Bass\u00e8res nomm\u00e9 administrateur provisoire - Le Parisien",
+			"link": "https://www.leparisien.fr/societe/sciences-po-paris-lancien-directeur-de-pole-emploi-jean-basseres-nomme-administrateur-provisoire-26-03-2024-ZWHX6SDAZJAB7BEYMGPWPKAARA.php",
+			"pubDate": "Tue, 26 Mar 2024 05:06:00 GMT",
+			"image": "https://www.leparisien.fr/resizer/_XGzxBukR7m8MNu2yjHtdSM1pZY=/1200x675/cloudfront-eu-central-1.images.arcpublishing.com/leparisien/FII4IC3GYZAPPBWQ5R7CEPBEJE.jpg",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "leparisien.fr",
+			"url": "https://www.leparisien.fr/societe/sciences-po-paris-lancien-directeur-de-pole-emploi-jean-basseres-nomme-administrateur-provisoire-26-03-2024-ZWHX6SDAZJAB7BEYMGPWPKAARA.php",
+			"description": "Directeur de P\u00f4le emploi de 2011 \u00e0 2023, Jean Bass\u00e8res occupera provisoirement les fonctions de directeur et d\u2019administrateur g\u00e9n\u00e9ral de Sci"
 		},
 		{
 			"title": "La plus petite \u00e9toile jamais identifi\u00e9e tremble - Sciences et Avenir",
@@ -519,6 +559,16 @@
 			"site_name": "",
 			"url": "",
 			"description": ""
+		},
+		{
+			"title": "Le collectif pour la Paix \u00e0 Gaza \u00ab solidaire \u00bb de Sciences Po - La Marseillaise",
+			"link": "https://www.lamarseillaise.fr/societe/le-collectif-pour-la-paix-a-gaza-solidaire-de-sciences-po-CF15672707",
+			"pubDate": "Thu, 28 Mar 2024 06:47:00 GMT",
+			"image": "https://www.lamarseillaise.fr/binrepository/480x365/1c114/480d250/none/150910102/YYXS/20240327-184928_542-7650452_20240328074804.jpg",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "www.lamarseillaise.fr",
+			"url": "https://www.lamarseillaise.fr/societe/le-collectif-pour-la-paix-a-gaza-solidaire-de-sciences-po-CF15672707",
+			"description": "Une centaine de personnes s\u2019est r\u00e9unie mercredi soir devant la mairie puis devant Sciences Po Aix pour le cessez-le-feu \u00e0 Gaza. Juliette Simon repr\u00e9se..."
 		},
 		{
 			"title": "Le Mois de la diversit\u00e9 et de l'inclusion de Sciences Po - Sciences Po",
@@ -538,6 +588,16 @@
 			"logo": "https://picsum.photos/32/32?grayscale",
 			"site_name": "",
 			"url": "",
+			"description": ""
+		},
+		{
+			"title": "CNRS Sciences informatiques - INS2I",
+			"link": "https://www.ins2i.cnrs.fr/fr/institut-ins2i",
+			"pubDate": "Thu, 01 Feb 2024 08:00:00 GMT",
+			"image": "https://www.ins2i.cnrs.fr/sites/institut_ins2i/files/styles/institut_home_top/public/image/cnrs_20140001_0024_reduit.jpg?h=b5a880ad&itok=YkFxSRR1",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "CNRS Sciences informatiques",
+			"url": "https://www.ins2i.cnrs.fr/fr/institut-ins2i",
 			"description": ""
 		},
 		{
@@ -561,16 +621,6 @@
 			"description": ""
 		},
 		{
-			"title": "CNRS Sciences informatiques - INS2I",
-			"link": "https://www.ins2i.cnrs.fr/fr/institut-ins2i",
-			"pubDate": "Thu, 01 Feb 2024 08:00:00 GMT",
-			"image": "https://www.ins2i.cnrs.fr/sites/institut_ins2i/files/styles/institut_home_top/public/image/cnrs_20140001_0024_reduit.jpg?h=b5a880ad&itok=YkFxSRR1",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "CNRS Sciences informatiques",
-			"url": "https://www.ins2i.cnrs.fr/fr/institut-ins2i",
-			"description": ""
-		},
-		{
 			"title": "La sensation de se \"d\u00e9connecter\" dans la nature est r\u00e9elle, et c'est la science qui le dit - GEO",
 			"link": "https://www.geo.fr/sciences/la-sensation-de-se-deconnecter-dans-la-nature-est-reelle-et-c-est-la-science-qui-le-dit-219469",
 			"pubDate": "Wed, 27 Mar 2024 07:56:00 GMT",
@@ -591,14 +641,24 @@
 			"description": "TRIBUNE. La fa\u00e7on dont le premier ministre s\u2019est immisc\u00e9 le 13\u00a0mars dans la gouvernance de l\u2019\u00e9cole va \u00e0 l\u2019encontre de l\u2019ind\u00e9pendance dont doivent jouir les universit\u00e9s et r\u00e9v\u00e8le le statut particulier de cette institution aux yeux du pouvoir, estime le professeur de droit public Olivier Beaud dans une tribune au \u00ab\u00a0Monde\u00a0\u00bb."
 		},
 		{
-			"title": "Philosophie politique : une discipline d'avenir \u00e0 l'\u00e8re de l'IA - Les \u00c9chos",
-			"link": "https://www.lesechos.fr/idees-debats/sciences-prospective/philosophie-politique-une-discipline-davenir-a-lere-de-lia-2085024",
-			"pubDate": "Tue, 26 Mar 2024 08:02:07 GMT",
-			"image": "https://media.lesechos.com/api/v1/images/view/660281054b32e908db61a828/1280x720/01107819479-web-tete.jpg",
+			"title": "D\u00e9couvrez le monde merveilleux des champignons - National Geographic France",
+			"link": "https://www.nationalgeographic.fr/sciences/photographie-science-nature-champignons-nos-fascinants-voisins-fongiques",
+			"pubDate": "Wed, 27 Mar 2024 08:12:00 GMT",
+			"image": "https://static.nationalgeographic.fr/files/styles/image_3200/public/stockpkgmm10143mushroompartii03.png?w=1600&h=1061",
 			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "Les Echos",
-			"url": "https://www.lesechos.fr/idees-debats/sciences-prospective/philosophie-politique-une-discipline-davenir-a-lere-de-lia-2085024",
-			"description": "Les intelligences artificielles ne sont pas neutres et peuvent fragiliser le d\u00e9bat public et notre libre arbitre. De nombreuses disciplines deviennent alors n\u00e9cessaires \u00e0 cette science pour avancer correctement, comme la philosophie politique, souligne Aur\u00e9lie Jean."
+			"site_name": "National Geographic",
+			"url": "https://www.nationalgeographic.fr/sciences/photographie-science-nature-champignons-nos-fascinants-voisins-fongiques",
+			"description": "Ils sont partout : en nous, sur nous et tout autour de nous. Le monde des champignons est une myst\u00e9rieuse dimension terrestre que nous apprenons tout juste \u00e0 observer."
+		},
+		{
+			"title": "Question insolite : combien de poissons faut-il pour former un banc ? - Sciences et Avenir",
+			"link": "https://news.google.com/rss/articles/CBMibWh0dHBzOi8vd3d3LnNjaWVuY2VzZXRhdmVuaXIuZnIvYW5pbWF1eC9hbmltYXV4LW1hcmlucy9jb21iaWVuLWRlLXBvaXNzb25zLWZhdXQtaWwtcG91ci1mb3JtZXItdW4tYmFuY18xNzc1NzfSAQA?oc=5",
+			"pubDate": "Fri, 29 Mar 2024 10:54:59 GMT",
+			"image": "https://picsum.photos/200/300?grayscale",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "",
+			"url": "",
+			"description": ""
 		},
 		{
 			"title": "Deux prix pour les coll\u00e9giens du club sciences de la cit\u00e9 scolaire Alfred-Manessier de Flixecourt ! - Courrier Picard",
@@ -611,36 +671,6 @@
 			"description": "Ils ont d\u00e9croch\u00e9 la troisi\u00e8me place du concours acad\u00e9mique organis\u00e9 par la fondation CG\u00e9nial et un prix sp\u00e9cial \u00ab\u00a0\u00c9ducation au d\u00e9veloppement durable\u00a0\u00bb."
 		},
 		{
-			"title": "Qui succ\u00e8dera \u00e0 Mathias Vicherat \u00e0 la direction de Sciences Po Paris ? - Vanity Fair France",
-			"link": "https://www.vanityfair.fr/article/qui-succedera-a-mathias-vicherat-a-la-direction-de-sciences-po-paris",
-			"pubDate": "Tue, 26 Mar 2024 16:08:22 GMT",
-			"image": "https://media.vanityfair.fr/photos/66029e19b7d5f2a205152f70/16:9/w_1280,c_limit/AFP__20190910__1K65O5__v1__HighRes__FrancePoliticsLabourEmploymentSocial.jpg",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "Vanity Fair",
-			"url": "https://www.vanityfair.fr/article/qui-succedera-a-mathias-vicherat-a-la-direction-de-sciences-po-paris",
-			"description": "Suite \u00e0 la d\u00e9mission de Mathias Vicherat, Jean Bass\u00e8res se retrouve provisoirement \u00e0 la t\u00eate de Sciences Po Paris jusqu\u2019\u00e0 la nomination d'un nouveau directeur."
-		},
-		{
-			"title": "Comment le r\u00e9chauffement climatique bouleverse le calcul du temps - Les \u00c9chos",
-			"link": "https://www.lesechos.fr/idees-debats/sciences-prospective/comment-le-rechauffement-climatique-bouleverse-le-calcul-du-temps-2085690",
-			"pubDate": "Thu, 28 Mar 2024 10:45:19 GMT",
-			"image": "https://media.lesechos.com/api/v1/images/view/66054a45970a18375b42147b/1280x720/011062466577-web-tete.jpg",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "Les Echos",
-			"url": "https://www.lesechos.fr/idees-debats/sciences-prospective/comment-le-rechauffement-climatique-bouleverse-le-calcul-du-temps-2085690",
-			"description": "La fonte des glaces affecte la vitesse de rotation de la Terre. Un ph\u00e9nom\u00e8ne susceptible de modifier la fa\u00e7on dont est mesur\u00e9 le temps, affirme une \u00e9tude publi\u00e9e dans \u00ab\u00a0Nature\u00a0\u00bb."
-		},
-		{
-			"title": "Une lyc\u00e9enne de Riom au palmar\u00e8s des Olympiades de la chimie dans l'acad\u00e9mie de Clermont-Ferrand - Clermont ... - La Montagne",
-			"link": "https://www.lamontagne.fr/clermont-ferrand-63000/actualites/une-lyceenne-de-riom-au-palmares-des-olympiades-de-la-chimie-dans-l-academie-de-clermont-ferrand_14476808/",
-			"pubDate": "Fri, 29 Mar 2024 11:58:00 GMT",
-			"image": "https://img.lamontagne.fr/TIHqcyK8xAU_fAeSsc2lcr_SHBzGLFch1h7fskdT4UI/fit/657/438/sm/0/bG9jYWw6Ly8vMDAvMDAvMDYvODMvNTIvMjAwMDAwNjgzNTIwNw.jpg",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "www.lamontagne.fr",
-			"url": "https://www.lamontagne.fr/clermont-ferrand-63000/actualites/une-lyceenne-de-riom-au-palmares-des-olympiades-de-la-chimie-dans-l-academie-de-clermont-ferrand_14476808/",
-			"description": "Les finalistes des Olympiades de la chimie ont re\u00e7u leurs prix mercredi, sur le campus des C\u00e9zeaux. En mai, c\u2019est une lyc\u00e9enne de Riom qui portera les couleurs de l\u2019Auvergne \u00e0 Paris."
-		},
-		{
 			"title": "[Replay] Les sciences comportementales au service de la transition \u00e9cologique - modernisation.gouv",
 			"link": "https://www.modernisation.gouv.fr/outils-et-formations/replay-les-sciences-comportementales-au-service-de-la-transition-ecologique",
 			"pubDate": "Fri, 09 Feb 2024 08:00:00 GMT",
@@ -649,6 +679,26 @@
 			"site_name": "Direction interminist\u00e9rielle de la transformation publique",
 			"url": "https://www.modernisation.gouv.fr/outils-et-formations/replay-les-sciences-comportementales-au-service-de-la-transition-ecologique",
 			"description": "Revivez en replay le 4\u00e8me \"RDV de la DITP\", un temps d'\u00e9change interactif en ligne sur le th\u00e8me \"les sciences comportementales au service de la transition \u00e9cologique\", qui s'est tenu en direct le 9 f\u00e9vrier 2024."
+		},
+		{
+			"title": "Philosophie politique : une discipline d'avenir \u00e0 l'\u00e8re de l'IA - Les \u00c9chos",
+			"link": "https://www.lesechos.fr/idees-debats/sciences-prospective/philosophie-politique-une-discipline-davenir-a-lere-de-lia-2085024",
+			"pubDate": "Tue, 26 Mar 2024 08:02:07 GMT",
+			"image": "https://media.lesechos.com/api/v1/images/view/660281054b32e908db61a828/1280x720/01107819479-web-tete.jpg",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "Les Echos",
+			"url": "https://www.lesechos.fr/idees-debats/sciences-prospective/philosophie-politique-une-discipline-davenir-a-lere-de-lia-2085024",
+			"description": "Les intelligences artificielles ne sont pas neutres et peuvent fragiliser le d\u00e9bat public et notre libre arbitre. De nombreuses disciplines deviennent alors n\u00e9cessaires \u00e0 cette science pour avancer correctement, comme la philosophie politique, souligne Aur\u00e9lie Jean."
+		},
+		{
+			"title": "Miriam, Suzanne et Th\u00e9r\u00e8se : connaissez-vous les premi\u00e8res \u00e9tudiantes de Sciences Po ? - Sciences Po",
+			"link": "https://news.google.com/rss/articles/CBMieWh0dHBzOi8vd3d3LnNjaWVuY2VzcG8uZnIvZnIvYWN0dWFsaXRlcy9taXJpYW0tc3V6YW5uZS1ldC10aGVyZXNlLWNvbm5haXNzZXotdm91cy1sZXMtcHJlbWllcmVzLWV0dWRpYW50ZXMtZGUtc2NpZW5jZXMtcG_SAQA?oc=5",
+			"pubDate": "Thu, 21 Mar 2024 12:38:33 GMT",
+			"image": "https://www.sciencespo.fr/fr/static/62a39323c2c19ae5d565ca96b5f3b932/3564b/femme_etudiantes_1920_illu_large_2024_sciencespo_850b49e943.jpg",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "Sciences Po",
+			"url": "",
+			"description": ""
 		},
 		{
 			"title": "CNRS Sciences humaines & sociales - Centre national de la recherche scientifique (CNRS)",
@@ -661,6 +711,46 @@
 			"description": ""
 		},
 		{
+			"title": "Sciences du sport : le CNRS anime le jeu - Centre national de la recherche scientifique (CNRS)",
+			"link": "https://www.cnrs.fr/fr/cnrsinfo/sciences-du-sport-le-cnrs-anime-le-jeu",
+			"pubDate": "Tue, 09 Jan 2024 08:00:00 GMT",
+			"image": "https://www.cnrs.fr/sites/default/files/image/cnrs_20200003_0059_MD.jpg",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "CNRS",
+			"url": "https://www.cnrs.fr/fr/cnrsinfo/sciences-du-sport-le-cnrs-anime-le-jeu",
+			"description": "Pr\u00e8s de cinq ans apr\u00e8s son lancement, le Groupement de recherche Sport et activit\u00e9 physique tenait le 6 d\u00e9cembre 2023 un colloque en guise d"
+		},
+		{
+			"title": "Une lyc\u00e9enne de Riom au palmar\u00e8s des Olympiades de la chimie dans l'acad\u00e9mie de Clermont-Ferrand - Clermont ... - La Montagne",
+			"link": "https://www.lamontagne.fr/clermont-ferrand-63000/actualites/une-lyceenne-de-riom-au-palmares-des-olympiades-de-la-chimie-dans-l-academie-de-clermont-ferrand_14476808/",
+			"pubDate": "Fri, 29 Mar 2024 11:58:00 GMT",
+			"image": "https://img.lamontagne.fr/TIHqcyK8xAU_fAeSsc2lcr_SHBzGLFch1h7fskdT4UI/fit/657/438/sm/0/bG9jYWw6Ly8vMDAvMDAvMDYvODMvNTIvMjAwMDAwNjgzNTIwNw.jpg",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "www.lamontagne.fr",
+			"url": "https://www.lamontagne.fr/clermont-ferrand-63000/actualites/une-lyceenne-de-riom-au-palmares-des-olympiades-de-la-chimie-dans-l-academie-de-clermont-ferrand_14476808/",
+			"description": "Les finalistes des Olympiades de la chimie ont re\u00e7u leurs prix mercredi, sur le campus des C\u00e9zeaux. En mai, c\u2019est une lyc\u00e9enne de Riom qui portera les couleurs de l\u2019Auvergne \u00e0 Paris."
+		},
+		{
+			"title": "Comment le r\u00e9chauffement climatique bouleverse le calcul du temps - Les \u00c9chos",
+			"link": "https://www.lesechos.fr/idees-debats/sciences-prospective/comment-le-rechauffement-climatique-bouleverse-le-calcul-du-temps-2085690",
+			"pubDate": "Thu, 28 Mar 2024 10:45:19 GMT",
+			"image": "https://media.lesechos.com/api/v1/images/view/66054a45970a18375b42147b/1280x720/011062466577-web-tete.jpg",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "Les Echos",
+			"url": "https://www.lesechos.fr/idees-debats/sciences-prospective/comment-le-rechauffement-climatique-bouleverse-le-calcul-du-temps-2085690",
+			"description": "La fonte des glaces affecte la vitesse de rotation de la Terre. Un ph\u00e9nom\u00e8ne susceptible de modifier la fa\u00e7on dont est mesur\u00e9 le temps, affirme une \u00e9tude publi\u00e9e dans \u00ab\u00a0Nature\u00a0\u00bb."
+		},
+		{
+			"title": "Qui succ\u00e8dera \u00e0 Mathias Vicherat \u00e0 la direction de Sciences Po Paris ? - Vanity Fair France",
+			"link": "https://www.vanityfair.fr/article/qui-succedera-a-mathias-vicherat-a-la-direction-de-sciences-po-paris",
+			"pubDate": "Tue, 26 Mar 2024 16:08:22 GMT",
+			"image": "https://media.vanityfair.fr/photos/66029e19b7d5f2a205152f70/16:9/w_1280,c_limit/AFP__20190910__1K65O5__v1__HighRes__FrancePoliticsLabourEmploymentSocial.jpg",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "Vanity Fair",
+			"url": "https://www.vanityfair.fr/article/qui-succedera-a-mathias-vicherat-a-la-direction-de-sciences-po-paris",
+			"description": "Suite \u00e0 la d\u00e9mission de Mathias Vicherat, Jean Bass\u00e8res se retrouve provisoirement \u00e0 la t\u00eate de Sciences Po Paris jusqu\u2019\u00e0 la nomination d'un nouveau directeur."
+		},
+		{
 			"title": "Nuit des Mus\u00e9es 2024 at the Cit\u00e9 des Sciences et de l'Industrie: the program - Sortiraparis",
 			"link": "https://news.google.com/rss/articles/CBMijQFodHRwczovL3d3dy5zb3J0aXJhcGFyaXMuY29tL2VuL25ld3MvbXVzZXVtcy1uaWdodC9hcnRpY2xlcy82MjIwOS1udWl0LWRlcy1tdXNlZXMtMjAyNC1hdC10aGUtY2l0ZS1kZXMtc2NpZW5jZXMtZXQtZGUtbC1pbmR1c3RyaWUtdGhlLXByb2dyYW3SAQA?oc=5",
 			"pubDate": "Thu, 28 Mar 2024 17:41:00 GMT",
@@ -671,14 +761,14 @@
 			"description": ""
 		},
 		{
-			"title": "Sciences du sport : le CNRS anime le jeu - Centre national de la recherche scientifique (CNRS)",
-			"link": "https://www.cnrs.fr/fr/cnrsinfo/sciences-du-sport-le-cnrs-anime-le-jeu",
-			"pubDate": "Tue, 09 Jan 2024 08:00:00 GMT",
-			"image": "https://www.cnrs.fr/sites/default/files/image/cnrs_20200003_0059_MD.jpg",
+			"title": "Sciences : \u00e0 quoi r\u00eavent les jeunes chercheurs ? - Le Monde",
+			"link": "https://www.lemonde.fr/sciences/article/2024/01/15/sciences-a-quoi-revent-les-jeunes-chercheurs_6210927_1650684.html",
+			"pubDate": "Mon, 15 Jan 2024 08:00:00 GMT",
+			"image": "https://img.lemde.fr/2024/01/11/721/0/2156/1437/1440/960/60/0/970d887_1704984273767-dianeletourneurbleu.jpg",
 			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "CNRS",
-			"url": "https://www.cnrs.fr/fr/cnrsinfo/sciences-du-sport-le-cnrs-anime-le-jeu",
-			"description": "Pr\u00e8s de cinq ans apr\u00e8s son lancement, le Groupement de recherche Sport et activit\u00e9 physique tenait le 6 d\u00e9cembre 2023 un colloque en guise d"
+			"site_name": "Le Monde.fr",
+			"url": "https://www.lemonde.fr/sciences/article/2024/01/15/sciences-a-quoi-revent-les-jeunes-chercheurs_6210927_1650684.html",
+			"description": "Comment la nouvelle g\u00e9n\u00e9ration de scientifiques envisage-t-elle la recherche\u00a0? Afin d\u2019identifier leurs aspirations, \u00ab\u00a0Le\u00a0Monde\u00a0\u00bb a recueilli les souhaits de seize jeunes sp\u00e9cialistes. Biologistes, \u00e9thologue, physiciens, math\u00e9maticien, virologue\u2026 ils racontent."
 		},
 		{
 			"title": "Apr\u00e8s la d\u00e9mission de Mathias Vicherat, Sciences Po a trouv\u00e9 un nouvel administrateur provisoire - Le Point",
@@ -701,26 +791,6 @@
 			"description": "\nLanc\u00e9e en 2013 par l\u2019Agence spatiale europ\u00e9enne pour cartographier avec une pr\u00e9cision in\u00e9dite notre Voie lact\u00e9e, la mission Gaia en transforme la compr\u00e9hension, des \u00e9tapes de sa fo..."
 		},
 		{
-			"title": "Sciences : \u00e0 quoi r\u00eavent les jeunes chercheurs ? - Le Monde",
-			"link": "https://www.lemonde.fr/sciences/article/2024/01/15/sciences-a-quoi-revent-les-jeunes-chercheurs_6210927_1650684.html",
-			"pubDate": "Mon, 15 Jan 2024 08:00:00 GMT",
-			"image": "https://img.lemde.fr/2024/01/11/721/0/2156/1437/1440/960/60/0/970d887_1704984273767-dianeletourneurbleu.jpg",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "Le Monde.fr",
-			"url": "https://www.lemonde.fr/sciences/article/2024/01/15/sciences-a-quoi-revent-les-jeunes-chercheurs_6210927_1650684.html",
-			"description": "Comment la nouvelle g\u00e9n\u00e9ration de scientifiques envisage-t-elle la recherche\u00a0? Afin d\u2019identifier leurs aspirations, \u00ab\u00a0Le\u00a0Monde\u00a0\u00bb a recueilli les souhaits de seize jeunes sp\u00e9cialistes. Biologistes, \u00e9thologue, physiciens, math\u00e9maticien, virologue\u2026 ils racontent."
-		},
-		{
-			"title": "\u00ab C'est une belle maison \u00bb\u2026 La nouvelle vie de Fran\u00e7ois Molins \u00e0 Sciences Po - 20 Minutes",
-			"link": "https://www.20minutes.fr/justice/4082607-20240325-francois-molins-parle-nouvelle-vie-enseignant-sciences-po-belle-maison",
-			"pubDate": "Mon, 25 Mar 2024 08:07:00 GMT",
-			"image": "https://img.20mn.fr/wFnlvNiAQj-YM7EflTjMkQ/1444x920_l-ancien-procureur-francois-molins-dans-les-locaux-de-l-ecole-de-droit-de-siences-po-a-paris-le-18",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "www.20minutes.fr",
-			"url": "https://www.20minutes.fr/justice/4082607-20240325-francois-molins-parle-nouvelle-vie-enseignant-sciences-po-belle-maison",
-			"description": "A la retraite depuis juin\u00a02023, l\u2019ancien magistrat a rencontr\u00e9 \u00ab\u00a020 Minutes\u00a0\u00bb dans les locaux de l\u2019\u00e9cole de droit de Sciences Po, o\u00f9 il donne des cours sur le terrorisme"
-		},
-		{
 			"title": "Sciences Infuses 2024 : des pieds \u00e0 la t\u00eate - Est Ensemble",
 			"link": "https://news.google.com/rss/articles/CBMiQ2h0dHBzOi8vd3d3LmVzdC1lbnNlbWJsZS5mci9zY2llbmNlcy1pbmZ1c2VzLTIwMjQtZGVzLXBpZWRzLWxhLXRldGXSAQA?oc=5",
 			"pubDate": "Thu, 25 Jan 2024 08:00:00 GMT",
@@ -729,26 +799,6 @@
 			"site_name": "",
 			"url": "",
 			"description": ""
-		},
-		{
-			"title": "Le Kam\u00e9ni, le secret explosif de l'\u00eele de Santorin - National Geographic France",
-			"link": "https://www.nationalgeographic.fr/sciences/le-volcan-kameni-le-secret-explosif-ile-de-santorin-science-volcanologie-risques-eruption",
-			"pubDate": "Wed, 27 Mar 2024 13:16:00 GMT",
-			"image": "https://static.nationalgeographic.fr/files/styles/image_3200/public/kameni-santorin.jpg?w=1600&h=1090",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "National Geographic",
-			"url": "https://www.nationalgeographic.fr/sciences/le-volcan-kameni-le-secret-explosif-ile-de-santorin-science-volcanologie-risques-eruption",
-			"description": "Il y a plus de 3000 ans, une \u00e9ruption volcanique a mis fin \u00e0 une civilisation ancienne. Une nouvelle \u00e9tude donne des indications sur les conditions de la prochaine \u00e9ruption majeure."
-		},
-		{
-			"title": "\u00c0 Sciences Po Paris, Jean Bass\u00e8res succ\u00e8de \u00e0 Mathias Vicherat pour un int\u00e9rim jusqu'en septembre - Le HuffPost",
-			"link": "https://www.huffingtonpost.fr/politique/article/a-sciences-po-paris-jean-basseres-succede-a-mathias-vicherat-pour-un-interim-jusqu-en-septembre_231734.html",
-			"pubDate": "Tue, 26 Mar 2024 05:56:48 GMT",
-			"image": "https://huffpost-focus.sirius.press/2022/07/23/290/0/5568/3132/1820/1023/75/0/add0c8b_1658618730804-609a2c72220000a459f06c72.jpg",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "Le HuffPost",
-			"url": "https://www.huffingtonpost.fr/politique/article/a-sciences-po-paris-jean-basseres-succede-a-mathias-vicherat-pour-un-interim-jusqu-en-septembre_231734.html",
-			"description": "D\u00e9missionnaire apr\u00e8s qu\u2019il a \u00e9t\u00e9 renvoy\u00e9 devant un tribunal pour une affaire de violences conjugales, Mathias Vicherat a un successeur provisoire."
 		},
 		{
 			"title": "Sciences et technologies pour la sant\u00e9 - Universit\u00e9 de Bordeaux",
@@ -761,6 +811,16 @@
 			"description": "Le d\u00e9partement Sciences et technologies pour la sant\u00e9 est l\u2019un des 11 d\u00e9partements de recherche de l\u2019universit\u00e9 de Bordeaux. Il a pour ambition de porter un programme de recherche d\u2019excellence \u00e0 la fois multidisciplinaire et translationnel r\u00e9pondant aux grands enjeux soci\u00e9taux dans le domaine de la sant\u00e9."
 		},
 		{
+			"title": "Le Kam\u00e9ni, le secret explosif de l'\u00eele de Santorin - National Geographic France",
+			"link": "https://www.nationalgeographic.fr/sciences/le-volcan-kameni-le-secret-explosif-ile-de-santorin-science-volcanologie-risques-eruption",
+			"pubDate": "Wed, 27 Mar 2024 13:16:00 GMT",
+			"image": "https://static.nationalgeographic.fr/files/styles/image_3200/public/kameni-santorin.jpg?w=1600&h=1090",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "National Geographic",
+			"url": "https://www.nationalgeographic.fr/sciences/le-volcan-kameni-le-secret-explosif-ile-de-santorin-science-volcanologie-risques-eruption",
+			"description": "Il y a plus de 3000 ans, une \u00e9ruption volcanique a mis fin \u00e0 une civilisation ancienne. Une nouvelle \u00e9tude donne des indications sur les conditions de la prochaine \u00e9ruption majeure."
+		},
+		{
 			"title": "Une \u00abSemaine de la Palestine\u00bb organis\u00e9e \u00e0 Sciences Po Menton d\u00e9nonc\u00e9e et surveill\u00e9e de pr\u00e8s - Le Figaro",
 			"link": "https://video.lefigaro.fr/figaro/video/une-semaine-de-la-palestine-organisee-a-sciences-po-menton-denoncee-et-surveillee-de-pres/",
 			"pubDate": "Wed, 27 Mar 2024 21:00:57 GMT",
@@ -771,64 +831,24 @@
 			"description": "L'Union des \u00e9tudiants juifs de France s'est insurg\u00e9e contre plusieurs conf\u00e9rences propalestiniennes organis\u00e9es sur le campus mentonnais de Sciences Po. La direction ne les a pas annul\u00e9es mais a impos\u00e9 des conditions aux organisateurs pour les encadrer."
 		},
 		{
-			"title": "\u00abSi tu n'es pas de gauche, tu es class\u00e9 facho\u00bb : \u00e0 Sciences Po, la chape de plomb qui p\u00e8se sur les \u00e9tudiants de droite - Le Figaro",
-			"link": "https://www.lefigaro.fr/actualite-france/si-tu-n-es-pas-de-gauche-tu-es-classe-facho-a-sciences-po-la-chappe-de-plomb-qui-pese-sur-les-etudiants-de-droite-20240323",
-			"pubDate": "Sat, 23 Mar 2024 06:00:25 GMT",
-			"image": "https://i.f1g.fr/media/cms/1200x630_crop/2024/03/17/24a51fc5bc380261f86c31a2379701edf5dd43cebd8973705e55f2e6c918ea09.jpg",
+			"title": "\u00c0 Sciences Po Paris, Jean Bass\u00e8res succ\u00e8de \u00e0 Mathias Vicherat pour un int\u00e9rim jusqu'en septembre - Le HuffPost",
+			"link": "https://www.huffingtonpost.fr/politique/article/a-sciences-po-paris-jean-basseres-succede-a-mathias-vicherat-pour-un-interim-jusqu-en-septembre_231734.html",
+			"pubDate": "Tue, 26 Mar 2024 05:56:48 GMT",
+			"image": "https://huffpost-focus.sirius.press/2022/07/23/290/0/5568/3132/1820/1023/75/0/add0c8b_1658618730804-609a2c72220000a459f06c72.jpg",
 			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "Le Figaro",
-			"url": "https://www.lefigaro.fr/actualite-france/si-tu-n-es-pas-de-gauche-tu-es-classe-facho-a-sciences-po-la-chappe-de-plomb-qui-pese-sur-les-etudiants-de-droite-20240323",
-			"description": "R\u00c9CIT - D\u2019anciens \u00e9tudiants des instituts d\u2019\u00e9tude politique de Paris ou de r\u00e9gion d\u00e9peignent une atmosph\u00e8re asphyxiante pour qui ne pense pas comme la majorit\u00e9 estudiantine ou enseignante, marqu\u00e9e \u00e0 gauche."
+			"site_name": "Le HuffPost",
+			"url": "https://www.huffingtonpost.fr/politique/article/a-sciences-po-paris-jean-basseres-succede-a-mathias-vicherat-pour-un-interim-jusqu-en-septembre_231734.html",
+			"description": "D\u00e9missionnaire apr\u00e8s qu\u2019il a \u00e9t\u00e9 renvoy\u00e9 devant un tribunal pour une affaire de violences conjugales, Mathias Vicherat a un successeur provisoire."
 		},
 		{
-			"title": "D\u00e9claration conjointe sur la coop\u00e9ration franco-chilienne dans le domaine des Sciences et Technologies Num\u00e9riques - Minist\u00e8re de l'Enseignement Sup\u00e9rieur et de la Recherche",
-			"link": "https://news.google.com/rss/articles/CBMikAFodHRwczovL3d3dy5lbnNlaWduZW1lbnRzdXAtcmVjaGVyY2hlLmdvdXYuZnIvZnIvZGVjbGFyYXRpb24tY29uam9pbnRlLXN1ci1sYS1jb29wZXJhdGlvbi1mcmFuY28tY2hpbGllbm5lLWRhbnMtbGUtZG9tYWluZS1kZXMtc2NpZW5jZXMtZXQtOTUxMTXSAQA?oc=5",
-			"pubDate": "Tue, 05 Mar 2024 08:00:00 GMT",
-			"image": "https://picsum.photos/200/300?grayscale",
+			"title": "\u00ab C'est une belle maison \u00bb\u2026 La nouvelle vie de Fran\u00e7ois Molins \u00e0 Sciences Po - 20 Minutes",
+			"link": "https://www.20minutes.fr/justice/4082607-20240325-francois-molins-parle-nouvelle-vie-enseignant-sciences-po-belle-maison",
+			"pubDate": "Mon, 25 Mar 2024 08:07:00 GMT",
+			"image": "https://img.20mn.fr/wFnlvNiAQj-YM7EflTjMkQ/1444x920_l-ancien-procureur-francois-molins-dans-les-locaux-de-l-ecole-de-droit-de-siences-po-a-paris-le-18",
 			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "",
-			"url": "",
-			"description": ""
-		},
-		{
-			"title": "En Isra\u00ebl, le financement de la guerre ampute la recherche - Sciences et Avenir",
-			"link": "https://news.google.com/rss/articles/CBMiaWh0dHBzOi8vd3d3LnNjaWVuY2VzZXRhdmVuaXIuZnIvc2NpZW5jZXMvZW4taXNyYWVsLWxlLWZpbmFuY2VtZW50LWRlLWxhLWd1ZXJyZS1hbXB1dGUtbGEtcmVjaGVyY2hlXzE3NzUxN9IBAA?oc=5",
-			"pubDate": "Tue, 26 Mar 2024 17:05:45 GMT",
-			"image": "https://picsum.photos/200/300?grayscale",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "",
-			"url": "",
-			"description": ""
-		},
-		{
-			"title": "Sciences Po Paris : l'ex-directeur g\u00e9n\u00e9ral de P\u00f4le emploi Jean Bass\u00e8res nomm\u00e9 administrateur provisoire - Sud Ouest",
-			"link": "https://www.sudouest.fr/politique/education/sciences-po-paris-l-ex-directeur-general-de-pole-emploi-jean-basseres-nomme-administrateur-provisoire-19101506.php",
-			"pubDate": "Tue, 26 Mar 2024 07:15:49 GMT",
-			"image": "https://media.sudouest.fr/19101506/1200x-1/sudouest-photo-1-28350981.jpg",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "SudOuest.fr",
-			"url": "https://www.sudouest.fr/politique/education/sciences-po-paris-l-ex-directeur-general-de-pole-emploi-jean-basseres-nomme-administrateur-provisoire-19101506.php",
-			"description": "Cette nomination faite suite \u00e0 la d\u00e9mission de Mathias Vicherat, renvoy\u00e9 devant la justice dans un dossier de violences conjugales"
-		},
-		{
-			"title": "Le diamant ne va bient\u00f4t plus \u00eatre le mat\u00e9riau le plus r\u00e9sistant sur Terre ! - Futura",
-			"link": "https://www.futura-sciences.com/sciences/actualites/matiere-diamant-ne-va-bientot-plus-etre-materiau-plus-resistant-terre-112419/",
-			"pubDate": "Tue, 26 Mar 2024 20:14:01 GMT",
-			"image": "https://cdn.futura-sciences.com/buildsv6/images/largeoriginal/5/b/c/5bcae89ea0_50214107_2-diamants.jpg",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "Futura",
-			"url": "https://www.futura-sciences.com/sciences/actualites/matiere-diamant-ne-va-bientot-plus-etre-materiau-plus-resistant-terre-112419/",
-			"description": "C\u2019est bien connu, le diamant, en plus d\u2019\u00eatre une pierre pr\u00e9cieuse, est le mat\u00e9riau le plus r\u00e9sistant qui existe actuellement sur Terre. Actuellement\u2026 car ce min\u00e9ral pourrait bien \u00eatre d\u00e9tr\u00f4n\u00e9 dans..."
-		},
-		{
-			"title": "Taylor Swift : on sait pourquoi ses concerts font trembler la Terre - Sciences et Avenir",
-			"link": "https://news.google.com/rss/articles/CBMidWh0dHBzOi8vd3d3LnNjaWVuY2VzZXRhdmVuaXIuZnIvZm9uZGFtZW50YWwvZ2VvbG9naWUvdGF5bG9yLXN3aWZ0LXBvdXJxdW9pLXNlcy1jb25jZXJ0cy1mb250LXRyZW1ibGVyLWxhLXRlcnJlXzE3NzMxOdIBAA?oc=5",
-			"pubDate": "Fri, 22 Mar 2024 15:16:59 GMT",
-			"image": "https://picsum.photos/200/300?grayscale",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "",
-			"url": "",
-			"description": ""
+			"site_name": "www.20minutes.fr",
+			"url": "https://www.20minutes.fr/justice/4082607-20240325-francois-molins-parle-nouvelle-vie-enseignant-sciences-po-belle-maison",
+			"description": "A la retraite depuis juin\u00a02023, l\u2019ancien magistrat a rencontr\u00e9 \u00ab\u00a020 Minutes\u00a0\u00bb dans les locaux de l\u2019\u00e9cole de droit de Sciences Po, o\u00f9 il donne des cours sur le terrorisme"
 		},
 		{
 			"title": "Arts : Mathieu Amalric, nouveau titulaire de la Chaire Cin\u00e9ma de Sciences Po - Sciences Po",
@@ -841,40 +861,10 @@
 			"description": ""
 		},
 		{
-			"title": "Peut-on gagner une course gr\u00e2ce aux math\u00e9matiques ? - Sciences et Avenir",
-			"link": "https://news.google.com/rss/articles/CBMicmh0dHBzOi8vd3d3LnNjaWVuY2VzZXRhdmVuaXIuZnIvZm9uZGFtZW50YWwvbWF0aGVtYXRpcXVlcy9wZXV0LW9uLWdhZ25lci11bmUtY291cnNlLWdyYWNlLWF1eC1tYXRoZW1hdGlxdWVzXzE3NzI5NdIBAA?oc=5",
-			"pubDate": "Wed, 27 Mar 2024 13:37:43 GMT",
+			"title": "En Isra\u00ebl, le financement de la guerre ampute la recherche - Sciences et Avenir",
+			"link": "https://news.google.com/rss/articles/CBMiaWh0dHBzOi8vd3d3LnNjaWVuY2VzZXRhdmVuaXIuZnIvc2NpZW5jZXMvZW4taXNyYWVsLWxlLWZpbmFuY2VtZW50LWRlLWxhLWd1ZXJyZS1hbXB1dGUtbGEtcmVjaGVyY2hlXzE3NzUxN9IBAA?oc=5",
+			"pubDate": "Tue, 26 Mar 2024 17:05:45 GMT",
 			"image": "https://picsum.photos/200/300?grayscale",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "",
-			"url": "",
-			"description": ""
-		},
-		{
-			"title": "Sciences de la vie - News - EPFL",
-			"link": "https://news.google.com/rss/articles/CBMiImh0dHBzOi8vd3d3LmVwZmwuY2gvc2Nob29scy9zdi9mci_SAQA?oc=5",
-			"pubDate": "Mon, 11 Mar 2024 07:00:00 GMT",
-			"image": "https://picsum.photos/200/300?grayscale",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "",
-			"url": "",
-			"description": ""
-		},
-		{
-			"title": "En pr\u00e9sence de deux \u00e9lus LFI, la tenue d'un d\u00e9bat sur La Palestine \u00e0 Sciences Po Menton attise les d\u00e9saccords - Monaco-Matin",
-			"link": "https://www.monacomatin.mc/vie-locale/sciences-po-au-coeur-de-la-controverse-912257",
-			"pubDate": "Fri, 29 Mar 2024 14:30:00 GMT",
-			"image": "https://fyooyzbm.filerobot.com/v7/afp/13197001-6gDVW8cG.jpg?vh=ecd2c8&ci_seal=b6e291a4a8",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "Monaco-Matin",
-			"url": "https://www.monacomatin.mc/vie-locale/sciences-po-au-coeur-de-la-controverse-912257",
-			"description": "Sp\u00e9cialis\u00e9 dans le Moyen orient et la M\u00e9diterran\u00e9e, le campus mentonnais de Sciences Po ne pouvait pas rester en retrait du d\u00e9bat - souvent br\u00fblant - autour du conflit isra\u00e9lo-palestinien. Surtout depuis l\u2019attaque du Hamas perp\u00e9tr\u00e9e en Isra\u00ebl le 7 octobre dernier. Mais depuis plusieurs mois, l\u2019\u00e9tabl"
-		},
-		{
-			"title": "L'orchestre culinaire - \u00c9v\u00e9nements pass\u00e9s - Ressources - Cit\u00e9 des sciences et de l'industrie - Cit\u00e9 des Sciences",
-			"link": "https://news.google.com/rss/articles/CBMiTmh0dHBzOi8vd3d3LmNpdGUtc2NpZW5jZXMuZnIvZnIvYXUtcHJvZ3JhbW1lL2V2ZW5lbWVudHMvbG9yY2hlc3RyZS1jdWxpbmFpcmUtMdIBAA?oc=5",
-			"pubDate": "Mon, 22 Jan 2024 13:04:05 GMT",
-			"image": "https://www.cite-sciences.fr/fileadmin/_processed_/e/6/csm_ImgGenCSI2_141566b89e.jpg",
 			"logo": "https://picsum.photos/32/32?grayscale",
 			"site_name": "",
 			"url": "",
@@ -891,6 +881,26 @@
 			"description": ""
 		},
 		{
+			"title": "L'orchestre culinaire - \u00c9v\u00e9nements pass\u00e9s - Ressources - Cit\u00e9 des sciences et de l'industrie - Cit\u00e9 des Sciences",
+			"link": "https://news.google.com/rss/articles/CBMiTmh0dHBzOi8vd3d3LmNpdGUtc2NpZW5jZXMuZnIvZnIvYXUtcHJvZ3JhbW1lL2V2ZW5lbWVudHMvbG9yY2hlc3RyZS1jdWxpbmFpcmUtMdIBAA?oc=5",
+			"pubDate": "Mon, 22 Jan 2024 13:04:05 GMT",
+			"image": "https://www.cite-sciences.fr/fileadmin/_processed_/e/6/csm_ImgGenCSI2_141566b89e.jpg",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "",
+			"url": "",
+			"description": ""
+		},
+		{
+			"title": "Sciences de la vie - News - EPFL",
+			"link": "https://news.google.com/rss/articles/CBMiImh0dHBzOi8vd3d3LmVwZmwuY2gvc2Nob29scy9zdi9mci_SAQA?oc=5",
+			"pubDate": "Mon, 11 Mar 2024 07:00:00 GMT",
+			"image": "https://picsum.photos/200/300?grayscale",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "",
+			"url": "",
+			"description": ""
+		},
+		{
 			"title": "Sciences de l'environnement - Universit\u00e9 de Bordeaux",
 			"link": "https://www.u-bordeaux.fr/recherche/structures-de-recherche/departements-de-recherche/sciences-de-l-environnement",
 			"pubDate": "Thu, 07 Dec 2023 08:00:00 GMT",
@@ -899,6 +909,66 @@
 			"site_name": "Universit\u00e9 de Bordeaux",
 			"url": "https://www.u-bordeaux.fr/recherche/structures-de-recherche/departements-de-recherche/sciences-de-l-environnement",
 			"description": "Le d\u00e9partement des Sciences de l\u2019environnement f\u00e9d\u00e8re les unit\u00e9s de recherche du site bordelais dont les travaux visent \u00e0 r\u00e9pondre aux grands d\u00e9fis environnementaux, scientifiques et soci\u00e9taux de demain. Les recherches couvrent un large spectre en sciences de l\u2019environnement et sont conduites \u00e0 plusieurs \u00e9chelles d\u2019int\u00e9gration du vivant, du g\u00e9nome \u00e0 l\u2019\u00e9cosyst\u00e8me en passant par les organismes v\u00e9g\u00e9taux, animaux et microbiens, \u00e0 diff\u00e9rentes \u00e9chelles spatiales et temporelles (du pal\u00e9oenvironnement \u00e0 l\u2019environnement actuel voire futur), et \u00e9galement \u00e0 l'\u00e9chelle des interactions entre agrosyst\u00e8mes, hydrosyst\u00e8mes, \u00e9cosyst\u00e8mes, g\u00e9osyst\u00e8mes et socio-syst\u00e8mes."
+		},
+		{
+			"title": "Le diamant ne va bient\u00f4t plus \u00eatre le mat\u00e9riau le plus r\u00e9sistant sur Terre ! - Futura",
+			"link": "https://www.futura-sciences.com/sciences/actualites/matiere-diamant-ne-va-bientot-plus-etre-materiau-plus-resistant-terre-112419/",
+			"pubDate": "Tue, 26 Mar 2024 20:14:01 GMT",
+			"image": "https://cdn.futura-sciences.com/buildsv6/images/largeoriginal/5/b/c/5bcae89ea0_50214107_2-diamants.jpg",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "Futura",
+			"url": "https://www.futura-sciences.com/sciences/actualites/matiere-diamant-ne-va-bientot-plus-etre-materiau-plus-resistant-terre-112419/",
+			"description": "C\u2019est bien connu, le diamant, en plus d\u2019\u00eatre une pierre pr\u00e9cieuse, est le mat\u00e9riau le plus r\u00e9sistant qui existe actuellement sur Terre. Actuellement\u2026 car ce min\u00e9ral pourrait bien \u00eatre d\u00e9tr\u00f4n\u00e9 dans..."
+		},
+		{
+			"title": "6e \u00e9dition du Festival Sud de Sciences \"d\u00e9fis environnementaux et soci\u00e9taux\" | Site Web IRD - IRD",
+			"link": "https://news.google.com/rss/articles/CBMiXWh0dHBzOi8vd3d3LmlyZC5mci82ZS1lZGl0aW9uLWR1LWZlc3RpdmFsLXN1ZC1kZS1zY2llbmNlcy1kZWZpcy1lbnZpcm9ubmVtZW50YXV4LWV0LXNvY2lldGF1eNIBAA?oc=5",
+			"pubDate": "Mon, 27 Nov 2023 08:00:00 GMT",
+			"image": "https://www.ird.fr/sites/ird_fr/files/2023-10/Banni%C3%A8re%20-%20Annonce%20festival-web_0.png",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "",
+			"url": "",
+			"description": ""
+		},
+		{
+			"title": "En pr\u00e9sence de deux \u00e9lus LFI, la tenue d'un d\u00e9bat sur La Palestine \u00e0 Sciences Po Menton attise les d\u00e9saccords - Monaco-Matin",
+			"link": "https://www.monacomatin.mc/vie-locale/sciences-po-au-coeur-de-la-controverse-912257",
+			"pubDate": "Fri, 29 Mar 2024 14:30:00 GMT",
+			"image": "https://fyooyzbm.filerobot.com/v7/afp/13197001-6gDVW8cG.jpg?vh=ecd2c8&ci_seal=b6e291a4a8",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "Monaco-Matin",
+			"url": "https://www.monacomatin.mc/vie-locale/sciences-po-au-coeur-de-la-controverse-912257",
+			"description": "Sp\u00e9cialis\u00e9 dans le Moyen orient et la M\u00e9diterran\u00e9e, le campus mentonnais de Sciences Po ne pouvait pas rester en retrait du d\u00e9bat - souvent br\u00fblant - autour du conflit isra\u00e9lo-palestinien. Surtout depuis l\u2019attaque du Hamas perp\u00e9tr\u00e9e en Isra\u00ebl le 7 octobre dernier. Mais depuis plusieurs mois, l\u2019\u00e9tabl"
+		},
+		{
+			"title": "Sciences Po Paris : l'ex-directeur g\u00e9n\u00e9ral de P\u00f4le emploi Jean Bass\u00e8res nomm\u00e9 administrateur provisoire - Sud Ouest",
+			"link": "https://www.sudouest.fr/politique/education/sciences-po-paris-l-ex-directeur-general-de-pole-emploi-jean-basseres-nomme-administrateur-provisoire-19101506.php",
+			"pubDate": "Tue, 26 Mar 2024 07:15:49 GMT",
+			"image": "https://media.sudouest.fr/19101506/1200x-1/sudouest-photo-1-28350981.jpg",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "SudOuest.fr",
+			"url": "https://www.sudouest.fr/politique/education/sciences-po-paris-l-ex-directeur-general-de-pole-emploi-jean-basseres-nomme-administrateur-provisoire-19101506.php",
+			"description": "Cette nomination faite suite \u00e0 la d\u00e9mission de Mathias Vicherat, renvoy\u00e9 devant la justice dans un dossier de violences conjugales"
+		},
+		{
+			"title": "Peut-on gagner une course gr\u00e2ce aux math\u00e9matiques ? - Sciences et Avenir",
+			"link": "https://news.google.com/rss/articles/CBMicmh0dHBzOi8vd3d3LnNjaWVuY2VzZXRhdmVuaXIuZnIvZm9uZGFtZW50YWwvbWF0aGVtYXRpcXVlcy9wZXV0LW9uLWdhZ25lci11bmUtY291cnNlLWdyYWNlLWF1eC1tYXRoZW1hdGlxdWVzXzE3NzI5NdIBAA?oc=5",
+			"pubDate": "Wed, 27 Mar 2024 13:37:43 GMT",
+			"image": "https://picsum.photos/200/300?grayscale",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "",
+			"url": "",
+			"description": ""
+		},
+		{
+			"title": "Prix de l'Acad\u00e9mie des sciences 2023 : plus de 50 laur\u00e9ats li\u00e9s au CNRS - Centre national de la recherche scientifique (CNRS)",
+			"link": "https://www.cnrs.fr/fr/cnrsinfo/prix-de-lacademie-des-sciences-2023-plus-de-50-laureats-lies-au-cnrs",
+			"pubDate": "Tue, 17 Oct 2023 07:00:00 GMT",
+			"image": "https://www.cnrs.fr/sites/default/files/image/Capture_decran_2023-10-17_a_17.02.30.png",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "CNRS",
+			"url": "https://www.cnrs.fr/fr/cnrsinfo/prix-de-lacademie-des-sciences-2023-plus-de-50-laureats-lies-au-cnrs",
+			"description": "L'Acad\u00e9mie des sciences remet chaque ann\u00e9e pr\u00e8s de quatre-vingt prix couvrant l'ensemble des domaines scientifiques, aussi bien fondamentaux qu'appliqu\u00e9s."
 		},
 		{
 			"title": "Neuralink, orque d\u00e9c\u00e9d\u00e9e \u00e0 Marineland et des troupeaux de tric\u00e9ratops : l'actu des sciences en ultrabr\u00e8ves - Yahoo Actualit\u00e9s",
@@ -919,77 +989,7 @@
 			"site_name": "leparisien.fr",
 			"url": "https://www.leparisien.fr/sciences/la-fonte-des-glaces-ralentit-la-rotation-de-la-terre-et-pourrait-affecter-la-mesure-du-temps-27-03-2024-JIPFYXZUZVHXBLHYEHVS3NQ5ME.php",
 			"description": "En tenant compte du ph\u00e9nom\u00e8ne engendr\u00e9 par le r\u00e9chauffement climatique, il faudrait retirer une seconde \u00e0 nos horloges en 2029. Une action i"
-		},
-		{
-			"title": "6e \u00e9dition du Festival Sud de Sciences \"d\u00e9fis environnementaux et soci\u00e9taux\" | Site Web IRD - IRD",
-			"link": "https://news.google.com/rss/articles/CBMiXWh0dHBzOi8vd3d3LmlyZC5mci82ZS1lZGl0aW9uLWR1LWZlc3RpdmFsLXN1ZC1kZS1zY2llbmNlcy1kZWZpcy1lbnZpcm9ubmVtZW50YXV4LWV0LXNvY2lldGF1eNIBAA?oc=5",
-			"pubDate": "Mon, 27 Nov 2023 08:00:00 GMT",
-			"image": "https://www.ird.fr/sites/ird_fr/files/2023-10/Banni%C3%A8re%20-%20Annonce%20festival-web_0.png",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "",
-			"url": "",
-			"description": ""
-		},
-		{
-			"title": "Programme d'\u00e9change - Sciences Po",
-			"link": "https://news.google.com/rss/articles/CBMiOWh0dHBzOi8vd3d3LnNjaWVuY2VzcG8uZnIvZnIvZm9ybWF0aW9ucy9wcm9ncmFtbWUtZWNoYW5nZdIBAA?oc=5",
-			"pubDate": "Thu, 15 Feb 2024 15:49:32 GMT",
-			"image": "https://www.sciencespo.fr/fr/static/5043bee0ff1c104b8cb86153ee4916ad/78f42/sciencespo_bandeau_amphi_06_f8fcfb7401.jpg",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "Sciences Po",
-			"url": "",
-			"description": ""
-		},
-		{
-			"title": "Prix de l'Acad\u00e9mie des sciences 2023 : plus de 50 laur\u00e9ats li\u00e9s au CNRS - Centre national de la recherche scientifique (CNRS)",
-			"link": "https://www.cnrs.fr/fr/cnrsinfo/prix-de-lacademie-des-sciences-2023-plus-de-50-laureats-lies-au-cnrs",
-			"pubDate": "Tue, 17 Oct 2023 07:00:00 GMT",
-			"image": "https://www.cnrs.fr/sites/default/files/image/Capture_decran_2023-10-17_a_17.02.30.png",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "CNRS",
-			"url": "https://www.cnrs.fr/fr/cnrsinfo/prix-de-lacademie-des-sciences-2023-plus-de-50-laureats-lies-au-cnrs",
-			"description": "L'Acad\u00e9mie des sciences remet chaque ann\u00e9e pr\u00e8s de quatre-vingt prix couvrant l'ensemble des domaines scientifiques, aussi bien fondamentaux qu'appliqu\u00e9s."
-		},
-		{
-			"title": "Une formation pour \"travailler autrement\" gr\u00e2ce aux sciences comportementales - modernisation.gouv",
-			"link": "https://www.modernisation.gouv.fr/outils-et-formations/une-formation-pour-travailler-autrement-grace-aux-sciences-comportementales",
-			"pubDate": "Thu, 11 Jan 2024 08:00:00 GMT",
-			"image": "https://www.modernisation.gouv.fr/files/2023-02/webinaire%20travailler%20autrement%282%29_0_0.png",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "Direction interminist\u00e9rielle de la transformation publique",
-			"url": "https://www.modernisation.gouv.fr/outils-et-formations/une-formation-pour-travailler-autrement-grace-aux-sciences-comportementales",
-			"description": "La DITP propose une formation pour accompagner la transformation du management public et aider les agents dans leur quotidien."
-		},
-		{
-			"title": "Sport et sciences, th\u00e9matique de La Science se livre 2024 - Conseil d\u00e9partemental des Hauts-de-Seine",
-			"link": "https://www.hauts-de-seine.fr/toutes-les-actualites/detail/sport-et-sciences-thematique-e-la-science-se-livre-2024",
-			"pubDate": "Fri, 19 Jan 2024 08:00:00 GMT",
-			"image": "https://www.hauts-de-seine.fr/fileadmin/_processed_/d/5/csm_SSL-2024-940x520__003__fabc7eef45.jpg",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "Conseil d\u00e9partemental des Hauts-de-Seine",
-			"url": "https://www.hauts-de-seine.fr/toutes-les-actualites/detail/sport-et-sciences-thematique-e-la-science-se-livre-2024",
-			"description": "Le D\u00e9partement a lanc\u00e9 la 28e \u00e9dition de La Science se livre, du 20 janvier au 11 f\u00e9vrier,"
-		},
-		{
-			"title": "Quels sujets occupent les chercheurs de Sciences Po ? - Sciences Po",
-			"link": "https://news.google.com/rss/articles/CBMiW2h0dHBzOi8vd3d3LnNjaWVuY2VzcG8uZnIvZnIvYWN0dWFsaXRlcy9xdWVscy1zdWpldHMtb2NjdXBlbnQtbGVzLWNoZXJjaGV1cnMtZGUtc2NpZW5jZXMtcG_SAQA?oc=5",
-			"pubDate": "Wed, 22 Nov 2023 08:00:00 GMT",
-			"image": "https://www.sciencespo.fr/fr/static/e37c879f8d94ed927a7fcd152af588e1/26b49/crisis_lab_rubrique_recherche_b0f1c2685f.jpg",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "Sciences Po",
-			"url": "",
-			"description": ""
-		},
-		{
-			"title": "Penser l'\u00e9ducation \u00e0 la sexualit\u00e9 sur Internet - Sciences Po",
-			"link": "https://news.google.com/rss/articles/CBMiV2h0dHBzOi8vd3d3LnNjaWVuY2VzcG8uZnIvZnIvYWN0dWFsaXRlcy9wZW5zZXItbC1lZHVjYXRpb24tYS1sYS1zZXh1YWxpdGUtc3VyLWludGVybmV0L9IBAA?oc=5",
-			"pubDate": "Thu, 21 Mar 2024 07:00:00 GMT",
-			"image": "https://www.sciencespo.fr/fr/static/b87120a2e974431ba09ea6d54703e0d3/d0b9c/etudiantes_Certificat_CN_Num_afe281ab4c.jpg",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "Sciences Po",
-			"url": "",
-			"description": ""
 		}
 	],
-	"timestamp": "2024-03-31 16:19:51.254400"
+	"timestamp": "2024-03-31 20:16:18.360156"
 }
