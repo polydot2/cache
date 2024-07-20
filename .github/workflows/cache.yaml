@@ -3,7 +3,7 @@ name: Cache
 
 on:
   workflow_dispatch:
-    schedule:
+  schedule:
     - cron: '0 */4 * * *'
 jobs:
   build:
