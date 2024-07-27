@@ -1,16 +1,6 @@
 {
 	"content": [
 		{
-			"title": "Les scientifiques sont effar\u00e9s par la quantit\u00e9 record de glace qui va \u00eatre utilis\u00e9e pour les JO - Futura",
-			"link": "https://www.futura-sciences.com/planete/actualites/environnement-scientifiques-sont-effares-quantite-record-glace-va-etre-utilisee-jo-114812/",
-			"pubDate": "Fri, 26 Jul 2024 06:09:44 GMT",
-			"image": "https://cdn.futura-sciences.com/buildsv6/images/largeoriginal/a/8/1/a81885e578_50219007_bain-glace-jo-sportifs-athletes.jpg",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "Futura",
-			"url": "https://www.futura-sciences.com/planete/actualites/environnement-scientifiques-sont-effares-quantite-record-glace-va-etre-utilisee-jo-114812/",
-			"description": "Vous \u00eates loin d\u2019imaginer les quantit\u00e9s de glace qui sont pr\u00eates \u00e0 \u00eatre consomm\u00e9es \u00e0 l\u2019occasion des Jeux olympiques de Paris 2024. Des chercheurs s\u2019en inqui\u00e8tent. Tant pour l'environnement que..."
-		},
-		{
 			"title": "Une myst\u00e9rieuse source d\u2019oxyg\u00e8ne d\u00e9couverte tout au fond de l\u2019oc\u00e9an - franceinfo",
 			"link": "https://www.francetvinfo.fr/replay-radio/le-billet-vert/une-mysterieuse-source-d-oxygene-decouverte-tout-au-fond-de-l-ocean_6642333.html",
 			"pubDate": "Wed, 24 Jul 2024 06:31:08 GMT",
@@ -21,9 +11,39 @@
 			"description": "Une nouvelle source d\u2019oxyg\u00e8ne, d\u00e9couverte dans le Pacifique, laisse les scientifiques perplexes, car ce gaz semble \u00eatre \u00e9mis par des galets."
 		},
 		{
-			"title": "Sida : un septi\u00e8me patient gu\u00e9rit du VIH avec une nouvelle m\u00e9thode - Sciences et Avenir",
-			"link": "https://www.sciencesetavenir.fr/sante/sida-un-septieme-patient-gueri-du-vih-a-berlin-avec-une-nouvelle-methode_179803",
-			"pubDate": "Fri, 26 Jul 2024 13:16:36 GMT",
+			"title": "Comment la vie est-elle apparue sur Terre ? - National Geographic France",
+			"link": "https://www.nationalgeographic.fr/video/sciences/comment-la-vie-est-elle-apparue-sur-terre",
+			"pubDate": "Sat, 27 Jul 2024 06:00:00 GMT",
+			"image": "https://static.nationalgeographic.fr/files/styles/image_3200/public/10912370_img.jpg?w=400&h=400&q=75",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "National Geographic",
+			"url": "https://www.nationalgeographic.fr/video/sciences/comment-la-vie-est-elle-apparue-sur-terre",
+			"description": "Pour r\u00e9pondre \u00e0 cette question existentielle, Stephen Hawking nous d\u00e9voile le secret pr\u00e9sent dans toutes les cellules vivantes, l'ADN !"
+		},
+		{
+			"title": "Jusqu\u2019o\u00f9 va la science ? - D\u00e9chiffrer l'ADN de la canne \u00e0 sucre - RFI",
+			"link": "https://www.rfi.fr/fr/podcasts/jusqu-o%C3%B9-va-la-science/20240726-d%C3%A9chiffrer-l-adn-de-la-canne-%C3%A0-sucre",
+			"pubDate": "Fri, 26 Jul 2024 22:04:00 GMT",
+			"image": "https://s.rfi.fr/media/display/bf2475dc-fe62-11ee-b267-005056a97e36/w:1280/p:16x9/AP120304014752.jpg",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "RFI",
+			"url": "https://www.rfi.fr/fr/podcasts/jusqu-o%C3%B9-va-la-science/20240726-d%C3%A9chiffrer-l-adn-de-la-canne-%C3%A0-sucre",
+			"description": "Le g\u00e9nome de la canne \u00e0 sucre a \u00e9t\u00e9 enfin int\u00e9gralement d\u00e9chiffr\u00e9 par une \u00e9quipe internationale de scientifiques qui l'ont publi\u00e9 le 28 mars 2024 dans la prestigieuse revue Nature. C'est la plante la\u2026"
+		},
+		{
+			"title": "VIH, dinosaures en 3D et diab\u00e8te : l'actu des sciences en ultrabr\u00e8ves - Sciences et Avenir",
+			"link": "https://www.sciencesetavenir.fr/ultrabreves/vih-dinosaures-en-3d-et-diabete-l-actu-des-sciences-en-ultrabreves_179808",
+			"pubDate": "Fri, 26 Jul 2024 15:45:25 GMT",
+			"image": "https://www.sciencesetavenir.fr/assets/img/2024/07/26/cover-r4x3w1200-66a3c5df97dd2-ub.jpg",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "Sciences et Avenir",
+			"url": "https://www.sciencesetavenir.fr/ultrabreves/vih-dinosaures-en-3d-et-diabete-l-actu-des-sciences-en-ultrabreves_179808",
+			"description": "Dans l'actualit\u00e9 scientifique de la journ\u00e9e, les ultrabr\u00e8ves abordent le cas du 7e patient gu\u00e9ri du VIH, des nouveaut\u00e9s sur le site pal\u00e9ontologique\u00a0d'Angeac-Charente et mentionnent une nouvelle approche contre le diab\u00e8te."
+		},
+		{
+			"title": "JO 2024 - Escrime. Seule en lice \u00e0 Tokyo, Sciences Po\u2026 Trois choses \u00e0 savoir sur Coraline Vitalis - Ouest-France",
+			"link": "https://www.ouest-france.fr/jeux-olympiques/jo-2024-escrime-seule-en-lice-a-tokyo-sciences-po-trois-choses-a-savoir-sur-coraline-vitalis-a85c03be-3f95-11ef-9243-d35e291a41fd",
+			"pubDate": "Sat, 27 Jul 2024 07:10:13 GMT",
 			"image": "",
 			"logo": "https://picsum.photos/32/32?grayscale",
 			"site_name": "",
@@ -31,44 +51,14 @@
 			"description": ""
 		},
 		{
-			"title": "Comment font les cracheurs de feu pour ne pas se br\u00fbler ? - National Geographic France",
-			"link": "https://www.nationalgeographic.fr/video/sciences/comment-font-les-cracheurs-de-feu-pour-ne-pas-se-bruler",
-			"pubDate": "Fri, 26 Jul 2024 06:00:00 GMT",
-			"image": "https://static.nationalgeographic.fr/files/styles/image_3200/public/10911872_img.jpg?w=400&h=400&q=75",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "National Geographic",
-			"url": "https://www.nationalgeographic.fr/video/sciences/comment-font-les-cracheurs-de-feu-pour-ne-pas-se-bruler",
-			"description": "Les cracheurs de feu se doivent d'avoir une compr\u00e9hension scientifique du feu pour limiter au maximum les risques de se br\u00fbler le visage."
-		},
-		{
-			"title": "Sciences-po : un nouveau concours d\u2019entr\u00e9e... pour \u00ab ne plus d\u00e9favoriser \u00bb les lyc\u00e9es d\u2019\u00e9lite - Le Parisien",
-			"link": "https://www.leparisien.fr/societe/sciences-po-un-nouveau-concours-dentree-pour-ne-plus-defavoriser-les-lycees-delite-23-07-2024-L5X2XSEQ5JG7PD4H72R7QYTXHQ.php",
-			"pubDate": "Tue, 23 Jul 2024 17:35:00 GMT",
+			"title": "Sciences-po : nouvelle modalit\u00e9 de s\u00e9lection, l\u2019oral comptera pour moiti\u00e9 de la note finale - Le Parisien",
+			"link": "https://www.leparisien.fr/etudiant/etudes/ecoles/sciences-po-nouvelle-modalite-de-selection-loral-comptera-pour-moitie-de-la-note-finale-4U6XDV5V6FDY7PWRKSTV2KFVRE.php",
+			"pubDate": "Thu, 25 Jul 2024 16:59:00 GMT",
 			"image": "https://www.leparisien.fr/resizer/T7LhrGPHpYBeS390lRk8UXHYkt0=/1200x675/cloudfront-eu-central-1.images.arcpublishing.com/leparisien/V6JRUNVEF5BNFO2FLPT6R77PUI.jpg",
 			"logo": "https://picsum.photos/32/32?grayscale",
 			"site_name": "leparisien.fr",
-			"url": "https://www.leparisien.fr/societe/sciences-po-un-nouveau-concours-dentree-pour-ne-plus-defavoriser-les-lycees-delite-23-07-2024-L5X2XSEQ5JG7PD4H72R7QYTXHQ.php",
-			"description": "L\u2019\u00e9cole, dont plus de 15\u00a0000 candidats ont tent\u00e9 le concours d\u2019admission cette ann\u00e9e, change ses crit\u00e8res d\u2019admission pour 2025. En partie p"
-		},
-		{
-			"title": "VIH, dinosaures en 3D et diab\u00e8te : l'actu des sciences en ultrabr\u00e8ves - Yahoo Actualit\u00e9s",
-			"link": "https://fr.news.yahoo.com/vih-dinosaures-3d-diab%C3%A8te-lactu-154525062.html",
-			"pubDate": "Fri, 26 Jul 2024 15:45:25 GMT",
-			"image": "https://media.zenfs.com/fr/sciencesetavenir.fr/7cb76752294138a9367350d7d5cead23",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "Yahoo News",
-			"url": "https://fr.news.yahoo.com/vih-dinosaures-3d-diab%C3%A8te-lactu-154525062.html",
-			"description": "Au sommaire des ultrabr\u00e8ves du 26 juillet 2024 : un septi\u00e8me patient semble gu\u00e9ri du VIH, sur le site d'Angeac-Charente, des dinosaures r\u00e9v\u00e9l\u00e9s en 3D et une nouvelle approche pour soigner le diab\u00e8te donne de bons r\u00e9sultats."
-		},
-		{
-			"title": "Manosque. La science en bas de chez soi avec \u00ab les Petits d\u00e9brouillards \u00bb - Haute-Provence Info",
-			"link": "https://www.hauteprovenceinfo.com/actualite-44627-manosque-la-science-en-bas-de-chez-soi-avec-les-petits-debrouillards",
-			"pubDate": "Fri, 26 Jul 2024 16:12:00 GMT",
-			"image": "https://medias.hauteprovenceinfo.com/photos/1200/44627/?v=1721805400",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "hauteprovenceinfo.com",
-			"url": "https://www.hauteprovenceinfo.com/actualite-44627-manosque-la-science-en-bas-de-chez-soi-avec-les-petits-debrouillards",
-			"description": "L'association des Petits d\u00e9brouillards a pour objectif de sensibiliser les enfants de mani\u00e8re ludique \u00e0 la culture scientifique. "
+			"url": "https://www.leparisien.fr/etudiant/etudes/ecoles/sciences-po-nouvelle-modalite-de-selection-loral-comptera-pour-moitie-de-la-note-finale-4U6XDV5V6FDY7PWRKSTV2KFVRE.php",
+			"description": "L\u2019\u00e9cole, dont plus de 15\u00a0000 candidats ont tent\u00e9 le concours d\u2019admission cette ann\u00e9e, change ses crit\u00e8res d\u2019admission pour 2025. L\u2019oral d\u2019ad"
 		},
 		{
 			"title": "Villeneuve-d'Ascq. L\u2019\u00e9v\u00e9nement phare \"la Nuit des \u00c9toiles\" de retour au Forum des Sciences - actu.fr",
@@ -81,14 +71,14 @@
 			"description": "Les 9, 10 et 11 ao\u00fbt 2024, l\u2019\u00e9v\u00e9nement \u00ab\u2009la Nuit des \u00c9toiles\u2009\u00bb revient au Forum des Sciences de Villeneuve-d'Ascq. Au programme\u2009: s\u00e9ances de plan\u00e9tarium, expositions et ateliers."
 		},
 		{
-			"title": "\u00c9pisode 1/4 : Les sorties des eaux : de l'oc\u00e9an \u00e0 la terre - France Culture",
-			"link": "https://www.radiofrance.fr/franceculture/podcasts/mecaniques-du-vivant/les-sorties-des-eaux-de-l-ocean-a-la-terre-2822864",
-			"pubDate": "Thu, 25 Jul 2024 13:04:39 GMT",
-			"image": "https://www.radiofrance.fr/s3/cruiser-production-eu3/2024/07/722981ec-3f4c-4558-a785-55120210acfe/1200x680_sc_tiktaalik.jpg",
+			"title": "VIH, dinosaures en 3D et diab\u00e8te : l'actu des sciences en ultrabr\u00e8ves - Yahoo Actualit\u00e9s",
+			"link": "https://fr.news.yahoo.com/vih-dinosaures-3d-diab%C3%A8te-lactu-154525062.html",
+			"pubDate": "Fri, 26 Jul 2024 15:45:25 GMT",
+			"image": "https://media.zenfs.com/fr/sciencesetavenir.fr/7cb76752294138a9367350d7d5cead23",
 			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "France Culture",
-			"url": "https://www.radiofrance.fr/franceculture/podcasts/mecaniques-du-vivant/les-sorties-des-eaux-de-l-ocean-a-la-terre-2822864",
-			"description": "AUDIO \u2022 1/4 : Les sorties des eaux\u00a0: de l'oc\u00e9an \u00e0 la terre . M\u00e9caniques du vivant, saison 8 : Les pionniers de l'\u00e9volution est une s\u00e9rie in\u00e9dite propos\u00e9e par France Culture. \u00c9coutez gratuitement en ligne ce podcast et parcourez tout notre catalogue."
+			"site_name": "Yahoo News",
+			"url": "https://fr.news.yahoo.com/vih-dinosaures-3d-diab%C3%A8te-lactu-154525062.html",
+			"description": "Au sommaire des ultrabr\u00e8ves du 26 juillet 2024 : un septi\u00e8me patient semble gu\u00e9ri du VIH, sur le site d'Angeac-Charente, des dinosaures r\u00e9v\u00e9l\u00e9s en 3D et une nouvelle approche pour soigner le diab\u00e8te donne de bons r\u00e9sultats."
 		},
 		{
 			"title": "Sciences avec et pour la soci\u00e9t\u00e9 : le projet \"Teepee\", port\u00e9 par l\u2019universit\u00e9 de Tours et ses partenaires, re\u00e7oit 1,2 M\u20ac - AEF info",
@@ -99,6 +89,16 @@
 			"site_name": "AEF info",
 			"url": "https://www.aefinfo.fr/depeche/715793-sciences-avec-et-pour-la-societe-le-projet-teepee-porte-par-l-universite-de-tours-et-ses-partenaires-recoit-12-m",
 			"description": "Le projet Teepee : inciter, informer, impliquer, inspirer, d\u00e9pos\u00e9 par l\u2019universit\u00e9 de Tours au nom d\u2019un consortium d\u2019acteurs acad\u00e9miques et culturels..."
+		},
+		{
+			"title": "Science, son et lumi\u00e8re, musique\u2026 Voici nos quatre id\u00e9es de sorties de ce jeudi 25 juillet 2024 - Le T\u00e9l\u00e9gramme",
+			"link": "https://www.letelegramme.fr/finistere/morlaix-29600/science-son-et-lumiere-musique-voici-nos-quatre-idees-de-sorties-de-ce-jeudi-25-juillet-2024-6631863.php",
+			"pubDate": "Thu, 25 Jul 2024 06:00:02 GMT",
+			"image": "https://media.letelegramme.fr/api/v1/images/view/66a107f789c86b29fe01b5b6/web_golden_xxl/66a107f789c86b29fe01b5b6.1",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "Le T\u00e9l\u00e9gramme",
+			"url": "https://www.letelegramme.fr/finistere/morlaix-29600/science-son-et-lumiere-musique-voici-nos-quatre-idees-de-sorties-de-ce-jeudi-25-juillet-2024-6631863.php",
+			"description": "L\u2019espace des sciences, spectacles son et lumi\u00e8re et musique sont au programme de cette journ\u00e9e du jeudi 25\u00a0juillet 2024. Faites votre choix\u00a0!"
 		},
 		{
 			"title": "La science nucl\u00e9aire aide \u00e0 cultiver des plantes saines sur des sols sains - International Atomic Energy Agency",
@@ -116,8 +116,8 @@
 			"pubDate": "Tue, 23 Jul 2024 12:18:00 GMT",
 			"image": "",
 			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "",
-			"url": "",
+			"site_name": "Sciences et Avenir",
+			"url": "https://www.sciencesetavenir.fr/videos/",
 			"description": ""
 		},
 		{
@@ -131,6 +131,26 @@
 			"description": "Le D\u00e9partement universitaire des sciences d\u2019Agen (DUSA), pr\u00e9sent sur le territoire du Lot-et-Garonne pour d\u00e9velopper une offre de formation scientifique et technique, est une antenne d\u00e9localis\u00e9e de l'universit\u00e9 de Bordeaux situ\u00e9e sur le campus Michel Serres. Ses missions sont de proposer des formations scientifiques et technologiques post-bac, g\u00e9n\u00e9ralistes mais aussi professionnalisantes adapt\u00e9es aux besoins socio-\u00e9conomiques : Mise \u00e0 niveau pour les \u00e9tudes scientifiques, licences g\u00e9n\u00e9rales Sciences de la Vie, master et licences professionnelles dans les domaines de l'agroalimentaire et de l\u2019\u00e9nergie)."
 		},
 		{
+			"title": "L'aviron : un sport qui m\u00eale performance physique et technique - Radio France",
+			"link": "https://www.radiofrance.fr/franceinfo/podcasts/le-billet-sciences-week-end/l-aviron-un-sport-qui-mele-performance-physique-et-technique-1205285",
+			"pubDate": "Sat, 27 Jul 2024 05:48:56 GMT",
+			"image": "https://www.radiofrance.fr/s3/cruiser-production-eu3/2024/07/adcb941b-e1e4-4957-a57f-4f90f2332e9f/1200x680_sc_aviron-prelevement-sur-rameurs-2-669d23790a526745673341.jpg",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "franceinfo",
+			"url": "https://www.radiofrance.fr/franceinfo/podcasts/le-billet-sciences-week-end/l-aviron-un-sport-qui-mele-performance-physique-et-technique-1205285",
+			"description": "Comment la science am\u00e9liore la performance des sportifs, c'est le th\u00e8me du billet sciences pendant les week-ends de ces Jeux olympiques. Aujourd'hui, de nombreuses disciplines font appel \u00e0 des chercheurs pour gagner davantage de m\u00e9dailles. C'est le cas notamment en France avec des scientifiques int\u00e9gr\u00e9s dans les f\u00e9d\u00e9rations. Aujourd'hui, l'aviron."
+		},
+		{
+			"title": "JO de Paris 2024 : quel est le \u00ab record ultime \u00bb dans l'\u00e9preuve reine du 100 m\u00e8tres ? - Les \u00c9chos",
+			"link": "https://www.lesechos.fr/idees-debats/sciences-prospective/jo-de-paris-2024-quel-est-le-record-ultime-dans-lepreuve-reine-du-100-metres-2110728",
+			"pubDate": "Sat, 27 Jul 2024 08:01:08 GMT",
+			"image": "https://media.lesechos.com/api/v1/images/view/66a4a949e806bb126a7fc8bb/1280x720/01102729403537-web-tete.jpg",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "Les Echos",
+			"url": "https://www.lesechos.fr/idees-debats/sciences-prospective/jo-de-paris-2024-quel-est-le-record-ultime-dans-lepreuve-reine-du-100-metres-2110728",
+			"description": "La course phare du sprint est devenue un objet de science, les chercheurs se demandant jusqu'o\u00f9 peut descendre le chronom\u00e8tre. La course, qui a valu \u00e0 Usain Bolt son titre de recordman du monde, a \u00e9t\u00e9 \u00e9tudi\u00e9e \u00e0 la loupe."
+		},
+		{
 			"title": "\u00c0 lire cet \u00e9t\u00e9 : la s\u00e9lection des Alumni de Sciences Po - Sciences Po",
 			"link": "https://www.sciencespo.fr/fr/actualites/a-lire-cet-ete-la-selection-des-alumni-de-sciences-po/",
 			"pubDate": "Thu, 25 Jul 2024 09:39:52 GMT",
@@ -141,14 +161,14 @@
 			"description": "Nos anciens \u00e9tudiants ont du talent et certains sont des auteurs publi\u00e9s, d\u00e9couvrez une s\u00e9lection de leurs ouvrages par l'association Sciences Po Alumni."
 		},
 		{
-			"title": "\u00c0 la poursuite des ast\u00e9ro\u00efdes - France Inter",
-			"link": "https://www.radiofrance.fr/franceinter/podcasts/le-temps-d-un-bivouac/le-temps-d-un-bivouac-du-vendredi-26-juillet-2024-5913983",
-			"pubDate": "Sat, 27 Jul 2024 03:24:43 GMT",
-			"image": "https://www.radiofrance.fr/s3/cruiser-production-eu3/2024/07/9d11626c-7570-4ae3-b06a-ded5aeef3c72/1200x680_sc_gettyimages-1489196048.jpg",
+			"title": "Sciences-po : un nouveau concours d\u2019entr\u00e9e... pour \u00ab ne plus d\u00e9favoriser \u00bb les lyc\u00e9es d\u2019\u00e9lite - Le Parisien",
+			"link": "https://www.leparisien.fr/societe/sciences-po-un-nouveau-concours-dentree-pour-ne-plus-defavoriser-les-lycees-delite-23-07-2024-L5X2XSEQ5JG7PD4H72R7QYTXHQ.php",
+			"pubDate": "Tue, 23 Jul 2024 17:35:00 GMT",
+			"image": "https://www.leparisien.fr/resizer/T7LhrGPHpYBeS390lRk8UXHYkt0=/1200x675/cloudfront-eu-central-1.images.arcpublishing.com/leparisien/V6JRUNVEF5BNFO2FLPT6R77PUI.jpg",
 			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "France Inter",
-			"url": "https://www.radiofrance.fr/franceinter/podcasts/le-temps-d-un-bivouac/le-temps-d-un-bivouac-du-vendredi-26-juillet-2024-5913983",
-			"description": "Les ast\u00e9ro\u00efdes, du grec asteroeid\u1e17s, qui ressemble \u00e0 une \u00e9toile, fascinent la science autant que le grand public. L'exploration de ces corps c\u00e9lestes est une aventure de taille pour les astrophysiciens du monde entier, qui esp\u00e8rent trouver les r\u00e9ponses aux questions fondamentales de l'Humanit\u00e9."
+			"site_name": "leparisien.fr",
+			"url": "https://www.leparisien.fr/societe/sciences-po-un-nouveau-concours-dentree-pour-ne-plus-defavoriser-les-lycees-delite-23-07-2024-L5X2XSEQ5JG7PD4H72R7QYTXHQ.php",
+			"description": "L\u2019\u00e9cole, dont plus de 15\u00a0000 candidats ont tent\u00e9 le concours d\u2019admission cette ann\u00e9e, change ses crit\u00e8res d\u2019admission pour 2025. En partie p"
 		},
 		{
 			"title": "Page d'accueil CNRS Sciences informatiques | CNRS Sciences informatiques - INS2I",
@@ -171,16 +191,6 @@
 			"description": "Le 8e s\u00e9minaire issu de la collaboration entre l'Italie et la France pour la valorisation des sciences du patrimoine culturel, aura lieu le 26 septembre prochain, de 9h \u00e0 13h, \u00e0 l'Opificio Delle Pietre Dure \u00e0 Florence et en ligne."
 		},
 		{
-			"title": "PHOTO DU JOUR : F\u00e9licitations \u00e0 l\u2019association Art For Science et tous les partenaires pour la belle r\u00e9ussite du 1er programme Art For Sciences Kids - Faxinfo",
-			"link": "https://www.faxinfo.fr/photo-du-jour-felicitations-a-lassociation-art-for-science-et-tous-les-partenaires-pour-la-belle-reussite-du-1er-programme-art-for-sciences-kids/",
-			"pubDate": "Fri, 26 Jul 2024 22:42:18 GMT",
-			"image": "https://www.faxinfo.fr/wp-content/uploads/2024/07/26-07-2024-Photo-du-jour-AFS-Kids.jpg",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "Faxinfo",
-			"url": "https://www.faxinfo.fr/photo-du-jour-felicitations-a-lassociation-art-for-science-et-tous-les-partenaires-pour-la-belle-reussite-du-1er-programme-art-for-sciences-kids/",
-			"description": "55 jeunes de 6 \u00e0 17 ans ont d\u00e9couvert les bienfaits des 7 arts majeurs sur le cerveau au travers de 56 ateliers. Le programme pilot\u00e9 par M\u00e9lanie Dal Gobbo accueillait des jeunes de Cobraced, Horizon Bosco, Happy School et l\u2019\u00e9cole publique Elie Gibs. L\u2019ann\u00e9e prochaine, 90 enfants et adolescents b\u00e9n\u00e9ficieront du programme Art For Science Kids, et tant mieux ! 00"
-		},
-		{
 			"title": "Musclez votre \u00e9t\u00e9 \u00e0 la Cit\u00e9 ! - \u00c9v\u00e9nements - Au programme - Cit\u00e9 des Sciences",
 			"link": "https://www.cite-sciences.fr/fr/au-programme/evenements/jeux-olympiques-et-paralympiques-paris-2024-a-la-cite",
 			"pubDate": "Tue, 23 Jul 2024 09:52:38 GMT",
@@ -189,26 +199,6 @@
 			"site_name": "",
 			"url": "https://www.cite-sciences.fr/fr/au-programme/evenements/jeux-olympiques-et-paralympiques-paris-2024-a-la-cite",
 			"description": "\u00c0 l'occasion des Jeux de Paris 2024, la Cit\u00e9 des sciences et de l'industrie vous propose une programmation exceptionnelle alliant science et sport. Au programme : des expositions, des animations scientifiques, des exp\u00e9riences ludiques et sportives, des reportages, des tables rondes\u2026 L'\u00e9t\u00e9 sera muscl\u00e9, pour le corps et les neurones !"
-		},
-		{
-			"title": "Restauration des azulejos, \"parastronaute\" et coqueluche : l'actu des sciences en ultrabr\u00e8ves - Yahoo Actualit\u00e9s",
-			"link": "https://fr.news.yahoo.com/restauration-azulejos-parastronaute-coqueluche-lactu-154641898.html",
-			"pubDate": "Fri, 26 Jul 2024 13:33:41 GMT",
-			"image": "https://media.zenfs.com/fr/sciencesetavenir.fr/c12321f2851ce33fe3e8b639bc438252",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "Yahoo News",
-			"url": "https://fr.news.yahoo.com/restauration-azulejos-parastronaute-coqueluche-lactu-154641898.html",
-			"description": "Au sommaire des ultrabr\u00e8ves du 22 juillet 2024 : une restauration des azulejos possible gr\u00e2ce \u00e0 l'IA, un ancien champion paralympique pourrait bient\u00f4t aller dans l'espace et la HAS recommande la vaccination contre la r\u00e9surgence des cas de coqueluche."
-		},
-		{
-			"title": "saint-jean-de-la-ruelle - Les sciences, c\u2019est pas sorcier ! - La R\u00e9publique du Centre",
-			"link": "https://www.larep.fr/saint-jean-de-la-ruelle-45140/actualites/les-sciences-cest-pas-sorcier_14541170/",
-			"pubDate": "Thu, 25 Jul 2024 04:00:00 GMT",
-			"image": "https://img.lamontagne.fr/5B_FhudGKdrJDzq1Z9I6A4VAvu2lI5L-MbjiyZYbjO0/fit/657/438/sm/0/bG9jYWw6Ly8vMDAvMDAvMDcvMTUvMTgvMjAwMDAwNzE1MTg4NA.jpg",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "www.larep.fr",
-			"url": "https://www.larep.fr/saint-jean-de-la-ruelle-45140/actualites/les-sciences-cest-pas-sorcier_14541170/",
-			"description": "Jeunes amateurs et passionn\u00e9s ont rendez-vous, cette semaine, au parc de la R\u00e9publique, pour des actions de sensibilisation et vulgarisation scientifique avec Les Petits d\u00e9brouillards."
 		},
 		{
 			"title": "Virginie Sainte-Rose : une Sciences Po dans les coulisses des Jeux olympiques \u00e0 Decathlon - \u00c9mile Magazine",
@@ -221,14 +211,14 @@
 			"description": ""
 		},
 		{
-			"title": "VIH, dinosaures en 3D et diab\u00e8te : l'actu des sciences en ultrabr\u00e8ves - Sciences et Avenir",
-			"link": "https://www.sciencesetavenir.fr/ultrabreves/vih-dinosaures-en-3d-et-diabete-l-actu-des-sciences-en-ultrabreves_179808",
-			"pubDate": "Fri, 26 Jul 2024 15:45:25 GMT",
-			"image": "",
+			"title": "\u00c0 la poursuite des ast\u00e9ro\u00efdes - France Inter",
+			"link": "https://www.radiofrance.fr/franceinter/podcasts/le-temps-d-un-bivouac/le-temps-d-un-bivouac-du-vendredi-26-juillet-2024-5913983",
+			"pubDate": "Sat, 27 Jul 2024 06:25:23 GMT",
+			"image": "https://www.radiofrance.fr/s3/cruiser-production-eu3/2024/07/9d11626c-7570-4ae3-b06a-ded5aeef3c72/1200x680_sc_gettyimages-1489196048.jpg",
 			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "",
-			"url": "",
-			"description": ""
+			"site_name": "France Inter",
+			"url": "https://www.radiofrance.fr/franceinter/podcasts/le-temps-d-un-bivouac/le-temps-d-un-bivouac-du-vendredi-26-juillet-2024-5913983",
+			"description": "Les ast\u00e9ro\u00efdes, du grec asteroeid\u1e17s, qui ressemble \u00e0 une \u00e9toile, fascinent la science autant que le grand public. L'exploration de ces corps c\u00e9lestes est une aventure de taille pour les astrophysiciens du monde entier, qui esp\u00e8rent trouver les r\u00e9ponses aux questions fondamentales de l'Humanit\u00e9."
 		},
 		{
 			"title": "\u00c0 lire cet \u00e9t\u00e9 : la s\u00e9lection du Coll\u00e8ge universitaire de Sciences Po - Sciences Po",
@@ -271,14 +261,14 @@
 			"description": "Des escapades en for\u00eat, Pierre Bourdieu en BD, une enqu\u00eate sur la violence et la paix : d\u00e9couvrez les recommandations de trois biblioth\u00e9caires."
 		},
 		{
-			"title": "Alumna : Sophie Lorant, directrice des relations internationales de Paris 2024 - Sciences Po",
-			"link": "https://www.sciencespo.fr/fr/actualites/alumna-sophie-lorant-directrice-des-relations-internationales-de-paris-2024/",
-			"pubDate": "Mon, 22 Jul 2024 14:33:00 GMT",
-			"image": "https://www.sciencespo.fr/fr/static/0ea71c35872caf670a21b43467402d1c/f6d78/sophie_lorant_alumna_emile_JOP_jeux_2024_sciencespo_7d37320939.jpg",
+			"title": "PHOTO DU JOUR : F\u00e9licitations \u00e0 l\u2019association Art For Science et tous les partenaires pour la belle r\u00e9ussite du 1er programme Art For Sciences Kids - Faxinfo",
+			"link": "https://www.faxinfo.fr/photo-du-jour-felicitations-a-lassociation-art-for-science-et-tous-les-partenaires-pour-la-belle-reussite-du-1er-programme-art-for-sciences-kids/",
+			"pubDate": "Fri, 26 Jul 2024 22:42:18 GMT",
+			"image": "https://www.faxinfo.fr/wp-content/uploads/2024/07/26-07-2024-Photo-du-jour-AFS-Kids.jpg",
 			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "Sciences Po",
-			"url": "",
-			"description": "Rencontre avec une dipl\u00f4m\u00e9e qui a \u0153uvr\u00e9 pour que la France accueille les JOP et g\u00e8re depuis les enjeux diplomatiques de l'\u00e9v\u00e9nement."
+			"site_name": "Faxinfo",
+			"url": "https://www.faxinfo.fr/photo-du-jour-felicitations-a-lassociation-art-for-science-et-tous-les-partenaires-pour-la-belle-reussite-du-1er-programme-art-for-sciences-kids/",
+			"description": "55 jeunes de 6 \u00e0 17 ans ont d\u00e9couvert les bienfaits des 7 arts majeurs sur le cerveau au travers de 56 ateliers. Le programme pilot\u00e9 par M\u00e9lanie Dal Gobbo accueillait des jeunes de Cobraced, Horizon Bosco, Happy School et l\u2019\u00e9cole publique Elie Gibs. L\u2019ann\u00e9e prochaine, 90 enfants et adolescents b\u00e9n\u00e9ficieront du programme Art For Science Kids, et tant mieux ! 00"
 		},
 		{
 			"title": "Science avec et pour la soci\u00e9t\u00e9 : le projet \"VIA des sciences\" de l\u2019universit\u00e9 de Montpellier, re\u00e7oit 680 000 euros - AEF info",
@@ -291,6 +281,36 @@
 			"description": "Traduire les travaux de chercheurs reconnus sous forme de contes, cr\u00e9er un parcours d\u2019intrigues scientifiques, dynamiser des actions en direction des..."
 		},
 		{
+			"title": "saint-jean-de-la-ruelle - Les sciences, c\u2019est pas sorcier ! - La R\u00e9publique du Centre",
+			"link": "https://www.larep.fr/saint-jean-de-la-ruelle-45140/actualites/les-sciences-cest-pas-sorcier_14541170/",
+			"pubDate": "Thu, 25 Jul 2024 04:00:00 GMT",
+			"image": "https://img.lamontagne.fr/5B_FhudGKdrJDzq1Z9I6A4VAvu2lI5L-MbjiyZYbjO0/fit/657/438/sm/0/bG9jYWw6Ly8vMDAvMDAvMDcvMTUvMTgvMjAwMDAwNzE1MTg4NA.jpg",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "www.larep.fr",
+			"url": "https://www.larep.fr/saint-jean-de-la-ruelle-45140/actualites/les-sciences-cest-pas-sorcier_14541170/",
+			"description": "Jeunes amateurs et passionn\u00e9s ont rendez-vous, cette semaine, au parc de la R\u00e9publique, pour des actions de sensibilisation et vulgarisation scientifique avec Les Petits d\u00e9brouillards."
+		},
+		{
+			"title": "Alumna : Sophie Lorant, directrice des relations internationales de Paris 2024 - Sciences Po",
+			"link": "https://www.sciencespo.fr/fr/actualites/alumna-sophie-lorant-directrice-des-relations-internationales-de-paris-2024/",
+			"pubDate": "Mon, 22 Jul 2024 14:33:00 GMT",
+			"image": "https://www.sciencespo.fr/fr/static/0ea71c35872caf670a21b43467402d1c/f6d78/sophie_lorant_alumna_emile_JOP_jeux_2024_sciencespo_7d37320939.jpg",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "Sciences Po",
+			"url": "",
+			"description": "Rencontre avec une dipl\u00f4m\u00e9e qui a \u0153uvr\u00e9 pour que la France accueille les JOP et g\u00e8re depuis les enjeux diplomatiques de l'\u00e9v\u00e9nement."
+		},
+		{
+			"title": "Restauration des azulejos, \"parastronaute\" et coqueluche : l'actu des sciences en ultrabr\u00e8ves - Yahoo Actualit\u00e9s",
+			"link": "https://fr.news.yahoo.com/restauration-azulejos-parastronaute-coqueluche-lactu-154641898.html",
+			"pubDate": "Fri, 26 Jul 2024 13:33:41 GMT",
+			"image": "https://media.zenfs.com/fr/sciencesetavenir.fr/c12321f2851ce33fe3e8b639bc438252",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "Yahoo News",
+			"url": "https://fr.news.yahoo.com/restauration-azulejos-parastronaute-coqueluche-lactu-154641898.html",
+			"description": "Au sommaire des ultrabr\u00e8ves du 22 juillet 2024 : une restauration des azulejos possible gr\u00e2ce \u00e0 l'IA, un ancien champion paralympique pourrait bient\u00f4t aller dans l'espace et la HAS recommande la vaccination contre la r\u00e9surgence des cas de coqueluche."
+		},
+		{
 			"title": "M\u00e9dailles, finances, transports : Paris 2024 vu par la recherche - Sciences Po",
 			"link": "https://www.sciencespo.fr/fr/actualites/medailles-finances-transports-paris-2024-vu-par-la-recherche",
 			"pubDate": "Mon, 22 Jul 2024 07:34:44 GMT",
@@ -299,16 +319,6 @@
 			"site_name": "Sciences Po",
 			"url": "",
 			"description": "Combien de m\u00e9dailles la France peut-elle esp\u00e9rer gagner ? Quel sera l'impact financier des Jeux ? L'analyse de l'Observatoire fran\u00e7ais des conjonctures \u00e9conomiques de Sciences Po."
-		},
-		{
-			"title": "Sciences-po : nouvelle modalit\u00e9 de s\u00e9lection, l\u2019oral comptera pour moiti\u00e9 de la note finale - Le Parisien",
-			"link": "https://www.leparisien.fr/etudiant/etudes/ecoles/sciences-po-nouvelle-modalite-de-selection-loral-comptera-pour-moitie-de-la-note-finale-4U6XDV5V6FDY7PWRKSTV2KFVRE.php",
-			"pubDate": "Thu, 25 Jul 2024 16:59:00 GMT",
-			"image": "https://www.leparisien.fr/resizer/T7LhrGPHpYBeS390lRk8UXHYkt0=/1200x675/cloudfront-eu-central-1.images.arcpublishing.com/leparisien/V6JRUNVEF5BNFO2FLPT6R77PUI.jpg",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "leparisien.fr",
-			"url": "https://www.leparisien.fr/etudiant/etudes/ecoles/sciences-po-nouvelle-modalite-de-selection-loral-comptera-pour-moitie-de-la-note-finale-4U6XDV5V6FDY7PWRKSTV2KFVRE.php",
-			"description": "L\u2019\u00e9cole, dont plus de 15\u00a0000 candidats ont tent\u00e9 le concours d\u2019admission cette ann\u00e9e, change ses crit\u00e8res d\u2019admission pour 2025. L\u2019oral d\u2019ad"
 		},
 		{
 			"title": "Sciences Po Paris \"ajuste\" sa proc\u00e9dure de recrutement pour donner plus de poids \u00e0 l\u2019oral \u00e0 partir de 2025 - AEF info",
@@ -331,14 +341,14 @@
 			"description": "Le Cap, en Afrique du Sud, accueillera le 7e Congr\u00e8s international sur la conservation marine (IMCC7) du 13 au 18 octobre 2024. Organis\u00e9 par la Society for Conservation Biology (SCB) Marine Program [lien], cet \u00e9v\u00e9nement biennal fait figure de r\u00e9f\u00e9rence dans le monde de la conservation marine. Inscrivez-vous notamment \u00e0 l\u2019atelier organis\u00e9 par un de nos chercheurs, Adrien Comte (UMR LEMAR)."
 		},
 		{
-			"title": "Excellente initiative grenobloise sur la r\u00e9plication de donn\u00e9es publi\u00e9es en \u00e9conomie : \u00e0 g\u00e9n\u00e9raliser aux autres sciences - R\u00e9daction M\u00e9dicale et Scientifique",
-			"link": "https://www.redactionmedicale.fr/2024/07/excellente-initiative-grenobloise-sur-la-replication-de-donnees-publiees-en-economie-a-generaliser-aux-autres-sciences",
-			"pubDate": "Fri, 26 Jul 2024 04:02:24 GMT",
-			"image": "https://www.redactionmedicale.fr/wp-content/uploads/2020/11/HM-4-1-1.png",
+			"title": "Les \u00ab interm\u00e9diaires \u00bb de la recherche - Pour la Science",
+			"link": "https://www.pourlascience.fr/sr/les-sciences-a-la-loupe/les-intermediaires-de-la-recherche-26668.php",
+			"pubDate": "Wed, 24 Jul 2024 05:54:02 GMT",
+			"image": "https://medias.pourlascience.fr/api/v1/images/view/668ff187ede02640cd1f2d57/wide_1300/image.jpg",
 			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "R\u00e9daction M\u00e9dicale et Scientifique",
-			"url": "https://www.redactionmedicale.fr/2024/07/excellente-initiative-grenobloise-sur-la-replication-de-donnees-publiees-en-economie-a-generaliser-aux-autres-sciences",
-			"description": "C'est une des newsletter de TheMetaNews (5 juillet 2024) qui rapporte une exp\u00e9rience g\u00e9niale lors d'une r\u00e9union d'\u00e9conomistes \u00e0 Grenoble fin juin 2024. Ce que les \u00e9conomistes font est un exemple pour d'autres disciplines scientifiques. Replication games : r\u00e9pliquer des r\u00e9sultats publi\u00e9s dans des revues prestigieuses Image ci-contre du titre\u2026"
+			"site_name": "Pourlascience.fr",
+			"url": "https:https://www.pourlascience.fr/sr/les-sciences-a-la-loupe/les-intermediaires-de-la-recherche-26668.php",
+			"description": "Besoin d\u2019aide pour publier un article scientifique\u00a0? Des entreprises vous proposent leurs services\u2026"
 		},
 		{
 			"title": "15e \u00e9dition du Prix Le Go\u00fbt des sciences : la s\u00e9lection et les membres du jury d\u00e9voil\u00e9s - Minist\u00e8re de l'Enseignement Sup\u00e9rieur et de la Recherche",
@@ -351,6 +361,36 @@
 			"description": "Chaque ann\u00e9e depuis 2009, Le Go\u00fbt des sciences a pour ambition de rendre la science accessible au grand public en distinguant les travaux des chercheurs et des experts \u00e0 travers deux cat\u00e9gories :"
 		},
 		{
+			"title": "Excellente initiative grenobloise sur la r\u00e9plication de donn\u00e9es publi\u00e9es en \u00e9conomie : \u00e0 g\u00e9n\u00e9raliser aux autres sciences - R\u00e9daction M\u00e9dicale et Scientifique",
+			"link": "https://www.redactionmedicale.fr/2024/07/excellente-initiative-grenobloise-sur-la-replication-de-donnees-publiees-en-economie-a-generaliser-aux-autres-sciences",
+			"pubDate": "Fri, 26 Jul 2024 04:02:24 GMT",
+			"image": "https://www.redactionmedicale.fr/wp-content/uploads/2020/11/HM-4-1-1.png",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "R\u00e9daction M\u00e9dicale et Scientifique",
+			"url": "https://www.redactionmedicale.fr/2024/07/excellente-initiative-grenobloise-sur-la-replication-de-donnees-publiees-en-economie-a-generaliser-aux-autres-sciences",
+			"description": "C'est une des newsletter de TheMetaNews (5 juillet 2024) qui rapporte une exp\u00e9rience g\u00e9niale lors d'une r\u00e9union d'\u00e9conomistes \u00e0 Grenoble fin juin 2024. Ce que les \u00e9conomistes font est un exemple pour d'autres disciplines scientifiques. Replication games : r\u00e9pliquer des r\u00e9sultats publi\u00e9s dans des revues prestigieuses Image ci-contre du titre\u2026"
+		},
+		{
+			"title": "Comment font les cracheurs de feu pour ne pas se br\u00fbler ? - National Geographic France",
+			"link": "https://www.nationalgeographic.fr/video/sciences/comment-font-les-cracheurs-de-feu-pour-ne-pas-se-bruler",
+			"pubDate": "Fri, 26 Jul 2024 06:00:00 GMT",
+			"image": "https://static.nationalgeographic.fr/files/styles/image_3200/public/10911872_img.jpg?w=400&h=400&q=75",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "National Geographic",
+			"url": "https://www.nationalgeographic.fr/video/sciences/comment-font-les-cracheurs-de-feu-pour-ne-pas-se-bruler",
+			"description": "Les cracheurs de feu se doivent d'avoir une compr\u00e9hension scientifique du feu pour limiter au maximum les risques de se br\u00fbler le visage."
+		},
+		{
+			"title": "Publi\u00e9 dans Rapports, ouvrages, avis et recommandations de l'Acad\u00e9mie - Acad\u00e9mie des sciences",
+			"link": "https://www.academie-sciences.fr/fr/Rapports-ouvrages-avis-et-recommandations-de-l-Academie/sciences-ou-sont-les-femmes-rapport.html",
+			"pubDate": "Tue, 18 Jun 2024 07:00:00 GMT",
+			"image": "",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "",
+			"url": "",
+			"description": ""
+		},
+		{
 			"title": "Sciences Po : le concours d\u2019entr\u00e9e fait peau neuve \u00e0 la rentr\u00e9e 2025 - Diplomeo",
 			"link": "https://diplomeo.com/actualite-sciences_po_concours_entree_2025",
 			"pubDate": "Wed, 24 Jul 2024 11:39:21 GMT",
@@ -361,16 +401,6 @@
 			"description": "L'institut d\u2019\u00e9tudes politiques revoit sa proc\u00e9dure d\u2019admission en premi\u00e8re ann\u00e9e post-bac pour 2025. Parmi les changements notables, les oraux seront privil\u00e9gi\u00e9s aux r\u00e9sultats scolaires.  \r\n"
 		},
 		{
-			"title": "Jeux olympiques : les sports expliqu\u00e9s par la science - Sciences et Avenir",
-			"link": "https://www.sciencesetavenir.fr/fondamental/jeux-olympiques-les-sports-expliques-par-la-science_179671",
-			"pubDate": "Mon, 22 Jul 2024 06:00:00 GMT",
-			"image": "",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "",
-			"url": "",
-			"description": ""
-		},
-		{
 			"title": "Institut des sciences biologiques | CNRS Biologie - CNRS-INSB",
 			"link": "https://www.insb.cnrs.fr/fr",
 			"pubDate": "Fri, 05 Jul 2024 07:00:00 GMT",
@@ -378,16 +408,6 @@
 			"logo": "https://picsum.photos/32/32?grayscale",
 			"site_name": "CNRS Biologie",
 			"url": "https://www.insb.cnrs.fr/fr/institut-des-sciences-biologiques",
-			"description": ""
-		},
-		{
-			"title": "Publi\u00e9 dans Rapports, ouvrages, avis et recommandations de l'Acad\u00e9mie - Acad\u00e9mie des sciences",
-			"link": "https://www.academie-sciences.fr/fr/Rapports-ouvrages-avis-et-recommandations-de-l-Academie/sciences-ou-sont-les-femmes-rapport.html",
-			"pubDate": "Tue, 18 Jun 2024 07:00:00 GMT",
-			"image": "",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "",
-			"url": "",
 			"description": ""
 		},
 		{
@@ -401,44 +421,14 @@
 			"description": "Le t\u00e9lescope \u00e0 rayons X Chandra ne pourra plus op\u00e9rer avec un budget amput\u00e9 de 40 %. La semaine derni\u00e8re, c\u2019est le rover Viper qui a \u00e9t\u00e9 abandonn\u00e9. Deux choix Incompr\u00e9hensible pour les scientifiques."
 		},
 		{
-			"title": "Jeux olympiques : la science au service des athl\u00e8tes - Sciences et Avenir",
-			"link": "https://www.sciencesetavenir.fr/fondamental/jeux-olympiques-la-science-au-service-des-athletes_179250",
-			"pubDate": "Sun, 21 Jul 2024 04:00:00 GMT",
-			"image": "",
+			"title": "Jeux olympiques : les sports expliqu\u00e9s par la science - Sciences et Avenir",
+			"link": "https://www.sciencesetavenir.fr/fondamental/jeux-olympiques-les-sports-expliques-par-la-science_179671",
+			"pubDate": "Mon, 22 Jul 2024 06:00:00 GMT",
+			"image": "https://www.sciencesetavenir.fr/assets/img/2024/07/18/cover-r4x3w1200-6699513731834-sipa-01167363-000022.jpg",
 			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "",
-			"url": "",
-			"description": ""
-		},
-		{
-			"title": "Libourne. Le dispositif Sciences Po \u00c9galit\u00e9 des chances fonctionne \u00e0 merveille au lyc\u00e9e Max-Linder - Le R\u00e9sistant",
-			"link": "https://www.leresistant.fr/actualite-9042-libourne-le-dispositif-sciences-po-egalite-des-chances-fonctionne-a-merveille-au-lycee-max-linder",
-			"pubDate": "Tue, 23 Jul 2024 12:08:00 GMT",
-			"image": "https://medias.leresistant.fr/photos/1200/9042/?v=1721909544",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "leresistant.fr",
-			"url": "https://www.leresistant.fr/actualite-9042-libourne-le-dispositif-sciences-po-egalite-des-chances-fonctionne-a-merveille-au-lycee-max-linder",
-			"description": "Le dispositif Sciences Po \u00c9galit\u00e9 des chances, en place depuis trois ans au lyc\u00e9e Max-Linder, a permis \u00e0 de nombreux \u00e9l\u00e8ves d'int\u00e9grer des institutions prestigieuses."
-		},
-		{
-			"title": "Quand le diamant de laboratoire d\u00e9fie le diamant naturel - Les \u00c9chos",
-			"link": "https://www.lesechos.fr/idees-debats/sciences-prospective/quand-le-diamant-de-laboratoire-defie-le-diamant-naturel-2110106",
-			"pubDate": "Thu, 25 Jul 2024 05:30:58 GMT",
-			"image": "https://media.lesechos.com/api/v1/images/view/66a1e2e40857545187626e37/1280x720/01102644240641-web-tete.jpg",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "Les Echos",
-			"url": "https://www.lesechos.fr/idees-debats/sciences-prospective/quand-le-diamant-de-laboratoire-defie-le-diamant-naturel-2110106",
-			"description": "Les pierres pr\u00e9cieuses cr\u00e9\u00e9es dans des r\u00e9acteurs sont impossibles \u00e0 distinguer \u00e0 l'oeil nu des diamants naturels tout en \u00e9tant beaucoup moins ch\u00e8res. M\u00eame si\u00a0la profession r\u00e9siste, le diamant de synth\u00e8se se taille progressivement une\u00a0place dans la joaillerie de luxe gr\u00e2ce \u00e0 son argument environnemental."
-		},
-		{
-			"title": "La Chine annonce avoir trouv\u00e9 des traces d\u2019eau dans les roches qu'elle a ramen\u00e9 de la Lune ! - Futura",
-			"link": "https://www.futura-sciences.com/sciences/actualites/astronautique-chine-annonce-avoir-trouve-traces-eau-roches-quelle-ramene-lune-114827/",
-			"pubDate": "Fri, 26 Jul 2024 15:40:48 GMT",
-			"image": "https://cdn.futura-sciences.com/buildsv6/images/largeoriginal/9/6/2/962145bf43_50219047_2-surface-lune.jpg",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "Futura",
-			"url": "https://www.futura-sciences.com/sciences/actualites/astronautique-chine-annonce-avoir-trouve-traces-eau-roches-quelle-ramene-lune-114827/",
-			"description": "Des scientifiques chinois ont d\u00e9tect\u00e9 des traces d\u2019eau dans des \u00e9chantillons de roche lunaire rapport\u00e9s sur Terre en 2020 par la sonde spatiale Chang\u2019e 5. C\u2019est une confirmation importante de..."
+			"site_name": "Sciences et Avenir",
+			"url": "https://www.sciencesetavenir.fr/fondamental/jeux-olympiques-les-sports-expliques-par-la-science_179671",
+			"description": "Dans quelques semaines, une grande aventure commence avec l\u2019ouverture des Jeux Olympiques. Des sportifs venus du monde entier s\u2019affronteront dans diff\u00e9rentes disciplines sportives telles que le surf."
 		},
 		{
 			"title": "Les modalit\u00e9s d\u2019admission en premi\u00e8re ann\u00e9e de Sciences Po changent pour la rentr\u00e9e 2025 - Le Figaro",
@@ -451,16 +441,6 @@
 			"description": "L\u2019institut d\u2019\u00e9tudes politiques parisien accorde une place plus importante aux \u00e9preuves orales."
 		},
 		{
-			"title": "Grippe H5N1, champignons hallucinog\u00e8nes et dragon de Komodo : l\u2019actu des sciences en ultrabr\u00e8ves - Sciences et Avenir",
-			"link": "https://www.sciencesetavenir.fr/ultrabreves/grippe-h5n1-champignons-hallucinogenes-et-dragon-de-komodo-l-actu-des-sciences-en-ultrabreves_179783",
-			"pubDate": "Thu, 25 Jul 2024 15:48:07 GMT",
-			"image": "",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "",
-			"url": "",
-			"description": ""
-		},
-		{
 			"title": "Sciences de l\u2019ing\u00e9nierie et du num\u00e9rique - Universit\u00e9 de Bordeaux",
 			"link": "https://www.u-bordeaux.fr/recherche/structures-de-recherche/departements-de-recherche/SIN",
 			"pubDate": "Tue, 14 May 2024 07:00:00 GMT",
@@ -471,13 +451,33 @@
 			"description": "Le d\u00e9partement Sciences de l\u2019ing\u00e9nierie et du num\u00e9rique (SIN) regroupe l\u2019ensemble des comp\u00e9tences dans les domaines de l\u2019informatique, de l\u2019\u00e9lectronique, des math\u00e9matiques et de la m\u00e9canique. Ces disciplines scientifiques pr\u00e9sentent des compl\u00e9mentarit\u00e9s pour r\u00e9pondre aux grands enjeux que constituent l\u2019industrie du futur et le num\u00e9rique."
 		},
 		{
+			"title": "Jeux olympiques : la science au service des athl\u00e8tes - Sciences et Avenir",
+			"link": "https://www.sciencesetavenir.fr/fondamental/jeux-olympiques-la-science-au-service-des-athletes_179250",
+			"pubDate": "Sun, 21 Jul 2024 04:00:00 GMT",
+			"image": "https://www.sciencesetavenir.fr/assets/img/2024/06/26/cover-r4x3w1200-667c1bf9ab2d5-5433-295183-k3-k2-709861-jpg.jpg",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "Sciences et Avenir",
+			"url": "https://www.sciencesetavenir.fr/fondamental/jeux-olympiques-la-science-au-service-des-athletes_179250",
+			"description": "Doubler le nombre de m\u00e9dailles de la France aux jeux Olympiques 2024 gr\u00e2ce \u00e0 la science ? C'est l'objectif ambitieux du Programme prioritaire de recherche (PPR) \"sport de tr\u00e8s haute performance\"."
+		},
+		{
+			"title": "Grippe H5N1, champignons hallucinog\u00e8nes et dragon de Komodo : l\u2019actu des sciences en ultrabr\u00e8ves - Sciences et Avenir",
+			"link": "https://www.sciencesetavenir.fr/ultrabreves/grippe-h5n1-champignons-hallucinogenes-et-dragon-de-komodo-l-actu-des-sciences-en-ultrabreves_179783",
+			"pubDate": "Thu, 25 Jul 2024 15:48:07 GMT",
+			"image": "https://www.sciencesetavenir.fr/assets/img/2024/07/25/cover-r4x3w1200-66a25da3a7439-modif-0.jpg",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "Sciences et Avenir",
+			"url": "https://www.sciencesetavenir.fr/ultrabreves/grippe-h5n1-champignons-hallucinogenes-et-dragon-de-komodo-l-actu-des-sciences-en-ultrabreves_179783",
+			"description": "Au sommaire des ultrabr\u00e8ves du 25 juillet 2024 : la transmission de la grippe H5N1 entre mammif\u00e8res confirm\u00e9e, deux esp\u00e8ces de champignons hallucinog\u00e8nes d\u00e9couvertes et les dents du dragon de Komodo contiennent du fer."
+		},
+		{
 			"title": "Aux Philippines, les garde-c\u00f4tes tentent d'\u00e9viter la \"catastrophe\" - Sciences et Avenir",
 			"link": "https://www.sciencesetavenir.fr/nature-environnement/aux-philippines-les-garde-cotes-tentent-de-contenir-la-nappe-de-petrole_179793",
 			"pubDate": "Fri, 26 Jul 2024 03:39:18 GMT",
-			"image": "",
+			"image": "https://www.sciencesetavenir.fr/assets/img/2024/07/26/cover-r4x3w1200-66a326c694e55-050dd94501807273bbf26efc6a03f05395874044-jpg.jpg",
 			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "",
-			"url": "",
+			"site_name": "Sciences et Avenir",
+			"url": "https://www.sciencesetavenir.fr/nature-environnement/aux-philippines-les-garde-cotes-tentent-de-contenir-la-nappe-de-petrole_179793",
 			"description": ""
 		},
 		{
@@ -491,23 +491,43 @@
 			"description": "Sp\u00e9cialiste de l'histoire des peuples sans \u00c9tat, l'anthropologue am\u00e9ricain James\u00a0C. Scott est d\u00e9c\u00e9d\u00e9 le 19 juillet 2024.\u00a0Partout, il observait les r\u00e9sistances \u00e0 l'\u00c9tat. Dans un entretien qu'il nous accordait cette ann\u00e9e, il\u00a0relevait que ces r\u00e9sistances sont d'autant plus efficaces qu'elles sont"
 		},
 		{
-			"title": "Macron, Sciences Po, Banque de France : projets pour les \u00e9pargnes des Fran\u00e7ais - Boursier.com",
-			"link": "https://www.boursier.com/actions/actualites/news/macron-sciences-po-banque-de-france-projets-pour-les-epargnes-des-francais-934298.html",
-			"pubDate": "Fri, 26 Jul 2024 07:16:01 GMT",
-			"image": "https://cdn-static.boursier.com/illustrations/photos/l_henrybonner.jpg",
+			"title": "Quand le diamant de laboratoire d\u00e9fie le diamant naturel - Les \u00c9chos",
+			"link": "https://www.lesechos.fr/idees-debats/sciences-prospective/quand-le-diamant-de-laboratoire-defie-le-diamant-naturel-2110106",
+			"pubDate": "Thu, 25 Jul 2024 05:30:58 GMT",
+			"image": "https://media.lesechos.com/api/v1/images/view/66a1e2e40857545187626e37/1280x720/01102644240641-web-tete.jpg",
 			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "Boursier.com",
-			"url": "https://www.boursier.com/actions/actualites/news/macron-sciences-po-banque-de-france-projets-pour-les-epargnes-des-francais-934298.html",
-			"description": "...."
+			"site_name": "Les Echos",
+			"url": "https://www.lesechos.fr/idees-debats/sciences-prospective/quand-le-diamant-de-laboratoire-defie-le-diamant-naturel-2110106",
+			"description": "Les pierres pr\u00e9cieuses cr\u00e9\u00e9es dans des r\u00e9acteurs sont impossibles \u00e0 distinguer \u00e0 l'oeil nu des diamants naturels tout en \u00e9tant beaucoup moins ch\u00e8res. M\u00eame si\u00a0la profession r\u00e9siste, le diamant de synth\u00e8se se taille progressivement une\u00a0place dans la joaillerie de luxe gr\u00e2ce \u00e0 son argument environnemental."
 		},
 		{
 			"title": "Nouvelle vague de chaleur au Maroc, 21 morts en 24 heures - Sciences et Avenir",
 			"link": "https://www.sciencesetavenir.fr/nature-environnement/nouvelle-vague-de-chaleur-au-maroc-21-morts-en-24h_179786",
 			"pubDate": "Thu, 25 Jul 2024 15:14:56 GMT",
+			"image": "https://www.sciencesetavenir.fr/assets/img/2024/07/25/cover-r4x3w1200-66a26c724f6eb-f0199b4ba9cfcc5382daab02a33376e9f6511882-jpg.jpg",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "Sciences et Avenir",
+			"url": "https://www.sciencesetavenir.fr/nature-environnement/nouvelle-vague-de-chaleur-au-maroc-21-morts-en-24h_179786",
+			"description": ""
+		},
+		{
+			"title": "La recherche au coeur des formations en sciences du sport - Universit\u00e9 Paris Cit\u00e9",
+			"link": "https://u-paris.fr/la-recherche-au-coeur-des-formations-en-sciences-du-sport/",
+			"pubDate": "Mon, 08 Jul 2024 06:42:33 GMT",
 			"image": "",
 			"logo": "https://picsum.photos/32/32?grayscale",
 			"site_name": "",
 			"url": "",
+			"description": ""
+		},
+		{
+			"title": "Sciences de l'Univers - Centre National d'\u00c9tudes Spatiales",
+			"link": "https://cnes.fr/scientifiques/sciences-univers",
+			"pubDate": "Wed, 10 Jul 2024 15:24:14 GMT",
+			"image": "https://cnes.fr/sites/default/files/2024-05/nebuleuse-carne-P42351.jpg",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "",
+			"url": "https://cnes.fr/scientifiques/sciences-univers",
 			"description": ""
 		},
 		{
@@ -531,16 +551,6 @@
 			"description": ""
 		},
 		{
-			"title": "La recherche au coeur des formations en sciences du sport - Universit\u00e9 Paris Cit\u00e9",
-			"link": "https://u-paris.fr/la-recherche-au-coeur-des-formations-en-sciences-du-sport/",
-			"pubDate": "Mon, 08 Jul 2024 06:42:33 GMT",
-			"image": "",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "",
-			"url": "",
-			"description": ""
-		},
-		{
 			"title": "Sciences Po Paris : les modalit\u00e9s d\u2019admission pour la rentr\u00e9e 2025 - Studyrama",
 			"link": "https://www.studyrama.com/formations/filieres/instituts-d-etudes-politiques-iep/sciences-po-change-ses-modalites-d-admissions-pour-la-rentree-2025",
 			"pubDate": "Wed, 24 Jul 2024 08:44:04 GMT",
@@ -548,26 +558,6 @@
 			"logo": "https://picsum.photos/32/32?grayscale",
 			"site_name": "Studyrama.com",
 			"url": "https://www.studyrama.com/formations/filieres/instituts-d-etudes-politiques-iep/sciences-po-change-ses-modalites-d-admissions-pour-la-rentree-2025",
-			"description": ""
-		},
-		{
-			"title": "Science, son et lumi\u00e8re, musique\u2026 Voici nos quatre id\u00e9es de sorties de ce jeudi 25 juillet 2024 - Le T\u00e9l\u00e9gramme",
-			"link": "https://www.letelegramme.fr/finistere/morlaix-29600/science-son-et-lumiere-musique-voici-nos-quatre-idees-de-sorties-de-ce-jeudi-25-juillet-2024-6631863.php",
-			"pubDate": "Thu, 25 Jul 2024 06:00:02 GMT",
-			"image": "https://media.letelegramme.fr/api/v1/images/view/66a107f789c86b29fe01b5b6/web_golden_xxl/66a107f789c86b29fe01b5b6.1",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "Le T\u00e9l\u00e9gramme",
-			"url": "https://www.letelegramme.fr/finistere/morlaix-29600/science-son-et-lumiere-musique-voici-nos-quatre-idees-de-sorties-de-ce-jeudi-25-juillet-2024-6631863.php",
-			"description": "L\u2019espace des sciences, spectacles son et lumi\u00e8re et musique sont au programme de cette journ\u00e9e du jeudi 25\u00a0juillet 2024. Faites votre choix\u00a0!"
-		},
-		{
-			"title": "Sciences de l'Univers - Centre National d'\u00c9tudes Spatiales",
-			"link": "https://cnes.fr/scientifiques/sciences-univers",
-			"pubDate": "Wed, 10 Jul 2024 15:24:14 GMT",
-			"image": "https://cnes.fr/sites/default/files/2024-05/nebuleuse-carne-P42351.jpg",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "",
-			"url": "https://cnes.fr/scientifiques/sciences-univers",
 			"description": ""
 		},
 		{
@@ -579,16 +569,6 @@
 			"site_name": "enseignementsup-recherche.gouv.fr",
 			"url": "https://www.enseignementsup-recherche.gouv.fr/fr/les-sciences-du-numerique-valent-de-l-or-aux-jeux-de-paris-2024-96886",
 			"description": "Sciences 2024 Lanc\u00e9 en 2018 par le minist\u00e8re des Sports et des Jeux olympiques et paralympiques, et en compl\u00e9ment d'autres initiatives comme le Programme prioritaire de recherche \u00ab"
-		},
-		{
-			"title": "NASA | Une roche pr\u00e9lev\u00e9e sur Mars pourrait contenir une preuve de vie microbienne - La Presse",
-			"link": "https://www.lapresse.ca/actualites/sciences/2024-07-26/nasa/une-roche-prelevee-sur-mars-pourrait-contenir-une-preuve-de-vie-microbienne.php",
-			"pubDate": "Sat, 27 Jul 2024 01:06:13 GMT",
-			"image": "https://mobile-img.lpcdn.ca/v2/924x/r3996/0efb3269efa2382faba2a11fde9c2711.jpg",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "La Presse",
-			"url": "https://www.lapresse.ca/actualites/sciences/2024-07-26/nasa/une-roche-prelevee-sur-mars-pourrait-contenir-une-preuve-de-vie-microbienne.php",
-			"description": " Le rover Perseverance de la NASA a fait une d\u00e9couverte importante en pr\u00e9levant une roche sur Mars qui pourrait contenir des microbes fossilis\u00e9s, nouvelle \u00e9tape majeure dans la recherche de traces d\u2019une vie ancienne sur la plan\u00e8te rouge. "
 		},
 		{
 			"title": "Comprendre son temps : une revue pour mettre en lumi\u00e8re la recherche de Sciences Po - Sciences Po",
@@ -619,6 +599,16 @@
 			"site_name": "",
 			"url": "",
 			"description": "Plan\u00e8te Sciences Auvergne-Rh\u00f4ne-Alpes est une association d\u2019\u00e9ducation populaire loi 1901 cr\u00e9\u00e9 en 2003 et dont le si\u00e8ge social est situ\u00e9 \u00e0\u00a0Vaulx-en-Velin. Depuis 2014, nous avons aussi une antenne..."
+		},
+		{
+			"title": "La Chine annonce avoir trouv\u00e9 des traces d\u2019eau dans les roches qu'elle a ramen\u00e9 de la Lune ! - Futura",
+			"link": "https://www.futura-sciences.com/sciences/actualites/astronautique-chine-annonce-avoir-trouve-traces-eau-roches-quelle-ramene-lune-114827/",
+			"pubDate": "Fri, 26 Jul 2024 15:40:48 GMT",
+			"image": "https://cdn.futura-sciences.com/buildsv6/images/largeoriginal/9/6/2/962145bf43_50219047_2-surface-lune.jpg",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "Futura",
+			"url": "https://www.futura-sciences.com/sciences/actualites/astronautique-chine-annonce-avoir-trouve-traces-eau-roches-quelle-ramene-lune-114827/",
+			"description": "Des scientifiques chinois ont d\u00e9tect\u00e9 des traces d\u2019eau dans des \u00e9chantillons de roche lunaire rapport\u00e9s sur Terre en 2020 par la sonde spatiale Chang\u2019e 5. C\u2019est une confirmation importante de..."
 		},
 		{
 			"title": "\u00c0 quoi ressemblent les profondeurs des oc\u00e9ans pour un poisson ? - National Geographic France",
@@ -681,6 +671,16 @@
 			"description": ""
 		},
 		{
+			"title": "Terra Numerica : un consortium acad\u00e9mique pour diffuser les sciences informatiques - INS2I",
+			"link": "https://www.ins2i.cnrs.fr/fr/cnrsinfo/terra-numerica-un-consortium-academique-pour-diffuser-les-sciences-informatiques",
+			"pubDate": "Wed, 17 Jul 2024 12:00:00 GMT",
+			"image": "https://www.ins2i.cnrs.fr/sites/institut_ins2i/files/styles/article/public/image/cropped-logo-TN-transp.jpg?itok=gM79X0Rm",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "CNRS Sciences informatiques",
+			"url": "https://www.ins2i.cnrs.fr/fr/cnrsinfo/terra-numerica-un-consortium-academique-pour-diffuser-les-sciences-informatiques",
+			"description": "Issu d\u2019une collaboration entre le CNRS, Inria et l\u2019Universit\u00e9 C\u00f4te d\u2019Azur, le consortium scientifique"
+		},
+		{
 			"title": "CNRS Math\u00e9matiques - INSMI",
 			"link": "https://www.insmi.cnrs.fr/fr",
 			"pubDate": "Wed, 03 Jul 2024 07:00:00 GMT",
@@ -688,16 +688,6 @@
 			"logo": "https://picsum.photos/32/32?grayscale",
 			"site_name": "CNRS Math\u00e9matiques",
 			"url": "https://www.insmi.cnrs.fr/fr/cnrs-mathematiques",
-			"description": ""
-		},
-		{
-			"title": "Les grandes exp\u00e9ditions : \"La mondialisation scientifique s'op\u00e8re dans le sillage des empires\" - Sciences et Avenir",
-			"link": "https://www.sciencesetavenir.fr/fondamental/histoire-des-sciences/les-grandes-expeditions-la-mondialisation-scientifique-s-opere-dans-le-sillage-des-empires_179073",
-			"pubDate": "Sun, 21 Jul 2024 08:00:00 GMT",
-			"image": "",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "",
-			"url": "",
 			"description": ""
 		},
 		{
@@ -709,6 +699,16 @@
 			"site_name": "Futura",
 			"url": "https://www.futura-sciences.com/planete/actualites/energie-renouvelable-chine-ouvre-centrale-solaire-geante-fonctionne-aussi-nuit-114808/",
 			"description": "La Chine s'est engag\u00e9e \u00e0 devenir neutre en carbone d'ici 2060 et pour atteindre cet objectif, elle mise sur une transition massive vers les \u00e9nergies renouvelables. Un exemple notable est le projet..."
+		},
+		{
+			"title": "Les enseignants des sciences de la vie et de la Terre s'initient \u00e0 l'approche One Health - IRD",
+			"link": "https://www.ird.fr/les-enseignants-des-sciences-de-la-vie-et-de-la-terre-sinitient-lapproche-one-health",
+			"pubDate": "Thu, 18 Jul 2024 15:18:48 GMT",
+			"image": "https://www.ird.fr/sites/ird_fr/files/2024-01/IRD_072248_Olivier%20Evrard-bandeau.png",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "",
+			"url": "https://www.ird.fr/les-enseignants-des-sciences-de-la-vie-et-de-la-terre-sinitient-lapproche-one-health",
+			"description": "La collaboration entre l\u2019IRD et l\u2019inspection acad\u00e9mique de Montpellier, en lien avec l\u2019\u00e9cole acad\u00e9mique \u00e0 la formation continue de Montpellier, se poursuit pour la formation continue des enseignants de Science de la vie et de la Terre. Apr\u00e8s les \u00ab\u00a0Syst\u00e8mes alimentaires durable\u00a0\u00bb en 2023, c\u2019est l\u2019approche \u00ab\u00a0Une seule sant\u00e9\u00a0\u00bb qui a \u00e9t\u00e9 explor\u00e9e cette ann\u00e9e par une trentaine d\u2019enseignants-stagiaires, d\u00e9sireux de mettre \u00e0 niveau leurs connaissances et de collecter des exemples concrets, pour enrichir leurs cours. 17 scientifiques \u00e9taient mobilis\u00e9s pour autant de conf\u00e9rences suivies de discussions. Cette action a \u00e9t\u00e9 men\u00e9e en lien avec les 80 ans de l\u2019IRD."
 		},
 		{
 			"title": "R\u00e9seau Sciences Po : les modalit\u00e9s d\u2019admission au concours 2025 - Studyrama",
@@ -731,14 +731,14 @@
 			"description": ""
 		},
 		{
-			"title": "Les enseignants des sciences de la vie et de la Terre s'initient \u00e0 l'approche One Health - IRD",
-			"link": "https://www.ird.fr/les-enseignants-des-sciences-de-la-vie-et-de-la-terre-sinitient-lapproche-one-health",
-			"pubDate": "Thu, 18 Jul 2024 15:18:48 GMT",
-			"image": "https://www.ird.fr/sites/ird_fr/files/2024-01/IRD_072248_Olivier%20Evrard-bandeau.png",
+			"title": "Les grandes exp\u00e9ditions : \"La mondialisation scientifique s'op\u00e8re dans le sillage des empires\" - Sciences et Avenir",
+			"link": "https://www.sciencesetavenir.fr/fondamental/histoire-des-sciences/les-grandes-expeditions-la-mondialisation-scientifique-s-opere-dans-le-sillage-des-empires_179073",
+			"pubDate": "Sun, 21 Jul 2024 08:00:00 GMT",
+			"image": "https://www.sciencesetavenir.fr/assets/img/2024/07/18/cover-r4x3w1200-6674213dcf353-043-mc-lc21-france-mc-2329.jpg",
 			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "",
-			"url": "https://www.ird.fr/les-enseignants-des-sciences-de-la-vie-et-de-la-terre-sinitient-lapproche-one-health",
-			"description": "La collaboration entre l\u2019IRD et l\u2019inspection acad\u00e9mique de Montpellier, en lien avec l\u2019\u00e9cole acad\u00e9mique \u00e0 la formation continue de Montpellier, se poursuit pour la formation continue des enseignants de Science de la vie et de la Terre. Apr\u00e8s les \u00ab\u00a0Syst\u00e8mes alimentaires durable\u00a0\u00bb en 2023, c\u2019est l\u2019approche \u00ab\u00a0Une seule sant\u00e9\u00a0\u00bb qui a \u00e9t\u00e9 explor\u00e9e cette ann\u00e9e par une trentaine d\u2019enseignants-stagiaires, d\u00e9sireux de mettre \u00e0 niveau leurs connaissances et de collecter des exemples concrets, pour enrichir leurs cours. 17 scientifiques \u00e9taient mobilis\u00e9s pour autant de conf\u00e9rences suivies de discussions. Cette action a \u00e9t\u00e9 men\u00e9e en lien avec les 80 ans de l\u2019IRD."
+			"site_name": "Sciences et Avenir",
+			"url": "https://www.sciencesetavenir.fr/fondamental/histoire-des-sciences/les-grandes-expeditions-la-mondialisation-scientifique-s-opere-dans-le-sillage-des-empires_179073",
+			"description": "Interview de St\u00e9phane Van Damme, professeur d'histoire moderne \u00e0 l'Ecole normale sup\u00e9rieure, sp\u00e9cialiste de l'histoire des sciences et des savoirs."
 		},
 		{
 			"title": "Innovation, Sciences et D\u00e9veloppement \u00e9conomique Canada | Site officiel - Innovation, Science and Economic Development Canada",
@@ -751,14 +751,24 @@
 			"description": ""
 		},
 		{
-			"title": "La Nasa r\u00e9ussit la plus rapide transmission jamais r\u00e9alis\u00e9e vers l\u2019espace gr\u00e2ce au laser - Futura",
-			"link": "https://www.futura-sciences.com/sciences/actualites/espace-nasa-reussit-plus-rapide-transmission-jamais-realisee-vers-espace-grace-laser-114834/",
-			"pubDate": "Fri, 26 Jul 2024 12:18:03 GMT",
-			"image": "https://cdn.futura-sciences.com/buildsv6/images/largeoriginal/3/a/9/3a93e26592_50219040_communication-laser-nasa-iss.jpg",
+			"title": "Lancement de l'Institut libre des transformations num\u00e9riques de Sciences Po - Sciences Po",
+			"link": "https://www.sciencespo.fr/fr/actualites/lancement-de-l-institut-libre-des-transformations-numeriques-de-sciences-po/",
+			"pubDate": "Wed, 20 Mar 2024 07:00:00 GMT",
+			"image": "https://www.sciencespo.fr/fr/static/c2e3d78be000b0b943d233d4a59ba658/738bc/institut_libre_transfo_numerique_2024_sciencespo_4aca358931.jpg",
 			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "Futura",
-			"url": "https://www.futura-sciences.com/sciences/actualites/espace-nasa-reussit-plus-rapide-transmission-jamais-realisee-vers-espace-grace-laser-114834/",
-			"description": "La Nasa a r\u00e9ussi \u00e0 \u00e9changer des donn\u00e9es en ultra-haute d\u00e9finition (4K) entre la Terre et la Station spatiale internationale (ISS) en utilisant des communications laser, celles-ci \u00e9tant bien plus..."
+			"site_name": "Sciences Po",
+			"url": "",
+			"description": "Que fait le num\u00e9rique \u00e0 notre soci\u00e9t\u00e9 et que faisons-nous du num\u00e9rique ? Retour en 5 photos et en vid\u00e9o sur la soir\u00e9e d'inauguration."
+		},
+		{
+			"title": "NASA | Une roche pr\u00e9lev\u00e9e sur Mars pourrait contenir une preuve de vie microbienne - La Presse",
+			"link": "https://www.lapresse.ca/actualites/sciences/2024-07-26/nasa/une-roche-prelevee-sur-mars-pourrait-contenir-une-preuve-de-vie-microbienne.php",
+			"pubDate": "Sat, 27 Jul 2024 01:06:13 GMT",
+			"image": "https://mobile-img.lpcdn.ca/v2/924x/r3996/0efb3269efa2382faba2a11fde9c2711.jpg",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "La Presse",
+			"url": "https://www.lapresse.ca/actualites/sciences/2024-07-26/nasa/une-roche-prelevee-sur-mars-pourrait-contenir-une-preuve-de-vie-microbienne.php",
+			"description": " Le rover Perseverance de la NASA a fait une d\u00e9couverte importante en pr\u00e9levant une roche sur Mars qui pourrait contenir des microbes fossilis\u00e9s, nouvelle \u00e9tape majeure dans la recherche de traces d\u2019une vie ancienne sur la plan\u00e8te rouge. "
 		},
 		{
 			"title": "M\u00e9t\u00e9o de l'espace : quand les temp\u00eates viennent du soleil ! [Podcast] - Echosciences Grenoble",
@@ -771,16 +781,6 @@
 			"description": "Mars 1989, le Qu\u00e9bec est plong\u00e9 dans le noir pendant 9h suite \u00e0 une panne g\u00e9n\u00e9rale des lignes de transport d'\u00e9lectricit\u00e9. \u00c9t\u00e9 1859, des \u00e9quipages..."
 		},
 		{
-			"title": "Lancement de l'Institut libre des transformations num\u00e9riques de Sciences Po - Sciences Po",
-			"link": "https://www.sciencespo.fr/fr/actualites/lancement-de-l-institut-libre-des-transformations-numeriques-de-sciences-po/",
-			"pubDate": "Wed, 20 Mar 2024 07:00:00 GMT",
-			"image": "https://www.sciencespo.fr/fr/static/c2e3d78be000b0b943d233d4a59ba658/738bc/institut_libre_transfo_numerique_2024_sciencespo_4aca358931.jpg",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "Sciences Po",
-			"url": "",
-			"description": "Que fait le num\u00e9rique \u00e0 notre soci\u00e9t\u00e9 et que faisons-nous du num\u00e9rique ? Retour en 5 photos et en vid\u00e9o sur la soir\u00e9e d'inauguration."
-		},
-		{
 			"title": "Sciences ludiques - Echosciences Grenoble",
 			"link": "https://www.echosciences-grenoble.fr/lieux/sciences-ludiques",
 			"pubDate": "Thu, 25 Jul 2024 13:57:28 GMT",
@@ -789,16 +789,6 @@
 			"site_name": "",
 			"url": "",
 			"description": "Ici, tu vas pouvoir d\u00e9couvrir les Sciences en t\u2019amusant! Des exp\u00e9riences, des histoires, des concepts scientifiques\u2026tu trouveras les r\u00e9ponses \u00e0 tes questions, et bien plus encore ! D\u00e9butant,..."
-		},
-		{
-			"title": "Comment r\u00e9pondre \u00e0 la d\u00e9fiance r\u00e9currente du grand public envers la science ? - Ouest-France",
-			"link": "https://www.ouest-france.fr/sciences/comment-repondre-a-la-defiance-recurrente-du-grand-public-envers-la-science-cb967216-4377-11ef-af26-2383fc8af689",
-			"pubDate": "Sun, 21 Jul 2024 08:17:03 GMT",
-			"image": "",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "",
-			"url": "",
-			"description": ""
 		},
 		{
 			"title": "[Les Rencontres d'UPCit\u00e9] Arts et Sciences : musique et neurosciences (2024-05-21) - Universit\u00e9 Paris Cit\u00e9",
@@ -831,24 +821,14 @@
 			"description": "Mardi 9 avril \u00e0 12 h en salle du conseil et en lien avec la journ\u00e9e mondiale de la sant\u00e9 le 7 avril, nous vous proposons de participer \u00e0 une s\u00e9rie de rencontres express avec trois jeunes scientifiques de l'IRD pour d\u00e9couvrir leurs parcours et leurs sujets de recherche en 15 minutes chrono !\u00a0 S'inscrire"
 		},
 		{
-			"title": "Au Kazakhstan, l'\u00e9mergence de villages \"sobres\" contre l'alcoolisme - Sciences et Avenir",
-			"link": "https://www.sciencesetavenir.fr/sante/au-kazakhstan-l-emergence-de-villages-sobres-contre-l-alcoolisme_179766",
-			"pubDate": "Thu, 25 Jul 2024 03:00:15 GMT",
-			"image": "",
+			"title": "Macron, Sciences Po, Banque de France : projets pour les \u00e9pargnes des Fran\u00e7ais - Boursier.com",
+			"link": "https://www.boursier.com/actions/actualites/news/macron-sciences-po-banque-de-france-projets-pour-les-epargnes-des-francais-934298.html",
+			"pubDate": "Fri, 26 Jul 2024 07:16:01 GMT",
+			"image": "https://cdn-static.boursier.com/illustrations/photos/l_henrybonner.jpg",
 			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "",
-			"url": "",
-			"description": ""
-		},
-		{
-			"title": "Sciences, \u00e9pist\u00e9mologie, arts \u2013 perspectives de l\u2019\u00e9naction - INRAE INSTIT",
-			"link": "https://www.inrae.fr/actualites/sciences-epistemologie-arts-perspectives-lenaction",
-			"pubDate": "Thu, 18 Jul 2024 09:26:34 GMT",
-			"image": "https://www.inrae.fr/sites/default/files/png/bandeau_vient_de_paraitre_cahier_semiotique.png",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "INRAE Institutionnel",
-			"url": "",
-			"description": "D\u00e9couvrez les implications et applications de la th\u00e9orie de l\u2019\u00e9naction \u00e9tudi\u00e9es par le laboratoire Comportement et \u00e9cologie de la faune sauvage (CEFS) du centre INRAE Occitanie-Toulouse, dans la nouvelle revue les Cahiers de s\u00e9miotique des cultures."
+			"site_name": "Boursier.com",
+			"url": "https://www.boursier.com/actions/actualites/news/macron-sciences-po-banque-de-france-projets-pour-les-epargnes-des-francais-934298.html",
+			"description": "...."
 		},
 		{
 			"title": "La Science taille XX elles - Centre national de la recherche scientifique (CNRS)",
@@ -861,33 +841,23 @@
 			"description": "L\u2019exposition \u00ab\u00a0La Science taille XX elles\u00a0\u00bb, cr\u00e9\u00e9e par le CNRS et l\u2019association Femmes & Science"
 		},
 		{
-			"title": "Les scientifiques d\u00e9couvrent que l'influence du Soleil p\u00e9n\u00e8tre dans les profondeurs de la Terre ! Quelles cons\u00e9quences ? - Tameteo.com",
-			"link": "https://www.tameteo.com/actualites/actualite/les-scientifiques-decouvrent-que-l-influence-du-soleil-penetre-dans-les-profondeurs-de-la-terre-quelles-consequences-sciences.html",
-			"pubDate": "Fri, 26 Jul 2024 12:00:00 GMT",
-			"image": "https://services.meteored.com/img/article/influencia-del-sol-profundidades-tierra-1721797979064_1280.jpg",
+			"title": "Sciences, \u00e9pist\u00e9mologie, arts \u2013 perspectives de l\u2019\u00e9naction - INRAE INSTIT",
+			"link": "https://www.inrae.fr/actualites/sciences-epistemologie-arts-perspectives-lenaction",
+			"pubDate": "Thu, 18 Jul 2024 09:26:34 GMT",
+			"image": "https://www.inrae.fr/sites/default/files/png/bandeau_vient_de_paraitre_cahier_semiotique.png",
 			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "Tameteo.com | Meteored",
-			"url": "https://www.tameteo.com/actualites/actualite/les-scientifiques-decouvrent-que-l-influence-du-soleil-penetre-dans-les-profondeurs-de-la-terre-quelles-consequences-sciences.html",
-			"description": "Une \u00e9tude scientifique r\u00e9v\u00e8le que la radiation solaire peut \u00e9galement affecter l'int\u00e9rieur profond de la Terre."
-		},
-		{
-			"title": "Autour de la question, le magazine de toutes les sciences - Comment faire de l'astronomie \u00e0 Madagascar ? - RFI",
-			"link": "https://www.rfi.fr/fr/podcasts/autour-de-la-question-le-magazine-de-toutes-les-sciences/20240723-comment-faire-de-l-astronomie-%C3%A0-madagascar",
-			"pubDate": "Tue, 23 Jul 2024 08:22:05 GMT",
-			"image": "https://s.rfi.fr/media/display/1aff399a-3f8c-11ef-9161-005056bfb2b6/w:1280/p:16x9/astroemission.jpg",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "RFI",
-			"url": "https://www.rfi.fr/fr/podcasts/autour-de-la-question-le-magazine-de-toutes-les-sciences/20240723-comment-faire-de-l-astronomie-%C3%A0-madagascar",
-			"description": "Pour observer l\u2019extraordinaire ciel \u00e9toil\u00e9 de l\u2019h\u00e9misph\u00e8re sud avec petits et grands, des villages de brousse jusqu\u2019en ville\u00a0:\u00a0 comment les astronomes tous terrains de l\u2019association Haikintana (astronomie\u2026"
-		},
-		{
-			"title": "5 QUESTIONS \u00c0 REBEKKA WILD, LAUR\u00c9ATE DU PROGRAMME IMPULSCIENCE\u00ae - FONDATION BETTENCOURT - Sciences et Avenir",
-			"link": "https://www.sciencesetavenir.fr/sante/5-questions-a-rebekka-wild-laureate-du-programme-impulscience-fondation-bettencourt_179729",
-			"pubDate": "Wed, 24 Jul 2024 12:31:13 GMT",
-			"image": "",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "",
+			"site_name": "INRAE Institutionnel",
 			"url": "",
+			"description": "D\u00e9couvrez les implications et applications de la th\u00e9orie de l\u2019\u00e9naction \u00e9tudi\u00e9es par le laboratoire Comportement et \u00e9cologie de la faune sauvage (CEFS) du centre INRAE Occitanie-Toulouse, dans la nouvelle revue les Cahiers de s\u00e9miotique des cultures."
+		},
+		{
+			"title": "Au Kazakhstan, l'\u00e9mergence de villages \"sobres\" contre l'alcoolisme - Sciences et Avenir",
+			"link": "https://www.sciencesetavenir.fr/sante/au-kazakhstan-l-emergence-de-villages-sobres-contre-l-alcoolisme_179766",
+			"pubDate": "Thu, 25 Jul 2024 03:00:15 GMT",
+			"image": "https://www.sciencesetavenir.fr/assets/img/2024/07/25/cover-r4x3w1200-66a1d8caadbb8-ce1486c026d47efa4130be68687c9921c71348c5-jpg.jpg",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "Sciences et Avenir",
+			"url": "https://www.sciencesetavenir.fr/sante/au-kazakhstan-l-emergence-de-villages-sobres-contre-l-alcoolisme_179766",
 			"description": ""
 		},
 		{
@@ -901,14 +871,24 @@
 			"description": ""
 		},
 		{
-			"title": "En chemin vers Jupiter, la sonde Juice a rendez-vous avec la Lune - TV5MONDE",
-			"link": "https://information.tv5monde.com/science/en-chemin-vers-jupiter-la-sonde-juice-rendez-vous-avec-la-lune-2733917",
-			"pubDate": "Sat, 27 Jul 2024 03:26:33 GMT",
+			"title": "Comment r\u00e9pondre \u00e0 la d\u00e9fiance r\u00e9currente du grand public envers la science ? - Ouest-France",
+			"link": "https://www.ouest-france.fr/sciences/comment-repondre-a-la-defiance-recurrente-du-grand-public-envers-la-science-cb967216-4377-11ef-af26-2383fc8af689",
+			"pubDate": "Sun, 21 Jul 2024 08:17:03 GMT",
 			"image": "",
 			"logo": "https://picsum.photos/32/32?grayscale",
 			"site_name": "",
 			"url": "",
 			"description": ""
+		},
+		{
+			"title": "5 QUESTIONS \u00c0 REBEKKA WILD, LAUR\u00c9ATE DU PROGRAMME IMPULSCIENCE\u00ae - FONDATION BETTENCOURT - Sciences et Avenir",
+			"link": "https://www.sciencesetavenir.fr/sante/5-questions-a-rebekka-wild-laureate-du-programme-impulscience-fondation-bettencourt_179729",
+			"pubDate": "Wed, 24 Jul 2024 12:31:13 GMT",
+			"image": "https://www.sciencesetavenir.fr/assets/img/2024/07/23/cover-r4x3w1200-669f7d93dabea-cryoem-ext-image.jpg",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "Sciences et Avenir",
+			"url": "https://www.sciencesetavenir.fr/sante/5-questions-a-rebekka-wild-laureate-du-programme-impulscience-fondation-bettencourt_179729",
+			"description": "Dans cet article, d\u00e9couvrez 5 QUESTIONS \u00c0 REBEKKA WILD, LAUR\u00c9ATE DU PROGRAMME IMPULSCIENCE\u00ae DE LA FONDATION BETTENCOURT SCHUELLER."
 		},
 		{
 			"title": "Publi\u00e9 dans Rapports, ouvrages, avis et recommandations de l'Acad\u00e9mie - Acad\u00e9mie des sciences",
@@ -921,6 +901,16 @@
 			"description": ""
 		},
 		{
+			"title": "Autour de la question, le magazine de toutes les sciences - Comment faire de l'astronomie \u00e0 Madagascar ? - RFI",
+			"link": "https://www.rfi.fr/fr/podcasts/autour-de-la-question-le-magazine-de-toutes-les-sciences/20240723-comment-faire-de-l-astronomie-%C3%A0-madagascar",
+			"pubDate": "Tue, 23 Jul 2024 08:22:05 GMT",
+			"image": "https://s.rfi.fr/media/display/1aff399a-3f8c-11ef-9161-005056bfb2b6/w:1280/p:16x9/astroemission.jpg",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "RFI",
+			"url": "https://www.rfi.fr/fr/podcasts/autour-de-la-question-le-magazine-de-toutes-les-sciences/20240723-comment-faire-de-l-astronomie-%C3%A0-madagascar",
+			"description": "Pour observer l\u2019extraordinaire ciel \u00e9toil\u00e9 de l\u2019h\u00e9misph\u00e8re sud avec petits et grands, des villages de brousse jusqu\u2019en ville\u00a0:\u00a0 comment les astronomes tous terrains de l\u2019association Haikintana (astronomie\u2026"
+		},
+		{
 			"title": "Prix Le go\u00fbt des sciences : les nomm\u00e9s de la 15e \u00e9dition d\u00e9voil\u00e9s - Minist\u00e8re de l'Enseignement Sup\u00e9rieur et de la Recherche",
 			"link": "https://www.enseignementsup-recherche.gouv.fr/fr/prix-le-gout-des-sciences-les-nommes-de-la-15e-edition-devoiles-96159",
 			"pubDate": "Tue, 14 May 2024 07:00:00 GMT",
@@ -929,16 +919,6 @@
 			"site_name": "enseignementsup-recherche.gouv.fr",
 			"url": "https://www.enseignementsup-recherche.gouv.fr/fr/prix-le-gout-des-sciences-les-nommes-de-la-15e-edition-devoiles-96159",
 			"description": "Apr\u00e8s plusieurs semaines de lecture et de d\u00e9lib\u00e9ration, le jury du Prix Le Go\u00fbt des sciences s\u2019est r\u00e9uni afin de s\u00e9lectionner les nomm\u00e9s de chacune des deux cat\u00e9gories. Pour la cat\u00e9gorie du prix du livre scientifique, les nomm\u00e9s sont :"
-		},
-		{
-			"title": "Summer School 2024 : rejoignez la communaut\u00e9 internationale de Sciences Po ! - Sciences Po",
-			"link": "https://www.sciencespo.fr/summer-school/fr/actualites/summer-school-ouverture-candidatures",
-			"pubDate": "Mon, 15 Apr 2024 07:00:00 GMT",
-			"image": "https://www.sciencespo.fr/summer-school/fr/static/f8c3c6f6d2f2c96756fce8d1560fae18/8c6f8/summer_school_applications_2023_2024_sciencespo_957d299d9e.jpg",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "Summer School & Short Courses",
-			"url": "",
-			"description": "Vous souhaitez \u00e9tudier les sciences sociales \u00e0 Paris\u00a0le temps d'un \u00e9t\u00e9 ? Vous pouvez candidater d\u00e8s maintenant !"
 		},
 		{
 			"title": "2024-04-Festival sciences Quartier Libre - UPPA",
@@ -951,14 +931,14 @@
 			"description": "Du 15 au 27 avril 2024, rendez-vous dans le centre commercial Quartier Libre \u00e0 Lescar pour assister \u00e0 des animations gratuites pour toute la famille autour de la science. Ces animations sont organis\u00e9es en partenariat avec Science Odyss\u00e9e Pau et avec l'Universit\u00e9 de Pau et des Pays de l'Adour. "
 		},
 		{
-			"title": "L\u00e9gislatives : le d\u00e9cryptage du second tour par 8 chercheurs - Sciences Po",
-			"link": "https://www.sciencespo.fr/fr/actualites/legislatives-le-decryptage-du-second-tour-par-8-chercheurs",
-			"pubDate": "Tue, 09 Jul 2024 07:00:00 GMT",
-			"image": "https://www.sciencespo.fr/fr/static/186e43a2b4dc81a07d71e7effdc23c7d/1816e/carte_electorale_cevipof_analyse_second_tour_legislatives_2024_sciencespo_f0055b23d0.jpg",
+			"title": "Summer School 2024 : rejoignez la communaut\u00e9 internationale de Sciences Po ! - Sciences Po",
+			"link": "https://www.sciencespo.fr/summer-school/fr/actualites/summer-school-ouverture-candidatures",
+			"pubDate": "Mon, 15 Apr 2024 07:00:00 GMT",
+			"image": "https://www.sciencespo.fr/summer-school/fr/static/f8c3c6f6d2f2c96756fce8d1560fae18/8c6f8/summer_school_applications_2023_2024_sciencespo_957d299d9e.jpg",
 			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "Sciences Po",
+			"site_name": "Summer School & Short Courses",
 			"url": "",
-			"description": "Vote de barrage, retour au parlementarisme, affaiblissement de la fonction pr\u00e9sidentielle : l'\u00e9clairage des politologues du CEVIPOF pour appr\u00e9hender une situation politique in\u00e9dite."
+			"description": "Vous souhaitez \u00e9tudier les sciences sociales \u00e0 Paris\u00a0le temps d'un \u00e9t\u00e9 ? Vous pouvez candidater d\u00e8s maintenant !"
 		},
 		{
 			"title": "Sciences - Nous sommes tous des enfants de nomades de la steppe - Le Point",
@@ -971,6 +951,16 @@
 			"description": "Et aussi\u00a0: des roches volcaniques pour pi\u00e9ger le gaz carbonique ; la voiture \u00e0 eau, c\u2019est pour bient\u00f4t ! ; comment fabrique un diamant en quinze\u00a0minutes."
 		},
 		{
+			"title": "L\u00e9gislatives : le d\u00e9cryptage du second tour par 8 chercheurs - Sciences Po",
+			"link": "https://www.sciencespo.fr/fr/actualites/legislatives-le-decryptage-du-second-tour-par-8-chercheurs",
+			"pubDate": "Tue, 09 Jul 2024 07:00:00 GMT",
+			"image": "https://www.sciencespo.fr/fr/static/186e43a2b4dc81a07d71e7effdc23c7d/1816e/carte_electorale_cevipof_analyse_second_tour_legislatives_2024_sciencespo_f0055b23d0.jpg",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "Sciences Po",
+			"url": "",
+			"description": "Vote de barrage, retour au parlementarisme, affaiblissement de la fonction pr\u00e9sidentielle : l'\u00e9clairage des politologues du CEVIPOF pour appr\u00e9hender une situation politique in\u00e9dite."
+		},
+		{
 			"title": "D\u00e8s 12 ans - Familles - Vous \u00eates - Cit\u00e9 des Sciences",
 			"link": "https://www.cite-sciences.fr/fr/vous-etes/familles/des-12-ans",
 			"pubDate": "Wed, 03 Jul 2024 14:49:55 GMT",
@@ -981,14 +971,14 @@
 			"description": "Pour une sortie culturelle en famille \u00e0 Paris, pensez \u00e0 la Cit\u00e9 des sciences et de l'industrie. Plusieurs espaces de loisirs et d'exposition, adapt\u00e9s \u00e0 chaque \u00e2ge, permettent de se divertir et d'appr\u00e9hender les sciences au travers d'exp\u00e9rimentations ludiques."
 		},
 		{
-			"title": "\"Prendre conscience de l\u2019immensit\u00e9 du ciel et de notre petitesse\" depuis le sommet du Pic du Midi - La Nouvelle R\u00e9publique des Pyr\u00e9n\u00e9es",
-			"link": "https://www.nrpyrenees.fr/2024/07/23/prendre-conscience-de-limmensite-du-ciel-et-de-notre-petitesse-12097428.php",
-			"pubDate": "Tue, 23 Jul 2024 03:15:00 GMT",
-			"image": "https://images.nrpyrenees.fr/api/v1/images/view/669f20b4f5ba90456b22adfb/large/image.jpg?v=1",
+			"title": "Les sujets de sciences du brevet 2024 : le Centre aquatique de Saint-Denis - Le Figaro",
+			"link": "https://etudiant.lefigaro.fr/article/college/les-sujets-de-sciences-du-brevet-2024-20240702/",
+			"pubDate": "Tue, 02 Jul 2024 07:00:00 GMT",
+			"image": "https://i.f1g.fr/media/cms/604x339_crop/2024/07/02/68ba9180f97f0f84bf713916963efceea40f988be9bdd85a7e19cecdb18219ff.png",
 			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "nrpyrenees.fr",
-			"url": "https://www.nrpyrenees.fr/2024/07/23/prendre-conscience-de-limmensite-du-ciel-et-de-notre-petitesse-12097428.php",
-			"description": "L\u2019association Instant Science anime les nuits d\u2019observation des astres au Pic du Midi. \u00c9milien Bernard, animateur d\u2019astronomie, donne les cl\u00e9s de lecture du ciel \u00e0 2\u00a0877 m\u00e8tres d\u2019altitude, pendant les Soir\u00e9es..."
+			"site_name": "Le Figaro Etudiant",
+			"url": "https://etudiant.lefigaro.frundefined",
+			"description": "Ce mardi 2 juillet, les \u00e9l\u00e8ves de 3e passaient l'\u00e9preuve de sciences. Le Figaro \u00c9tudiant vous d\u00e9voile les sujets."
 		},
 		{
 			"title": "Foules - Expositions pass\u00e9es - Ressources - Cit\u00e9 des Sciences",
@@ -1001,5 +991,5 @@
 			"description": ""
 		}
 	],
-	"timestamp": "2024-07-27 04:26:05.087815"
+	"timestamp": "2024-07-27 08:25:08.533751"
 }
