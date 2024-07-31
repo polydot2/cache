@@ -10,40 +10,70 @@ import base64
 from urllib.parse import urlparse
 import re 
 
-def decode_google_news_url(source_url):
-    url = urlparse(source_url)
-    path = url.path.split('/')
-    # print(path)
-    if (
-        url.hostname == "news.google.com" and
-        len(path) > 1 and
-        path[len(path) - 2] == "articles"
-    ):
-        base64_str = path[len(path) - 1]
-        decoded_bytes = base64.urlsafe_b64decode(base64_str + '==')
-        decoded_str = decoded_bytes.decode('latin1')
-        # print(decoded_str)
-        
-        prefix = bytes([0x08, 0x13, 0x22]).decode('latin1')
-        if decoded_str.startswith(prefix):
-            decoded_str = decoded_str[len(prefix):]
+import requests
+import base64
 
-        suffix = bytes([0xd2,0x01,0x00]).decode('latin1')
+def fetch_decoded_batch_execute(id):
+    s = (
+        '[[["Fbv4je","[\\"garturlreq\\",[[\\"en-US\\",\\"US\\",[\\"FINANCE_TOP_INDICES\\",\\"WEB_TEST_1_0_0\\"],'
+        'null,null,1,1,\\"US:en\\",null,180,null,null,null,null,null,0,null,null,[1608992183,723341000]],'
+        '\\"en-US\\",\\"US\\",1,[2,3,4,8],1,0,\\"655000234\\",0,0,null,0],\\"'
+        + id
+        + '\\"]",null,"generic"]]]'
+    )
+
+    headers = {
+        "Content-Type": "application/x-www-form-urlencoded;charset=utf-8",
+        "Referer": "https://news.google.com/",
+    }
+
+    response = requests.post(
+        "https://news.google.com/_/DotsSplashUi/data/batchexecute?rpcids=Fbv4je",
+        headers=headers,
+        data={"f.req": s},
+    )
+
+    if response.status_code != 200:
+        raise Exception("Failed to fetch data from Google.")
+
+    text = response.text
+    header = '[\\"garturlres\\",\\"'
+    footer = '\\",'
+    if header not in text:
+        raise Exception(f"Header not found in response: {text}")
+    start = text.split(header, 1)[1]
+    if footer not in start:
+        raise Exception("Footer not found in response.")
+    url = start.split(footer, 1)[0]
+    return url
+
+
+def decode_google_news_url(source_url):
+    url = requests.utils.urlparse(source_url)
+    path = url.path.split("/")
+    if url.hostname == "news.google.com" and len(path) > 1 and path[-2] == "articles":
+        base64_str = path[-1]
+        decoded_bytes = base64.urlsafe_b64decode(base64_str + "==")
+        decoded_str = decoded_bytes.decode("latin1")
+
+        prefix = b"\x08\x13\x22".decode("latin1")
+        if decoded_str.startswith(prefix):
+            decoded_str = decoded_str[len(prefix) :]
+
+        suffix = b"\xd2\x01\x00".decode("latin1")
         if decoded_str.endswith(suffix):
-            decoded_str = decoded_str[:-len(suffix)]
-            
-        # bytes_array = bytearray(decoded_str, 'latin1')
-        # length = bytes_array[0]
-        # if length >= 0x80:
-        #     decoded_str = decoded_str[2:length+1]
-        # else:
-        #     decoded_str = decoded_str[1:length+1]
-        
-        match = re.search(r'https?://.*', decoded_str) 
-        if match: 
-            decoded_str = match.group(0) 
-             
-        # print(decoded_str)
+            decoded_str = decoded_str[: -len(suffix)]
+
+        bytes_array = bytearray(decoded_str, "latin1")
+        length = bytes_array[0]
+        if length >= 0x80:
+            decoded_str = decoded_str[2 : length + 1]
+        else:
+            decoded_str = decoded_str[1 : length + 1]
+
+        if decoded_str.startswith("AU_yqL"):
+            return fetch_decoded_batch_execute(base64_str)
+
         return decoded_str
     else:
         return source_url
@@ -74,8 +104,10 @@ def _get_category(url):
             "url" : "",
             "description" : ""
         })
-        
-    # print(decode_google_news_url(link))
+    
+    # print("try << " + x.find('link').text + "\t")   
+    
+    # print("decode >> "+ decode_google_news_url(link)+ "\t")
     for x in items:
         try:
             headers = {'User-Agent': 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36'}
@@ -121,8 +153,9 @@ _printcache('sciences', 'https://news.google.com/rss/search?q=sciences&hl=fr&gl=
 _printcache('sport',    'https://news.google.com/rss/search?q=sport&hl=fr&gl=FR&ceid=FR%3Afr')
 
 ## test
+# google_url = "https://news.google.com/rss/articles/CBMiqAJBVV95cUxPQWZySFRYbElNVVA3RzdFSEhqU01LOUR6S1JFUHVGVVJvS0p4QWphUEVWQ0dlcTNSUTc1WF9xQUJaZDhpdDZwNklqRmNuenJWbE9RRC1VMTlrcjM0NkRhSFVsUFVIb1B2a2M2STZla1BSNGdpaDhSaG5rLTMtVjJRY0xHQ3NZaUFPOHdGbFhEckFySnloVXlWUnQwWDNDVG1xVXRSWTBCSElUbUlCYXYzc09wN1djVkFTeFFHZ25xSGEySGVpeWdHQnBLRjF2cXFPUVRRUEc3dEdpOGFHTFcxYktLbjgyWVBJT2tJTElaSGFGVk5oYW1UakpTZDNteDczX3MyRlduZm5BQXZCNGFRMkJkT1RXaHZ0ZExES19wTC1PZXVzeVNPbA?oc=5"
 # https://www.lefigaro.fr/international/couvre-feu-centaine-de-morts-tirs-a-balles-reelles-de-l-armee-la-tension-atteint-son-paroxysme-au-bangladesh-20240720
 # google_url = "https://news.google.com/rss/articles/CBMimwFodHRwczovL3d3dy5sZWZpZ2Fyby5mci9pbnRlcm5hdGlvbmFsL2NvdXZyZS1mZXUtY2VudGFpbmUtZGUtbW9ydHMtdGlycy1hLWJhbGxlcy1yZWVsbGVzLWRlLWwtYXJtZWUtbGEtdGVuc2lvbi1hdHRlaW50LXNvbi1wYXJveHlzbWUtYXUtYmFuZ2xhZGVzaC0yMDI0MDcyMNIBAA?oc=5"
-# print(decode_google_news_url(google_url))
+# print("FINAL >> " + decode_google_news_url(google_url))
 
 print("DONE")
