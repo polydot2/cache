@@ -3,80 +3,38 @@ import xml.etree.ElementTree as ET
 import json
 import datetime
 import os
-import re
 from bs4 import BeautifulSoup
 import base64
-import base64
-from urllib.parse import urlparse
-import re 
+from urllib.parse import quote, urlparse
 
-import requests
-import base64
-
-def fetch_decoded_batch_execute(id):
-    s = (
-        '[[["Fbv4je","[\\"garturlreq\\",[[\\"en-US\\",\\"US\\",[\\"FINANCE_TOP_INDICES\\",\\"WEB_TEST_1_0_0\\"],'
-        'null,null,1,1,\\"US:en\\",null,180,null,null,null,null,null,0,null,null,[1608992183,723341000]],'
-        '\\"en-US\\",\\"US\\",1,[2,3,4,8],1,0,\\"655000234\\",0,0,null,0],\\"'
-        + id
-        + '\\"]",null,"generic"]]]'
-    )
-
-    headers = {
-        "Content-Type": "application/x-www-form-urlencoded;charset=utf-8",
-        "Referer": "https://news.google.com/",
+def get_decoding_params(gn_art_id):
+    response = requests.get(f"https://news.google.com/rss/articles/{gn_art_id}")
+    response.raise_for_status()
+    soup = BeautifulSoup(response.text, "lxml")
+    div = soup.select_one("c-wiz > div")
+    return {
+        "signature": div.get("data-n-a-sg"),
+        "timestamp": div.get("data-n-a-ts"),
+        "gn_art_id": gn_art_id,
     }
 
+def decode_urls(articles):
+    articles_reqs = [
+        [
+            "Fbv4je",
+            f'["garturlreq",[["X","X",["X","X"],null,null,1,1,"US:en",null,1,null,null,null,null,null,0,1],"X","X",1,[1,1,1],1,1,null,0,0,null,0],"{art["gn_art_id"]}",{art["timestamp"]},"{art["signature"]}"]',
+        ]
+        for art in articles
+    ]
+    payload = f"f.req={quote(json.dumps([articles_reqs]))}"
+    headers = {"content-type": "application/x-www-form-urlencoded;charset=UTF-8"}
     response = requests.post(
-        "https://news.google.com/_/DotsSplashUi/data/batchexecute?rpcids=Fbv4je",
+        url="https://news.google.com/_/DotsSplashUi/data/batchexecute",
         headers=headers,
-        data={"f.req": s},
+        data=payload,
     )
-
-    if response.status_code != 200:
-        raise Exception("Failed to fetch data from Google.")
-
-    text = response.text
-    header = '[\\"garturlres\\",\\"'
-    footer = '\\",'
-    if header not in text:
-        raise Exception(f"Header not found in response: {text}")
-    start = text.split(header, 1)[1]
-    if footer not in start:
-        raise Exception("Footer not found in response.")
-    url = start.split(footer, 1)[0]
-    return url
-
-
-def decode_google_news_url(source_url):
-    url = requests.utils.urlparse(source_url)
-    path = url.path.split("/")
-    if url.hostname == "news.google.com" and len(path) > 1 and path[-2] == "articles":
-        base64_str = path[-1]
-        decoded_bytes = base64.urlsafe_b64decode(base64_str + "==")
-        decoded_str = decoded_bytes.decode("latin1")
-
-        prefix = b"\x08\x13\x22".decode("latin1")
-        if decoded_str.startswith(prefix):
-            decoded_str = decoded_str[len(prefix) :]
-
-        suffix = b"\xd2\x01\x00".decode("latin1")
-        if decoded_str.endswith(suffix):
-            decoded_str = decoded_str[: -len(suffix)]
-
-        bytes_array = bytearray(decoded_str, "latin1")
-        length = bytes_array[0]
-        if length >= 0x80:
-            decoded_str = decoded_str[2 : length + 1]
-        else:
-            decoded_str = decoded_str[1 : length + 1]
-
-        if decoded_str.startswith("AU_yqL"):
-            return fetch_decoded_batch_execute(base64_str)
-
-        return decoded_str
-    else:
-        return source_url
+    response.raise_for_status()
+    return [json.loads(res[2])[1] for res in json.loads(response.text.split("\n\n")[1])[:-2]]
 
 ################################################################
     
@@ -91,7 +49,12 @@ def _get_category(url):
     myroot = ET.fromstring(data.content)
     for x in myroot.findall('channel/item'):
         title = x.find('title').text
-        link = decode_google_news_url(x.find('link').text)
+        
+        # decode URL google
+        encoded_urls = [x.find('link').text]
+        articles_params = [get_decoding_params(urlparse(url).path.split("/")[-1]) for url in encoded_urls]
+        link = decode_urls(articles_params)[0]
+
         date = x.find('pubDate').text
         
         items.append({
@@ -153,9 +116,10 @@ _printcache('sciences', 'https://news.google.com/rss/search?q=sciences&hl=fr&gl=
 _printcache('sport',    'https://news.google.com/rss/search?q=sport&hl=fr&gl=FR&ceid=FR%3Afr')
 
 ## test
-# google_url = "https://news.google.com/rss/articles/CBMiqAJBVV95cUxPQWZySFRYbElNVVA3RzdFSEhqU01LOUR6S1JFUHVGVVJvS0p4QWphUEVWQ0dlcTNSUTc1WF9xQUJaZDhpdDZwNklqRmNuenJWbE9RRC1VMTlrcjM0NkRhSFVsUFVIb1B2a2M2STZla1BSNGdpaDhSaG5rLTMtVjJRY0xHQ3NZaUFPOHdGbFhEckFySnloVXlWUnQwWDNDVG1xVXRSWTBCSElUbUlCYXYzc09wN1djVkFTeFFHZ25xSGEySGVpeWdHQnBLRjF2cXFPUVRRUEc3dEdpOGFHTFcxYktLbjgyWVBJT2tJTElaSGFGVk5oYW1UakpTZDNteDczX3MyRlduZm5BQXZCNGFRMkJkT1RXaHZ0ZExES19wTC1PZXVzeVNPbA?oc=5"
-# https://www.lefigaro.fr/international/couvre-feu-centaine-de-morts-tirs-a-balles-reelles-de-l-armee-la-tension-atteint-son-paroxysme-au-bangladesh-20240720
-# google_url = "https://news.google.com/rss/articles/CBMimwFodHRwczovL3d3dy5sZWZpZ2Fyby5mci9pbnRlcm5hdGlvbmFsL2NvdXZyZS1mZXUtY2VudGFpbmUtZGUtbW9ydHMtdGlycy1hLWJhbGxlcy1yZWVsbGVzLWRlLWwtYXJtZWUtbGEtdGVuc2lvbi1hdHRlaW50LXNvbi1wYXJveHlzbWUtYXUtYmFuZ2xhZGVzaC0yMDI0MDcyMNIBAA?oc=5"
-# print("FINAL >> " + decode_google_news_url(google_url))
+# encoded_urls = "https://news.google.com/rss/articles/CBMipgFBVV95cUxPWV9fTEI4cjh1RndwanpzNVliMUh6czg2X1RjeEN0YUctUmlZb0FyeV9oT3RWM1JrMGRodGtqTk1zV3pkNEpmdGNxc2lfd0c4LVpGVENvUDFMOEJqc0FCVVExSlRrQmI3TWZ2NUc4dy1EVXF4YnBLaGZ4cTFMQXFFM2JpanhDR3hoRmthUjVjdm1najZsaFh4a3lBbDladDZtVS1FMHFn?oc=5",
+# articles_params = [get_decoding_params(urlparse(url).path.split("/")[-1]) for url in encoded_urls]
+# decoded_urls = decode_urls(articles_params)
+# print(decoded_urls)
 
 print("DONE")
+
