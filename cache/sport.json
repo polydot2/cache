@@ -1,16 +1,6 @@
 {
 	"content": [
 		{
-			"title": "Et si on se retrouvait \u00e0 Narbonne pour faire du sport sant\u00e9 tous ensemble le week-end ? - L'Ind\u00e9pendant",
-			"link": "https://www.lindependant.fr/2024/10/19/et-si-on-se-retrouvait-a-narbonne-pour-faire-du-sport-sante-tous-ensemble-le-week-end-12271710.php",
-			"pubDate": "Sat, 19 Oct 2024 13:09:00 GMT",
-			"image": "https://images.lindependant.fr/api/v1/images/view/6713a87d60e6963859475f59/large/image.jpg?v=1",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "lindependant.fr",
-			"url": "https://www.lindependant.fr/2024/10/19/et-si-on-se-retrouvait-a-narbonne-pour-faire-du-sport-sante-tous-ensemble-le-week-end-12271710.php",
-			"description": "\u00c0 Narbonne, plusieurs initiatives spontan\u00e9es fleurissent pour inviter les habitants \u00e0 pratiquer du sport\u00a0: l\u2019occasion de se retrouver en toute convivialit\u00e9 pour se d\u00e9penser physiquement mais sans se ruiner..."
-		},
-		{
 			"title": "Sport intense le week-end ou r\u00e9gulier toute la semaine : faites-vous le bon choix ? - Futura",
 			"link": "https://www.futura-sciences.com/sante/actualites/sport-sport-intense-week-end-regulier-toute-semaine-faites-vous-bon-choix-116824/",
 			"pubDate": "Fri, 18 Oct 2024 09:07:25 GMT",
@@ -19,6 +9,16 @@
 			"site_name": "Futura",
 			"url": "https://www.futura-sciences.com/sante/actualites/sport-sport-intense-week-end-regulier-toute-semaine-faites-vous-bon-choix-116824/",
 			"description": "Bouger r\u00e9guli\u00e8rement est essentiel pour la sant\u00e9, mais ce n'est pas toujours possible en semaine... Une \u00e9tude r\u00e9v\u00e8le que pratiquer intens\u00e9ment une activit\u00e9 physique le week-end offre des avantages..."
+		},
+		{
+			"title": "Et si on se retrouvait \u00e0 Narbonne pour faire du sport sant\u00e9 tous ensemble le week-end ? - L'Ind\u00e9pendant",
+			"link": "https://www.lindependant.fr/2024/10/19/et-si-on-se-retrouvait-a-narbonne-pour-faire-du-sport-sante-tous-ensemble-le-week-end-12271710.php",
+			"pubDate": "Sat, 19 Oct 2024 13:09:00 GMT",
+			"image": "https://images.lindependant.fr/api/v1/images/view/6713a87d60e6963859475f59/large/image.jpg?v=1",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "lindependant.fr",
+			"url": "https://www.lindependant.fr/2024/10/19/et-si-on-se-retrouvait-a-narbonne-pour-faire-du-sport-sante-tous-ensemble-le-week-end-12271710.php",
+			"description": "\u00c0 Narbonne, plusieurs initiatives spontan\u00e9es fleurissent pour inviter les habitants \u00e0 pratiquer du sport\u00a0: l\u2019occasion de se retrouver en toute convivialit\u00e9 pour se d\u00e9penser physiquement mais sans se ruiner..."
 		},
 		{
 			"title": "Sport apr\u00e8s 50 ans : voici les 3 meilleurs exercices \u00e0 faire tous les jours \u00e0 la m\u00e9nopause, selon une coach sportive - aufeminin",
@@ -31,34 +31,64 @@
 			"description": "Le sport est essentiel \u00e0 tout \u00e2ge pour rester en bonne sant\u00e9, mais toutes les activit\u00e9s physiques ne se valent pas une fois \u00e0 la m\u00e9nopause..."
 		},
 		{
-			"title": "Le Pape: \u00abVivre le sport comme un hymne \u00e0 la vie\u00bb - Vatican News - Fran\u00e7ais",
-			"link": "https://www.vaticannews.va/fr/pape/news/2024-10/pape-corriero-dello-sport-radio-message-hymne-vie.html",
-			"pubDate": "Sun, 20 Oct 2024 07:23:43 GMT",
-			"image": "https://www.vaticannews.va/content/dam/vaticannews/multimedia/2020/07/07/20368_13102019_1.jpg/_jcr_content/renditions/cq5dam.thumbnail.cropped.1500.844.jpeg",
+			"title": "Gazidis et Kilmer Sport donnent des indices pour l'avenir ! - Peuple Vert",
+			"link": "https://peuple-vert.fr/asse-actualite/gazidis-et-kilmer-sport-donnent-des-indices-pour-lavenir/",
+			"pubDate": "Sat, 19 Oct 2024 07:20:47 GMT",
+			"image": "https://peuple-vert.fr/wp-content/uploads/2024/06/gazidis-e1717501693119.jpg",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "Peuple-Vert.fr - Foot - ASSE - Actualit\u00e9 Live",
+			"url": "https://peuple-vert.fr/asse-actualite/gazidis-et-kilmer-sport-donnent-des-indices-pour-lavenir/",
+			"description": "Les propos d'Ivan Gazidis et de Teresa Resch avec les derni\u00e8res actions du groupe Kilmer Sport mais aussi ses intentions et projections !"
+		},
+		{
+			"title": "Sport. DIRECT. Les r\u00e9sultats du dimanche 20 octobre - Le Bien Public",
+			"link": "https://www.bienpublic.com/sport/2024/10/20/direct-les-resultats-du-dimanche-20-octobre",
+			"pubDate": "Sun, 20 Oct 2024 12:30:00 GMT",
+			"image": "https://cdn-s-www.bienpublic.com/images/58E9D3B9-C6DF-4039-8F75-97A00AB136DB/FB1200/photo-1642258438.jpg",
 			"logo": "https://picsum.photos/32/32?grayscale",
 			"site_name": "",
-			"url": "https://www.vaticannews.va/fr/pape/news/2024-10/pape-corriero-dello-sport-radio-message-hymne-vie.html",
-			"description": "\u00c0 l\u2019occasion des 100 ans de la fondation du Corriere dello Sport-Stadio, le Pape Fran\u00e7ois a envoy\u00e9 un message \u00e0 la r\u00e9daction de ce quotidien italien. ..."
+			"url": "https://www.bienpublic.com/sport/2024/10/20/direct-les-resultats-du-dimanche-20-octobre",
+			"description": "Au programme, football et rugby."
 		},
 		{
-			"title": "Faire du sport pendant 24 h : l\u2019exp\u00e9rience extr\u00eame des triathl\u00e8tes de Marmande - actu.fr",
-			"link": "https://actu.fr/nouvelle-aquitaine/marmande_47157/faire-du-sport-pendant-24-h-lexperience-extreme-des-triathletes-de-marmande_61755053.html",
-			"pubDate": "Sun, 20 Oct 2024 07:00:02 GMT",
-			"image": "https://static.actu.fr/uploads/2024/10/9a3314f422176ae3314f4221782431v.jpg",
+			"title": "VID\u00c9O. \u00ab Nous ferons du football le sport n\u00b01 en Am\u00e9rique du Nord \u00bb : l'ambition de Gianni Infantino - Ouest-France",
+			"link": "https://www.ouest-france.fr/sport/football/fifa/video-gianni-infantino-nous-ferons-du-football-le-sport-n1-en-amerique-du-nord-9e9aad23-c7ee-39bf-8c1a-3705eb5b90e5",
+			"pubDate": "Sun, 20 Oct 2024 12:02:39 GMT",
+			"image": "",
 			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "actu.fr",
-			"url": "https://actu.fr/nouvelle-aquitaine/marmande_47157/faire-du-sport-pendant-24-h-lexperience-extreme-des-triathletes-de-marmande_61755053.html",
-			"description": "L\u2019ASPTT Marmande a particip\u00e9 au T24 de Bormes-les-Mimosas le 12 et 13\u00a0octobre 2024, un triathlon extr\u00eame qui consiste \u00e0 enchainer natation, v\u00e9lo et course \u00e0 pied pendant 24h."
+			"site_name": "",
+			"url": "",
+			"description": ""
 		},
 		{
-			"title": "Passionn\u00e9 de sport, il ouvre une salle de fitness dans la Sarthe - actu.fr",
-			"link": "https://actu.fr/pays-de-la-loire/la-suze-sur-sarthe_72346/passionne-de-sport-il-ouvre-une-salle-de-fitness-dans-la-sarthe_61742782.html",
-			"pubDate": "Sun, 20 Oct 2024 07:16:01 GMT",
-			"image": "https://static.actu.fr/uploads/2024/10/8ec5b070d707652d5b070d70736d5bv.jpg",
+			"title": "Rugby (F\u00e9d\u00e9rale 2) : Cahors Rugby re\u00e7u cinq sur cinq - La D\u00e9p\u00eache du Midi",
+			"link": "https://www.ladepeche.fr/2024/10/19/rugby-federale-2-cahors-rugby-recu-cinq-sur-cinq-12272718.php",
+			"pubDate": "Sat, 19 Oct 2024 20:37:00 GMT",
+			"image": "https://images.ladepeche.fr/api/v1/images/view/6714183b57c02a73661f3677/large/image.jpg?v=1",
 			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "actu.fr",
-			"url": "https://actu.fr/pays-de-la-loire/la-suze-sur-sarthe_72346/passionne-de-sport-il-ouvre-une-salle-de-fitness-dans-la-sarthe_61742782.html",
-			"description": "Julien Sim\u00e9ant a ouvert, le 2 septembre 2024, une salle Wefit \u00e0 La Suze-sur-Sarthe.\u00a0"
+			"site_name": "ladepeche.fr",
+			"url": "https://www.ladepeche.fr/2024/10/19/rugby-federale-2-cahors-rugby-recu-cinq-sur-cinq-12272718.php",
+			"description": "Cahors Rugby 21 - Arpajon 13 MT\u2005: 16-10. Arbitre\u2005: M. Robin Santi (Occitanie). Pour Cahors Rugby\u2005: 2E Huakau (1re), Hahn (56e), 1T (1re) et 3P (9e, 27e, 34e) Da Silva. Cartons jaunes\u2005: (24e, 27e)\u2005; carton rouge\u2005:..."
+		},
+		{
+			"title": "Rugby (F\u00e9d\u00e9rale 3) : le Stade Marivalois n\u2019a pas baiss\u00e9 la t\u00eate - La D\u00e9p\u00eache du Midi",
+			"link": "https://www.ladepeche.fr/2024/10/20/rugby-federale-3-le-stade-marivalois-na-pas-baisse-la-tete-12273559.php",
+			"pubDate": "Sun, 20 Oct 2024 12:26:00 GMT",
+			"image": "https://images.ladepeche.fr/api/v1/images/view/6714f658f77e3a11b8468628/large/image.jpg?v=1",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "ladepeche.fr",
+			"url": "https://www.ladepeche.fr/2024/10/20/rugby-federale-3-le-stade-marivalois-na-pas-baisse-la-tete-12273559.php",
+			"description": "Saint Cernin 36 \u2013 Stade Marivalois 14 MT\u00a0: 28-0. Pour Saint-Cernin\u00a0: 5E Cheymol (5e), Mongil (18e), Maz\u00e9 (32e), Chauvet (40e), collectif (78e)\u00a0; 5T. Pour le Stade Marivalois\u00a0: 2E Tocaben (44e, 57e)\u00a0; 2T Froment\u00e8ze."
+		},
+		{
+			"title": "\u00c9lections FFR : \"On ne veut pas trahir les clubs et relancer le rugby par sa base\", confie le Catalan Sylvain Deroeux, apr\u00e8s la victoire de Florian Grill - L'Ind\u00e9pendant",
+			"link": "https://www.lindependant.fr/2024/10/19/elections-ffr-on-ne-veut-pas-trahir-les-clubs-et-relancer-le-rugby-par-sa-base-confie-le-catalan-sylvain-deroeux-apres-la-victoire-de-florian-grill-12272572.php",
+			"pubDate": "Sat, 19 Oct 2024 18:59:00 GMT",
+			"image": "https://images.lindependant.fr/api/v1/images/view/6714001501e90416d15100b9/large/image.jpg?v=1",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "lindependant.fr",
+			"url": "https://www.lindependant.fr/2024/10/19/elections-ffr-on-ne-veut-pas-trahir-les-clubs-et-relancer-le-rugby-par-sa-base-confie-le-catalan-sylvain-deroeux-apres-la-victoire-de-florian-grill-12272572.php",
+			"description": "Secr\u00e9taire g\u00e9n\u00e9ral de la FFR depuis l\u2019\u00e9lection de Florian Grill en 2023, l\u2019ancien joueur de l\u2019USAP \u00e9tait sur la liste reconduite par les clubs ce samedi 19\u00a0octobre. Content du r\u00e9sultat, il compte tr\u00e8s vite se mettre..."
 		},
 		{
 			"title": "Programme TV sportif du 20 octobre 2024 : sur quelles cha\u00eenes regarder du sport ? (Tous Sports) - L'\u00c9quipe",
@@ -81,44 +111,44 @@
 			"description": "En partenariat avec de nombreuses associations v\u00e9dasiennes, le Centre jeunesse municipal organise du lundi 21 au vendredi 25 octobre une grande semaine du sport, \u00e0 l\u2019intention des jeunes et des adolescents de la..."
 		},
 		{
-			"title": "[Podcasts] Les Grandes Gueules du Sport du 20 octobre - 9h/10h - RMC Sport",
-			"link": "https://rmcsport.bfmtv.com/replay-emissions/les-grandes-gueules-du-sport/les-grandes-gueules-du-sport-du-20-octobre-9h-10h_EN-202410200151.html",
-			"pubDate": "Sun, 20 Oct 2024 07:59:38 GMT",
-			"image": "https://images.bfmtv.com/Se59C-bZgIdlaJxWLPy14fycD_M=/0x0:12000x6280/1200x0/images/image_composition_EN-202410200151.jpg",
+			"title": "[Podcasts] L'int\u00e9grale des Grandes Gueules du Sport du samedi 19 octobre 2024 - RMC Sport",
+			"link": "https://rmcsport.bfmtv.com/replay-emissions/les-grandes-gueules-du-sport/l-integrale-des-grandes-gueules-du-sport-du-samedi-19-octobre-2024_EN-202410190236.html",
+			"pubDate": "Sat, 19 Oct 2024 10:01:01 GMT",
+			"image": "https://images.bfmtv.com/DoXI3zlTlJ2xOcOD-Blem8psksU=/0x0:12000x6280/1200x0/images/image_composition_EN-202410190236.jpg",
 			"logo": "https://picsum.photos/32/32?grayscale",
 			"site_name": "RMC Sport",
-			"url": "https://rmcsport.bfmtv.com/replay-emissions/les-grandes-gueules-du-sport/les-grandes-gueules-du-sport-du-20-octobre-9h-10h_EN-202410200151.html",
-			"description": "Tous les samedis et dimanches de 9h \u00e0 12h, \"Les Grandes Gueules du Sport\" analysent l\u2019actu sport avec le recul de la semaine \u00e9coul\u00e9e, et donnent le ton des week-ends sport \u00e0 suivre sur RMC. Autour de Jean-Christophe Drouet et Christophe Cessieux, des consultants de renom: David Douillet, Marie..."
+			"url": "https://rmcsport.bfmtv.com/replay-emissions/les-grandes-gueules-du-sport/l-integrale-des-grandes-gueules-du-sport-du-samedi-19-octobre-2024_EN-202410190236.html",
+			"description": "Chaque samedi et dimanche de 9h30 \u00e0 12h00, les \"Grandes Gueules du Sport\" analysent et d\u00e9battent de l'actu sport de la semaine. Jean-Christophe Drouet et Christophe Cessieux sont entour\u00e9s de sportifs de renom : David Douillet, Marie Martinod, Pascal Dupraz, Sarah Pitkowski, Sophie Kamoun, Denis..."
 		},
 		{
-			"title": "S\u00e9bazac-Concour\u00e8s. Sport Causse Aventure ouvre son \u00e9cole - La D\u00e9p\u00eache du Midi",
-			"link": "https://www.ladepeche.fr/2024/10/20/sport-causse-aventure-ouvre-son-ecole-12273008.php",
-			"pubDate": "Sun, 20 Oct 2024 03:11:00 GMT",
-			"image": "https://images.ladepeche.fr/api/v1/images/view/671475d0176cd960af4ec538/large/image.jpg?v=1",
+			"title": "Ils ouvrent une salle de sport et\u2026 un salon de th\u00e9 dans 2000 m2 \u00e0 Champniers - Charente Libre",
+			"link": "https://www.charentelibre.fr/sport/ils-ouvrent-une-salle-de-sport-et-un-salon-de-the-dans-2000-m2-a-champniers-21786115.php",
+			"pubDate": "Sun, 20 Oct 2024 10:43:19 GMT",
+			"image": "https://media.charentelibre.fr/21786115/1200x-1/img-8283.jpg",
 			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "ladepeche.fr",
-			"url": "https://www.ladepeche.fr/2024/10/20/sport-causse-aventure-ouvre-son-ecole-12273008.php",
+			"site_name": "CharenteLibre.fr",
+			"url": "https://www.charentelibre.fr/sport/ils-ouvrent-une-salle-de-sport-et-un-salon-de-the-dans-2000-m2-a-champniers-21786115.php",
+			"description": "Cage de MMA, musculation, fitness, salon de th\u00e9\u00a0: une nouvelle salle So\u2019Fight, club d\u00e9j\u00e0 pr\u00e9sent \u00e0 L\u2019Isle-d\u2019Espagnac, est pr\u00e9vue \u00e0 la zone des Montagnes. Elle s\u2019\u00e9tendra sur 2000 m2."
+		},
+		{
+			"title": "S\u00e9bazac-Concour\u00e8s. Sport Causse Aventure ouvre son \u00e9cole - Centre Presse Aveyron",
+			"link": "https://www.centrepresseaveyron.fr/2024/10/19/sport-causse-aventure-ouvre-son-ecole-12272417.php",
+			"pubDate": "Sat, 19 Oct 2024 17:40:00 GMT",
+			"image": "https://images.centrepresseaveyron.fr/api/v1/images/view/6713e92525b2d12b6733bb28/large/image.jpg?v=1",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "centrepresseaveyron.fr",
+			"url": "https://www.centrepresseaveyron.fr/2024/10/19/sport-causse-aventure-ouvre-son-ecole-12272417.php",
 			"description": "Le Sport Causse Aventure est un club de raid multisport : VTT, course d\u2019orientation, trail, kayak, run and bike, escalade, ski de fond et ski alpinisme, biathlon laser\u2026 Vu les nombreux podiums, r\u00e9gionaux et m\u00eame..."
 		},
 		{
-			"title": "Chaingy - L\u2019\u00e9cole de sport en grande forme - La R\u00e9publique du Centre",
-			"link": "https://www.larep.fr/chaingy-45380/actualites/lecole-de-sport-en-grande-forme_14582809/",
-			"pubDate": "Sun, 20 Oct 2024 04:00:00 GMT",
-			"image": "https://img.lamontagne.fr/X0a0OtcIwUDYN6akoiTSTQZnDLUQsGc5adTQV4S0EnI/fit/657/438/sm/0/bG9jYWw6Ly8vMDAvMDAvMDcvMjEvOTUvMjAwMDAwNzIxOTU0Ng.jpg",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "www.larep.fr",
-			"url": "https://www.larep.fr/chaingy-45380/actualites/lecole-de-sport-en-grande-forme_14582809/",
-			"description": "L\u2019\u00e9cole de sport en grande forme"
-		},
-		{
-			"title": "Sport en direct. Les r\u00e9sultats de ce samedi en Lorraine et ailleurs... - Le R\u00e9publicain Lorrain",
-			"link": "https://www.republicain-lorrain.fr/sport/2024/10/19/les-resultats-de-ce-samedi-en-lorraine-et-ailleurs",
-			"pubDate": "Sat, 19 Oct 2024 04:08:01 GMT",
-			"image": "https://cdn-s-www.republicain-lorrain.fr/images/1DE662A5-182C-42C6-BC63-48692C8507DF/FB1200/photo-1729333716.jpg",
+			"title": "Le Pape: \u00abVivre le sport comme un hymne \u00e0 la vie\u00bb - Vatican News - Fran\u00e7ais",
+			"link": "https://www.vaticannews.va/fr/pape/news/2024-10/pape-corriero-dello-sport-radio-message-hymne-vie.html",
+			"pubDate": "Sun, 20 Oct 2024 07:23:43 GMT",
+			"image": "https://www.vaticannews.va/content/dam/vaticannews/multimedia/2020/07/07/20368_13102019_1.jpg/_jcr_content/renditions/cq5dam.thumbnail.cropped.1500.844.jpeg",
 			"logo": "https://picsum.photos/32/32?grayscale",
 			"site_name": "",
-			"url": "https://www.republicain-lorrain.fr/sport/2024/10/19/les-resultats-de-ce-samedi-en-lorraine-et-ailleurs",
-			"description": "Football, basket, handball, futsal, rugby, tennis de table, volley-ball... Retrouvez tous les r\u00e9sultats et classements de vos \u00e9quipes favorites."
+			"url": "https://www.vaticannews.va/fr/pape/news/2024-10/pape-corriero-dello-sport-radio-message-hymne-vie.html",
+			"description": "\u00c0 l\u2019occasion des 100 ans de la fondation du Corriere dello Sport-Stadio, le Pape Fran\u00e7ois a envoy\u00e9 un message \u00e0 la r\u00e9daction de ce quotidien italien. ..."
 		},
 		{
 			"title": "Souillac. Parcourir des hauts lieux du sport en jouant - La D\u00e9p\u00eache du Midi",
@@ -131,34 +161,34 @@
 			"description": "Apr\u00e8s la visite de l\u2019exposition \"Sportive Attitude\" \u00e0 Souillac, Brigitte Laurent Vidieu, guide conf\u00e9renci\u00e8re au Pays d\u2019Art et d\u2019Histoire Causses et Vall\u00e9e de la Dordogne, propose un atelier en famille. En jouant avec..."
 		},
 		{
+			"title": "Somme \u2013 Sport : Un nouveau parcours sportif au parc Saint-Pierre - L'Observateur de Beauvais",
+			"link": "https://www.lobservateurdebeauvais.fr/sport-parcours-sportif-amiens-somme/",
+			"pubDate": "Sun, 20 Oct 2024 09:00:00 GMT",
+			"image": "https://www.lobservateurdebeauvais.fr/wp-content/uploads/2024/10/1000-8.jpeg",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "L'Observateur de Beauvais",
+			"url": "https://www.lobservateurdebeauvais.fr/sport-parcours-sportif-amiens-somme/",
+			"description": "La ville d\u2019Amiens poursuit son engagement pour le sport sant\u00e9 en inaugurant un nouveau parcours sportif au parc Saint-Pierre."
+		},
+		{
+			"title": "INFO RMC SPORT. Vers une nomination de Yannick Noah \u00e0 la t\u00eate du tennis-fauteuil \u00e0 la FFT - RMC Sport",
+			"link": "https://rmcsport.bfmtv.com/tennis/info-rmc-sport-vers-une-nomination-de-yannick-noah-a-la-tete-du-tennis-fauteuil-a-la-fft_AV-202410200232.html",
+			"pubDate": "Sun, 20 Oct 2024 10:20:15 GMT",
+			"image": "https://images.bfmtv.com/rK-x2EdXj2xCnZgwaeH61XCJHW4=/0x106:2048x1258/images/Yannick-Noah-1683095.jpg",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "RMC Sport",
+			"url": "https://rmcsport.bfmtv.com/tennis/info-rmc-sport-vers-une-nomination-de-yannick-noah-a-la-tete-du-tennis-fauteuil-a-la-fft_AV-202410200232.html",
+			"description": "Le dernier Fran\u00e7ais vainqueur de Roland-Garros, capitaine de l'\u00e9quipe de France masculine de tennis-fauteuil cet \u00e9t\u00e9, aux Jeux de Paris, devrait, selon nos informations, se voir attribuer de nouvelles responsabilit\u00e9s \u00e0 la FFT, en tant que patron du paratennis. "
+		},
+		{
 			"title": "Faire du sport apr\u00e8s 70 ans, est-ce raisonnable ? - Le Tarn Libre.com",
 			"link": "https://www.letarnlibre.com/faire-du-sport-apres-70-ans-est-ce-raisonnable/",
-			"pubDate": "Sun, 20 Oct 2024 05:59:34 GMT",
+			"pubDate": "Sun, 20 Oct 2024 06:00:14 GMT",
 			"image": "https://www.letarnlibre.com/wp-content/uploads/2024/10/TARNDOSSIER_188297_REDAC4_1.jpg",
 			"logo": "https://picsum.photos/32/32?grayscale",
 			"site_name": "Le Tarn Libre",
 			"url": "https://www.letarnlibre.com/faire-du-sport-apres-70-ans-est-ce-raisonnable/",
 			"description": "Vous avez des proches de plus de 70 ans ou vous \u00eates septuag\u00e9naire et vous vous demandez s\u2019il est toujours sens\u00e9 de faire du sport ?"
-		},
-		{
-			"title": "INFO RMC SPORT. Ligue 1: le PSG va \u00eatre sanctionn\u00e9 au minimum d\u2019une amende pour les chants homophobes face... - RMC Sport",
-			"link": "https://rmcsport.bfmtv.com/football/ligue-1/info-rmc-sport-ligue-1-le-psg-va-etre-sanctionne-au-minimum-d-une-amende-pour-les-chants-homophobes-face-a-strasbourg_AP-202410190477.html",
-			"pubDate": "Sat, 19 Oct 2024 22:42:48 GMT",
-			"image": "https://images.bfmtv.com/YQxiZbzhJfWT9zkCWepcZMwuLVo=/0x212:2048x1364/images/Le-match-de-Ligue-1-entre-le-PSG-et-Strasbourg-au-Parc-des-Princes-19-octobre-2024-1959900.jpg",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "RMC Sport",
-			"url": "https://rmcsport.bfmtv.com/football/ligue-1/info-rmc-sport-ligue-1-le-psg-va-etre-sanctionne-au-minimum-d-une-amende-pour-les-chants-homophobes-face-a-strasbourg_AP-202410190477.html",
-			"description": "Des chants homophobes ont \u00e9t\u00e9 entonn\u00e9s \u00e0 plusieurs reprises par une partie des supporteurs parisiens ce samedi 19 octobre, lors de la victoire du PSG contre Strasbourg (4-2), malgr\u00e9 deux annonces du speaker. Le club parisien sera sanctionn\u00e9, au minimum, d'une amende."
-		},
-		{
-			"title": "Financement du sport : les recettes de l\u2019Etat amput\u00e9es de 141 millions d\u2019euros en 2025 du fait d\u2019exemptions fiscales - D\u00e9cideurs du sport ",
-			"link": "https://patrickbayeux.com/actualites/financement-du-sport-les-recettes-de-letat-amputees-de-141-millions-deuros-en-2025-du-fait-dexemptions-fiscales/",
-			"pubDate": "Sun, 20 Oct 2024 06:30:00 GMT",
-			"image": "https://patrickbayeux.com/wp-content/uploads/2024/10/Capture-decran-2024-10-20-a-08.58.35.png",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "D\u00e9cideurs du Sport par Patrick Bayeux",
-			"url": "https://patrickbayeux.com/actualites/financement-du-sport-les-recettes-de-letat-amputees-de-141-millions-deuros-en-2025-du-fait-dexemptions-fiscales/",
-			"description": "Le taux r\u00e9duit de TVA \u00e0 5,5 % appliqu\u00e9 \u00e0 la billetterie des manifestations sportives repr\u00e9sentera \u00e0 lui seul 130 millions d\u2019euros de moindres rentr\u00e9es"
 		},
 		{
 			"title": "Sport amateur : nouveaux \u00e9quipements pour les stades Paul Val\u00e9ry et Louis Combette - En Commun",
@@ -171,13 +201,113 @@
 			"description": "Les licenci\u00e9s du FC Pas du Loup (stade Paul Val\u00e9ry) et de l\u2019AS Celleneuve (stade Louis Combette) profitent d\u00e9sormais d\u2019\u00e9quipements r\u00e9nov\u00e9s (vestiaires, nouvelles pelouses synth\u00e9tiques, acc\u00e8s PMR\u2026) pour vivre leur passion du foot. La Ville a investi pr\u00e8s de 2 M\u20ac dans cette double op\u00e9ration."
 		},
 		{
-			"title": "Savigny-l\u00e8s-Beaune - Retour en images sur les courses adultes : sport et solidarit\u00e9 au c\u0153ur des vignobles - Info-Beaune.com",
-			"link": "https://www.info-beaune.com/articles/2024/10/20/8652/savigny-les-beaune-retour-en-images-sur-les-courses-adultes-sport-et-solidarite-au-coeur-des-vignobles/",
-			"pubDate": "Sun, 20 Oct 2024 07:09:00 GMT",
-			"image": "https://www.info-beaune.com/media/Jeannette/SAVIGNYCOURSES_1_1151.jpeg",
+			"title": "Football (R\u00e9gional 1) : le Saint-Paul Sport s\u2019impose dans la douleur contre Boulazac - Sud Ouest",
+			"link": "https://www.sudouest.fr/sport/football/regional1/football-regional-1-le-saint-paul-sport-s-impose-dans-la-douleur-contre-boulazac-21836447.php",
+			"pubDate": "Sun, 20 Oct 2024 10:14:33 GMT",
+			"image": "https://media.sudouest.fr/21836447/1200x-1/20241020104538-dscf795avecaccentuationbruit.jpg",
 			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "Info-Beaune.com",
-			"url": "https://www.info-beaune.com/articles/2024/10/20/8652/savigny-les-beaune-retour-en-images-sur-les-courses-adultes-sport-et-solidarite-au-coeur-des-vignobles",
+			"site_name": "SudOuest.fr",
+			"url": "https://www.sudouest.fr/sport/football/regional1/football-regional-1-le-saint-paul-sport-s-impose-dans-la-douleur-contre-boulazac-21836447.php",
+			"description": "Largement dominateurs en premi\u00e8re mi-temps, les Saint-Paulois se sont fait peur contre Boulazac lors d\u2019une fin de match mal ma\u00eetris\u00e9e (3-2). Mais ils ont d\u00e9croch\u00e9 un important succ\u00e8s et se replacent sur le podium"
+		},
+		{
+			"title": "Financement du sport : les recettes de l\u2019Etat amput\u00e9es de 141 millions d\u2019euros en 2025 du fait d\u2019exemptions fiscales - D\u00e9cideurs du sport ",
+			"link": "https://patrickbayeux.com/actualites/financement-du-sport-les-recettes-de-letat-amputees-de-141-millions-deuros-en-2025-du-fait-dexemptions-fiscales/",
+			"pubDate": "Sun, 20 Oct 2024 06:30:00 GMT",
+			"image": "https://patrickbayeux.com/wp-content/uploads/2024/10/Capture-decran-2024-10-20-a-08.58.35.png",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "D\u00e9cideurs du Sport par Patrick Bayeux",
+			"url": "https://patrickbayeux.com/actualites/financement-du-sport-les-recettes-de-letat-amputees-de-141-millions-deuros-en-2025-du-fait-dexemptions-fiscales/",
+			"description": "Le taux r\u00e9duit de TVA \u00e0 5,5 % appliqu\u00e9 \u00e0 la billetterie des manifestations sportives repr\u00e9sentera \u00e0 lui seul 130 millions d\u2019euros de moindres rentr\u00e9es"
+		},
+		{
+			"title": "Skoda s'essaie au sport auto en \u00e9lectrique avec l'Enyaq RS Race - Futura",
+			"link": "https://www.futura-sciences.com/tech/actualites/smartmotion-skoda-essaie-sport-auto-electrique-enyaq-rs-race-116856/",
+			"pubDate": "Sun, 20 Oct 2024 10:26:15 GMT",
+			"image": "https://cdn.futura-sciences.com/buildsv6/images/largeoriginal/c/d/7/cd74d46870_50222352_enyaq-coupe-rs-4.jpg",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "Futura",
+			"url": "https://www.futura-sciences.com/tech/actualites/smartmotion-skoda-essaie-sport-auto-electrique-enyaq-rs-race-116856/",
+			"description": "Skoda Motorsport pr\u00e9sente un concept unique avec l'Enyaq RS Race, une version \u00e9lectrique de l'Enyaq Coup\u00e9 RS, d\u00e9montrant son engagement envers la performance et la durabilit\u00e9."
+		},
+		{
+			"title": "Ch\u00e2tellerault : 600.000 \u20ac pour isoler les salles de sport de la Manu - La Nouvelle R\u00e9publique",
+			"link": "https://www.lanouvellerepublique.fr/chatellerault/chatellerault-600-000-pour-isoler-les-salles-de-sport-de-la-manu",
+			"pubDate": "Sun, 20 Oct 2024 12:39:00 GMT",
+			"image": "https://images.lanouvellerepublique.fr/image/upload/6714f9e0c33739106a8b4567.jpg",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "lanouvellerepublique.fr",
+			"url": "https://www.lanouvellerepublique.fr/chatellerault/chatellerault-600-000-pour-isoler-les-salles-de-sport-de-la-manu",
+			"description": "\u00c0 la Manu \u00e0 Ch\u00e2tellerault, le tennis de table et l\u2019escrime \u00e9voluent dans des conditions pr\u00e9caires. L\u2019agglo pr\u00e9voit des travaux d\u2019isolation \u00e0 partir de d\u00e9cembre 2024. Les clubs sont soulag\u00e9s. Et suivent l\u2019\u00e9volution du projet Amor, relanc\u00e9 par l\u2019agglo."
+		},
+		{
+			"title": "Histoire, environnement, sport\u2026 Le Mondial du Lion fait visiter son \u00e9crin de verdure - Ouest-France",
+			"link": "https://www.ouest-france.fr/pays-de-la-loire/le-lion-dangers-49220/histoire-environnement-sport-le-mondial-du-lion-fait-visiter-son-ecrin-de-verdure-6840a846-8eb6-11ef-8390-40b2162b6ed9",
+			"pubDate": "Sun, 20 Oct 2024 10:01:23 GMT",
+			"image": "",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "",
+			"url": "",
+			"description": ""
+		},
+		{
+			"title": "INFO RMC SPORT. Ligue 1: le PSG va \u00eatre sanctionn\u00e9 au minimum d\u2019une amende pour les chants homophobes face... - RMC Sport",
+			"link": "https://rmcsport.bfmtv.com/football/ligue-1/info-rmc-sport-ligue-1-le-psg-va-etre-sanctionne-au-minimum-d-une-amende-pour-les-chants-homophobes-face-a-strasbourg_AP-202410190477.html",
+			"pubDate": "Sat, 19 Oct 2024 22:42:48 GMT",
+			"image": "https://images.bfmtv.com/YQxiZbzhJfWT9zkCWepcZMwuLVo=/0x212:2048x1364/images/Le-match-de-Ligue-1-entre-le-PSG-et-Strasbourg-au-Parc-des-Princes-19-octobre-2024-1959900.jpg",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "RMC Sport",
+			"url": "https://rmcsport.bfmtv.com/football/ligue-1/info-rmc-sport-ligue-1-le-psg-va-etre-sanctionne-au-minimum-d-une-amende-pour-les-chants-homophobes-face-a-strasbourg_AP-202410190477.html",
+			"description": "Des chants homophobes ont \u00e9t\u00e9 entonn\u00e9s \u00e0 plusieurs reprises par une partie des supporteurs parisiens ce samedi 19 octobre, lors de la victoire du PSG contre Strasbourg (4-2), malgr\u00e9 deux annonces du speaker. Le club parisien sera sanctionn\u00e9, au minimum, d'une amende."
+		},
+		{
+			"title": "S\u00e9bazac-Concour\u00e8s. Sport Causse Aventure ouvre son \u00e9cole - La D\u00e9p\u00eache du Midi",
+			"link": "https://www.ladepeche.fr/2024/10/20/sport-causse-aventure-ouvre-son-ecole-12273008.php",
+			"pubDate": "Sun, 20 Oct 2024 03:11:00 GMT",
+			"image": "https://images.ladepeche.fr/api/v1/images/view/671475d0176cd960af4ec538/large/image.jpg?v=1",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "ladepeche.fr",
+			"url": "https://www.ladepeche.fr/2024/10/20/sport-causse-aventure-ouvre-son-ecole-12273008.php",
+			"description": "Le Sport Causse Aventure est un club de raid multisport : VTT, course d\u2019orientation, trail, kayak, run and bike, escalade, ski de fond et ski alpinisme, biathlon laser\u2026 Vu les nombreux podiums, r\u00e9gionaux et m\u00eame..."
+		},
+		{
+			"title": "Cin\u00e9ma : handicap, harc\u00e8lement et sport au c\u0153ur d\u2019un d\u00e9bat \u00e0 L\u2019Isle-Jourdain - La D\u00e9p\u00eache du Midi",
+			"link": "https://www.ladepeche.fr/2024/10/20/cinema-handicap-harcelement-et-sport-au-coeur-dun-debat-a-lisle-jourdain-12273020.php",
+			"pubDate": "Sun, 20 Oct 2024 03:11:00 GMT",
+			"image": "https://images.ladepeche.fr/api/v1/images/view/671475de8082c7048021d4f5/large/image.jpg?v=1",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "ladepeche.fr",
+			"url": "https://www.ladepeche.fr/2024/10/20/cinema-handicap-harcelement-et-sport-au-coeur-dun-debat-a-lisle-jourdain-12273020.php",
+			"description": "L\u2019Olympia a r\u00e9cemment diffus\u00e9 \"Cass\u00e9e \u2013 debout\", un documentaire sur Marie Rabatel suivi d\u2019un d\u00e9bat sur le sport et le handicap."
+		},
+		{
+			"title": "[Podcasts] Les Grandes Gueules du Sport du 20 octobre - 10h/11h - RMC Sport",
+			"link": "https://rmcsport.bfmtv.com/replay-emissions/les-grandes-gueules-du-sport/les-grandes-gueules-du-sport-du-20-octobre-10h-11h_EN-202410200187.html",
+			"pubDate": "Sun, 20 Oct 2024 09:01:39 GMT",
+			"image": "https://images.bfmtv.com/pmgiBx45tn9mtTVynlPOzavdaDM=/0x0:12000x6280/1200x0/images/image_composition_EN-202410200187.jpg",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "RMC Sport",
+			"url": "https://rmcsport.bfmtv.com/replay-emissions/les-grandes-gueules-du-sport/les-grandes-gueules-du-sport-du-20-octobre-10h-11h_EN-202410200187.html",
+			"description": "Tous les samedis et dimanches de 9h \u00e0 12h, \"Les Grandes Gueules du Sport\" analysent l\u2019actu sport avec le recul de la semaine \u00e9coul\u00e9e, et donnent le ton des week-ends sport \u00e0 suivre sur RMC. Autour de Jean-Christophe Drouet et Christophe Cessieux, des consultants de renom: David Douillet, Marie..."
+		},
+		{
+			"title": "27 milliards de $ investis dans le march\u00e9 des technologies de sport au premier semestre 2024 - D\u00e9cideurs du sport ",
+			"link": "https://patrickbayeux.com/actualites/27-milliards-de-investis-dans-le-marche-des-technologies-de-sport-au-premier-semestre-2024/",
+			"pubDate": "Sun, 20 Oct 2024 06:00:00 GMT",
+			"image": "https://patrickbayeux.com/wp-content/uploads/2024/10/Capture-decran-2024-10-20-a-08.46.25.png",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "D\u00e9cideurs du Sport par Patrick Bayeux",
+			"url": "https://patrickbayeux.com/actualites/27-milliards-de-investis-dans-le-marche-des-technologies-de-sport-au-premier-semestre-2024/",
+			"description": "27 milliards de dollars sous forme de valeurs \u00e0 travers 225 op\u00e9rations de fusion-acquisition ont \u00e9t\u00e9 r\u00e9alis\u00e9s sur le march\u00e9 des technologies du sport ,"
+		},
+		{
+			"title": "Triathlon. \u00ab Ce n\u2019est pas \u00e7a le sport pour moi \u00bb: Cassandre Beaugrand am\u00e8re malgr\u00e9 son sacre mondial - Ouest-France",
+			"link": "https://www.ouest-france.fr/sport/triathlon/ce-nest-pas-ca-le-sport-pour-moi-cassandre-beaugrand-amere-malgre-son-sacre-mondial-a285e6be-8ecb-11ef-8390-40b2162b6ed9",
+			"pubDate": "Sun, 20 Oct 2024 11:30:37 GMT",
+			"image": "",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "",
+			"url": "",
 			"description": ""
 		},
 		{
@@ -191,34 +321,44 @@
 			"description": "Fin de s\u00e9rie pour le FC Annecy battu \u00e0 Lorient, le CSBJ paie ses erreurs face \u00e0 Narbonne, L\u00e9o Berg\u00e8re pour un nouveau titre mondial en triathlon... Voici ce qu'il faut savoir de l'actualit\u00e9 sportive ce dimanche dans nos r\u00e9gions."
 		},
 		{
-			"title": "Sport \u2013 Basket \u2013 Le TGB en difficult\u00e9 en championnat : d\u00e9faite face \u00e0 Charnay Basket (53-74) - La semaine des Pyr\u00e9n\u00e9es",
-			"link": "https://www.lasemainedespyrenees.fr/sport-basket-le-tgb-en-difficulte-en-championnat-defaite-face-a-charnay-basket-53-74/",
-			"pubDate": "Sun, 20 Oct 2024 04:28:00 GMT",
-			"image": "https://www.lasemainedespyrenees.fr/wp-content/uploads/2024/10/DSC_7535-768x512.jpg",
+			"title": "Gilets, sacs \u00e0 dos, bracelets... attention au sport lest\u00e9 - Version Femina",
+			"link": "https://www.femina.fr/article/sport-gilets-sacs-a-dos-bracelets-attention-au-sport-leste",
+			"pubDate": "Sun, 20 Oct 2024 08:00:00 GMT",
+			"image": "https://resize.prod.femina.ladmedia.fr/rblr/1200,806/img/var/2024-10/sport.jpg",
 			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "La Semaine des Pyr\u00e9n\u00e9es : toute l\u2019actu locale",
-			"url": "https://www.lasemainedespyrenees.fr/sport-basket-le-tgb-en-difficulte-en-championnat-defaite-face-a-charnay-basket-53-74/",
-			"description": "La s\u00e9rie victorieuse continue pour les Pinkies. Charnay signe une troisi\u00e8me victoire cons\u00e9cutive en s'imposant face au TGB \u00e0 Tarbes."
+			"site_name": "",
+			"url": "https://www.femina.fr/article/sport-gilets-sacs-a-dos-bracelets-attention-au-sport-leste",
+			"description": "Faire sa s\u00e9ance en enfilant de lourds gilets ou en portant des sacs, c'est tendance. Mais ces entra\u00eenements avec des poids ajout\u00e9s ne sont pas sans danger. Un m\u00e9decin du sport nous \u00e9claire...."
 		},
 		{
-			"title": "Saint-Germain-l\u2019Herm - Sport et solidarit\u00e9 au cross des coll\u00e9giens - La Montagne",
-			"link": "https://www.lamontagne.fr/saint-germain-l-herm-63630/actualites/sport-et-solidarite-au-cross-des-collegiens_14582773/",
-			"pubDate": "Sun, 20 Oct 2024 04:00:00 GMT",
-			"image": "https://img.lamontagne.fr/FRETn0jGGOP3UJ3ylWLjMwMn2uQ9rFJoO0TIGfNDgbo/fit/657/438/sm/0/bG9jYWw6Ly8vMDAvMDAvMDcvMjEvOTUvMjAwMDAwNzIxOTUxMg.jpg",
+			"title": "Savigny-l\u00e8s-Beaune - Retour en images sur les courses adultes : sport et solidarit\u00e9 au c\u0153ur des vignobles - Info-Beaune.com",
+			"link": "https://www.info-beaune.com/articles/2024/10/20/8652/savigny-les-beaune-retour-en-images-sur-les-courses-adultes-sport-et-solidarite-au-coeur-des-vignobles/",
+			"pubDate": "Sun, 20 Oct 2024 07:09:00 GMT",
+			"image": "https://www.info-beaune.com/media/Jeannette/SAVIGNYCOURSES_1_1151.jpeg",
 			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "www.lamontagne.fr",
-			"url": "https://www.lamontagne.fr/saint-germain-l-herm-63630/actualites/sport-et-solidarite-au-cross-des-collegiens_14582773/",
-			"description": "Sport et solidarit\u00e9 au cross des coll\u00e9giens"
+			"site_name": "Info-Beaune.com",
+			"url": "https://www.info-beaune.com/articles/2024/10/20/8652/savigny-les-beaune-retour-en-images-sur-les-courses-adultes-sport-et-solidarite-au-coeur-des-vignobles",
+			"description": ""
 		},
 		{
-			"title": "27 milliards de $ investis dans le march\u00e9 des technologies de sport au premier semestre 2024 - D\u00e9cideurs du sport ",
-			"link": "https://patrickbayeux.com/actualites/27-milliards-de-investis-dans-le-marche-des-technologies-de-sport-au-premier-semestre-2024/",
-			"pubDate": "Sun, 20 Oct 2024 06:00:00 GMT",
-			"image": "https://patrickbayeux.com/wp-content/uploads/2024/10/Capture-decran-2024-10-20-a-08.46.25.png",
+			"title": "\u00c0 Tr\u00e9gunc, sport, culture et Halloween au menu des vacances de la Toussaint l\u2019accueil de loisirs - Le T\u00e9l\u00e9gramme",
+			"link": "https://www.letelegramme.fr/finistere/tregunc-29910/a-tregunc-sport-culture-et-halloween-au-menu-des-vacances-de-la-toussaint-laccueil-de-loisirs-6685834.php",
+			"pubDate": "Sun, 20 Oct 2024 09:02:11 GMT",
+			"image": "https://media.letelegramme.fr/api/v1/images/view/6714c712f9c4e114730cca37/web_golden_xxl/6714c712f9c4e114730cca37.1",
 			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "D\u00e9cideurs du Sport par Patrick Bayeux",
-			"url": "https://patrickbayeux.com/actualites/27-milliards-de-investis-dans-le-marche-des-technologies-de-sport-au-premier-semestre-2024/",
-			"description": "27 milliards de dollars sous forme de valeurs \u00e0 travers 225 op\u00e9rations de fusion-acquisition ont \u00e9t\u00e9 r\u00e9alis\u00e9s sur le march\u00e9 des technologies du sport ,"
+			"site_name": "Le T\u00e9l\u00e9gramme",
+			"url": "https://www.letelegramme.fr/finistere/tregunc-29910/a-tregunc-sport-culture-et-halloween-au-menu-des-vacances-de-la-toussaint-laccueil-de-loisirs-6685834.php",
+			"description": "L\u2019accueil de loisirs de la MJC de Tr\u00e9gunc ouvre ses portes pour deux semaines, lundi 21 octobre, avec une th\u00e9matique sportive et culturelle pour la premi\u00e8re semaine. Une journ\u00e9e sportive attend le groupe des 5 ans, avec Activ\u2019Sport"
+		},
+		{
+			"title": "[Podcasts] Qui peut devenir le chouchou du sport fran\u00e7ais ? Stephen vote Antoine Dupont, Erwan mise sur Leon Marchand ! - 20/10 - RMC Sport",
+			"link": "https://rmcsport.bfmtv.com/replay-emissions/stephen-time/qui-peut-devenir-le-chouchou-du-sport-francais-stephen-vote-antoine-dupont-erwan-mise-sur-leon-marchand-20-10_EN-202410200285.html",
+			"pubDate": "Sun, 20 Oct 2024 12:28:29 GMT",
+			"image": "https://images.bfmtv.com/ByN-VJap3XZFR9Suxq9tDWVwymU=/0x0:12000x6280/1200x0/images/image_composition_EN-202410200285.jpg",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "RMC Sport",
+			"url": "https://rmcsport.bfmtv.com/replay-emissions/stephen-time/qui-peut-devenir-le-chouchou-du-sport-francais-stephen-vote-antoine-dupont-erwan-mise-sur-leon-marchand-20-10_EN-202410200285.html",
+			"description": "\"C\u2019est la libre-antenne du dimanche midi ! Attablez-vous et venez d\u00e9battre avec la joyeuse bande de Stephen Brun tous les dimanche entre 13h et 15h. Autour de la table : Beno\u00eft Boutron, Pierre-Ambroise Bosse, nos invit\u00e9s et vous bien s\u00fbr ! Les 3 sujets de d\u00e9bat Sport qui animent le week-end, la..."
 		},
 		{
 			"title": "DIRECT. Lausanne-Sport-FC Winterthur (Championnat de Suisse 2024-2025) \u00e0 suivre en direct - L'\u00c9quipe",
@@ -231,24 +371,64 @@
 			"description": "Bienvenue sur le live de L'\u00c9quipe pour suivre ce match de football en direct entre Lausanne-Sport et FC Winterthur (Championnat de Suisse, 10e journ\u00e9e). Le coup d'envoi de ce match, qui se d\u00e9roulera au Stade de la Tuili\u00e8re (Lausanne) sera donn\u00e9 le dimanche 20 octobre 2024 \u00e0 16h30. Avant la rencontre, Lausanne-Sport est class\u00e9 \u00e0 la 11\u00e8me place du Championnat de Suisse et FC Winterthur \u00e0 la 12\u00e8me. Les deux \u00e9quipes se sont d\u00e9j\u00e0 rencontr\u00e9es 3 fois depuis 2023, le dernier match entre les deux formations s'est sold\u00e9 par match nul le dimanche 25 f\u00e9vrier 2024 (Championnat de Suisse - 25e journ\u00e9e : 1-1).Vous pouvez aussi retrouver plus d\u2019informations concernant les \u00e9quipes et effectifs gr\u00e2ce \u00e0 nos fiches d\u00e9taill\u00e9es :  Lausanne-Sport et FC Winterthur. "
 		},
 		{
-			"title": "Cin\u00e9ma : handicap, harc\u00e8lement et sport au c\u0153ur d\u2019un d\u00e9bat \u00e0 L\u2019Isle-Jourdain - La D\u00e9p\u00eache du Midi",
-			"link": "https://www.ladepeche.fr/2024/10/20/cinema-handicap-harcelement-et-sport-au-coeur-dun-debat-a-lisle-jourdain-12273020.php",
-			"pubDate": "Sun, 20 Oct 2024 03:11:00 GMT",
-			"image": "https://images.ladepeche.fr/api/v1/images/view/671475de8082c7048021d4f5/large/image.jpg?v=1",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "ladepeche.fr",
-			"url": "https://www.ladepeche.fr/2024/10/20/cinema-handicap-harcelement-et-sport-au-coeur-dun-debat-a-lisle-jourdain-12273020.php",
-			"description": "L\u2019Olympia a r\u00e9cemment diffus\u00e9 \"Cass\u00e9e \u2013 debout\", un documentaire sur Marie Rabatel suivi d\u2019un d\u00e9bat sur le sport et le handicap."
-		},
-		{
-			"title": "Gilets, sacs \u00e0 dos, bracelets... attention au sport lest\u00e9 - Version Femina",
-			"link": "https://www.femina.fr/article/sport-gilets-sacs-a-dos-bracelets-attention-au-sport-leste",
-			"pubDate": "Sun, 20 Oct 2024 08:00:00 GMT",
-			"image": "https://resize.prod.femina.ladmedia.fr/rblr/1200,806/img/var/2024-10/sport.jpg",
+			"title": "Programme TV sportif du 20 octobre 2024 : Quel sport regarder ? - ViralMag.fr",
+			"link": "https://viralmag.fr/programme-tv-sportif-du-20-octobre-2024-quel-sport-regarder/",
+			"pubDate": "Sun, 20 Oct 2024 10:23:34 GMT",
+			"image": "",
 			"logo": "https://picsum.photos/32/32?grayscale",
 			"site_name": "",
-			"url": "https://www.femina.fr/article/sport-gilets-sacs-a-dos-bracelets-attention-au-sport-leste",
-			"description": "Faire sa s\u00e9ance en enfilant de lourds gilets ou en portant des sacs, c'est tendance. Mais ces entra\u00eenements avec des poids ajout\u00e9s ne sont pas sans danger. Un m\u00e9decin du sport nous \u00e9claire...."
+			"url": "",
+			"description": ""
+		},
+		{
+			"title": "Passionn\u00e9 de sport, il ouvre une salle de fitness dans la Sarthe - actu.fr",
+			"link": "https://actu.fr/pays-de-la-loire/la-suze-sur-sarthe_72346/passionne-de-sport-il-ouvre-une-salle-de-fitness-dans-la-sarthe_61742782.html",
+			"pubDate": "Sun, 20 Oct 2024 07:16:01 GMT",
+			"image": "https://static.actu.fr/uploads/2024/10/8ec5b070d707652d5b070d70736d5bv.jpg",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "actu.fr",
+			"url": "https://actu.fr/pays-de-la-loire/la-suze-sur-sarthe_72346/passionne-de-sport-il-ouvre-une-salle-de-fitness-dans-la-sarthe_61742782.html",
+			"description": "Julien Sim\u00e9ant a ouvert, le 2 septembre 2024, une salle Wefit \u00e0 La Suze-sur-Sarthe.\u00a0"
+		},
+		{
+			"title": "Chaingy - L\u2019\u00e9cole de sport en grande forme - La R\u00e9publique du Centre",
+			"link": "https://www.larep.fr/chaingy-45380/actualites/lecole-de-sport-en-grande-forme_14582809/",
+			"pubDate": "Sun, 20 Oct 2024 04:00:00 GMT",
+			"image": "https://img.lamontagne.fr/X0a0OtcIwUDYN6akoiTSTQZnDLUQsGc5adTQV4S0EnI/fit/657/438/sm/0/bG9jYWw6Ly8vMDAvMDAvMDcvMjEvOTUvMjAwMDAwNzIxOTU0Ng.jpg",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "www.larep.fr",
+			"url": "https://www.larep.fr/chaingy-45380/actualites/lecole-de-sport-en-grande-forme_14582809/",
+			"description": "L\u2019\u00e9cole de sport en grande forme"
+		},
+		{
+			"title": "Faire du sport pendant 24 h : l\u2019exp\u00e9rience extr\u00eame des triathl\u00e8tes de Marmande - actu.fr",
+			"link": "https://actu.fr/nouvelle-aquitaine/marmande_47157/faire-du-sport-pendant-24-h-lexperience-extreme-des-triathletes-de-marmande_61755053.html",
+			"pubDate": "Sun, 20 Oct 2024 07:00:02 GMT",
+			"image": "https://static.actu.fr/uploads/2024/10/9a3314f422176ae3314f4221782431v.jpg",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "actu.fr",
+			"url": "https://actu.fr/nouvelle-aquitaine/marmande_47157/faire-du-sport-pendant-24-h-lexperience-extreme-des-triathletes-de-marmande_61755053.html",
+			"description": "L\u2019ASPTT Marmande a particip\u00e9 au T24 de Bormes-les-Mimosas le 12 et 13\u00a0octobre 2024, un triathlon extr\u00eame qui consiste \u00e0 enchainer natation, v\u00e9lo et course \u00e0 pied pendant 24h."
+		},
+		{
+			"title": "Plo\u00ebrmel : ce club de sport s\u2019ouvre aux personnes en situation de handicap - actu.fr",
+			"link": "https://actu.fr/bretagne/ploermel_56165/ploermel-ce-club-de-sport-souvre-aux-personnes-en-situation-de-handicap_61696817.html",
+			"pubDate": "Sun, 20 Oct 2024 09:44:01 GMT",
+			"image": "https://static.actu.fr/uploads/2024/10/c90b8937dff66bd0b8937dff6811b8v.jpeg",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "actu.fr",
+			"url": "https://actu.fr/bretagne/ploermel_56165/ploermel-ce-club-de-sport-souvre-aux-personnes-en-situation-de-handicap_61696817.html",
+			"description": "Depuis le mois de septembre\u00a02024, le club de badminton de Plo\u00ebrmel (Morbihan) s\u2019ouvre aux personnes en situation de handicap. Un cr\u00e9neau d\u00e9di\u00e9 est organis\u00e9 le jeudi."
+		},
+		{
+			"title": "Cyclisme : les formations fran\u00e7aises n'arrivent plus \u00e0 suivre le rythme financier impos\u00e9 par les grosses \u00e9quipes internationales - franceinfo",
+			"link": "https://www.francetvinfo.fr/sports/cyclisme/cyclisme-les-formations-francaises-n-arrivent-plus-a-suivre-le-rythme-financier-impose-par-les-grosses-equipes-internationales_6849152.html",
+			"pubDate": "Sun, 20 Oct 2024 08:26:04 GMT",
+			"image": "https://www.francetvinfo.fr/pictures/rPawL5WBaxef2elUekPAq3LVLHs/0x377:3849x2541/1500x843/2024/07/12/043-96267128-6690ec1240380889358121.jpg",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "Franceinfo",
+			"url": "https://www.francetvinfo.fr/sports/cyclisme/cyclisme-les-formations-francaises-n-arrivent-plus-a-suivre-le-rythme-financier-impose-par-les-grosses-equipes-internationales_6849152.html",
+			"description": "Pour le le manageur de l'\u00e9quipe Ark\u00e9a B&B, le mod\u00e8le du cyclisme fran\u00e7ais arrive en bout de course."
 		},
 		{
 			"title": "Enqu\u00eate : O\u00f9 sont pass\u00e9s les millions de Bahre\u00efn pour le sport scolaire? - L'\u00c9quipe",
@@ -261,14 +441,44 @@
 			"description": "Pour organiser sa Gymnasiade (23-31 octobre), l'\u00e9quivalent des JO dans le sport scolaire, le royaume du Bahre\u00efn a vers\u00e9 plus de 5 millions d'euros \u00e0 la F\u00e9d\u00e9ration internationale du sport scolaire. \u00c0 qui ont profit\u00e9 ces fonds ? \u00ab L'\u00c9quipe \u00bb a enqu\u00eat\u00e9."
 		},
 		{
-			"title": "Sport Sant\u00e9 Plein Air - Saint-Laurent-du-Var",
-			"link": "https://saintlaurentduvar.fr/videos/sport-sante-plein-air/",
-			"pubDate": "Tue, 15 Oct 2024 15:51:29 GMT",
-			"image": "https://picsum.photos/200/300?grayscale",
+			"title": "La story sport: l'\u00e9pop\u00e9e des fr\u00e8res Lebrun au championnat d'Europe de tennis de table - RMC",
+			"link": "https://rmc.bfmtv.com/replay-emissions/la-matinale-week-end/la-story-sport-l-epopee-des-freres-lebrun-au-championnat-d-europe-de-tennis-de-table_VN-202410200205.html",
+			"pubDate": "Sun, 20 Oct 2024 09:30:02 GMT",
+			"image": "https://images.bfmtv.com/8X1wqWYRHL4xn7iTNkfwdOjCMt8=/0x0:1280x720/1280x0/images/La-story-sport-l-epopee-des-freres-Lebrun-au-championnat-d-Europe-de-tennis-de-table-1960027.jpg",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "RMC",
+			"url": "https://rmc.bfmtv.com/replay-emissions/la-matinale-week-end/la-story-sport-l-epopee-des-freres-lebrun-au-championnat-d-europe-de-tennis-de-table_VN-202410200205.html",
+			"description": "VID\u00c9O - Samedi et dimanche de 6h \u00e0 9h, Ana\u00efs Castagna n\u2019a pas besoin de forcer la bonne humeur, chez elle c\u2019est naturel ! Le week-end, venez d\u00e9compresser et vous amuser avec toute l\u2019\u00e9quipe d\u2019Ana\u00efs Matin, sans manquer l\u2019actu pour autant. C\u2019est notre promesse, audacieuse. Vos envies, des d\u00e9couvertes, une..."
+		},
+		{
+			"title": "Football. R\u00e9gional 2 : le compteur se d\u00e9bloque pour Ern\u00e9e contre Baug\u00e9 . Sport - Saint-Nazaire",
+			"link": "https://saint-nazaire.maville.com/sport/detail_-football.-regional-2-le-compteur-se-debloque-pour-ernee-contre-bauge-_-6516561_actu.Htm",
+			"pubDate": "Sun, 20 Oct 2024 10:36:00 GMT",
+			"image": "https://maville.com/photosmvi/2024/10/20/P34685539D6516561G_crop_1080-600_.jpg",
 			"logo": "https://picsum.photos/32/32?grayscale",
 			"site_name": "",
-			"url": "",
-			"description": ""
+			"url": "https://saint-nazaire.maville.com/sport/detail_-football.-regional-2-le-compteur-se-debloque-pour-ernee-contre-bauge-_-6516561_actu.Htm",
+			"description": "Sport Saint-Nazaire Football R\u00e9gional 2 le compteur se d\u00e9bloque pour Ern\u00e9e contre Baug\u00e9 -... Saint-Nazaire"
+		},
+		{
+			"title": "PLF 2025 : la commission des finances rejette la partie recettes, retour \u00e0 la case d\u00e9part pour le sport - D\u00e9cideurs du sport ",
+			"link": "https://patrickbayeux.com/actualites/plf-2025-la-commission-des-finances-rejette-la-partie-recettes-retour-a-la-case-depart-pour-le-sport/",
+			"pubDate": "Sun, 20 Oct 2024 06:35:00 GMT",
+			"image": "https://patrickbayeux.com/wp-content/uploads/2024/10/Capture-decran-2024-10-20-a-12.02.03.png",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "D\u00e9cideurs du Sport par Patrick Bayeux",
+			"url": "https://patrickbayeux.com/actualites/plf-2025-la-commission-des-finances-rejette-la-partie-recettes-retour-a-la-case-depart-pour-le-sport/",
+			"description": "Finalement l'amendement qui avait \u00e9t\u00e9 vot\u00e9 sur proposition de Benjamin Dirx pour faire passer de \u00ab 100 444 000 \u00bb \u00e0 \u00ab 216 444 000 \u00bb le montant issu de la"
+		},
+		{
+			"title": "Sport \u2013 Basket \u2013 Le TGB en difficult\u00e9 en championnat : d\u00e9faite face \u00e0 Charnay Basket (53-74) - La semaine des Pyr\u00e9n\u00e9es",
+			"link": "https://www.lasemainedespyrenees.fr/sport-basket-le-tgb-en-difficulte-en-championnat-defaite-face-a-charnay-basket-53-74/",
+			"pubDate": "Sun, 20 Oct 2024 04:28:00 GMT",
+			"image": "https://www.lasemainedespyrenees.fr/wp-content/uploads/2024/10/DSC_7535-768x512.jpg",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "La Semaine des Pyr\u00e9n\u00e9es : toute l\u2019actu locale",
+			"url": "https://www.lasemainedespyrenees.fr/sport-basket-le-tgb-en-difficulte-en-championnat-defaite-face-a-charnay-basket-53-74/",
+			"description": "La s\u00e9rie victorieuse continue pour les Pinkies. Charnay signe une troisi\u00e8me victoire cons\u00e9cutive en s'imposant face au TGB \u00e0 Tarbes."
 		},
 		{
 			"title": "La grande f\u00eate du sport 100% nature - D\u00e9partement des Bouches-du-Rh\u00f4ne",
@@ -281,64 +491,84 @@
 			"description": "Le dimanche 13 octobre, le D\u00e9partement organise une journ\u00e9e festive, gratuite et ouverte \u00e0 tous, d\u00e9di\u00e9e aux sports de pleine nature et \u00e0 l\u2019environnement sur la plage des Cabassons \u00e0 Saint-Chamas. "
 		},
 		{
-			"title": "Paris Games Week : un village \u00ab Esport & sport \u00bb de 3000 m\u00b2 unique en Europe - J'ai un pote dans la com",
-			"link": "https://jai-un-pote-dans-la.com/paris-games-week-un-village-esport-sport-de-3000-m%C2%B2-unique-en-europe/",
-			"pubDate": "Sat, 19 Oct 2024 13:45:46 GMT",
-			"image": "https://jai-un-pote-dans-la.com/wp-content/uploads/2024/10/paris-games-week-2024.jpg",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "JUPDLC",
-			"url": "https://jai-un-pote-dans-la.com/paris-games-week-un-village-esport-sport-de-3000-m\u00b2-unique-en-europe/",
-			"description": "La Paris Games Week d\u00e9voile un nouveau village \u00ab Esport & sport \u00bb unique en Europe, autour des valeurs communes !"
-		},
-		{
-			"title": "Handball. Proligue : Les Angevins ont encore failli . Sport - Saint-Nazaire",
-			"link": "https://saint-nazaire.maville.com/sport/infos/detail_-handball.-proligue-les-angevins-ont-encore-failli-_-6516411_actu.Htm",
-			"pubDate": "Sun, 20 Oct 2024 05:50:00 GMT",
-			"image": "https://maville.com/photosmvi/2024/10/20/P34685180D6516411G_crop_1080-600_.jpg",
+			"title": "Football. D2 f\u00e9minine : Les Mancelles ont l\u2019occasion de rebondir . Sport - - Le Mans.maville.com",
+			"link": "https://lemans.maville.com/sport/detail_-football.-d2-feminine-les-mancelles-ont-l-occasion-de-rebondir-_dep-6516545_actu.Htm",
+			"pubDate": "Sun, 20 Oct 2024 10:14:00 GMT",
+			"image": "https://maville.com/photosmvi/2024/10/20/P34685496D6516545G_crop_1080-600_.jpg",
 			"logo": "https://picsum.photos/32/32?grayscale",
 			"site_name": "",
-			"url": "",
-			"description": "Sport Saint-Nazaire Handball Proligue Les Angevins ont encore failli - Angers Sco Cournon 28-30... Saint-Nazaire"
+			"url": "https://lemans.maville.com/sport/detail_-football.-d2-feminine-les-mancelles-ont-l-occasion-de-rebondir-_dep-6516545_actu.Htm",
+			"description": "Sport Le Mans Football D2 f\u00e9minine Les Mancelles ont loccasion de rebondir - Face \u00e0 une... Le Mans"
 		},
 		{
-			"title": "Le Tour de France dans les Alpes : une g\u00e9ographie transfrontali\u00e8re du sport - Les Clionautes",
-			"link": "https://www.clionautes.org/le-tour-de-france-dans-les-alpes-une-geographie-transfrontaliere-du-sport.html",
-			"pubDate": "Sat, 19 Oct 2024 21:18:38 GMT",
-			"image": "https://www.clionautes.org/wp-content/uploads/clionautes/2024/10/img-1595.jpeg",
+			"title": "Saint-Germain-l\u2019Herm - Sport et solidarit\u00e9 au cross des coll\u00e9giens - La Montagne",
+			"link": "https://www.lamontagne.fr/saint-germain-l-herm-63630/actualites/sport-et-solidarite-au-cross-des-collegiens_14582773/",
+			"pubDate": "Sun, 20 Oct 2024 04:00:00 GMT",
+			"image": "https://img.lamontagne.fr/FRETn0jGGOP3UJ3ylWLjMwMn2uQ9rFJoO0TIGfNDgbo/fit/657/438/sm/0/bG9jYWw6Ly8vMDAvMDAvMDcvMjEvOTUvMjAwMDAwNzIxOTUxMg.jpg",
 			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "Les Clionautes",
-			"url": "https://www.clionautes.org/le-tour-de-france-dans-les-alpes-une-geographie-transfrontaliere-du-sport.html",
-			"description": "Le Tour de France \u00e9crit souvent son \u00e9pilogue dans les Alpes, o\u00f9 les \u00e9tapes franchissent r\u00e9guli\u00e8rement les fronti\u00e8res avec la Suisse et l\u2019Italie. Des"
+			"site_name": "www.lamontagne.fr",
+			"url": "https://www.lamontagne.fr/saint-germain-l-herm-63630/actualites/sport-et-solidarite-au-cross-des-collegiens_14582773/",
+			"description": "Sport et solidarit\u00e9 au cross des coll\u00e9giens"
 		},
 		{
-			"title": "Vous et Nous : le sport pour les s\u00e9niors - VOA Afrique",
-			"link": "https://www.voaafrique.com/a/7828792.html",
-			"pubDate": "Sat, 19 Oct 2024 19:00:56 GMT",
-			"image": "https://gdb.voanews.com/75852ab7-af47-4bcc-a34e-d158cb90886a_w1200_r1.jpg",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "Voice of America",
-			"url": "https://www.voaafrique.com/a/7828792.html",
-			"description": "\ud83c\udde8\ud83c\uddee C\u00f4te d\u2019Ivoire : le sport, un nouveau souffle pour les personnes du 3e \u00e2ge\n\ud83c\udde7\ud83c\uddeb Burkina Faso : lancement d\u2019un salon de l\u2019automobile\n\ud83c\uddec\ud83c\udde7 Anglais Express avec Mich\u00e8le Joseph"
-		},
-		{
-			"title": "Pour financer le sport, les d\u00e9put\u00e9s actent un recours accru au produit des taxes sur les paris sportifs - Le Monde",
-			"link": "https://www.lemonde.fr/sport/article/2024/10/19/pour-financer-le-sport-les-deputes-actent-un-recours-accru-au-produit-des-taxes-sur-les-paris-sportifs_6356064_3242.html",
-			"pubDate": "Sat, 19 Oct 2024 13:17:53 GMT",
-			"image": "https://img.lemde.fr/2024/10/01/0/0/5899/3933/1440/960/60/0/7132512_1727822952719-jmug241001033.jpg",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "Le Monde.fr",
-			"url": "https://www.lemonde.fr/sport/article/2024/10/19/pour-financer-le-sport-les-deputes-actent-un-recours-accru-au-produit-des-taxes-sur-les-paris-sportifs_6356064_3242.html",
-			"description": "La commission des finances a adopt\u00e9 un amendement qui accro\u00eet de 116\u00a0millions d\u2019euros l\u2019enveloppe pr\u00e9lev\u00e9e sur les taxes sur les paris sportifs en ligne, destin\u00e9e \u00e0 l\u2019Agence nationale du sport."
-		},
-		{
-			"title": "Stade lavallois. Contre Dunkerque, un Laval \u00e0 deux visages . Sport - Saint-Nazaire",
-			"link": "https://saint-nazaire.maville.com/sport/infos/detail_-stade-lavallois.-contre-dunkerque-un-laval-a-deux-visages-_-6516387_actu.Htm",
-			"pubDate": "Sun, 20 Oct 2024 05:00:00 GMT",
-			"image": "https://maville.com/photosmvi/2024/10/20/P34685139D6516387G_crop_1080-600_.jpg",
+			"title": "Football. Coupe de France : Beaumont en route vers l\u2019exploit . Sport - - Le Mans.maville.com",
+			"link": "https://lemans.maville.com/sport/detail_-football.-coupe-de-france-beaumont-en-route-vers-l-exploit-_dep-6516501_actu.Htm",
+			"pubDate": "Sun, 20 Oct 2024 08:46:00 GMT",
+			"image": "https://maville.com/photosmvi/2024/10/20/P34685384D6516501G_crop_1080-600_.jpg",
 			"logo": "https://picsum.photos/32/32?grayscale",
 			"site_name": "",
-			"url": "",
-			"description": "Sport Saint-Nazaire Stade lavallois Contre Dunkerque un Laval \u00e0 deux visages - Auteur dune... Saint-Nazaire"
+			"url": "https://lemans.maville.com/sport/detail_-football.-coupe-de-france-beaumont-en-route-vers-l-exploit-_dep-6516501_actu.Htm",
+			"description": "Sport Le Mans Football Coupe de France Beaumont en route vers lexploit - Ce dimanche 20 octobre... Le Mans"
+		},
+		{
+			"title": "Football (R\u00e9gional 1) : la victoire ne veut pas sourire \u00e0 l\u2019AF Biars Bretenoux - La D\u00e9p\u00eache du Midi",
+			"link": "https://www.ladepeche.fr/2024/10/20/football-regional-1-la-victoire-ne-veut-pas-sourire-a-laf-biars-bretenoux-12273387.php",
+			"pubDate": "Sun, 20 Oct 2024 09:04:00 GMT",
+			"image": "https://images.ladepeche.fr/api/v1/images/view/6714c6ec1f5cd7125430ef79/large/image.jpg?v=1",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "ladepeche.fr",
+			"url": "https://www.ladepeche.fr/2024/10/20/football-regional-1-la-victoire-ne-veut-pas-sourire-a-laf-biars-bretenoux-12273387.php",
+			"description": "AF Biars Bretenoux 2 \u2013 Saint Alban Aucamville 2 MT\u00a0: 1-1. Arbitre\u00a0: M.\u00a0Amaury Mazenc. Buts pour l\u2019AFBB\u00a0: Garrigou (4e), Mollo (75e). Buts pour Saint-Alban\u00a0: (45e et 60e). AF Biars Bretenoux\u00a0: Deviers, Alonso, Boussac,..."
+		},
+		{
+			"title": "FC Lorient. Et maintenant, soigner les premi\u00e8res mi-temps ! . Sport - Maville",
+			"link": "https://pontivy.maville.com/sport/detail_-fc-lorient.-et-maintenant-soigner-les-premieres-mi-temps-_dep-6516543_actu.Htm",
+			"pubDate": "Sun, 20 Oct 2024 10:08:00 GMT",
+			"image": "https://maville.com/photosmvi/2024/10/20/P34685487D6516543G_crop_1080-600_.jpg",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "",
+			"url": "https://pontivy.maville.com/sport/detail_-fc-lorient.-et-maintenant-soigner-les-premieres-mi-temps-_dep-6516543_actu.Htm",
+			"description": "Sport Pontivy FC Lorient Et maintenant soigner les premi\u00e8res mi-temps - Si le FC Lorient a... Pontivy"
+		},
+		{
+			"title": "Chamb\u00e9ry - Chamb\u00e9ry Volleyball domine \u00e0 domicile - Savoie News",
+			"link": "https://www.savoie-news.fr/reportages/sport/article/chambery-volleyball-domine-a-domicile",
+			"pubDate": "Sun, 20 Oct 2024 08:00:00 GMT",
+			"image": "https://www.savoie-news.fr/uploads/11674-67141ba60b21e-miniature-jpg.jpg",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "Savoie News",
+			"url": "https://www.savoie-news.fr/reportages/sport/article/chambery-volleyball-domine-a-domicile",
+			"description": "Retrouvez toute l'actualit\u00e9 en Savoie : Sport, \u00e9conomie et loisirs, nous couvrons les principaux \u00e9v\u00e8nements sportifs (SOC Handball, Rugby\u2026) mais aussi les divertissements et entreprises."
+		},
+		{
+			"title": "F\u00e9d\u00e9rale 3. Rugby : Millau \u00e0 l\u2019\u00e9preuve du leader - Centre Presse Aveyron",
+			"link": "https://www.centrepresseaveyron.fr/2024/10/20/rugby-millau-a-lepreuve-du-leader-12273520.php",
+			"pubDate": "Sun, 20 Oct 2024 11:46:00 GMT",
+			"image": "https://images.centrepresseaveyron.fr/api/v1/images/view/6714e76ce8409d4835069039/large/image.jpg?v=1",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "centrepresseaveyron.fr",
+			"url": "https://www.centrepresseaveyron.fr/2024/10/20/rugby-millau-a-lepreuve-du-leader-12273520.php",
+			"description": "Les Somistes re\u00e7oivent Les Angles, dimanche 20\u00a0octobre \u00e0 15\u00a0h\u00a015, dans un match pour lequel ils ne font pas figure de favoris."
+		},
+		{
+			"title": "Rugby : contre Aurillac, les espoirs de l\u2019USAP d\u00e9jouent le pi\u00e8ge - L'Ind\u00e9pendant",
+			"link": "https://www.lindependant.fr/2024/10/20/rugby-contre-aurillac-les-espoirs-de-lusap-dejouent-le-piege-12273465.php",
+			"pubDate": "Sun, 20 Oct 2024 10:28:00 GMT",
+			"image": "https://images.lindependant.fr/api/v1/images/view/6714d86b46539d16a365bd84/large/image.jpg?v=1",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "lindependant.fr",
+			"url": "https://www.lindependant.fr/2024/10/20/rugby-contre-aurillac-les-espoirs-de-lusap-dejouent-le-piege-12273465.php",
+			"description": "Les Catalans ont retrouv\u00e9 le go\u00fbt du succ\u00e8s en dominant Aurillac samedi 19\u00a0octobre (24-10)."
 		},
 		{
 			"title": "TotalEnergies et le sport - TotalEnergies.com",
@@ -351,36 +581,6 @@
 			"description": "D\u00e9couvrez les \u00e9quipes et \u00e9v\u00e9nements sportifs dont TotalEnergies est partenaire dans le cadre de ses engagements de sponsoring."
 		},
 		{
-			"title": "Sport For Future, le nouveau collectif d'athl\u00e8tes au chevet de la plan\u00e8te - GQ Magazine",
-			"link": "https://www.gqmagazine.fr/article/sport-for-futureandnbsp-des-athletes-au-chevet-de-la-planete",
-			"pubDate": "Sat, 19 Oct 2024 12:38:45 GMT",
-			"image": "https://media.gqmagazine.fr/photos/6713a502ce118a7fd6f768db/16:9/w_1280,c_limit/GettyImages-1144764346%20(1).jpg",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "GQ France",
-			"url": "https://www.gqmagazine.fr/article/sport-for-futureandnbsp-des-athletes-au-chevet-de-la-planete",
-			"description": "Du 30 septembre au 3 octobre dernier, une quinzaine de sportifs de haut-niveau chapeaut\u00e9s par des experts se sont donn\u00e9s rendez-vous \u00e0 Chamonix pour r\u00e9fl\u00e9chir \u00e0 leur impact et trouver des cl\u00e9s pour le r\u00e9duire, individuellement et collectivement. \u00c9changes riches pour une \u00e9quation pas simple."
-		},
-		{
-			"title": "FC Nantes. Savoir sortir du cadre pour rester dans les clous . Sport - Angers Maville",
-			"link": "https://angers.maville.com/sport/detail_-fc-nantes.-savoir-sortir-du-cadre-pour-rester-dans-les-clous-_-6516355_actu.Htm",
-			"pubDate": "Sun, 20 Oct 2024 04:00:00 GMT",
-			"image": "https://maville.com/photosmvi/2024/10/20/P34685089D6516355G_crop_1080-600_.jpg",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "",
-			"url": "https://angers.maville.com/sport/detail_-fc-nantes.-savoir-sortir-du-cadre-pour-rester-dans-les-clous-_-6516355_actu.Htm",
-			"description": "Sport Angers FC Nantes Savoir sortir du cadre pour rester dans les clous - Les Canaris... Angers"
-		},
-		{
-			"title": "Face aux Aiglons, le FC Nantes au carrefour de ses ambitions . Sport - Saint-Nazaire",
-			"link": "https://saint-nazaire.maville.com/sport/infos/detail_-face-aux-aiglons-le-fc-nantes-au-carrefour-de-ses-ambitions-_-6516081_actu.Htm",
-			"pubDate": "Sat, 19 Oct 2024 17:19:00 GMT",
-			"image": "https://maville.com/photosmvi/2024/10/19/P34684335D6516081G_crop_1080-600_.jpg",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "",
-			"url": "",
-			"description": "Sport Saint-Nazaire Face aux Aiglons le FC Nantes au carrefour de ses ambitions - FOOTBALL Ligue... Saint-Nazaire"
-		},
-		{
 			"title": "+223% chaque ann\u00e9e depuis trois ans : le sport qui conna\u00eet la croissance la plus rapide n'est pas le padel (Business) - L'\u00c9quipe",
 			"link": "https://www.lequipe.fr/Tennis/Actualites/-223-chaque-annee-depuis-trois-ans-le-sport-qui-connait-la-croissance-la-plus-rapide-n-est-pas-le-padel/1514244",
 			"pubDate": "Thu, 17 Oct 2024 09:34:28 GMT",
@@ -391,24 +591,34 @@
 			"description": "Depuis la crise Covid, le pickleball conna\u00eet une expansion exponentielle aux Etats-Unis."
 		},
 		{
-			"title": "Les directs sport \u00e0 la t\u00e9l\u00e9 ce lundi 21 octobre en Belgique - DH Les Sports +",
-			"link": "https://www.dhnet.be/sports/omnisports/2024/10/20/les-directs-sport-a-la-tele-ce-lundi-21-octobre-en-belgique-M37DDFJMWBE73F7OU5RKLSW3RE/",
-			"pubDate": "Sun, 20 Oct 2024 07:29:00 GMT",
-			"image": "https://www.dhnet.be/resizer/v2/DE724WPMENDPJBXLODG7GREG74.jpg?auth=3b71dd54dd2e5cf89f83a52c22d3b36fc247039ab301695b246236e63fc8bb50&width=1200&height=630&quality=85&focal=1500%2C1000&watermark=https%3A%2F%2Fcloudfront-eu-central-1.images.arcpublishing.com%2Fipmgroup%2F3WZLNJVGMFAQRHOXFC5ZVE3GU4.png%3A100%3A0%2C559",
+			"title": "HBC Nantes. Le grand retour de Rok Ovnicek pour d\u00e9fier Tremblay . Sport - Saint-Nazaire",
+			"link": "https://saint-nazaire.maville.com/sport/infos/detail_-hbc-nantes.-le-grand-retour-de-rok-ovnicek-pour-defier-tremblay-_-6516497_actu.Htm",
+			"pubDate": "Sun, 20 Oct 2024 08:37:00 GMT",
+			"image": "https://maville.com/photosmvi/2024/10/20/P34685380D6516497G_crop_1080-600_.jpg",
 			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "DHnet",
-			"url": "https://www.dhnet.be/sports/omnisports/2024/10/20/les-directs-sport-a-la-tele-ce-lundi-21-octobre-en-belgique-M37DDFJMWBE73F7OU5RKLSW3RE/",
-			"description": "\u00c0 quelle heure et sur quelle cha\u00eene voir en direct les \u00e9v\u00e9nements sportifs aujourd'hui depuis la Belgique\u00a0? Les matchs de football en live, le cyclisme en direct \u00e0 la TV, le tennis en direct, le basket-ball, le hockey\u2026"
+			"site_name": "",
+			"url": "",
+			"description": "Sport Saint-Nazaire HBC Nantes Le grand retour de Rok Ovnicek pour d\u00e9fier Tremblay - Gravement... Saint-Nazaire"
 		},
 		{
-			"title": "Sport. La chronique de Valentin Deudon : \u00ab Une partie de bonheur \u00bb - Sud Ouest",
-			"link": "https://www.sudouest.fr/sport/football/sport-la-chronique-de-valentin-deudon-une-partie-de-bonheur-21813721.php",
-			"pubDate": "Sat, 19 Oct 2024 16:54:27 GMT",
-			"image": "https://media.sudouest.fr/21813721/1200x-1/valentin-deudon.jpg",
+			"title": "Foot. N2. Michel Audrain (US Avranches) : \u00ab Il manque toujours quelque chose \u00bb . Sport - Maville.com Laval",
+			"link": "https://laval.maville.com/sport/detail_-foot.-n2.-michel-audrain-us-avranches-il-manque-toujours-quelque-chose-_-6516512_actu.Htm",
+			"pubDate": "Sun, 20 Oct 2024 09:10:00 GMT",
+			"image": "https://maville.com/photosmvi/2024/10/20/P34685407D6516512G_crop_1080-600_.jpg",
 			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "SudOuest.fr",
-			"url": "https://www.sudouest.fr/sport/football/sport-la-chronique-de-valentin-deudon-une-partie-de-bonheur-21813721.php",
-			"description": ""
+			"site_name": "",
+			"url": "https://laval.maville.com/sport/detail_-foot.-n2.-michel-audrain-us-avranches-il-manque-toujours-quelque-chose-_-6516512_actu.Htm",
+			"description": "Sport Laval Foot N2 Michel Audrain (US Avranches) \u00ab Il manque toujours quelque chose \u00bb - Les... Laval"
+		},
+		{
+			"title": "Le Tour de France dans les Alpes : une g\u00e9ographie transfrontali\u00e8re du sport - Les Clionautes",
+			"link": "https://www.clionautes.org/le-tour-de-france-dans-les-alpes-une-geographie-transfrontaliere-du-sport.html",
+			"pubDate": "Sat, 19 Oct 2024 21:18:38 GMT",
+			"image": "https://www.clionautes.org/wp-content/uploads/clionautes/2024/10/img-1595.jpeg",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "Les Clionautes",
+			"url": "https://www.clionautes.org/le-tour-de-france-dans-les-alpes-une-geographie-transfrontaliere-du-sport.html",
+			"description": "Le Tour de France \u00e9crit souvent son \u00e9pilogue dans les Alpes, o\u00f9 les \u00e9tapes franchissent r\u00e9guli\u00e8rement les fronti\u00e8res avec la Suisse et l\u2019Italie. Des"
 		},
 		{
 			"title": "INFO RMC SPORT. Le PSG avance pour la prolongation de deux cadres - RMC Sport",
@@ -421,24 +631,24 @@
 			"description": "INFO RMC Sport- Sous contrat avec le Paris Saint-Germain jusqu'en 2027, Vitinha va prolonger avec le club parisien et devrait \u00e9tendre son bail pour deux ann\u00e9es suppl\u00e9mentaires. Achraf Hakimi est bien parti pour prolonger. "
 		},
 		{
-			"title": "Mondial du Lion. Andreas et Alina Dibowski, de p\u00e8re en fille . Sport - Angers Maville",
-			"link": "https://angers.maville.com/sport/detail_-mondial-du-lion.-andreas-et-alina-dibowski-de-pere-en-fille-_-6516415_actu.Htm",
-			"pubDate": "Sun, 20 Oct 2024 06:04:00 GMT",
-			"image": "https://maville.com/photosmvi/2024/10/20/P34685184D6516415G_crop_1080-600_.jpg",
+			"title": "Foot amateur. Ligue/District : trois affiches \u00e0 suivre ce dimanche . Sport - - Le Mans.maville.com",
+			"link": "https://lemans.maville.com/sport/detail_-foot-amateur.-ligue-district-trois-affiches-a-suivre-ce-dimanche-_une-6516466_actu.Htm",
+			"pubDate": "Sun, 20 Oct 2024 07:21:00 GMT",
+			"image": "https://maville.com/photosmvi/2024/10/20/P34685313D6516466G_crop_1080-600_.jpg",
 			"logo": "https://picsum.photos/32/32?grayscale",
 			"site_name": "",
-			"url": "https://angers.maville.com/sport/detail_-mondial-du-lion.-andreas-et-alina-dibowski-de-pere-en-fille-_-6516415_actu.Htm",
-			"description": "Sport Angers Mondial du Lion Andreas et Alina Dibowski de p\u00e8re en fille - La comp\u00e9tition des 7... Angers"
+			"url": "https://lemans.maville.com/sport/detail_-foot-amateur.-ligue-district-trois-affiches-a-suivre-ce-dimanche-_une-6516466_actu.Htm",
+			"description": "Sport Le Mans Foot amateur Ligue/District trois affiches \u00e0 suivre ce dimanche - Quatri\u00e8me... Le Mans"
 		},
 		{
-			"title": "Octobre rose dans l'Eure : du sport pour la bonne cause dimanche \u00e0 Gisors - actu.fr",
-			"link": "https://actu.fr/normandie/gisors_27284/octobre-rose-dans-leure-du-sport-pour-la-bonne-cause-dimanche-a-gisors_61754105.html",
-			"pubDate": "Sat, 19 Oct 2024 16:20:02 GMT",
-			"image": "https://static.actu.fr/uploads/2024/10/3fa9575f1217613b9575f121707b95v.jpg",
+			"title": "Football. N2 : \u00ab Les m\u00eames sc\u00e9narios qui se r\u00e9p\u00e8tent \u00bb \u00e0 Ch\u00e2teaubriant . Sport - Maville",
+			"link": "https://labaule.maville.com/sport/detail_-football.-n2-les-memes-scenarios-qui-se-repetent-a-chateaubriant-_fil-6516535_actu.Htm",
+			"pubDate": "Sun, 20 Oct 2024 09:52:00 GMT",
+			"image": "https://maville.com/photosmvi/2024/10/20/P34685466D6516535G_crop_1080-600_.jpg",
 			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "actu.fr",
-			"url": "https://actu.fr/normandie/gisors_27284/octobre-rose-dans-leure-du-sport-pour-la-bonne-cause-dimanche-a-gisors_61754105.html",
-			"description": "Les sportifs au grand c\u0153ur ont rendez-vous dimanche 20 octobre au gymnase Tassus de Gisors \u00e0 l'occasion d'une journ\u00e9e d\u00e9di\u00e9e \u00e0 Octobre rose. De nombreux sports seront repr\u00e9sent\u00e9s."
+			"site_name": "",
+			"url": "https://labaule.maville.com/sport/detail_-football.-n2-les-memes-scenarios-qui-se-repetent-a-chateaubriant-_fil-6516535_actu.Htm",
+			"description": "Sport La Baule Football N2 \u00ab Les m\u00eames sc\u00e9narios qui se r\u00e9p\u00e8tent \u00bb \u00e0 Ch\u00e2teaubriant - En... La Baule"
 		},
 		{
 			"title": "Affaire Mbapp\u00e9: l'attaquant fran\u00e7ais a eu une relation sexuelle, qu'il estime consentie, lors de sa vir\u00e9e... - RMC Sport",
@@ -451,14 +661,54 @@
 			"description": "Accus\u00e9 de viol par une femme, selon les \u00e9l\u00e9ments relay\u00e9s par la presse su\u00e9doise, Kylian Mbapp\u00e9 a eu une relation sexuelle, qu'il estime consentie, lors de son s\u00e9jour \u00e0 Stockholm. L'attaquant fran\u00e7ais dispose d'un \u00e9change de textos \u00e9crits avec cette jeune femme apr\u00e8s leur moment d'intimit\u00e9."
 		},
 		{
-			"title": "\u00c0 Dinan, ces clubs, encadrants et athl\u00e8tes ont \u00e9t\u00e9 r\u00e9compens\u00e9s des Troph\u00e9es du sport - Ouest-France",
-			"link": "https://www.ouest-france.fr/bretagne/dinan-22100/a-dinan-ces-clubs-encadrants-et-athletes-sont-les-nouvelles-etoiles-du-sport-921fc4a2-8e17-11ef-8390-40b2162b6ed9",
-			"pubDate": "Sat, 19 Oct 2024 15:31:22 GMT",
-			"image": "",
+			"title": "Vous et Nous : le sport pour les s\u00e9niors - VOA Afrique",
+			"link": "https://www.voaafrique.com/a/7828792.html",
+			"pubDate": "Sat, 19 Oct 2024 19:00:56 GMT",
+			"image": "https://gdb.voanews.com/75852ab7-af47-4bcc-a34e-d158cb90886a_w1200_r1.jpg",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "Voice of America",
+			"url": "https://www.voaafrique.com/a/7828792.html",
+			"description": "\ud83c\udde8\ud83c\uddee C\u00f4te d\u2019Ivoire : le sport, un nouveau souffle pour les personnes du 3e \u00e2ge\n\ud83c\udde7\ud83c\uddeb Burkina Faso : lancement d\u2019un salon de l\u2019automobile\n\ud83c\uddec\ud83c\udde7 Anglais Express avec Mich\u00e8le Joseph"
+		},
+		{
+			"title": "Rugby : apr\u00e8s un \u00e9clat, Rodez en qu\u00eate de confirmation face \u00e0 LSA - Centre Presse Aveyron",
+			"link": "https://www.centrepresseaveyron.fr/2024/10/20/rugby-apres-un-eclat-rodez-en-quete-de-confirmation-face-a-lsa-12273496.php",
+			"pubDate": "Sun, 20 Oct 2024 11:05:00 GMT",
+			"image": "https://images.centrepresseaveyron.fr/api/v1/images/view/6714e387b463464f7f5a9b17/large/image.jpg?v=1",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "centrepresseaveyron.fr",
+			"url": "https://www.centrepresseaveyron.fr/2024/10/20/rugby-apres-un-eclat-rodez-en-quete-de-confirmation-face-a-lsa-12273496.php",
+			"description": "En F\u00e9d\u00e9rale 3, les Ruth\u00e9nois se d\u00e9placent \u00e0 Cassagnes, dimanche 20 octobre (15 h 30), pour le premier derby entre ces deux formations de l'histoire."
+		},
+		{
+			"title": "Rugby : relance attendue pour L\u00e9v\u00e9zou S\u00e9gala contre Rodez - Centre Presse Aveyron",
+			"link": "https://www.centrepresseaveyron.fr/2024/10/20/rugby-relance-attendue-pour-levezou-segala-contre-rodez-12273505.php",
+			"pubDate": "Sun, 20 Oct 2024 11:21:00 GMT",
+			"image": "https://images.centrepresseaveyron.fr/api/v1/images/view/6714e75c800d732afd3dd67a/large/image.jpg?v=1",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "centrepresseaveyron.fr",
+			"url": "https://www.centrepresseaveyron.fr/2024/10/20/rugby-relance-attendue-pour-levezou-segala-contre-rodez-12273505.php",
+			"description": "En F\u00e9d\u00e9rale 3, LSA accueille Rodez, dimanche 20\u00a0octobre (15\u00a0h\u00a030), \u00e0 Cassagnes, pour un premier derby historique\u00a0!"
+		},
+		{
+			"title": "Face aux Aiglons, le FC Nantes au carrefour de ses ambitions . Sport - Saint-Nazaire",
+			"link": "https://saint-nazaire.maville.com/sport/infos/detail_-face-aux-aiglons-le-fc-nantes-au-carrefour-de-ses-ambitions-_-6516081_actu.Htm",
+			"pubDate": "Sat, 19 Oct 2024 17:19:00 GMT",
+			"image": "https://maville.com/photosmvi/2024/10/19/P34684335D6516081G_crop_1080-600_.jpg",
 			"logo": "https://picsum.photos/32/32?grayscale",
 			"site_name": "",
 			"url": "",
-			"description": ""
+			"description": "Sport Saint-Nazaire Face aux Aiglons le FC Nantes au carrefour de ses ambitions - FOOTBALL Ligue... Saint-Nazaire"
+		},
+		{
+			"title": "Open de Brest. Les qualifications sont lanc\u00e9es \u00e0 la Brest Arena . Sport - Saint-Nazaire",
+			"link": "https://saint-nazaire.maville.com/sport/detail_-open-de-brest.-les-qualifications-sont-lancees-a-la-brest-arena-_-6516539_actu.Htm",
+			"pubDate": "Sun, 20 Oct 2024 09:58:00 GMT",
+			"image": "https://maville.com/photosmvi/2024/10/20/P34685554D6516539G_crop_1080-600_.jpg",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "",
+			"url": "https://saint-nazaire.maville.com/sport/detail_-open-de-brest.-les-qualifications-sont-lancees-a-la-brest-arena-_-6516539_actu.Htm",
+			"description": "Sport Saint-Nazaire Open de Brest Hemery premier vainqueur fran\u00e7ais les qualifications lanc\u00e9es... Saint-Nazaire"
 		},
 		{
 			"title": "Sport : plusieurs matchs report\u00e9s en football, futsal et volleyball - vi\u00e0Atv",
@@ -471,46 +721,6 @@
 			"description": "Sport, en football si 5 des 7 rencontres de la 5\u00e8me journ\u00e9e du championnat de r\u00e9gionale 1 se sont d\u00e9roul\u00e9s cet apr\u00e8s-midi, dans cette discipline comme d'autres "
 		},
 		{
-			"title": "Hockey sur glace. D1 : sous pression, les Drakkars ont r\u00e9agi . Sport - Maville",
-			"link": "https://trouville-deauville.maville.com/sport/detail_-hockey-sur-glace.-d1-sous-pression-les-drakkars-ont-reagi-_fil-6516237_actu.Htm",
-			"pubDate": "Sat, 19 Oct 2024 22:38:00 GMT",
-			"image": "https://maville.com/photosmvi/2024/10/20/P34684893D6516237G_crop_1080-600_.jpg",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "",
-			"url": "https://trouville-deauville.maville.com/sport/detail_-hockey-sur-glace.-d1-sous-pression-les-drakkars-ont-reagi-_fil-6516237_actu.Htm",
-			"description": "Sport Trouville-Deauville Hockey sur glace D1 sous pression les Drakkars ont r\u00e9agi - Apr\u00e8s... Trouville-Deauville"
-		},
-		{
-			"title": "Aidez-moi \u00e0 faire avancer ce combat : Laissez l'acc\u00e8s \u00e0 une salle de sport en hiver pour des petits footballeurs - MesOpinions.com",
-			"link": "https://www.mesopinions.com/petition/sports/laissez-acces-salle-sport-hiver-petits/235118",
-			"pubDate": "Sat, 19 Oct 2024 17:03:21 GMT",
-			"image": "https://www.mesopinions.com/public/img/petition/petition-img-235118-fr.jpeg",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "https://www.mesopinions.com/",
-			"url": "https://www.mesopinions.com/petition/sports/laissez-acces-salle-sport-hiver-petits/235118",
-			"description": "Sports - Signez la p\u00e9tition : Laissez l'acc\u00e8s \u00e0 une salle de sport en hiver pour des petits footballeurs"
-		},
-		{
-			"title": "Google, Samsung, Apple\u2026 comment le sport et la sant\u00e9 ont transform\u00e9 les montres connect\u00e9es - Frandroid",
-			"link": "https://www.frandroid.com/produits-android/accessoires-objets-connectes/montres-connectees-2/2366850_google-samsung-apple-comment-le-sport-et-la-sante-ont-transforme-les-montres-connectees",
-			"pubDate": "Sat, 19 Oct 2024 16:00:00 GMT",
-			"image": "https://images.frandroid.com/wp-content/uploads/2024/10/samsung-galaxy-watch-ultra-19-1200x800-1.jpg",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "Frandroid",
-			"url": "https://www.frandroid.com/produits-android/accessoires-objets-connectes/montres-connectees-2/2366850_google-samsung-apple-comment-le-sport-et-la-sante-ont-transforme-les-montres-connectees",
-			"description": "En dix ans, les montres connect\u00e9es ont bien \u00e9volu\u00e9. Et si les derniers mod\u00e8les stagnent en termes de nouveaut\u00e9s mat\u00e9rielles, de nouvelles fonctions leur"
-		},
-		{
-			"title": "Handball. N1M : le CPB Rennes surpasse les Mayennais . Sport - Rennes, ma ville",
-			"link": "https://rennes.maville.com/sport/detail_-handball.-n1m-le-cpb-rennes-surpasse-les-mayennais-_loc-6516413_actu.Htm",
-			"pubDate": "Sun, 20 Oct 2024 05:52:00 GMT",
-			"image": "https://maville.com/photosmvi/2024/10/20/P34685182D6516413G_crop_1080-600_.jpg",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "",
-			"url": "https://rennes.maville.com/sport/detail_-handball.-n1m-le-cpb-rennes-surpasse-les-mayennais-_loc-6516413_actu.Htm",
-			"description": "Sport Rennes Handball N1M le CPB Rennes surpasse les Mayennais - CPB Rennes Sud Mayenne 30-24... Rennes"
-		},
-		{
 			"title": "Football. N3 : La Roche a pli\u00e9 l\u2019affaire en une p\u00e9riode . Sport - Saint-Nazaire",
 			"link": "https://saint-nazaire.maville.com/sport/infos/detail_-football.-n3-la-roche-a-plie-l-affaire-en-une-periode-_-6516246_actu.Htm",
 			"pubDate": "Sat, 19 Oct 2024 23:05:00 GMT",
@@ -521,94 +731,24 @@
 			"description": "Sport Saint-Nazaire Football N3 La Roche a pli\u00e9 laffaire en une p\u00e9riode - Efficaces les Yonnais... Saint-Nazaire"
 		},
 		{
-			"title": "Sport - Pauline Astier, la ma\u00eetre-passeuse du Bourges Basket avant le match face \u00e0 Roche Vend\u00e9e ce dimanche - Le Berry R\u00e9publicain",
-			"link": "https://www.leberry.fr/bourges-18000/sports/pauline-astier-la-maitre-passeuse-du-bourges-basket-avant-le-match-face-a-roche-vendee-ce-dimanche_14582700/",
-			"pubDate": "Sun, 20 Oct 2024 04:00:00 GMT",
-			"image": "https://img.lamontagne.fr/JZzxszsTRr1HZNUxDBTieDNdoNTUMpRFm2JBIV1l1Ig/fit/657/438/sm/0/bG9jYWw6Ly8vMDAvMDAvMDcvMjEvOTQvMjAwMDAwNzIxOTQxMg.jpg",
+			"title": "Sport. La chronique de Valentin Deudon : \u00ab Une partie de bonheur \u00bb - Sud Ouest",
+			"link": "https://www.sudouest.fr/sport/football/sport-la-chronique-de-valentin-deudon-une-partie-de-bonheur-21813721.php",
+			"pubDate": "Sat, 19 Oct 2024 16:54:27 GMT",
+			"image": "https://media.sudouest.fr/21813721/1200x-1/valentin-deudon.jpg",
 			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "www.leberry.fr",
-			"url": "https://www.leberry.fr/bourges-18000/sports/pauline-astier-la-maitre-passeuse-du-bourges-basket-avant-le-match-face-a-roche-vendee-ce-dimanche_14582700/",
-			"description": "Tr\u00e8s en vue depuis le d\u00e9but de saison, la meneuse du Bourges Basket vient de r\u00e9aliser deux matchs de tr\u00e8s grande qualit\u00e9 dans la gestion du jeu de son \u00e9quipe. Les statistiques sont l\u00e0 pour le montrer."
-		},
-		{
-			"title": "Ce Breton est \u00ab berc\u00e9 par le sport automobile depuis tout petit \u00bb - Ouest-France",
-			"link": "https://www.ouest-france.fr/bretagne/morbihan/ce-breton-est-berce-par-le-sport-automobile-depuis-tout-petit-33250926-8bbf-11ef-8941-5d7a93e1e368",
-			"pubDate": "Sat, 19 Oct 2024 11:51:01 GMT",
-			"image": "",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "",
-			"url": "",
+			"site_name": "SudOuest.fr",
+			"url": "https://www.sudouest.fr/sport/football/sport-la-chronique-de-valentin-deudon-une-partie-de-bonheur-21813721.php",
 			"description": ""
 		},
 		{
-			"title": "TORDERES : Sport au c\u0153ur des villages, rendez-vous \u00e0 Tord\u00e8res le mercredi 23 octobre - Presse Agence",
-			"link": "https://presseagence.fr/torderes-sport-au-coeur-des-villages-rendez-vous-a-torderes-le-mercredi-23-octobre/",
-			"pubDate": "Sat, 19 Oct 2024 15:00:00 GMT",
-			"image": "https://presseagence.fr/wp-content/uploads/5-235.jpg",
+			"title": "Pour financer le sport, les d\u00e9put\u00e9s actent un recours accru au produit des taxes sur les paris sportifs - Le Monde",
+			"link": "https://www.lemonde.fr/sport/article/2024/10/19/pour-financer-le-sport-les-deputes-actent-un-recours-accru-au-produit-des-taxes-sur-les-paris-sportifs_6356064_3242.html",
+			"pubDate": "Sat, 19 Oct 2024 13:17:53 GMT",
+			"image": "https://img.lemde.fr/2024/10/01/0/0/5899/3933/1440/960/60/0/7132512_1727822952719-jmug241001033.jpg",
 			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "Presse Agence",
-			"url": "https://presseagence.fr/torderes-sport-au-coeur-des-villages-rendez-vous-a-torderes-le-mercredi-23-octobre/",
-			"description": "Depuis le 1er\u00a0mai et jusqu\u2019au 3 novembre, dans le cadre de la Grande cause nationale 2024 d\u00e9di\u00e9e \u00e0 la promotion de l\u2019activit\u00e9 physique et sportive, 300 villages ruraux de France de moins de 3500 habitants s\u2019impliquent. Le mercredi 23 octobre \u00e0 partir de 8h30, vous \u00eates attendus seul, en famille ou avec des amis \u00e0 [\u2026]"
-		},
-		{
-			"title": "Danse, roller party et sport gratuit : ce qui vous attend cette semaine \u00e0 la guinguette Le Soleil \u00e0 St-Pierre-des-Corps - Info-tours.fr",
-			"link": "https://info-tours.fr/toursagglo/2024/10/20/danse-roller-party-et-sport-gratuit-ce-qui-vous-attend-cette-semaine-a-la-guinguette-le-soleil-a-st-pierre-des-corps/",
-			"pubDate": "Sat, 19 Oct 2024 22:30:24 GMT",
-			"image": "https://info-tours.fr/wp-content/uploads/2024/04/le-soleil-spdc.jpg",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "Info Tours | L'actualit\u00e9 de Tours et ses environs",
-			"url": "https://info-tours.fr/toursagglo/2024/10/20/danse-roller-party-et-sport-gratuit-ce-qui-vous-attend-cette-semaine-a-la-guinguette-le-soleil-a-st-pierre-des-corps/",
-			"description": "C\u2019est une premi\u00e8re en Indre-et-Loire : une guinguette d\u2019hiver a ouvert ses portes au 9000 Rue de la Grange Quillet \u00e0 St-Pierre-des-Corps, tout pr\u00e8s des Atlantes. Info Tours est partenaire de ce lieu accessible 7 jours sur 7 jusqu\u2019au 20 avril 2025. Chaque dimanche on vous donne donc le programme des animations des jours \u00e0 venir\u2026"
-		},
-		{
-			"title": "Ligue des champions: les supporteurs du PSV finalement autoris\u00e9s \u00e0 se d\u00e9placer \u00e0 Paris - RMC Sport",
-			"link": "https://rmcsport.bfmtv.com/football/ligue-des-champions/ligue-des-champions-les-supporters-du-psv-finalement-autorises-a-se-deplacer-a-paris_AV-202410190437.html",
-			"pubDate": "Sat, 19 Oct 2024 20:06:39 GMT",
-			"image": "https://images.bfmtv.com/WSkhK-PqZtl1c_wL9XiLQN_NLgs=/0x106:2048x1258/images/Les-supporters-du-PSV-Eindhoven-en-deplacement-en-septembre-2024-1959870.jpg",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "RMC Sport",
-			"url": "https://rmcsport.bfmtv.com/football/ligue-des-champions/ligue-des-champions-les-supporters-du-psv-finalement-autorises-a-se-deplacer-a-paris_AV-202410190437.html",
-			"description": "Le conseil d'\u00c9tat vient de suspendre l'arr\u00eat\u00e9 d'interdiction de d\u00e9placement des supporteurs du PSV Eindhoven \u00e0 Paris, pris le 16 octobre dernier par le minist\u00e8re de l'Int\u00e9rieur. Les fans hollandais sont donc autoris\u00e9s \u00e0 se rendre au Parc des Princes pour la rencontre de mardi en Ligue des champions..."
-		},
-		{
-			"title": "Sport local : une fin de semaine charg\u00e9e pour les amoureux de comp\u00e9tition - France-Guyane",
-			"link": "https://www.franceguyane.fr/actualite/sports/sport-local-une-fin-de-semaine-chargee-pour-les-amoureux-de-competition-1008162.php",
-			"pubDate": "Sat, 19 Oct 2024 13:37:59 GMT",
-			"image": "https://medias.franceantilles.fr/api/v1/images/view/6713b4cc8d099730162c8b94/width_1000/image.jpg",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "franceguyane.fr",
-			"url": "",
-			"description": ""
-		},
-		{
-			"title": "Volley-ball. \u00c9lite f\u00e9minine : le REC poursuit sa belle s\u00e9rie . Sport - Saint-Nazaire",
-			"link": "https://saint-nazaire.maville.com/sport/infos/detail_-volley-ball.-elite-feminine-le-rec-poursuit-sa-belle-serie-_-6516244_actu.Htm",
-			"pubDate": "Sat, 19 Oct 2024 22:52:00 GMT",
-			"image": "https://maville.com/photosmvi/2024/10/20/P34684911D6516244G_crop_1080-600_.jpg",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "",
-			"url": "",
-			"description": "Sport Saint-Nazaire Volley-ball \u00c9lite f\u00e9minine le REC poursuit sa belle s\u00e9rie - Les Rennaises... Saint-Nazaire"
-		},
-		{
-			"title": "Rugby (F\u00e9d\u00e9rale 2) : Cahors Rugby re\u00e7u cinq sur cinq - La D\u00e9p\u00eache du Midi",
-			"link": "https://www.ladepeche.fr/2024/10/19/rugby-federale-2-cahors-rugby-recu-cinq-sur-cinq-12272718.php",
-			"pubDate": "Sat, 19 Oct 2024 20:37:00 GMT",
-			"image": "https://images.ladepeche.fr/api/v1/images/view/6714183b57c02a73661f3677/large/image.jpg?v=1",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "ladepeche.fr",
-			"url": "https://www.ladepeche.fr/2024/10/19/rugby-federale-2-cahors-rugby-recu-cinq-sur-cinq-12272718.php",
-			"description": "Cahors Rugby 21 - Arpajon 13 MT\u2005: 16-10. Arbitre\u2005: M. Robin Santi (Occitanie). Pour Cahors Rugby\u2005: 2E Huakau (1re), Hahn (56e), 1T (1re) et 3P (9e, 27e, 34e) Da Silva. Cartons jaunes\u2005: (24e, 27e)\u2005; carton rouge\u2005:..."
-		},
-		{
-			"title": "VID\u00c9O. Ligue 1 invisible, d\u00e9samour pour les Bleus\u2026 Avez-vous, vous aussi, le blues du foot ? - Ouest-France",
-			"link": "https://www.ouest-france.fr/sport/football/video-ligue-1-invisible-desamour-pour-les-bleus-avez-vous-vous-aussi-le-blues-du-foot-9865097c-8e20-11ef-8390-40b2162b6ed9",
-			"pubDate": "Sun, 20 Oct 2024 06:13:39 GMT",
-			"image": "https://media.ouest-france.fr/v1/pictures/MjAyNDEwZGQxYjExNjdlNmIzZDI1NTE5YmE3OTVjNDA3MDkwOTA?width=1260&height=708&focuspoint=50%2C25&cropresize=1&client_id=bpeditorial&sign=b279ae941571c04c85255c622f71b6bb351f82ec1504b731b3ca81811b622241",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "Ouest-France.fr",
-			"url": "https://www.ouest-france.fr/sport/football/video-ligue-1-invisible-desamour-pour-les-bleus-avez-vous-vous-aussi-le-blues-du-foot-9865097c-8e20-11ef-8390-40b2162b6ed9",
-			"description": "Des audiences en berne, une Ligue 1 mal expos\u00e9e, un d\u00e9samour grandissant pour l\u2019\u00e9quipe de France apr\u00e8s le d\u00e9part de plusieurs champions du monde\u2026 Ces derni\u00e8res semaines, le foot fait moins r\u00eaver et un certain blues semble s\u2019\u00eatre empar\u00e9 des suiveurs du ballon rond."
+			"site_name": "Le Monde.fr",
+			"url": "https://www.lemonde.fr/sport/article/2024/10/19/pour-financer-le-sport-les-deputes-actent-un-recours-accru-au-produit-des-taxes-sur-les-paris-sportifs_6356064_3242.html",
+			"description": "La commission des finances a adopt\u00e9 un amendement qui accro\u00eet de 116\u00a0millions d\u2019euros l\u2019enveloppe pr\u00e9lev\u00e9e sur les taxes sur les paris sportifs en ligne, destin\u00e9e \u00e0 l\u2019Agence nationale du sport."
 		},
 		{
 			"title": "INFO RMC SPORT. L'entourage de Mbapp\u00e9 a d\u00e9sormais la certitude qu'il est vis\u00e9 par la plainte pour viol en... - RMC Sport",
@@ -621,34 +761,54 @@
 			"description": "Selon les informations de RMC Sport, l'entourage de Kylian Mbapp\u00e9 a d\u00e9sormais la certitude que l'attaquant fran\u00e7ais est bien vis\u00e9 par une plainte pour viol d\u00e9pos\u00e9e \u00e0 Stockholm. Au sein du clan Mbapp\u00e9, on reste serein malgr\u00e9 la prise de conscience qu'un long processus va d\u00e9sormais d\u00e9buter."
 		},
 		{
-			"title": "[Podcasts] La Une des GG : Mbapp\u00e9, Dupont, Marchand, Riner... Qui est la plus grande star du sport fran\u00e7ais ? - 20/10 - RMC Sport",
-			"link": "https://rmcsport.bfmtv.com/replay-emissions/les-grandes-gueules-du-sport/la-une-des-gg-mbappe-dupont-marchand-riner-qui-est-la-plus-grande-star-du-sport-francais-20-10_EN-202410200139.html",
-			"pubDate": "Sun, 20 Oct 2024 07:43:28 GMT",
-			"image": "https://images.bfmtv.com/RLGrGvGZLNHwroMbMalK7d1I57I=/0x0:12000x6280/1200x0/images/image_composition_EN-202410200139.jpg",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "RMC Sport",
-			"url": "https://rmcsport.bfmtv.com/replay-emissions/les-grandes-gueules-du-sport/la-une-des-gg-mbappe-dupont-marchand-riner-qui-est-la-plus-grande-star-du-sport-francais-20-10_EN-202410200139.html",
-			"description": "Pas de temps de s'\u00e9chauffer, les \"Grandes Gueules du Sport\" d\u00e9marrent fort d\u00e8s 9h00 : la UNE c'est l'actu br\u00fblante du sport, entre infos, analyses et d\u00e9bats."
-		},
-		{
-			"title": "Coupe du monde des clubs: l'Inter Miami invit\u00e9 surprise, Messi bient\u00f4t face au PSG et au Real? - Yahoo Actualit\u00e9s",
-			"link": "https://fr.news.yahoo.com/sport/coupe-monde-clubs-linter-miami-062020468.html",
-			"pubDate": "Sun, 20 Oct 2024 06:20:20 GMT",
-			"image": "https://media.zenfs.com/fr/rmc_sport_articles_552/f3060aa4ad5cd6bb3aecc98f5bceb9c7",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "Yahoo News",
-			"url": "https://fr.news.yahoo.com/sport/coupe-monde-clubs-linter-miami-062020468.html",
-			"description": "La Fifa a d\u00e9cid\u00e9 d'inviter l'Inter Miami de Lionel Messi \u00e0 disputer le prochain Mondial des clubs en 2025, aux Etats-Unis. Le tirage au sort aura lieu en d\u00e9cembre."
-		},
-		{
-			"title": "Loire Atlantique - Handball. Les vieilles connaissances du HBC Nantes contre Tremblay . Sport - Nantes Maville",
-			"link": "https://nantes.maville.com/sport/detail_-loire-atlantique-handball.-les-vieilles-connaissances-du-hbc-nantes-contre-tremblay-_loc-6516367_actu.Htm",
-			"pubDate": "Sun, 20 Oct 2024 04:36:00 GMT",
-			"image": "https://maville.com/photosmvi/2024/10/20/P34685112D6516367G_crop_1080-600_.jpg",
+			"title": "FC Nantes. Savoir sortir du cadre pour rester dans les clous . Sport - Maville",
+			"link": "https://vannes.maville.com/sport/infos/detail_-fc-nantes.-savoir-sortir-du-cadre-pour-rester-dans-les-clous-_-6516355_actu.Htm",
+			"pubDate": "Sun, 20 Oct 2024 04:00:00 GMT",
+			"image": "https://maville.com/photosmvi/2024/10/20/P34685089D6516355G_crop_1080-600_.jpg",
 			"logo": "https://picsum.photos/32/32?grayscale",
 			"site_name": "",
-			"url": "https://nantes.maville.com/sport/detail_-loire-atlantique-handball.-les-vieilles-connaissances-du-hbc-nantes-contre-tremblay-_loc-6516367_actu.Htm",
-			"description": "Sport Nantes Loire Atlantique - Handball Les vieilles connaissances du HBC Nantes contre Tremblay... Nantes"
+			"url": "",
+			"description": "Sport Vannes FC Nantes Savoir sortir du cadre pour rester dans les clous - Les Canaris... Vannes"
+		},
+		{
+			"title": "Celta de Vigo-Real Madrid: les Madril\u00e8nes s'imposent avec un but de Mbapp\u00e9 - RMC Sport",
+			"link": "https://rmcsport.bfmtv.com/football/liga/direct-celta-de-vigo-real-madrid-suivez-en-live-le-match-de-liga-avec-kylian-mbappe_LS-202410190374.html",
+			"pubDate": "Sat, 19 Oct 2024 20:55:50 GMT",
+			"image": "https://images.bfmtv.com/vEq_SpSUPxcwwzgnrNBZr2sps98=/110x30:2046x1119/images/Mbappe-1959863.jpg",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "RMC Sport",
+			"url": "https://rmcsport.bfmtv.com/football/liga/direct-celta-de-vigo-real-madrid-suivez-en-live-le-match-de-liga-avec-kylian-mbappe_LS-202410190374.html",
+			"description": "Le Real Madrid affrontait samedi soir le Celta de Vigo, 10e de Liga mais auteur d'un tr\u00e8s bon d\u00e9but de saison, dans le cadre de la 10e journ\u00e9e. Kylian Mbapp\u00e9 retrouvait le chemin des terrains apr\u00e8s une tr\u00eave internationale \u00e0 laquelle il n'a pas pris part avec les Bleus et un voyage pol\u00e9mique en Su\u00e8de, qui lui a valu, selon les m\u00e9dias su\u00e9dois, d'\u00eatre cit\u00e9 dans une enqu\u00eate pour viol et agression sexuelle. "
+		},
+		{
+			"title": "Thouars : il a particip\u00e9 \u00e0 la cr\u00e9ation de l\u2019Islo, une nouvelle f\u00e9d\u00e9ration sportive - La Nouvelle R\u00e9publique",
+			"link": "https://www.lanouvellerepublique.fr/thouars/thouars-il-a-participe-a-la-creation-de-l-islo-une-nouvelle-federation-sportive",
+			"pubDate": "Sun, 20 Oct 2024 12:15:00 GMT",
+			"image": "https://images.lanouvellerepublique.fr/image/upload/6714f46d34a86f352d8b4569.jpg",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "lanouvellerepublique.fr",
+			"url": "https://www.lanouvellerepublique.fr/thouars/thouars-il-a-participe-a-la-creation-de-l-islo-une-nouvelle-federation-sportive",
+			"description": "Jean-No\u00ebl B\u00e9guier, b\u00e9n\u00e9vole de haut vol, raconte comment il a particip\u00e9 \u00e0 la cr\u00e9ation de l\u2019Islo (International sports loisirs organisation) en 2023. Une nouvelle f\u00e9d\u00e9ration qui grandit vite, avec d\u00e9j\u00e0 28 clubs et 1.250 licenci\u00e9s."
+		},
+		{
+			"title": "Danse, roller party et sport gratuit : ce qui vous attend cette semaine \u00e0 la guinguette Le Soleil \u00e0 St-Pierre-des-Corps - Info-tours.fr",
+			"link": "https://info-tours.fr/toursagglo/2024/10/20/danse-roller-party-et-sport-gratuit-ce-qui-vous-attend-cette-semaine-a-la-guinguette-le-soleil-a-st-pierre-des-corps/",
+			"pubDate": "Sat, 19 Oct 2024 22:30:24 GMT",
+			"image": "https://info-tours.fr/wp-content/uploads/2024/04/le-soleil-spdc.jpg",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "Info Tours | L'actualit\u00e9 de Tours et ses environs",
+			"url": "https://info-tours.fr/toursagglo/2024/10/20/danse-roller-party-et-sport-gratuit-ce-qui-vous-attend-cette-semaine-a-la-guinguette-le-soleil-a-st-pierre-des-corps/",
+			"description": "C\u2019est une premi\u00e8re en Indre-et-Loire : une guinguette d\u2019hiver a ouvert ses portes au 9000 Rue de la Grange Quillet \u00e0 St-Pierre-des-Corps, tout pr\u00e8s des Atlantes. Info Tours est partenaire de ce lieu accessible 7 jours sur 7 jusqu\u2019au 20 avril 2025. Chaque dimanche on vous donne donc le programme des animations des jours \u00e0 venir\u2026"
+		},
+		{
+			"title": "Octobre rose dans l'Eure : du sport pour la bonne cause dimanche \u00e0 Gisors - actu.fr",
+			"link": "https://actu.fr/normandie/gisors_27284/octobre-rose-dans-leure-du-sport-pour-la-bonne-cause-dimanche-a-gisors_61754105.html",
+			"pubDate": "Sat, 19 Oct 2024 16:20:02 GMT",
+			"image": "https://static.actu.fr/uploads/2024/10/3fa9575f1217613b9575f121707b95v.jpg",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "actu.fr",
+			"url": "https://actu.fr/normandie/gisors_27284/octobre-rose-dans-leure-du-sport-pour-la-bonne-cause-dimanche-a-gisors_61754105.html",
+			"description": "Les sportifs au grand c\u0153ur ont rendez-vous dimanche 20 octobre au gymnase Tassus de Gisors \u00e0 l'occasion d'une journ\u00e9e d\u00e9di\u00e9e \u00e0 Octobre rose. De nombreux sports seront repr\u00e9sent\u00e9s."
 		},
 		{
 			"title": "Mbapp\u00e9 cit\u00e9 dans une affaire de viol: Mbapp\u00e9 garde ses explications pour la justice, \"le cas \u00e9ch\u00e9ant\" - RMC Sport",
@@ -661,104 +821,94 @@
 			"description": "Plusieurs m\u00e9dias su\u00e9dois assurent que Kylian Mbapp\u00e9 est vis\u00e9 par une enqu\u00eate pour viol et agression sexuelle dans un h\u00f4tel de Stockholm. La justice confirme l'ouverture d'une enqu\u00eate apr\u00e8s une plainte, sans citer le nom du joueur. L'entourage de Kylian Mbapp\u00e9 a d\u00e9sormais la certitude que le capitaine des Bleus est vis\u00e9."
 		},
 		{
-			"title": "DIRECT. Affaire Mbapp\u00e9: ce que pensent les entra\u00eeneurs de Ligue 1 de la vir\u00e9e nocturne en Su\u00e8de du joueur du Real - RMC Sport",
-			"link": "https://rmcsport.bfmtv.com/football/liga/direct-affaire-mbappe-suivez-toutes-les-infos-en-live_LN-202410180263.html",
-			"pubDate": "Sat, 19 Oct 2024 10:44:14 GMT",
-			"image": "https://images.bfmtv.com/10MJp_YDo3wTo9H8od1FGgrhEyU=/477x0:1709x693/images/Kylian-Mbappe-pendant-un-match-du-Real-Madrid-contre-Villarreal-en-Liga-le-5-octobre-2024-1958354.jpg",
+			"title": "Les directs sport \u00e0 la t\u00e9l\u00e9 ce lundi 21 octobre en Belgique - DH Les Sports +",
+			"link": "https://www.dhnet.be/sports/omnisports/2024/10/20/les-directs-sport-a-la-tele-ce-lundi-21-octobre-en-belgique-M37DDFJMWBE73F7OU5RKLSW3RE/",
+			"pubDate": "Sun, 20 Oct 2024 07:29:00 GMT",
+			"image": "https://www.dhnet.be/resizer/v2/DE724WPMENDPJBXLODG7GREG74.jpg?auth=3b71dd54dd2e5cf89f83a52c22d3b36fc247039ab301695b246236e63fc8bb50&width=1200&height=630&quality=85&focal=1500%2C1000&watermark=https%3A%2F%2Fcloudfront-eu-central-1.images.arcpublishing.com%2Fipmgroup%2F3WZLNJVGMFAQRHOXFC5ZVE3GU4.png%3A100%3A0%2C559",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "DHnet",
+			"url": "https://www.dhnet.be/sports/omnisports/2024/10/20/les-directs-sport-a-la-tele-ce-lundi-21-octobre-en-belgique-M37DDFJMWBE73F7OU5RKLSW3RE/",
+			"description": "\u00c0 quelle heure et sur quelle cha\u00eene voir en direct les \u00e9v\u00e9nements sportifs aujourd'hui depuis la Belgique\u00a0? Les matchs de football en live, le cyclisme en direct \u00e0 la TV, le tennis en direct, le basket-ball, le hockey\u2026"
+		},
+		{
+			"title": "Aidez-moi \u00e0 faire avancer ce combat : Laissez l'acc\u00e8s \u00e0 une salle de sport en hiver pour des petits footballeurs - MesOpinions.com",
+			"link": "https://www.mesopinions.com/petition/sports/laissez-acces-salle-sport-hiver-petits/235118",
+			"pubDate": "Sat, 19 Oct 2024 17:03:21 GMT",
+			"image": "https://www.mesopinions.com/public/img/petition/petition-img-235118-fr.jpeg",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "https://www.mesopinions.com/",
+			"url": "https://www.mesopinions.com/petition/sports/laissez-acces-salle-sport-hiver-petits/235118",
+			"description": "Sports - Signez la p\u00e9tition : Laissez l'acc\u00e8s \u00e0 une salle de sport en hiver pour des petits footballeurs"
+		},
+		{
+			"title": "Stade lavallois. Contre Dunkerque, un Laval \u00e0 deux visages . Sport - Maville",
+			"link": "https://vannes.maville.com/sport/detail_-stade-lavallois.-contre-dunkerque-un-laval-a-deux-visages-_-6516387_actu.Htm",
+			"pubDate": "Sun, 20 Oct 2024 05:00:00 GMT",
+			"image": "https://maville.com/photosmvi/2024/10/20/P34685139D6516387G_crop_1080-600_.jpg",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "",
+			"url": "https://vannes.maville.com/sport/detail_-stade-lavallois.-contre-dunkerque-un-laval-a-deux-visages-_-6516387_actu.Htm",
+			"description": "Sport Vannes Stade lavallois Contre Dunkerque un Laval \u00e0 deux visages - Auteur dune excellente... Vannes"
+		},
+		{
+			"title": "Handball. Proligue : Les Angevins ont encore failli . Sport - Alen\u00e7on Maville",
+			"link": "https://alencon.maville.com/sport/detail_-handball.-proligue-les-angevins-ont-encore-failli-_region-6516411_actu.Htm",
+			"pubDate": "Sun, 20 Oct 2024 05:50:00 GMT",
+			"image": "https://maville.com/photosmvi/2024/10/20/P34685180D6516411G_crop_1080-600_.jpg",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "",
+			"url": "https://alencon.maville.com/sport/detail_-handball.-proligue-les-angevins-ont-encore-failli-_region-6516411_actu.Htm",
+			"description": "Sport Alen\u00e7on Handball Proligue Les Angevins ont encore failli - Angers Sco Cournon 28-30 Les... Alen\u00e7on"
+		},
+		{
+			"title": "\u00c0 Dinan, ces clubs, encadrants et athl\u00e8tes ont \u00e9t\u00e9 r\u00e9compens\u00e9s des Troph\u00e9es du sport - Ouest-France",
+			"link": "https://www.ouest-france.fr/bretagne/dinan-22100/a-dinan-ces-clubs-encadrants-et-athletes-sont-les-nouvelles-etoiles-du-sport-921fc4a2-8e17-11ef-8390-40b2162b6ed9",
+			"pubDate": "Sat, 19 Oct 2024 15:31:22 GMT",
+			"image": "",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "",
+			"url": "",
+			"description": ""
+		},
+		{
+			"title": "Sport - Pauline Astier, la ma\u00eetre-passeuse du Bourges Basket avant le match face \u00e0 Roche Vend\u00e9e ce dimanche - Le Berry R\u00e9publicain",
+			"link": "https://www.leberry.fr/bourges-18000/sports/pauline-astier-la-maitre-passeuse-du-bourges-basket-avant-le-match-face-a-roche-vendee-ce-dimanche_14582700/",
+			"pubDate": "Sun, 20 Oct 2024 04:00:00 GMT",
+			"image": "https://img.lamontagne.fr/JZzxszsTRr1HZNUxDBTieDNdoNTUMpRFm2JBIV1l1Ig/fit/657/438/sm/0/bG9jYWw6Ly8vMDAvMDAvMDcvMjEvOTQvMjAwMDAwNzIxOTQxMg.jpg",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "www.leberry.fr",
+			"url": "https://www.leberry.fr/bourges-18000/sports/pauline-astier-la-maitre-passeuse-du-bourges-basket-avant-le-match-face-a-roche-vendee-ce-dimanche_14582700/",
+			"description": "Tr\u00e8s en vue depuis le d\u00e9but de saison, la meneuse du Bourges Basket vient de r\u00e9aliser deux matchs de tr\u00e8s grande qualit\u00e9 dans la gestion du jeu de son \u00e9quipe. Les statistiques sont l\u00e0 pour le montrer."
+		},
+		{
+			"title": "Handball. N1M : le CPB Rennes surpasse les Mayennais . Sport - Alen\u00e7on Maville",
+			"link": "https://alencon.maville.com/sport/detail_-handball.-n1m-le-cpb-rennes-surpasse-les-mayennais-_region-6516413_actu.Htm",
+			"pubDate": "Sun, 20 Oct 2024 05:52:00 GMT",
+			"image": "https://maville.com/photosmvi/2024/10/20/P34685182D6516413G_crop_1080-600_.jpg",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "",
+			"url": "https://alencon.maville.com/sport/detail_-handball.-n1m-le-cpb-rennes-surpasse-les-mayennais-_region-6516413_actu.Htm",
+			"description": "Sport Alen\u00e7on Handball N1M le CPB Rennes surpasse les Mayennais - CPB Rennes Sud Mayenne 30-24... Alen\u00e7on"
+		},
+		{
+			"title": "Ligue des champions: les supporteurs du PSV finalement autoris\u00e9s \u00e0 se d\u00e9placer \u00e0 Paris - RMC Sport",
+			"link": "https://rmcsport.bfmtv.com/football/ligue-des-champions/ligue-des-champions-les-supporters-du-psv-finalement-autorises-a-se-deplacer-a-paris_AV-202410190437.html",
+			"pubDate": "Sat, 19 Oct 2024 20:06:39 GMT",
+			"image": "https://images.bfmtv.com/WSkhK-PqZtl1c_wL9XiLQN_NLgs=/0x106:2048x1258/images/Les-supporters-du-PSV-Eindhoven-en-deplacement-en-septembre-2024-1959870.jpg",
 			"logo": "https://picsum.photos/32/32?grayscale",
 			"site_name": "RMC Sport",
-			"url": "https://rmcsport.bfmtv.com/football/liga/direct-affaire-mbappe-suivez-toutes-les-infos-en-live_LN-202410180263.html",
-			"description": "Plusieurs m\u00e9dias su\u00e9dois assurent que Kylian Mbapp\u00e9 est vis\u00e9 par une enqu\u00eate pour viol et agression sexuelle dans un h\u00f4tel de Stockholm. La justice confirme l'ouverture d'une enqu\u00eate apr\u00e8s une plainte, sans citer le nom du joueur. L'entourage de Kylian Mbapp\u00e9 a d\u00e9sormais la certitude que le capitaine des Bleus est vis\u00e9 et il a bien eu une relation sexuelle, qu'il estime consentie, avec une jeune femme pendant sa vir\u00e9e en Su\u00e8de."
+			"url": "https://rmcsport.bfmtv.com/football/ligue-des-champions/ligue-des-champions-les-supporters-du-psv-finalement-autorises-a-se-deplacer-a-paris_AV-202410190437.html",
+			"description": "Le conseil d'\u00c9tat vient de suspendre l'arr\u00eat\u00e9 d'interdiction de d\u00e9placement des supporteurs du PSV Eindhoven \u00e0 Paris, pris le 16 octobre dernier par le minist\u00e8re de l'Int\u00e9rieur. Les fans hollandais sont donc autoris\u00e9s \u00e0 se rendre au Parc des Princes pour la rencontre de mardi en Ligue des champions..."
 		},
 		{
-			"title": "Rink-hockey. Dinan Qu\u00e9vert est battu en Supercoupe par Saint-Omer . Sport - Alen\u00e7on Maville",
-			"link": "https://alencon.maville.com/sport/detail_-rink-hockey.-dinan-quevert-est-battu-en-supercoupe-par-saint-omer-_region-6516392_actu.Htm",
-			"pubDate": "Sun, 20 Oct 2024 05:07:00 GMT",
-			"image": "https://maville.com/photosmvi/2024/10/20/P34685145D6516392G_crop_1080-600_.jpg",
+			"title": "Volley-ball. \u00c9lite f\u00e9minine : le REC poursuit sa belle s\u00e9rie . Sport - Saint-Nazaire",
+			"link": "https://saint-nazaire.maville.com/sport/infos/detail_-volley-ball.-elite-feminine-le-rec-poursuit-sa-belle-serie-_-6516244_actu.Htm",
+			"pubDate": "Sat, 19 Oct 2024 22:52:00 GMT",
+			"image": "https://maville.com/photosmvi/2024/10/20/P34684911D6516244G_crop_1080-600_.jpg",
 			"logo": "https://picsum.photos/32/32?grayscale",
 			"site_name": "",
-			"url": "https://alencon.maville.com/sport/detail_-rink-hockey.-dinan-quevert-est-battu-en-supercoupe-par-saint-omer-_region-6516392_actu.Htm",
-			"description": "Sport Alen\u00e7on Rink-hockey Dinan Qu\u00e9vert est battu en Supercoupe par Saint-Omer - Dans un match... Alen\u00e7on"
-		},
-		{
-			"title": "DAZN France : prix, droits TV Ligue 1, abonnement... tout savoir sur le \"Netflix du sport\" - Capital.fr",
-			"link": "https://www.capital.fr/conso/dazn-prix-ligue-1-abonnement-tout-savoir-netflix-sport-1482685",
-			"pubDate": "Wed, 16 Oct 2024 08:46:55 GMT",
-			"image": "https://cap.img.pmdstatic.net/fit/https.3A.2F.2Fi.2Epmdstatic.2Enet.2Ftel.2F2023.2F10.2F18.2F9c441f4e-de98-44f1-afbb-01343fa838e6.2Ejpeg/1200x630/cr/wqkgREFaTiAvIENBUElUQUw%3D/dazn-prix-ligue-1-abonnement-tout-savoir-netflix-sport-1482685.jpg",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "Capital.fr",
-			"url": "https://www.capital.fr/conso/dazn-prix-ligue-1-abonnement-tout-savoir-netflix-sport-1482685",
-			"description": "Football, basket, boxe, MMA, NFL... DAZN diffuse d\u00e9j\u00e0 de nombreuses comp\u00e9titions sportives en direct. Mais la plateforme de streaming, \"Netflix du Sport\", a de grandes ambitions en France, et elle vient justement de mettre la main sur la Ligue 1, aux c\u00f4t\u00e9s de beIN. On vous explique tout."
-		},
-		{
-			"title": "Cano\u00eb-Kayak : \u00ab Boris a fait une tr\u00e8s belle carri\u00e8re \u00bb, Tony Estanguet se rappelle Boris Neveu, son ancien compagnon d\u2019entra\u00eenement - La D\u00e9p\u00eache du Midi",
-			"link": "https://www.ladepeche.fr/2024/10/19/canoe-kayak-boris-a-fait-une-tres-belle-carriere-tony-estanguet-se-rappelle-boris-neveu-son-ancien-compagnon-dentrainement-12272619.php",
-			"pubDate": "Sat, 19 Oct 2024 19:11:00 GMT",
-			"image": "https://images.ladepeche.fr/api/v1/images/view/67140148af49f54d9b7228d8/large/image.jpg?v=1",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "ladepeche.fr",
-			"url": "https://www.ladepeche.fr/2024/10/19/canoe-kayak-boris-a-fait-une-tres-belle-carriere-tony-estanguet-se-rappelle-boris-neveu-son-ancien-compagnon-dentrainement-12272619.php",
-			"description": "Pr\u00e9sent samedi \u00e0 Pau pour les championnats de France de slalom, l\u2019ancien champion olympique et pr\u00e9sident du comit\u00e9 d\u2019organisation des Jeux de Paris s\u2019est confi\u00e9 sur la future retraite de Boris Neveu, qu\u2019il a longtemps..."
-		},
-		{
-			"title": "Futsal. D1 : Nantes s\u2019impose en fin de match contre Montpellier . Sport - - Le Mans.maville.com",
-			"link": "https://lemans.maville.com/sport/detail_-futsal.-d1-nantes-s-impose-en-fin-de-match-contre-montpellier-_-6516245_actu.Htm",
-			"pubDate": "Sat, 19 Oct 2024 23:08:00 GMT",
-			"image": "https://maville.com/photosmvi/2024/10/20/P34684908D6516245G_crop_1080-600_.jpg",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "",
-			"url": "https://lemans.maville.com/sport/detail_-futsal.-d1-nantes-s-impose-en-fin-de-match-contre-montpellier-_-6516245_actu.Htm",
-			"description": "Sport Le Mans Futsal D1 Nantes simpose en fin de match contre Montpellier - Rois du money-time... Le Mans"
-		},
-		{
-			"title": "Handball - DF2. Le NHF offre son plus beau sourire contre Pessac . Sport - - Le Mans.maville.com",
-			"link": "https://lemans.maville.com/sport/detail_-handball-df2.-le-nhf-offre-son-plus-beau-sourire-contre-pessac-_fil-6516222_actu.Htm",
-			"pubDate": "Sat, 19 Oct 2024 21:50:00 GMT",
-			"image": "https://maville.com/photosmvi/2024/10/20/P34684842D6516222G_crop_1080-600_.jpg",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "",
-			"url": "https://lemans.maville.com/sport/detail_-handball-df2.-le-nhf-offre-son-plus-beau-sourire-contre-pessac-_fil-6516222_actu.Htm",
-			"description": "Sport Le Mans Handball - DF2 Le NHF offre son plus beau sourire contre Pessac - Nantes Pessac ... Le Mans"
-		},
-		{
-			"title": "Max Verstappen remporte le sprint - rts.ch - Sport - RTS.ch",
-			"link": "https://www.rts.ch/sport/2024/article/max-verstappen-remporte-le-sprint-28667124.html",
-			"pubDate": "Sat, 19 Oct 2024 23:26:20 GMT",
-			"image": "https://img.rts.ch/articles/2024/image/pj7jlu-28667717.image?w=1200&h=630",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "RTSSport.ch",
-			"url": "https://www.rts.ch/sport/2024/article/max-verstappen-remporte-le-sprint-28667124.html",
-			"description": "Max Verstappen a remport\u00e9 haut la main le sprint du Grand Prix des Etats-Unis \u00e0 Austin. Le N\u00e9erlandais a ainsi renforc\u00e9 sa place de leader du championnat du monde de formule 1."
-		},
-		{
-			"title": "Apple abandonne ses \u00e9couteurs de sport sans les remplacer, pour le moment - Frandroid",
-			"link": "https://www.frandroid.com/marques/apple/2376242_apple-abandonne-ses-ecouteurs-de-sport-sans-les-remplacer-pour-le-moment",
-			"pubDate": "Sat, 19 Oct 2024 09:16:25 GMT",
-			"image": "https://images.frandroid.com/wp-content/uploads/2024/10/beats-powerbeats-pro-2-1200x646-1.jpeg",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "Frandroid",
-			"url": "https://www.frandroid.com/marques/apple/2376242_apple-abandonne-ses-ecouteurs-de-sport-sans-les-remplacer-pour-le-moment",
-			"description": "Apple abandonne ses Powerbeats Pro sans m\u00eame proposer d'alternative pour le moment. Sortis en 2019, les Powerbeats Pro sont des \u00e9couteurs de sport de la"
-		},
-		{
-			"title": "Futsal. D1 : Nantes s\u2019impose en fin de match contre Montpellier . Sport - Maville",
-			"link": "https://saint-brieuc.maville.com/sport/detail_-futsal.-d1-nantes-s-impose-en-fin-de-match-contre-montpellier-_-6516245_actu.Htm",
-			"pubDate": "Sun, 20 Oct 2024 00:08:00 GMT",
-			"image": "https://maville.com/photosmvi/2024/10/20/P34684908D6516245G_crop_1080-600_.jpg",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "",
-			"url": "https://saint-brieuc.maville.com/sport/detail_-futsal.-d1-nantes-s-impose-en-fin-de-match-contre-montpellier-_-6516245_actu.Htm",
-			"description": "Sport Saint-Brieuc Futsal D1 Nantes simpose en fin de match contre Montpellier - Rois du... Saint-Brieuc"
-		},
-		{
-			"title": "L'Afrique en jeux - Sport en l\u00e9gende - DeHart Hubbard - premier Noir en or aux JO, un changement d'\u00e8re ? - RFI",
-			"link": "https://www.rfi.fr/fr/podcasts/l-afrique-en-jeux/20241019-sport-en-l%C3%A9gende-dehart-hubbard-premier-noir-en-or-aux-jo-un-changement-d-%C3%A8re",
-			"pubDate": "Sat, 19 Oct 2024 12:05:07 GMT",
-			"image": "https://s.rfi.fr/media/display/38b0ec74-8d4b-11ef-8b05-005056a97e36/w:1280/p:16x9/montage%20couvertures%20champions%20dits%20de%20couleur_armee%20de%20diplomates%20ok.jpg",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "RFI",
-			"url": "https://www.rfi.fr/fr/podcasts/l-afrique-en-jeux/20241019-sport-en-l%C3%A9gende-dehart-hubbard-premier-noir-en-or-aux-jo-un-changement-d-%C3%A8re",
-			"description": "Dans l\u2019\u00e9preuve du saut en longueur \u00e0 Paris 1924, DeHart Hubbard devient le premier champion olympique noir \u00e0 remporter une \u00e9preuve individuelle aux J.O. Dans une \u00e9poque \u00e0 l\u2019amorce des luttes pour l\u2019\u00e9galit\u00e9\u0301\u2026"
+			"url": "",
+			"description": "Sport Saint-Nazaire Volley-ball \u00c9lite f\u00e9minine le REC poursuit sa belle s\u00e9rie - Les Rennaises... Saint-Nazaire"
 		},
 		{
 			"title": "Un label sport sant\u00e9 pour la gym - La D\u00e9p\u00eache du Midi",
@@ -771,14 +921,44 @@
 			"description": "C\u2019est une excellente nouvelle pour les adh\u00e9rentes de la vall\u00e9e, qui \u00e9taient impatientes de reprendre les cours de gymnastique assur\u00e9s par Sarah Verni\u00e8re. En effet, apr\u00e8s la pause estivale, les s\u00e9ances de gym douce ont..."
 		},
 		{
-			"title": "Football : la r\u00e9volte renversante d\u2019Onet - Centre Presse Aveyron",
-			"link": "https://www.centrepresseaveyron.fr/2024/10/19/football-la-revolte-renversante-donet-12272689.php",
-			"pubDate": "Sat, 19 Oct 2024 21:11:00 GMT",
-			"image": "https://images.centrepresseaveyron.fr/api/v1/images/view/67140edb5e49bb417b5fd205/large/image.jpg?v=1",
+			"title": "Google, Samsung, Apple\u2026 comment le sport et la sant\u00e9 ont transform\u00e9 les montres connect\u00e9es - Frandroid",
+			"link": "https://www.frandroid.com/produits-android/accessoires-objets-connectes/montres-connectees-2/2366850_google-samsung-apple-comment-le-sport-et-la-sante-ont-transforme-les-montres-connectees",
+			"pubDate": "Sat, 19 Oct 2024 16:00:00 GMT",
+			"image": "https://images.frandroid.com/wp-content/uploads/2024/10/samsung-galaxy-watch-ultra-19-1200x800-1.jpg",
 			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "centrepresseaveyron.fr",
-			"url": "https://www.centrepresseaveyron.fr/2024/10/19/football-la-revolte-renversante-donet-12272689.php",
-			"description": "Samedi 19\u00a0octobre, les Caston\u00e9tois ont renvers\u00e9 le dauphin Canet en deuxi\u00e8me mi-temps, tout en signant leur premi\u00e8re victoire (2-1)\u00a0!"
+			"site_name": "Frandroid",
+			"url": "https://www.frandroid.com/produits-android/accessoires-objets-connectes/montres-connectees-2/2366850_google-samsung-apple-comment-le-sport-et-la-sante-ont-transforme-les-montres-connectees",
+			"description": "En dix ans, les montres connect\u00e9es ont bien \u00e9volu\u00e9. Et si les derniers mod\u00e8les stagnent en termes de nouveaut\u00e9s mat\u00e9rielles, de nouvelles fonctions leur"
+		},
+		{
+			"title": "Apple abandonne ses \u00e9couteurs de sport sans les remplacer, pour le moment - Frandroid",
+			"link": "https://www.frandroid.com/marques/apple/2376242_apple-abandonne-ses-ecouteurs-de-sport-sans-les-remplacer-pour-le-moment",
+			"pubDate": "Sat, 19 Oct 2024 09:16:25 GMT",
+			"image": "https://images.frandroid.com/wp-content/uploads/2024/10/beats-powerbeats-pro-2-1200x646-1.jpeg",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "Frandroid",
+			"url": "https://www.frandroid.com/marques/apple/2376242_apple-abandonne-ses-ecouteurs-de-sport-sans-les-remplacer-pour-le-moment",
+			"description": "Apple abandonne ses Powerbeats Pro sans m\u00eame proposer d'alternative pour le moment. Sortis en 2019, les Powerbeats Pro sont des \u00e9couteurs de sport de la"
+		},
+		{
+			"title": "Stade Brestois. Les raisons d\u2019une fin de match compliqu\u00e9e - Ouest-France",
+			"link": "https://www.ouest-france.fr/sport/football/stade-brestois/stade-brestois-les-raisons-dune-fin-de-match-compliquee-3aef09ce-8ec9-11ef-9d74-cdf49a297048",
+			"pubDate": "Sun, 20 Oct 2024 10:34:21 GMT",
+			"image": "",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "",
+			"url": "",
+			"description": ""
+		},
+		{
+			"title": "Nord : cette commune r\u00e9compens\u00e9e pour son attractivit\u00e9 sportive avec 2 labels -  L'Observateur",
+			"link": "https://www.lobservateur.fr/nord-commune-label-attractivite-sport/",
+			"pubDate": "Sun, 20 Oct 2024 10:00:00 GMT",
+			"image": "https://www.lobservateur.fr/wp-content/uploads/2024/10/a00086b1d0176b20066008v_01055931.jpg",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "L'Observateur.fr",
+			"url": "https://www.lobservateur.fr/nord-commune-label-attractivite-sport/",
+			"description": "Les Jeux olympiques de Paris ont incit\u00e9 les collectivit\u00e9s \u00e0 s'emparer de cette grande cause nationale qu'est le sport. Une commune du Nord vient de recevoir deux labels pour son investissement."
 		},
 		{
 			"title": "Budget 2025 : le CNOSF interpelle le gouvernement sur la place du sport dans le projet de loi de finances - franceinfo",
@@ -791,26 +971,6 @@
 			"description": "Le mouvement sportif fran\u00e7ais appelle, mardi, le gouvernement et les parlementaires \"\u00e0 donner sa juste place au sport dans l\u2019\u00e9laboration du budget de l\u2019Etat\"."
 		},
 		{
-			"title": "Futsal. D1 : Nantes s\u2019impose en fin de match contre Montpellier . Sport - Maville.com Laval",
-			"link": "https://laval.maville.com/sport/detail_-futsal.-d1-nantes-s-impose-en-fin-de-match-contre-montpellier-_-6516245_actu.Htm",
-			"pubDate": "Sat, 19 Oct 2024 23:08:00 GMT",
-			"image": "https://maville.com/photosmvi/2024/10/20/P34684908D6516245G_crop_1080-600_.jpg",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "",
-			"url": "https://laval.maville.com/sport/detail_-futsal.-d1-nantes-s-impose-en-fin-de-match-contre-montpellier-_-6516245_actu.Htm",
-			"description": "Sport Laval Futsal D1 Nantes simpose en fin de match contre Montpellier - Rois du money-time... Laval"
-		},
-		{
-			"title": "Le dernier bracelet connect\u00e9 de Xiaomi s\u2019est mis au sport et a d\u00e9j\u00e0 perdu 30 % de sa valeur - Frandroid",
-			"link": "https://www.frandroid.com/bons-plans/2373630_le-dernier-bracelet-connecte-de-xiaomi-sest-mis-au-sport-et-a-deja-perdu-30-de-sa-valeur",
-			"pubDate": "Sat, 19 Oct 2024 15:30:00 GMT",
-			"image": "https://images.frandroid.com/wp-content/uploads/2024/08/smart-band-9-photo-5-scaled.jpg",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "Frandroid",
-			"url": "https://www.frandroid.com/bons-plans/2373630_le-dernier-bracelet-connecte-de-xiaomi-sest-mis-au-sport-et-a-deja-perdu-30-de-sa-valeur",
-			"description": "Le Xiaomi Smart Band 9 est un bracelet connect\u00e9, \u00e0 ne pas confondre avec une montre, que vous retrouvez avec une bonne petite r\u00e9duction de 15 euros en ce"
-		},
-		{
 			"title": "Financement du sport : le recours accru aux taxes sur les paris sportifs sera au c\u0153ur des d\u00e9bats \u00e0 l\u2019Assembl\u00e9e - Le Monde",
 			"link": "https://www.lemonde.fr/sport/article/2024/10/16/financement-du-sport-le-recours-accru-aux-taxes-sur-les-paris-sportifs-sera-au-c-ur-des-debats-a-l-assemblee_6353568_3242.html",
 			"pubDate": "Wed, 16 Oct 2024 14:13:42 GMT",
@@ -819,26 +979,6 @@
 			"site_name": "Le Monde.fr",
 			"url": "https://www.lemonde.fr/sport/article/2024/10/16/financement-du-sport-le-recours-accru-aux-taxes-sur-les-paris-sportifs-sera-au-c-ur-des-debats-a-l-assemblee_6353568_3242.html",
 			"description": "Les d\u00e9put\u00e9s de la commission des finances d\u00e9butent, mercredi, l\u2019examen du projet de budget pour 2025. Celui-ci pr\u00e9voit un recul des cr\u00e9dits pour le sport, venant contredire le discours sur l\u2019\u00ab\u00a0h\u00e9ritage\u00a0\u00bb des Jeux olympiques et paralympiques."
-		},
-		{
-			"title": "Enfance, Jeunesse & Sport - Ville de Gu\u00e9rande",
-			"link": "https://www.ville-guerande.fr/pratique-vos-demarches/enfance-jeunesse-sport",
-			"pubDate": "Tue, 08 Oct 2024 13:35:23 GMT",
-			"image": "https://www.ville-guerande.fr/fileadmin/_processed_/c/4/csm_IMG_2578_1ab83cf907.jpg",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "Ville de Gu\u00e9rande : Site Internet",
-			"url": "https://www.ville-guerande.fr/pratique-vos-demarches/enfance-jeunesse-sport",
-			"description": "Retrouvez toutes les informations pratiques li\u00e9es \u00e0 la petite enfance, enfance et jeunesse : portail famille, \u00e9tablissements scolaires, services p\u00e9riscolaires et extrascolaires , accueil de loisirs et activit\u00e9s culturelles et sportives."
-		},
-		{
-			"title": "\"Une honte\": le PSG agac\u00e9 par un sous-entendu de Mbapp\u00e9 sur les r\u00e9seaux sociaux - RMC Sport",
-			"link": "https://rmcsport.bfmtv.com/football/ligue-1/une-honte-le-psg-agace-par-un-sous-entendu-de-mbappe-sur-les-reseaux-sociaux_AV-202410140755.html",
-			"pubDate": "Mon, 14 Oct 2024 16:19:20 GMT",
-			"image": "https://images.bfmtv.com/-rPqY7T2-0SKJglOrh8kOrpNGWg=/0x141:2048x1293/images/Mbappe-au-PSG-en-octobre-2022-1956387.jpg",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "RMC Sport",
-			"url": "https://rmcsport.bfmtv.com/football/ligue-1/une-honte-le-psg-agace-par-un-sous-entendu-de-mbappe-sur-les-reseaux-sociaux_AV-202410140755.html",
-			"description": "Dans un message sur X, Kylian Mbapp\u00e9 a \"d\u00e9menti\" quelconque implication dans une enqu\u00eate pour un viol pr\u00e9sum\u00e9 qui aurait eu dans l\u2019h\u00f4tel su\u00e9dois o\u00f9 il a s\u00e9journ\u00e9 il y a quelques jours en faisant un rapprochement avec le conflit juridique qui l'oppose au PSG. Ce que le club de la capitale n\u2019a pas..."
 		},
 		{
 			"title": "Financement du sport : les recettes de l\u2019Etat amput\u00e9es de 141 millions d\u2019euros en 2025 du fait d\u2019exemptions fiscales - Le Monde",
@@ -851,175 +991,55 @@
 			"description": "Le taux r\u00e9duit de TVA \u00e0 5,5\u00a0% appliqu\u00e9 \u00e0 la billetterie des manifestations sportives repr\u00e9sentera \u00e0 lui seul 130\u00a0millions d\u2019euros de moindres rentr\u00e9es fiscales en\u00a02025, apr\u00e8s 123\u00a0millions cette ann\u00e9e."
 		},
 		{
-			"title": "Volley-ball. \u00c9lite f\u00e9minine : le REC poursuit sa belle s\u00e9rie . Sport - Maville",
-			"link": "https://redon.maville.com/sport/detail_-volley-ball.-elite-feminine-le-rec-poursuit-sa-belle-serie-_dep-6516244_actu.Htm",
-			"pubDate": "Sat, 19 Oct 2024 23:52:00 GMT",
-			"image": "https://maville.com/photosmvi/2024/10/20/P34684911D6516244G_crop_1080-600_.jpg",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "",
-			"url": "https://redon.maville.com/sport/detail_-volley-ball.-elite-feminine-le-rec-poursuit-sa-belle-serie-_dep-6516244_actu.Htm",
-			"description": "Sport Redon Volley-ball \u00c9lite f\u00e9minine le REC poursuit sa belle s\u00e9rie - Les Rennaises ont... Redon"
-		},
-		{
-			"title": "National 2. Un nul frustrant entre Saumur et Ch\u00e2teaubriant . Sport - Maville",
-			"link": "https://vannes.maville.com/sport/infos/detail_-national-2.-un-nul-frustrant-entre-saumur-et-chateaubriant-_-6516200_actu.Htm",
-			"pubDate": "Sat, 19 Oct 2024 20:41:00 GMT",
-			"image": "https://maville.com/photosmvi/2024/10/20/P34684802D6516200G_crop_1080-600_.jpg",
+			"title": "Le Pape au Corriere dello Sport : Raconter le Sport comme un Chant \u00e0 la Vie - Actualit\u00e9s du Vatican - FootBoom",
+			"link": "https://www.footboom1.com/fr/news/football/1963429-the-pope-to-corriere-dello-sport-telling-sport-as-a-song-to-life-vatican-news",
+			"pubDate": "Sun, 20 Oct 2024 02:11:00 GMT",
+			"image": "",
 			"logo": "https://picsum.photos/32/32?grayscale",
 			"site_name": "",
 			"url": "",
-			"description": "Sport Vannes National 2 Un nul frustrant entre Saumur et Ch\u00e2teaubriant - Dans une rencontre... Vannes"
+			"description": ""
 		},
 		{
-			"title": "Handball. N1M : Hennebont d\u00e9croche le match nul contre la r\u00e9serve nantaise . Sport - Maville",
-			"link": "https://vannes.maville.com/sport/detail_-handball.-n1m-hennebont-decroche-le-match-nul-contre-la-reserve-nantaise-_-6516214_actu.Htm",
-			"pubDate": "Sat, 19 Oct 2024 21:13:00 GMT",
-			"image": "https://maville.com/photosmvi/2024/10/20/P34684820D6516214G_crop_1080-600_.jpg",
+			"title": "\"Une honte\": le PSG agac\u00e9 par un sous-entendu de Mbapp\u00e9 sur les r\u00e9seaux sociaux - RMC Sport",
+			"link": "https://rmcsport.bfmtv.com/football/ligue-1/une-honte-le-psg-agace-par-un-sous-entendu-de-mbappe-sur-les-reseaux-sociaux_AV-202410140755.html",
+			"pubDate": "Mon, 14 Oct 2024 16:19:20 GMT",
+			"image": "https://images.bfmtv.com/-rPqY7T2-0SKJglOrh8kOrpNGWg=/0x141:2048x1293/images/Mbappe-au-PSG-en-octobre-2022-1956387.jpg",
 			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "",
-			"url": "https://vannes.maville.com/sport/detail_-handball.-n1m-hennebont-decroche-le-match-nul-contre-la-reserve-nantaise-_-6516214_actu.Htm",
-			"description": "Sport Vannes Handball N1M Hennebont d\u00e9croche le match nul contre la r\u00e9serve nantaise - Les... Vannes"
+			"site_name": "RMC Sport",
+			"url": "https://rmcsport.bfmtv.com/football/ligue-1/une-honte-le-psg-agace-par-un-sous-entendu-de-mbappe-sur-les-reseaux-sociaux_AV-202410140755.html",
+			"description": "Dans un message sur X, Kylian Mbapp\u00e9 a \"d\u00e9menti\" quelconque implication dans une enqu\u00eate pour un viol pr\u00e9sum\u00e9 qui aurait eu dans l\u2019h\u00f4tel su\u00e9dois o\u00f9 il a s\u00e9journ\u00e9 il y a quelques jours en faisant un rapprochement avec le conflit juridique qui l'oppose au PSG. Ce que le club de la capitale n\u2019a pas..."
 		},
 		{
-			"title": "Rugby. Nationale 2 : le REC au forceps en Vaucluse . Sport - - Le Mans.maville.com",
-			"link": "https://lemans.maville.com/sport/detail_-rugby.-nationale-2-le-rec-au-forceps-en-vaucluse-_-6516157_actu.Htm",
-			"pubDate": "Sat, 19 Oct 2024 19:17:00 GMT",
-			"image": "https://maville.com/photosmvi/2024/10/19/P34684670D6516157G_crop_1080-600_.jpg",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "",
-			"url": "https://lemans.maville.com/sport/detail_-rugby.-nationale-2-le-rec-au-forceps-en-vaucluse-_-6516157_actu.Htm",
-			"description": "Sport Le Mans Rugby Nationale 2 le REC au forceps en Vaucluse - Le Rennes EC a d\u00e9croch\u00e9 sa... Le Mans"
-		},
-		{
-			"title": "Handball. N2M : Et de deux pour l\u2019ES Falaise . Sport - Maville",
-			"link": "https://vannes.maville.com/sport/infos/detail_-handball.-n2m-et-de-deux-pour-l-es-falaise-_-6516211_actu.Htm",
-			"pubDate": "Sat, 19 Oct 2024 21:10:00 GMT",
-			"image": "https://maville.com/photosmvi/2024/10/20/P34684813D6516211G_crop_1080-600_.jpg",
+			"title": "Rugby. F\u00e9d\u00e9rale 3 : le RC Sablais puissance quatre . Sport - Saint-Nazaire",
+			"link": "https://saint-nazaire.maville.com/sport/infos/detail_-rugby.-federale-3-le-rc-sablais-puissance-quatre-_-6516218_actu.Htm",
+			"pubDate": "Sat, 19 Oct 2024 21:42:00 GMT",
+			"image": "https://maville.com/photosmvi/2024/10/20/P34684851D6516218G_crop_1080-600_.jpg",
 			"logo": "https://picsum.photos/32/32?grayscale",
 			"site_name": "",
 			"url": "",
-			"description": "Sport Vannes Handball N2M Et de deux pour lES Falaise - LES Falaise triomphe \u00e0 domicile et... Vannes"
+			"description": "Sport Saint-Nazaire Rugby F\u00e9d\u00e9rale 3 le RC Sablais puissance quatre - Sans trop m\u00e9nager le... Saint-Nazaire"
 		},
 		{
-			"title": "Karat\u00e9 : le Lotois Owen Le Clech Malagrida vice-champion d\u2019Europe WUKF 2 024 - La D\u00e9p\u00eache du Midi",
-			"link": "https://www.ladepeche.fr/2024/10/19/karate-le-lotois-owen-le-clech-malagrida-vice-champion-deurope-wukf-2-024-12272026.php",
-			"pubDate": "Sat, 19 Oct 2024 14:31:00 GMT",
-			"image": "https://images.ladepeche.fr/api/v1/images/view/6713b3dfbd412830bd57911d/large/image.jpg?v=1",
+			"title": "Max Verstappen remporte le sprint - rts.ch - Sport - RTS.ch",
+			"link": "https://www.rts.ch/sport/2024/article/max-verstappen-remporte-le-sprint-28667124.html",
+			"pubDate": "Sat, 19 Oct 2024 23:26:20 GMT",
+			"image": "https://img.rts.ch/articles/2024/image/pj7jlu-28667717.image?w=1200&h=630",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "RTSSport.ch",
+			"url": "https://www.rts.ch/sport/2024/article/max-verstappen-remporte-le-sprint-28667124.html",
+			"description": "Max Verstappen a remport\u00e9 haut la main le sprint du Grand Prix des Etats-Unis \u00e0 Austin. Le N\u00e9erlandais a ainsi renforc\u00e9 sa place de leader du championnat du monde de formule 1."
+		},
+		{
+			"title": "Cano\u00eb-Kayak : \u00ab Boris a fait une tr\u00e8s belle carri\u00e8re \u00bb, Tony Estanguet se rappelle Boris Neveu, son ancien compagnon d\u2019entra\u00eenement - La D\u00e9p\u00eache du Midi",
+			"link": "https://www.ladepeche.fr/2024/10/19/canoe-kayak-boris-a-fait-une-tres-belle-carriere-tony-estanguet-se-rappelle-boris-neveu-son-ancien-compagnon-dentrainement-12272619.php",
+			"pubDate": "Sat, 19 Oct 2024 19:11:00 GMT",
+			"image": "https://images.ladepeche.fr/api/v1/images/view/67140148af49f54d9b7228d8/large/image.jpg?v=1",
 			"logo": "https://picsum.photos/32/32?grayscale",
 			"site_name": "ladepeche.fr",
-			"url": "https://www.ladepeche.fr/2024/10/19/karate-le-lotois-owen-le-clech-malagrida-vice-champion-deurope-wukf-2-024-12272026.php",
-			"description": "Trois mois apr\u00e8s avoir d\u00e9croch\u00e9 l\u2019or avec l\u2019\u00e9quipe de France aux championnats du monde WUKF au Mexique, le Lotois Owen Le Clech Malagrida est devenu vice champion d\u2019Europe WUKF 2\u00a0024 il y a quelques jours \u00e0 Varsovie."
-		},
-		{
-			"title": "\"Chaque jour loin du terrain est une souffrance\", en larmes, Neymar \u00e9voque son retour de blessure - RMC Sport",
-			"link": "https://rmcsport.bfmtv.com/football/chaque-jour-loin-du-terrain-est-une-souffrance-en-larmes-neymar-evoque-son-retour-de-blessure_AV-202410190324.html",
-			"pubDate": "Sat, 19 Oct 2024 14:16:31 GMT",
-			"image": "https://images.bfmtv.com/wpjRBSlBgmt3tc2p2UeONJL1OEY=/0x27:2048x1179/images/Neymar-lors-d-un-evenement-de-charite-le-3-juin-2024-1959759.jpg",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "RMC Sport",
-			"url": "https://rmcsport.bfmtv.com/football/chaque-jour-loin-du-terrain-est-une-souffrance-en-larmes-neymar-evoque-son-retour-de-blessure_AV-202410190324.html",
-			"description": "Victime d'une rupture du ligament crois\u00e9 ant\u00e9rieur du genou gauche le 18 octobre dernier alors qu'il jouait avec la Sele\u00e7ao face \u00e0 l'Uruguay, Neymar est revenu dans une vid\u00e9o autoproduite sur toute sa r\u00e9\u00e9ducation, avant d'\u00e9voquer, en larmes, combien le terrain lui manquait."
-		},
-		{
-			"title": "Futsal. D1 : Nantes s\u2019impose en fin de match contre Montpellier . Sport - Nantes Maville",
-			"link": "https://nantes.maville.com/sport/detail_-futsal.-d1-nantes-s-impose-en-fin-de-match-contre-montpellier-_-6516245_actu.Htm",
-			"pubDate": "Sat, 19 Oct 2024 23:08:00 GMT",
-			"image": "https://maville.com/photosmvi/2024/10/20/P34684908D6516245G_crop_1080-600_.jpg",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "",
-			"url": "https://nantes.maville.com/sport/detail_-futsal.-d1-nantes-s-impose-en-fin-de-match-contre-montpellier-_-6516245_actu.Htm",
-			"description": "Sport Nantes Futsal D1 Nantes simpose en fin de match contre Montpellier - Rois du money-time... Nantes"
-		},
-		{
-			"title": "Kylian Mbapp\u00e9 dispara\u00eet myst\u00e9rieusement d'une photo du Real Madrid - RMC Sport",
-			"link": "https://rmcsport.bfmtv.com/football/liga/kylian-mbappe-disparait-mysterieusement-d-une-photo-du-real-madrid_AP-202410150480.html",
-			"pubDate": "Tue, 15 Oct 2024 11:35:49 GMT",
-			"image": "https://images.bfmtv.com/fVF0JFItylqWj8IfM6pgFv2BrQo=/0x0:1600x900/images/Kylian-Mbappe-1956909.jpg",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "RMC Sport",
-			"url": "https://rmcsport.bfmtv.com/football/liga/kylian-mbappe-disparait-mysterieusement-d-une-photo-du-real-madrid_AP-202410150480.html",
-			"description": "En pleine tourmente li\u00e9e \u00e0 l'accusation de viol dont il fait l'objet selon les m\u00e9dias su\u00e9dois, Kylian Mbapp\u00e9 a \u00e9t\u00e9 effac\u00e9 d'une photo publi\u00e9e par le Real Madrid."
-		},
-		{
-			"title": "\u00c9cole municipale de d\u00e9couverte du sport - Ville de Chamb\u00e9ry",
-			"link": "https://www.chambery.fr/973-ecole-municipale-de-decouverte-du-sport.htm",
-			"pubDate": "Wed, 09 Oct 2024 07:00:00 GMT",
-			"image": "https://www.chambery.fr/uploads/Image/4e/3553_903_Rugby-enfant.jpg",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "",
-			"url": "https://www.chambery.fr/973-ecole-municipale-de-decouverte-du-sport.htm",
-			"description": "La d\u00e9couverte et l'initiation sportive pour les enfants chamb\u00e9riens "
-		},
-		{
-			"title": "Volley-ball - LAF. Les Neptunes font voler Levallois en \u00e9clats . Sport - Alen\u00e7on Maville",
-			"link": "https://alencon.maville.com/sport/detail_-volley-ball-laf.-les-neptunes-font-voler-levallois-en-eclats-_region-6516223_actu.Htm",
-			"pubDate": "Sat, 19 Oct 2024 21:53:00 GMT",
-			"image": "https://maville.com/photosmvi/2024/10/20/P34684868D6516223G_crop_1080-600_.jpg",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "",
-			"url": "https://alencon.maville.com/sport/detail_-volley-ball-laf.-les-neptunes-font-voler-levallois-en-eclats-_region-6516223_actu.Htm",
-			"description": "Sport Alen\u00e7on Volley-ball - LAF Les Neptunes font voler Levallois en \u00e9clats - Levallois-Paris... Alen\u00e7on"
-		},
-		{
-			"title": "Handball - N1F. Cette fois, le Roz Hand\u2019Du est d\u2019attaque . Sport - Alen\u00e7on Maville",
-			"link": "https://alencon.maville.com/sport/detail_-handball-n1f.-cette-fois-le-roz-hand-du-est-d-attaque-_region-6516243_actu.Htm",
-			"pubDate": "Sat, 19 Oct 2024 22:50:00 GMT",
-			"image": "https://maville.com/photosmvi/2024/10/20/P34684910D6516243G_crop_1080-600_.jpg",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "",
-			"url": "https://alencon.maville.com/sport/detail_-handball-n1f.-cette-fois-le-roz-hand-du-est-d-attaque-_region-6516243_actu.Htm",
-			"description": "Sport Alen\u00e7on Handball - N1F Cette fois le Roz HandDu est dattaque - Les Finist\u00e9riennes ont... Alen\u00e7on"
-		},
-		{
-			"title": "Volley-ball - LAF. Les Neptunes font voler Levallois en \u00e9clats . Sport - Les Sables d'Olonne Maville",
-			"link": "https://lessablesdolonne.maville.com/sport/detail_-volley-ball-laf.-les-neptunes-font-voler-levallois-en-eclats-_fil-6516223_actu.Htm",
-			"pubDate": "Sat, 19 Oct 2024 21:53:00 GMT",
-			"image": "https://maville.com/photosmvi/2024/10/20/P34684868D6516223G_crop_1080-600_.jpg",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "",
-			"url": "https://lessablesdolonne.maville.com/sport/detail_-volley-ball-laf.-les-neptunes-font-voler-levallois-en-eclats-_fil-6516223_actu.Htm",
-			"description": "Sport Les Sables d'Olonne Volley-ball - LAF Les Neptunes font voler Levallois en \u00e9clats -... Les Sables d'Olonne"
-		},
-		{
-			"title": "Volley-ball. \u00c9lite f\u00e9minine : le REC poursuit sa belle s\u00e9rie . Sport - Rennes, ma ville",
-			"link": "https://rennes.maville.com/sport/detail_-volley-ball.-elite-feminine-le-rec-poursuit-sa-belle-serie-_fil-6516244_actu.Htm",
-			"pubDate": "Sat, 19 Oct 2024 22:52:00 GMT",
-			"image": "https://maville.com/photosmvi/2024/10/20/P34684911D6516244G_crop_1080-600_.jpg",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "",
-			"url": "https://rennes.maville.com/sport/detail_-volley-ball.-elite-feminine-le-rec-poursuit-sa-belle-serie-_fil-6516244_actu.Htm",
-			"description": "Sport Rennes Volley-ball \u00c9lite f\u00e9minine le REC poursuit sa belle s\u00e9rie - Les Rennaises ont... Rennes"
-		},
-		{
-			"title": "Montpellier - Marseille : \u00e0 quelle heure et sur quelle cha\u00eene regarder le match de Ligue 1 en direct ? - RMC Sport",
-			"link": "https://rmcsport.bfmtv.com/football/ligue-1/montpellier-marseille_AN-202410200016.html",
-			"pubDate": "Sun, 20 Oct 2024 03:45:00 GMT",
-			"image": "https://images.bfmtv.com/ZRLvmmLz8X8j4YnmCKvM4zVeX8s=/0x0:1600x900/images/Montpellier-Marseille-1958540.jpg",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "RMC Sport",
-			"url": "https://rmcsport.bfmtv.com/football/ligue-1/montpellier-marseille_AN-202410200016.html",
-			"description": " Suite et fin de la huiti\u00e8me journ\u00e9e ce dimanche soir.  A domicile, Montpellier accueille l\u2019OM. Dans le paragraphe suivant, on vous explique comment suivre cette rencontre. "
-		},
-		{
-			"title": "Les joueurs de jeu vid\u00e9o fran\u00e7ais sortent plus, lisent plus, et font plus de sport que la moyenne | France Inter - France Inter",
-			"link": "https://www.radiofrance.fr/franceinter/podcasts/l-info-de-france-inter/l-info-de-france-inter-1393755",
-			"pubDate": "Wed, 16 Oct 2024 09:48:23 GMT",
-			"image": "https://www.radiofrance.fr/s3/cruiser-production-eu3/2024/10/fdb07a51-9eb4-4ed3-963a-d9ee2ce20243/1200x680_sc_080-hl-mtirler-2367815.jpg",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "France Inter",
-			"url": "https://www.radiofrance.fr/franceinter/podcasts/l-info-de-france-inter/l-info-de-france-inter-1393755",
-			"description": "Selon le barom\u00e8tre annuel du jeu vid\u00e9o en France, publi\u00e9 par le SELL, 38,3 millions de Fran\u00e7ais ont jou\u00e9 au moins une fois \u00e0 un jeu vid\u00e9o l'ann\u00e9e derni\u00e8re, soit 70 % de la population... Et 52 % des Fran\u00e7ais jouent au moins une fois par semaine. L'\u00e9tude balaie aussi pas mal de clich\u00e9s qui subsistent."
-		},
-		{
-			"title": "Handball : Rodez-Onet s'en sort \u00e0 Balma avec un score en trompe-l'\u0153il - Centre Presse Aveyron",
-			"link": "https://www.centrepresseaveyron.fr/2024/10/19/handball-rodez-onet-sen-sort-a-balma-avec-un-score-en-trompe-loeil-12272748.php",
-			"pubDate": "Sat, 19 Oct 2024 21:14:00 GMT",
-			"image": "https://images.centrepresseaveyron.fr/api/v1/images/view/671420d43845d8784b3233e7/large/image.jpg?v=1",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "centrepresseaveyron.fr",
-			"url": "https://www.centrepresseaveyron.fr/2024/10/19/handball-rodez-onet-sen-sort-a-balma-avec-un-score-en-trompe-loeil-12272748.php",
-			"description": "Le Roc s'est impos\u00e9, samedi 19 octobre, \u00e0 Balma, pour le compte de la 6e journ\u00e9e de Nationale 2 (27-33)."
+			"url": "https://www.ladepeche.fr/2024/10/19/canoe-kayak-boris-a-fait-une-tres-belle-carriere-tony-estanguet-se-rappelle-boris-neveu-son-ancien-compagnon-dentrainement-12272619.php",
+			"description": "Pr\u00e9sent samedi \u00e0 Pau pour les championnats de France de slalom, l\u2019ancien champion olympique et pr\u00e9sident du comit\u00e9 d\u2019organisation des Jeux de Paris s\u2019est confi\u00e9 sur la future retraite de Boris Neveu, qu\u2019il a longtemps..."
 		}
 	],
-	"timestamp": "2024-10-20 08:34:52.847839"
+	"timestamp": "2024-10-20 12:47:00.037184"
 }
