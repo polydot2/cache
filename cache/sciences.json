@@ -11,14 +11,14 @@
 			"description": ""
 		},
 		{
-			"title": "Science et photographie : \u00d4 temps ! suspends ton vol - France Culture",
-			"link": "https://www.radiofrance.fr/franceculture/podcasts/sciences-chrono/science-et-photographie-o-temps-suspends-ton-vol-2641985",
-			"pubDate": "Fri, 01 Nov 2024 04:09:17 GMT",
-			"image": "https://www.radiofrance.fr/s3/cruiser-production-eu3/2024/10/520ed26a-5a17-4566-8b6d-6babcf46e64a/1200x680_sc_marey-birds.jpg",
+			"title": "Comment bien s\u2019informer en sciences ? - France Inter",
+			"link": "https://www.radiofrance.fr/franceinter/podcasts/grand-bien-vous-fasse/grand-bien-vous-fasse-du-jeudi-31-octobre-2024-6395987",
+			"pubDate": "Thu, 31 Oct 2024 13:26:52 GMT",
+			"image": "https://www.radiofrance.fr/s3/cruiser-production-eu3/2024/10/df307e38-0e6a-46e1-b678-de61ec06d1c8/1200x680_sc_presse-scientifique.jpg",
 			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "France Culture",
-			"url": "https://www.radiofrance.fr/franceculture/podcasts/sciences-chrono/science-et-photographie-o-temps-suspends-ton-vol-2641985",
-			"description": "La chronophotographie, d\u00e9velopp\u00e9e \u00e0 la fin du XIXe si\u00e8cle par \u00c9tienne-Jules Marey notamment, a permis de d\u00e9composer en plusieurs photographies du mouvement d\u2019un m\u00eame sujet et donc son analyse. Peut-on dire qu\u2019elle a \u00e9t\u00e9 un cin\u00e9ma avant l\u2019heure ? Quel a \u00e9t\u00e9 son apport \u00e0 l\u2019histoire des sciences ?"
+			"site_name": "France Inter",
+			"url": "https://www.radiofrance.fr/franceinter/podcasts/grand-bien-vous-fasse/grand-bien-vous-fasse-du-jeudi-31-octobre-2024-6395987",
+			"description": "Face aux risques de d\u00e9sinformation sur les sujets scientifiques, comment trier les bonnes des mauvaises infos ?"
 		},
 		{
 			"title": "Deux scientifiques de l\u2019Acad\u00e9mie des sciences de passage \u00e0 Oloron le 14 novembre - Sud Ouest",
@@ -34,11 +34,11 @@
 			"title": "M\u00e9t\u00e9orites, m\u00e9ga-glissement de terrain et Musk : l'actu des sciences en ultrabr\u00e8ves - Sciences et Avenir",
 			"link": "https://www.sciencesetavenir.fr/ultrabreves/meteorites-mega-glissement-de-terrain-et-musk-l-actu-des-sciences-en-ultrabreves_181939",
 			"pubDate": "Thu, 31 Oct 2024 16:23:52 GMT",
-			"image": "https://www.sciencesetavenir.fr/assets/img/2024/10/31/cover-r4x3w1200-6723af177543e-couv-ub-31-oct.jpg",
+			"image": "",
 			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "Sciences et Avenir",
-			"url": "https://www.sciencesetavenir.fr/ultrabreves/meteorites-mega-glissement-de-terrain-et-musk-l-actu-des-sciences-en-ultrabreves_181939",
-			"description": "Egalement au sommaire des ultrabr\u00e8ves de ce 31 octobre 2024, les fermetures de lits d'h\u00f4pitaux qui continuent en France. Ainsi, en 2023, 4.900 lits d'hospitalisation compl\u00e8te ont \u00e9t\u00e9 supprim\u00e9s."
+			"site_name": "",
+			"url": "",
+			"description": ""
 		},
 		{
 			"title": "Sciences Po Paris : une association f\u00e9ministe organise une r\u00e9union interdite aux hommes et aux blancs - Le Journal du dimanche",
@@ -61,6 +61,16 @@
 			"description": "Dans la capitale du Poitou, comme \u00e0 Reims, au\u00a0Havre, \u00e0 Menton, Nancy ou Dijon, le campus d\u00e9localis\u00e9 de la grande \u00e9cole attire\u00a0: plus de 60\u00a0% de ses \u00e9tudiants y effectuent les deux premi\u00e8res ann\u00e9es de leur cursus."
 		},
 		{
+			"title": "Montauban. Acad\u00e9mie des Sciences: une conf\u00e9rence \u00e0 trois voix - La D\u00e9p\u00eache du Midi",
+			"link": "https://www.ladepeche.fr/2024/10/31/academie-des-sciences-une-conference-a-trois-voix-12295008.php",
+			"pubDate": "Thu, 31 Oct 2024 04:13:00 GMT",
+			"image": "https://images.ladepeche.fr/api/v1/images/view/6723063bfb858b5fc715584a/large/image.png?v=1",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "ladepeche.fr",
+			"url": "https://www.ladepeche.fr/2024/10/31/academie-des-sciences-une-conference-a-trois-voix-12295008.php",
+			"description": "Dans le cadre de la s\u00e9rie de conf\u00e9rences consacr\u00e9es depuis septembre \u00e0 la th\u00e9matique de l\u2019eau, l\u2019Acad\u00e9mie des sciences, lettres et arts de Montauban propose lundi 4 novembre une nouvelle rencontre autour de ce th\u00e8me...."
+		},
+		{
 			"title": "\u00c0 Sciences Po Strasbourg, les coulisses du boycott d\u2019une universit\u00e9 isra\u00e9lienne - Mediapart",
 			"link": "https://www.mediapart.fr/journal/france/301024/sciences-po-strasbourg-les-coulisses-du-boycott-d-une-universite-israelienne",
 			"pubDate": "Wed, 30 Oct 2024 16:27:27 GMT",
@@ -69,16 +79,6 @@
 			"site_name": "Mediapart",
 			"url": "https://www.mediapart.fr/journal/france/301024/sciences-po-strasbourg-les-coulisses-du-boycott-d-une-universite-israelienne",
 			"description": "Fin juin, Sciences Po Strasbourg a vot\u00e9 la fin de son partenariat avec l\u2019universit\u00e9 isra\u00e9lienne Reichman. Une d\u00e9cision prise au terme d\u2019un d\u00e9bat qui a divis\u00e9 le conseil d\u2019administration. L\u2019analyse du\u2026"
-		},
-		{
-			"title": "Souffre-t-on ? Peut-on \u00ab mourir de vieillesse \u00bb ? La science face aux \u00e9nigmes de la mort - Le Parisien",
-			"link": "https://www.leparisien.fr/societe/sante/souffre-t-on-peut-on-mourir-de-vieillesse-la-science-face-aux-enigmes-de-la-mort-31-10-2024-SGXJXYU4UFEABIZDX33P5CO22I.php",
-			"pubDate": "Fri, 01 Nov 2024 12:02:00 GMT",
-			"image": "https://www.leparisien.fr/resizer/55_LoMpg7oIV8srlmkzrCP40q9k=/1200x675/cloudfront-eu-central-1.images.arcpublishing.com/leparisien/3WW46XIHSFAQNLXMF6W5DAHDJE.jpg",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "leparisien.fr",
-			"url": "https://www.leparisien.fr/societe/sante/souffre-t-on-peut-on-mourir-de-vieillesse-la-science-face-aux-enigmes-de-la-mort-31-10-2024-SGXJXYU4UFEABIZDX33P5CO22I.php",
-			"description": "\u00c0 l\u2019occasion de la Toussaint, jour lors duquel de nombreux Fran\u00e7ais se recueillent en m\u00e9moire de leurs proches d\u00e9funts, deux sp\u00e9cialistes de"
 		},
 		{
 			"title": "\u00ab On \u00e9tait quinze au d\u00e9but, cinq \u00e0 l\u2019arriv\u00e9e \u00bb: ils r\u00eavaient de Sciences Po, ils ont eu Sciences Po - Charente Libre",
@@ -91,34 +91,14 @@
 			"description": "Ils ont 18\u00a0ans, ont grandi \u00e0 Blanzac ou Ruffec. Le dispositif \u00ab\u00a0Je peux parce que je veux\u00a0\u00bb leur a permis de r\u00e9ussir le concours d\u2019entr\u00e9e \u00e0 Sciences Po. Leur parcours de r\u00e9ussite doit servir de motivation. C\u2019est possible."
 		},
 		{
-			"title": "\u00c0 Crozon, le passionn\u00e9 de sciences Pascal Perdriau a les yeux riv\u00e9s vers le ciel et les astres - Brest Maville",
-			"link": "https://brest.maville.com/sport/detail_-a-crozon-le-passionne-de-sciences-pascal-perdriau-a-les-yeux-rives-vers-le-ciel-et-les-astres-_fil-6533492_actu.Htm",
-			"pubDate": "Fri, 01 Nov 2024 08:30:00 GMT",
-			"image": "https://maville.com/photosmvi/2024/11/01/P34715703D6533492G_crop_1080-600_.jpg",
+			"title": "Souffre-t-on ? Peut-on \u00ab mourir de vieillesse \u00bb ? La science face aux \u00e9nigmes de la mort - Le Parisien",
+			"link": "https://www.leparisien.fr/societe/sante/souffre-t-on-peut-on-mourir-de-vieillesse-la-science-face-aux-enigmes-de-la-mort-31-10-2024-SGXJXYU4UFEABIZDX33P5CO22I.php",
+			"pubDate": "Fri, 01 Nov 2024 12:02:00 GMT",
+			"image": "https://www.leparisien.fr/resizer/55_LoMpg7oIV8srlmkzrCP40q9k=/1200x675/cloudfront-eu-central-1.images.arcpublishing.com/leparisien/3WW46XIHSFAQNLXMF6W5DAHDJE.jpg",
 			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "",
-			"url": "https://brest.maville.com/sport/detail_-a-crozon-le-passionne-de-sciences-pascal-perdriau-a-les-yeux-rives-vers-le-ciel-et-les-astres-_fil-6533492_actu.Htm",
-			"description": "Sport Brest \u00c0 Crozon le passionn\u00e9 de sciences Pascal Perdriau a les yeux riv\u00e9s vers le ciel et... Brest"
-		},
-		{
-			"title": "Sciences Po Paris : une association organise une r\u00e9union \u00abnon mixte\u00bb et \u00abnon blanche\u00bb avant de se r\u00e9tracter - CNEWS",
-			"link": "https://www.cnews.fr/france/2024-11-01/sciences-po-paris-une-association-organise-une-reunion-non-mixte-et-non-blanche",
-			"pubDate": "Fri, 01 Nov 2024 19:38:07 GMT",
-			"image": "",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "",
-			"url": "",
-			"description": ""
-		},
-		{
-			"title": "Comment bien s\u2019informer en sciences ? - France Inter",
-			"link": "https://www.radiofrance.fr/franceinter/podcasts/grand-bien-vous-fasse/grand-bien-vous-fasse-du-jeudi-31-octobre-2024-6395987",
-			"pubDate": "Thu, 31 Oct 2024 13:26:52 GMT",
-			"image": "https://www.radiofrance.fr/s3/cruiser-production-eu3/2024/10/df307e38-0e6a-46e1-b678-de61ec06d1c8/1200x680_sc_presse-scientifique.jpg",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "France Inter",
-			"url": "https://www.radiofrance.fr/franceinter/podcasts/grand-bien-vous-fasse/grand-bien-vous-fasse-du-jeudi-31-octobre-2024-6395987",
-			"description": "Face aux risques de d\u00e9sinformation sur les sujets scientifiques, comment trier les bonnes des mauvaises infos ?"
+			"site_name": "leparisien.fr",
+			"url": "https://www.leparisien.fr/societe/sante/souffre-t-on-peut-on-mourir-de-vieillesse-la-science-face-aux-enigmes-de-la-mort-31-10-2024-SGXJXYU4UFEABIZDX33P5CO22I.php",
+			"description": "\u00c0 l\u2019occasion de la Toussaint, jour lors duquel de nombreux Fran\u00e7ais se recueillent en m\u00e9moire de leurs proches d\u00e9funts, deux sp\u00e9cialistes de"
 		},
 		{
 			"title": "Acc\u00e8s \u00e0 Sciences Po Paris : la juge des r\u00e9f\u00e9r\u00e9s du tribunal administratif de Paris maintient l\u2019interdiction faite \u00e0 quatre \u00e9tudiants - Tribunal administratif de Paris",
@@ -141,6 +121,16 @@
 			"description": "L\u2019institut d\u2019\u00e9tudes politiques a dit regretter les positions \u00ab\u00a0profond\u00e9ment bellicistes et d\u00e9nu\u00e9es de perspectives humanistes\u00a0\u00bb de l\u2019universit\u00e9 Reichman de Tel-Aviv, au regard de la guerre en cours \u00e0 Gaza."
 		},
 		{
+			"title": "Sciences Po Paris : une association organise une r\u00e9union \u00abnon mixte\u00bb et \u00abnon blanche\u00bb avant de se r\u00e9tracter - CNEWS",
+			"link": "https://www.cnews.fr/france/2024-11-01/sciences-po-paris-une-association-organise-une-reunion-non-mixte-et-non-blanche",
+			"pubDate": "Fri, 01 Nov 2024 19:38:07 GMT",
+			"image": "",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "",
+			"url": "",
+			"description": ""
+		},
+		{
 			"title": "Sciences Po Strasbourg: la fin du partenariat avec une fac isra\u00e9lienne \u00e0 l'ordre du jour du conseil municipal - BFM Alsace",
 			"link": "https://www.bfmtv.com/alsace/replay-emissions/bonsoir-l-alsace/sciences-po-strasbourg-la-fin-du-partenariat-avec-une-fac-israelienne-a-l-ordre-du-jour-du-conseil-municipal_VN-202411010632.html",
 			"pubDate": "Fri, 01 Nov 2024 17:02:03 GMT",
@@ -153,7 +143,7 @@
 		{
 			"title": "Guerre \u00e0 Gaza : Sciences-Po Strasbourg suspend un partenariat avec une universit\u00e9 de Tel-Aviv - Lib\u00e9ration",
 			"link": "https://www.liberation.fr/societe/guerre-a-gaza-sciences-po-strasbourg-suspend-un-partenariat-avec-une-universite-de-tel-aviv-20241030_4RF6KUWMAJF7ZDRUFODZEFLCSE/",
-			"pubDate": "Thu, 31 Oct 2024 10:00:00 GMT",
+			"pubDate": "Wed, 30 Oct 2024 11:54:00 GMT",
 			"image": "https://www.liberation.fr/resizer/bZY4ojtXnOQvY9GF9RmbjJt3s7Q=/1200x630/filters:format(jpg):quality(70)/cloudfront-eu-central-1.images.arcpublishing.com/liberation/F2RDNU4TWNAYNMDT2CEWFLGXYY.jpg",
 			"logo": "https://picsum.photos/32/32?grayscale",
 			"site_name": "Lib\u00e9ration",
@@ -171,14 +161,14 @@
 			"description": "Lors d'un conseil d'administration de Sciences Po Strasbourg, la d\u00e9cision a \u00e9t\u00e9 prise de suspendre un partenariat avec l'universit\u00e9 Reichman en Isra\u00ebl. Situ\u00e9e au nord de Tel-Aviv, les prises de position de cette institution..."
 		},
 		{
-			"title": "\"Proscrire les \u00e9nergies fossiles ne suffira pas pour b\u00e2tir la soci\u00e9t\u00e9 du bas carbone\" - Sciences et Avenir",
-			"link": "https://www.sciencesetavenir.fr/nature-environnement/developpement-durable/une-societe-batie-sur-la-croissance-peut-elle-integrer-la-sobriete_181122",
-			"pubDate": "Fri, 01 Nov 2024 07:00:00 GMT",
-			"image": "https://www.sciencesetavenir.fr/assets/img/2024/10/30/cover-r4x3w1200-66f553ed580c0-scooter-8022334-1280.jpg",
+			"title": "Centre national de la recherche scientifique (CNRS) - Centre national de la recherche scientifique (CNRS)",
+			"link": "https://www.cnrs.fr/fr",
+			"pubDate": "Thu, 24 Oct 2024 07:00:00 GMT",
+			"image": "https://www.cnrs.fr/sites/default/files/styles/article_top/public/image/photos_2.jpg?itok=b2fpgmQy",
 			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "Sciences et Avenir",
-			"url": "https://www.sciencesetavenir.fr/nature-environnement/developpement-durable/une-societe-batie-sur-la-croissance-peut-elle-integrer-la-sobriete_181122",
-			"description": "Sophie Dubuisson-Quellier est sociologue, directrice du Centre de sociologie des organisations \u00e0 Sciences Po Paris. Elle est aussi membre du Haut Conseil pour le climat. Elle a r\u00e9pondu aux questions de Sciences et Avenir."
+			"site_name": "Centre national de la recherche scientifique (CNRS)",
+			"url": "https://www.cnrs.fr/fr/accueil-cnrs",
+			"description": ""
 		},
 		{
 			"title": "Sciences Po l\u00e8ve la sanction contre quatre \u00e9tudiants, interdits d\u2019acc\u00e8s \u00e0 l\u2019\u00e9tablissement apr\u00e8s une action en soutien aux Palestiniens - Le Monde",
@@ -189,6 +179,16 @@
 			"site_name": "Le Monde.fr",
 			"url": "https://www.lemonde.fr/societe/article/2024/10/31/sciences-po-leve-la-sanction-contre-quatre-etudiants-interdits-d-acces-a-l-etablissement-apres-une-action-propalestinienne_6369386_3224.html",
 			"description": "Selon Sciences Po Paris, quatre \u00e9tudiants avaient \u00ab\u00a0\u00e9t\u00e9 identifi\u00e9s comme ayant particip\u00e9 \u00e0 une action\u00a0\u00bb en soutien au peuple palestinien au cours de laquelle \u00ab\u00a0du mat\u00e9riel a \u00e9t\u00e9 d\u00e9grad\u00e9 notamment\u00a0\u00bb, lors d\u2019un forum fin septembre. Les \u00e9tudiants \u00e9taient depuis interdits d\u2019acc\u00e8s \u00e0 l\u2019\u00e9tablissement."
+		},
+		{
+			"title": "Science et photographie : \u00d4 temps ! suspends ton vol - France Culture",
+			"link": "https://www.radiofrance.fr/franceculture/podcasts/sciences-chrono/science-et-photographie-o-temps-suspends-ton-vol-2641985",
+			"pubDate": "Fri, 01 Nov 2024 04:09:17 GMT",
+			"image": "https://www.radiofrance.fr/s3/cruiser-production-eu3/2024/10/520ed26a-5a17-4566-8b6d-6babcf46e64a/1200x680_sc_marey-birds.jpg",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "France Culture",
+			"url": "https://www.radiofrance.fr/franceculture/podcasts/sciences-chrono/science-et-photographie-o-temps-suspends-ton-vol-2641985",
+			"description": "La chronophotographie, d\u00e9velopp\u00e9e \u00e0 la fin du XIXe si\u00e8cle par \u00c9tienne-Jules Marey notamment, a permis de d\u00e9composer en plusieurs photographies du mouvement d\u2019un m\u00eame sujet et donc son analyse. Peut-on dire qu\u2019elle a \u00e9t\u00e9 un cin\u00e9ma avant l\u2019heure ? Quel a \u00e9t\u00e9 son apport \u00e0 l\u2019histoire des sciences ?"
 		},
 		{
 			"title": "Pol\u00e9mique \u00e0 Sciences Po Strasbourg : 5 questions sur la fin du partenariat avec une fac isra\u00e9lienne - Ouest-France",
@@ -231,16 +231,6 @@
 			"description": "Les quatre \u00e9tudiants ont \u00e9t\u00e9 re\u00e7us par le nouveau directeur de l'\u00e9cole Luis Vassy, qui a d\u00e9cid\u00e9 de lever la mesure conservatoire qui leur interdisait l'acc\u00e8s \u00e0 l'\u00e9tablissement depuis fin septembre."
 		},
 		{
-			"title": "Centre national de la recherche scientifique (CNRS) - Centre national de la recherche scientifique (CNRS)",
-			"link": "https://www.cnrs.fr/fr",
-			"pubDate": "Thu, 24 Oct 2024 07:00:00 GMT",
-			"image": "https://www.cnrs.fr/sites/default/files/styles/article_top/public/image/photos_2.jpg?itok=b2fpgmQy",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "Centre national de la recherche scientifique (CNRS)",
-			"url": "https://www.cnrs.fr/fr/accueil-cnrs",
-			"description": ""
-		},
-		{
 			"title": "La Cit\u00e9 LEGO\u00ae - \u00c9v\u00e9nements - Au programme - Cit\u00e9 des Sciences",
 			"link": "https://www.cite-sciences.fr/fr/au-programme/evenements/la-cite-lego",
 			"pubDate": "Wed, 23 Oct 2024 15:50:39 GMT",
@@ -261,34 +251,14 @@
 			"description": "Comme le r\u00e9v\u00e9laient nos confr\u00e8res des DNA d\u00e8s mardi, Sciences Po Strasbourg a d\u00e9cid\u00e9 fin juin de suspendre un partenariat avec une universit\u00e9 isra\u00e9lienne, l'universit\u00e9 Reichman de Tel-Aviv. C'est la liste \u00e9tudiante ayant la majorit\u00e9 au conseil d'administration qui est \u00e0 l'origine de la motion. "
 		},
 		{
-			"title": "D\u00e9viation de l'ast\u00e9ro\u00efde Dimorphos : l'enqu\u00eate se poursuit - Sciences et Avenir",
-			"link": "https://www.sciencesetavenir.fr/espace/deviation-d-asteroide-l-enquete-se-poursuit_181777",
-			"pubDate": "Fri, 01 Nov 2024 11:00:00 GMT",
-			"image": "https://www.sciencesetavenir.fr/assets/img/2024/10/24/cover-r4x3w1200-671a3e00307a8-6868-377749-k2-k1-907267-jpg.jpg",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "Sciences et Avenir",
-			"url": "https://www.sciencesetavenir.fr/espace/deviation-d-asteroide-l-enquete-se-poursuit_181777",
-			"description": "En septembre 2022, la sonde Dart de la Nasa r\u00e9alisait le premier test de d\u00e9viation d'ast\u00e9ro\u00efde de l'histoire. Le deuxi\u00e8me acte de cette exp\u00e9rience inou\u00efe vient tout juste de d\u00e9buter."
-		},
-		{
-			"title": "Sciences-po Strasbourg boycotte une fac isra\u00e9lienne : \u00ab D\u2019anciens \u00e9l\u00e8ves demandent \u00e0 \u00eatre ray\u00e9s de la liste - Le Parisien",
-			"link": "https://www.leparisien.fr/societe/sciences-po-strasbourg-boycotte-une-fac-israelienne-danciens-eleves-demandent-a-etre-rayes-de-la-liste-01-11-2024-V7SYVJVYJRDX7D3PYVQJRGEJLY.php",
-			"pubDate": "Fri, 01 Nov 2024 06:17:00 GMT",
-			"image": "https://www.leparisien.fr/resizer/6e_UH1ae46p_YQaDXIRIx84ZOlw=/1200x675/cloudfront-eu-central-1.images.arcpublishing.com/leparisien/WLDKUHAWP5CMVJIIC7VIE3D5AQ.jpg",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "leparisien.fr",
-			"url": "https://www.leparisien.fr/societe/sciences-po-strasbourg-boycotte-une-fac-israelienne-danciens-eleves-demandent-a-etre-rayes-de-la-liste-01-11-2024-V7SYVJVYJRDX7D3PYVQJRGEJLY.php",
-			"description": "Jean-Philippe Heurtin, le directeur de l\u2019Institut d\u2019\u00e9tudes politiques (IEP) de Strasbourg, explique pourquoi il r\u00e9prouve la d\u00e9cision de son "
-		},
-		{
-			"title": "Sanction lev\u00e9e pour 4 \u00e9tudiants propalestiniens de Sciences Po Paris : \u00abJe suis favorable \u00e0 leur exclusion\u00bb, affirme le ministre de l'Enseignement sup\u00e9rieur - CNEWS",
-			"link": "https://www.cnews.fr/france/2024-11-01/sanction-levee-pour-4-etudiants-propalestiniens-de-sciences-po-paris-je-suis",
-			"pubDate": "Fri, 01 Nov 2024 10:52:38 GMT",
-			"image": "",
+			"title": "\u00c0 Crozon, le passionn\u00e9 de sciences Pascal Perdriau a les yeux riv\u00e9s vers le ciel et les astres - Brest Maville",
+			"link": "https://brest.maville.com/sport/detail_-a-crozon-le-passionne-de-sciences-pascal-perdriau-a-les-yeux-rives-vers-le-ciel-et-les-astres-_fil-6533492_actu.Htm",
+			"pubDate": "Fri, 01 Nov 2024 08:30:00 GMT",
+			"image": "https://maville.com/photosmvi/2024/11/01/P34715703D6533492G_crop_1080-600_.jpg",
 			"logo": "https://picsum.photos/32/32?grayscale",
 			"site_name": "",
-			"url": "",
-			"description": ""
+			"url": "https://brest.maville.com/sport/detail_-a-crozon-le-passionne-de-sciences-pascal-perdriau-a-les-yeux-rives-vers-le-ciel-et-les-astres-_fil-6533492_actu.Htm",
+			"description": "Sport Brest \u00c0 Crozon le passionn\u00e9 de sciences Pascal Perdriau a les yeux riv\u00e9s vers le ciel et... Brest"
 		},
 		{
 			"title": "Festival Sud de Sciences 2024 : le rendez-vous incontournable du film scientifique - Inserm",
@@ -321,16 +291,6 @@
 			"description": "Les exp\u00e9riences les plus effrayantes n'auront bient\u00f4t plus de secrets pour vous..."
 		},
 		{
-			"title": "Montauban. Acad\u00e9mie des Sciences: une conf\u00e9rence \u00e0 trois voix - La D\u00e9p\u00eache du Midi",
-			"link": "https://www.ladepeche.fr/2024/10/31/academie-des-sciences-une-conference-a-trois-voix-12295008.php",
-			"pubDate": "Thu, 31 Oct 2024 04:13:00 GMT",
-			"image": "https://images.ladepeche.fr/api/v1/images/view/6723063bfb858b5fc715584a/large/image.png?v=1",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "ladepeche.fr",
-			"url": "https://www.ladepeche.fr/2024/10/31/academie-des-sciences-une-conference-a-trois-voix-12295008.php",
-			"description": "Dans le cadre de la s\u00e9rie de conf\u00e9rences consacr\u00e9es depuis septembre \u00e0 la th\u00e9matique de l\u2019eau, l\u2019Acad\u00e9mie des sciences, lettres et arts de Montauban propose lundi 4 novembre une nouvelle rencontre autour de ce th\u00e8me...."
-		},
-		{
 			"title": "Partenariat Sciences-Po Strasbourg/universit\u00e9 isra\u00e9lienne suspendu : une \u00abd\u00e9cision affligeante\u00bb pour le... - Europe 1",
 			"link": "https://www.europe1.fr/societe/partenariat-sciences-po-strasbourguniversite-israelienne-suspendu-une-decision-affligeante-pour-le-ministre-des-affaires-etrangeres-jean-noel-barrot-4276083",
 			"pubDate": "Thu, 31 Oct 2024 10:30:00 GMT",
@@ -361,9 +321,29 @@
 			"description": "Le 10 octobre 2024, s\u2019est tenue au centre IRD de Ouagadougou, la restitution publique des activit\u00e9s des clubs jeunes. Cette activit\u00e9 scientifique est organis\u00e9e dans le cadre de la f\u00eate de la science.\u00a0"
 		},
 		{
+			"title": "\"Proscrire les \u00e9nergies fossiles ne suffira pas pour b\u00e2tir la soci\u00e9t\u00e9 du bas carbone\" - Sciences et Avenir",
+			"link": "https://www.sciencesetavenir.fr/nature-environnement/developpement-durable/une-societe-batie-sur-la-croissance-peut-elle-integrer-la-sobriete_181122",
+			"pubDate": "Fri, 01 Nov 2024 07:00:00 GMT",
+			"image": "",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "",
+			"url": "",
+			"description": ""
+		},
+		{
 			"title": "Activit\u00e9s p\u00e9dagogiques des archives - Acad\u00e9mie des sciences",
 			"link": "https://www.academie-sciences.fr/fr/Ressources-pedagogiques/activites-pedagogiques-des-archives.html",
 			"pubDate": "Mon, 28 Oct 2024 10:13:58 GMT",
+			"image": "",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "",
+			"url": "",
+			"description": ""
+		},
+		{
+			"title": "D\u00e9viation de l'ast\u00e9ro\u00efde Dimorphos : l'enqu\u00eate se poursuit - Sciences et Avenir",
+			"link": "https://www.sciencesetavenir.fr/espace/deviation-d-asteroide-l-enquete-se-poursuit_181777",
+			"pubDate": "Fri, 01 Nov 2024 11:00:00 GMT",
 			"image": "",
 			"logo": "https://picsum.photos/32/32?grayscale",
 			"site_name": "",
@@ -381,24 +361,24 @@
 			"description": "Du 25 au 27 octobre 2024, Va Savoir\u00a0?! le Festival des sciences participatives et citoyennes de Montpellier met \u00e0 l'honneur les projets et les chercheurs qui les m\u00e8nent. Des scientifiques de l'IRD sont impliqu\u00e9s la journ\u00e9e pro, avec une intervention de Vanessa Hequet, botaniste \u00e0 l'IRD \u00e0 l'UMR AMAP et la projection de vid\u00e9os r\u00e9alis\u00e9es par Pascale Hancart-Petitet, anthropologue \u00e0 l'IRD \u00e0 l'UMR TRANSVIHMI. Pendant le week-end ouvert au public, l'association Instant Science et ses partenaires pr\u00e9senteront La Grande Exp\u00e9rience, un projet autour du moustique tigre, men\u00e9 des scolaires de Montpellier et dans lequel Fr\u00e9d\u00e9ric Simard, Florence Fournet et d'autres chercheurs de MIVEGEC sont impliqu\u00e9s."
 		},
 		{
-			"title": "Soci\u00e9t\u00e9. Strasbourg : Sciences Po suspend son partenariat avec une universit\u00e9 d\u2019Isra\u00ebl - DNA - Derni\u00e8res Nouvelles d'Alsace",
-			"link": "https://www.dna.fr/education/2024/10/29/sciences-po-suspend-son-partenariat-avec-une-universite-d-israel",
-			"pubDate": "Tue, 29 Oct 2024 17:42:00 GMT",
-			"image": "https://cdn-s-www.dna.fr/images/96DE54F6-E42E-4B9D-AB59-17AA52AC74BA/FB1200/photo-1730229800.jpg",
+			"title": "Sanction lev\u00e9e pour 4 \u00e9tudiants propalestiniens de Sciences Po Paris : \u00abJe suis favorable \u00e0 leur exclusion\u00bb, affirme le ministre de l'Enseignement sup\u00e9rieur - CNEWS",
+			"link": "https://www.cnews.fr/france/2024-11-01/sanction-levee-pour-4-etudiants-propalestiniens-de-sciences-po-paris-je-suis",
+			"pubDate": "Fri, 01 Nov 2024 10:52:38 GMT",
+			"image": "",
 			"logo": "https://picsum.photos/32/32?grayscale",
 			"site_name": "",
-			"url": "https://www.dna.fr/education/2024/10/29/sciences-po-suspend-son-partenariat-avec-une-universite-d-israel",
-			"description": "Le conseil d\u2019administration de Sciences Po Strasbourg avait adopt\u00e9, le 25 juin, une motion demandant la suspension de son partenariat avec l\u2019universit\u00e9 Reichman en Isra\u00ebl en raison des prises de position de cet \u00e9tablissement sur la guerre men\u00e9e \u00e0 Gaza."
+			"url": "",
+			"description": ""
 		},
 		{
-			"title": "Sciences Po Strasbourg suspend un partenariat avec une universit\u00e9 isra\u00e9lienne - 20 Minutes",
-			"link": "https://www.20minutes.fr/societe/4118740-20241030-strasbourg-sciences-po-suspend-partenariat-universite-israelienne",
-			"pubDate": "Wed, 30 Oct 2024 12:51:00 GMT",
-			"image": "https://img.20mn.fr/Nuyn2dZFTKyyzFV6x5DHtik/1444x920_people-walk-at-the-institut-d-etudes-politiques-sciences-po-university-in-strasbourg-eastern-france-on-october-30-2024-the-institut-d-etudes-politiques-sciences-po-university-in-strasbourg-has-suspended-its-partnership-with-reichman-university-in-tel-aviv-regretting-its-deeply-warmongering-positions-devoid-of-any-humanist-perspective-in-light-of-the-ongoing-war-in-gaza-photo-by-frederick-florin-afp",
+			"title": "Sciences-po Strasbourg boycotte une fac isra\u00e9lienne : \u00ab D\u2019anciens \u00e9l\u00e8ves demandent \u00e0 \u00eatre ray\u00e9s de la liste - Le Parisien",
+			"link": "https://www.leparisien.fr/societe/sciences-po-strasbourg-boycotte-une-fac-israelienne-danciens-eleves-demandent-a-etre-rayes-de-la-liste-01-11-2024-V7SYVJVYJRDX7D3PYVQJRGEJLY.php",
+			"pubDate": "Fri, 01 Nov 2024 06:17:00 GMT",
+			"image": "https://www.leparisien.fr/resizer/6e_UH1ae46p_YQaDXIRIx84ZOlw=/1200x675/cloudfront-eu-central-1.images.arcpublishing.com/leparisien/WLDKUHAWP5CMVJIIC7VIE3D5AQ.jpg",
 			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "20 Minutes",
-			"url": "https://www.20minutes.fr/societe/4118740-20241030-strasbourg-sciences-po-suspend-partenariat-universite-israelienne",
-			"description": "L\u2019Institut d\u2019\u00e9tudes politiques (IEP) de Strasbourg a suspendu son partenariat avec l\u2019universit\u00e9 Reichman de Tel-Aviv en Isra\u00ebl"
+			"site_name": "leparisien.fr",
+			"url": "https://www.leparisien.fr/societe/sciences-po-strasbourg-boycotte-une-fac-israelienne-danciens-eleves-demandent-a-etre-rayes-de-la-liste-01-11-2024-V7SYVJVYJRDX7D3PYVQJRGEJLY.php",
+			"description": "Jean-Philippe Heurtin, le directeur de l\u2019Institut d\u2019\u00e9tudes politiques (IEP) de Strasbourg, explique pourquoi il r\u00e9prouve la d\u00e9cision de son "
 		},
 		{
 			"title": "Sciences-po Strasbourg vote le boycott d\u2019une universit\u00e9 isra\u00e9lienne : un \u00ab p\u00e9ch\u00e9 contre l\u2019esprit \u00bb, juge le directeur - Le Parisien",
@@ -411,14 +391,24 @@
 			"description": "Le conseil d\u2019administration de Science Po Strasbourg a vot\u00e9 la suspension du partenariat avec l\u2019universit\u00e9 Reichman de Herzliya. Le directeu"
 		},
 		{
-			"title": "Sciences Po Strasbourg suspend son partenariat avec une universit\u00e9 isra\u00e9lienne pour ses positions \u00ab bellicistes \u00bb sur Gaza - Le Parisien",
-			"link": "https://www.leparisien.fr/etudiant/etudes/universites/sciences-po-strasbourg-suspend-son-partenariat-avec-une-universite-israelienne-pour-ses-positions-bellicistes-sur-gaza-6CDWNQPRZBH3VCT74YEDC5SFFQ.php",
-			"pubDate": "Wed, 30 Oct 2024 13:53:00 GMT",
-			"image": "https://www.leparisien.fr/resizer/GWmsB0jvG7pz7EW8PnH129Du7Z0=/1200x675/cloudfront-eu-central-1.images.arcpublishing.com/leparisien/RA7VFSPDINC75KNPOIJ7YM25CE.jpg",
+			"title": "Sciences Po Strasbourg suspend un partenariat avec une universit\u00e9 isra\u00e9lienne - 20 Minutes",
+			"link": "https://www.20minutes.fr/societe/4118740-20241030-strasbourg-sciences-po-suspend-partenariat-universite-israelienne",
+			"pubDate": "Wed, 30 Oct 2024 12:51:00 GMT",
+			"image": "https://img.20mn.fr/Nuyn2dZFTKyyzFV6x5DHtik/1444x920_people-walk-at-the-institut-d-etudes-politiques-sciences-po-university-in-strasbourg-eastern-france-on-october-30-2024-the-institut-d-etudes-politiques-sciences-po-university-in-strasbourg-has-suspended-its-partnership-with-reichman-university-in-tel-aviv-regretting-its-deeply-warmongering-positions-devoid-of-any-humanist-perspective-in-light-of-the-ongoing-war-in-gaza-photo-by-frederick-florin-afp",
 			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "leparisien.fr",
-			"url": "https://www.leparisien.fr/etudiant/etudes/universites/sciences-po-strasbourg-suspend-son-partenariat-avec-une-universite-israelienne-pour-ses-positions-bellicistes-sur-gaza-6CDWNQPRZBH3VCT74YEDC5SFFQ.php",
-			"description": "L\u2019institut strasbourgeois d\u2019\u00e9tudes politiques a suspendu en juin sa collaboration avec l\u2019universit\u00e9 Reichman de Tel-Aviv, r\u00e9v\u00e8lent ce mercre"
+			"site_name": "20 Minutes",
+			"url": "https://www.20minutes.fr/societe/4118740-20241030-strasbourg-sciences-po-suspend-partenariat-universite-israelienne",
+			"description": "L\u2019Institut d\u2019\u00e9tudes politiques (IEP) de Strasbourg a suspendu son partenariat avec l\u2019universit\u00e9 Reichman de Tel-Aviv en Isra\u00ebl"
+		},
+		{
+			"title": "Soci\u00e9t\u00e9. Strasbourg : Sciences Po suspend son partenariat avec une universit\u00e9 d\u2019Isra\u00ebl - DNA - Derni\u00e8res Nouvelles d'Alsace",
+			"link": "https://www.dna.fr/education/2024/10/29/sciences-po-suspend-son-partenariat-avec-une-universite-d-israel",
+			"pubDate": "Tue, 29 Oct 2024 17:42:00 GMT",
+			"image": "https://cdn-s-www.dna.fr/images/96DE54F6-E42E-4B9D-AB59-17AA52AC74BA/FB1200/photo-1730229800.jpg",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "",
+			"url": "https://www.dna.fr/education/2024/10/29/sciences-po-suspend-son-partenariat-avec-une-universite-d-israel",
+			"description": "Le conseil d\u2019administration de Sciences Po Strasbourg avait adopt\u00e9, le 25 juin, une motion demandant la suspension de son partenariat avec l\u2019universit\u00e9 Reichman en Isra\u00ebl en raison des prises de position de cet \u00e9tablissement sur la guerre men\u00e9e \u00e0 Gaza."
 		},
 		{
 			"title": "Le Crif pointe de \u00ab graves d\u00e9rives \u00bb apr\u00e8s la suspension d'un partenariat avec une universit\u00e9 isra\u00e9lienne - DNA - Derni\u00e8res Nouvelles d'Alsace",
@@ -451,14 +441,24 @@
 			"description": "Sciences-Po Strasbourg a suspendu son partenariat avec l'universit\u00e9 Reichman de Tel-Aviv, regrettant&nbsp;ses positions sur &quot;la guerre en cours \u00e0 Gaza&quot;. Une d\u00e9cision &quot;purement id\u00e9ologique et absolument pas objective&quot; pour Math\u00e9o, \u00e9tudiant lillois, qui r\u00e9agit dans l'\u00e9mission &quot;Olivier de Lagarde et vous&quot;.&nbsp;R\u00e9\u00e9coutez l'extrait.&nbsp;Vous pouvez r\u00e9agir au 01.80.20.39.21."
 		},
 		{
-			"title": "Ce que nos cimeti\u00e8res r\u00e9v\u00e8lent de notre rapport au vivant - Futura",
-			"link": "https://www.futura-sciences.com/sciences/actualites/anthropologie-ce-nos-cimetieres-revelent-notre-rapport-vivant-117112/",
-			"pubDate": "Fri, 01 Nov 2024 08:04:57 GMT",
-			"image": "https://cdn.futura-sciences.com/buildsv6/images/largeoriginal/2/c/c/2ccb356148_50222795_cimetiere-urbain.jpg",
+			"title": "Sciences Po Strasbourg suspend son partenariat avec une universit\u00e9 isra\u00e9lienne pour ses positions \u00ab bellicistes \u00bb sur Gaza - Le Parisien",
+			"link": "https://www.leparisien.fr/etudiant/etudes/universites/sciences-po-strasbourg-suspend-son-partenariat-avec-une-universite-israelienne-pour-ses-positions-bellicistes-sur-gaza-6CDWNQPRZBH3VCT74YEDC5SFFQ.php",
+			"pubDate": "Wed, 30 Oct 2024 13:53:00 GMT",
+			"image": "https://www.leparisien.fr/resizer/GWmsB0jvG7pz7EW8PnH129Du7Z0=/1200x675/cloudfront-eu-central-1.images.arcpublishing.com/leparisien/RA7VFSPDINC75KNPOIJ7YM25CE.jpg",
 			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "Futura",
-			"url": "https://www.futura-sciences.com/sciences/actualites/anthropologie-ce-nos-cimetieres-revelent-notre-rapport-vivant-117112/",
-			"description": "Les cimeti\u00e8res, traditionnellement domin\u00e9s par des tombes en granit et un entretien intensif, se transforment peu \u00e0 peu avec l'interdiction des pesticides dans l'espace public. L'\u00e9volution du..."
+			"site_name": "leparisien.fr",
+			"url": "https://www.leparisien.fr/etudiant/etudes/universites/sciences-po-strasbourg-suspend-son-partenariat-avec-une-universite-israelienne-pour-ses-positions-bellicistes-sur-gaza-6CDWNQPRZBH3VCT74YEDC5SFFQ.php",
+			"description": "L\u2019institut strasbourgeois d\u2019\u00e9tudes politiques a suspendu en juin sa collaboration avec l\u2019universit\u00e9 Reichman de Tel-Aviv, r\u00e9v\u00e8lent ce mercre"
+		},
+		{
+			"title": "La d\u00e9cision de Sciences-Po Strasbourg sur son partenariat avec une universit\u00e9 isra\u00e9lienne est \u00ab affligeante \u00bb, estime Jean-No\u00ebl Barrot - Le Parisien",
+			"link": "https://www.leparisien.fr/politique/la-decision-de-sciences-po-strasbourg-sur-son-partenariat-avec-une-universite-israelienne-est-affligeante-estime-jean-noel-barrot-31-10-2024-QSZZT6LW4BFHHC2HZ3XRZFMWOQ.php",
+			"pubDate": "Thu, 31 Oct 2024 12:24:00 GMT",
+			"image": "https://www.leparisien.fr/resizer/bptY4UD0IdFuSQ_icNbZumQ3JsQ=/1200x675/cloudfront-eu-central-1.images.arcpublishing.com/leparisien/3K64VRG2VBBHREN7DAZZQGYZWY.jpg",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "leparisien.fr",
+			"url": "https://www.leparisien.fr/politique/la-decision-de-sciences-po-strasbourg-sur-son-partenariat-avec-une-universite-israelienne-est-affligeante-estime-jean-noel-barrot-31-10-2024-QSZZT6LW4BFHHC2HZ3XRZFMWOQ.php",
+			"description": "La d\u00e9cision a \u00e9t\u00e9 prise par l\u2019\u00e9tablissement en juin dernier, mais elle n\u2019a \u00e9t\u00e9 r\u00e9v\u00e9l\u00e9e que ce mercredi 30\u00a0octobre par le quotidien r\u00e9gional "
 		},
 		{
 			"title": "Sciences Po Strasbourg: le minist\u00e8re de l'Enseignement sup\u00e9rieur \"d\u00e9plore\" la fin du partenariat avec une... - BFM Alsace",
@@ -491,34 +491,14 @@
 			"description": ""
 		},
 		{
-			"title": "Sciences Po Strasbourg suspend un partenariat avec une universit\u00e9 isra\u00e9lienne - Le Point",
-			"link": "https://www.lepoint.fr/societe/sciences-po-strasbourg-suspend-un-partenariat-avec-une-universite-israelienne-30-10-2024-2574074_23.php",
-			"pubDate": "Wed, 30 Oct 2024 11:44:00 GMT",
-			"image": "https://static.lpnt.fr/images/2024/10/30/26988305lpw-26988570-mega-une-jpg_10612161.jpg",
+			"title": "Cr\u00e9ation de la Facult\u00e9 des sciences de la sant\u00e9 - Actualit\u00e9s UQAM",
+			"link": "https://actualites.uqam.ca/2024/creation-de-la-faculte-des-sciences-de-la-sante/",
+			"pubDate": "Fri, 01 Nov 2024 20:06:22 GMT",
+			"image": "https://actualites.uqam.ca/wp-content/uploads/2024/11/spallage-2035-w.jpg",
 			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "Le Point",
-			"url": "https://www.lepoint.fr/societe/sciences-po-strasbourg-suspend-un-partenariat-avec-une-universite-israelienne-30-10-2024-2574074_23.php",
-			"description": "L\u2019institut d\u2019\u00e9tudes politiques a dit regretter les positions \u00ab\u00a0profond\u00e9ment bellicistes\u00a0\u00bb de l\u2019universit\u00e9 Reichman de Tel-Aviv, en lien avec la\u00a0situation \u00e0 Gaza."
-		},
-		{
-			"title": "La d\u00e9cision de Sciences-Po Strasbourg sur son partenariat avec une universit\u00e9 isra\u00e9lienne est \u00ab affligeante \u00bb, estime Jean-No\u00ebl Barrot - Le Parisien",
-			"link": "https://www.leparisien.fr/politique/la-decision-de-sciences-po-strasbourg-sur-son-partenariat-avec-une-universite-israelienne-est-affligeante-estime-jean-noel-barrot-31-10-2024-QSZZT6LW4BFHHC2HZ3XRZFMWOQ.php",
-			"pubDate": "Thu, 31 Oct 2024 12:24:00 GMT",
-			"image": "https://www.leparisien.fr/resizer/bptY4UD0IdFuSQ_icNbZumQ3JsQ=/1200x675/cloudfront-eu-central-1.images.arcpublishing.com/leparisien/3K64VRG2VBBHREN7DAZZQGYZWY.jpg",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "leparisien.fr",
-			"url": "https://www.leparisien.fr/politique/la-decision-de-sciences-po-strasbourg-sur-son-partenariat-avec-une-universite-israelienne-est-affligeante-estime-jean-noel-barrot-31-10-2024-QSZZT6LW4BFHHC2HZ3XRZFMWOQ.php",
-			"description": "La d\u00e9cision a \u00e9t\u00e9 prise par l\u2019\u00e9tablissement en juin dernier, mais elle n\u2019a \u00e9t\u00e9 r\u00e9v\u00e9l\u00e9e que ce mercredi 30\u00a0octobre par le quotidien r\u00e9gional "
-		},
-		{
-			"title": "Il incarne la r\u00e9ussite et les \u00e9checs de la recherche publique : le CNRS, paradis des sciences \u00abmolles\u00bb qui co\u00fbte cher, tr\u00e8s cher - Le Figaro",
-			"link": "https://www.lefigaro.fr/actualite-france/il-incarne-la-reussite-et-les-echecs-de-la-recherche-publique-le-cnrs-paradis-des-sciences-molles-qui-coute-cher-tres-cher-20241026",
-			"pubDate": "Sat, 26 Oct 2024 12:00:06 GMT",
-			"image": "https://i.f1g.fr/media/cms/1200x630_crop/2024/10/24/a5654bcbdcb84c90052b1821afbf5cb9ba77b4bd72d9ac433dada7d60112ccbe.jpg",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "Le Figaro",
-			"url": "https://www.lefigaro.fr/actualite-france/il-incarne-la-reussite-et-les-echecs-de-la-recherche-publique-le-cnrs-paradis-des-sciences-molles-qui-coute-cher-tres-cher-20241026",
-			"description": "ANALYSE - Le statut garanti \u00e0 vie et l'entre-soi dans la distribution des postes et des financements encouragent le pantouflage et favorisent le militantisme."
+			"site_name": "Actualit\u00e9s UQAM",
+			"url": "https://actualites.uqam.ca/2024/creation-de-la-faculte-des-sciences-de-la-sante/",
+			"description": "La nouvelle Facult\u00e9 contribuera \u00e0 la formation de la rel\u00e8ve et \u00e0 la recherche de pointe en sant\u00e9 selon une approche centr\u00e9e sur la pr\u00e9vention."
 		},
 		{
 			"title": "Pol\u00e9mique apr\u00e8s la suspension par Sciences-Po Strasbourg d'un accord avec une fac isra\u00e9lienne - RMC",
@@ -551,6 +531,16 @@
 			"description": "Selon Sciences Po, quatre \u00e9tudiants avaient \u00ab\u00e9t\u00e9 identifi\u00e9s comme ayant particip\u00e9 \u00e0 une action\u00bb propalestinienne au cours de laquelle \u00abdu mat\u00e9riel a \u00e9t\u00e9 d\u00e9grad\u00e9 notamment\u00bb sur les stands de quatre entreprises."
 		},
 		{
+			"title": "Il incarne la r\u00e9ussite et les \u00e9checs de la recherche publique : le CNRS, paradis des sciences \u00abmolles\u00bb qui co\u00fbte cher, tr\u00e8s cher - Le Figaro",
+			"link": "https://www.lefigaro.fr/actualite-france/il-incarne-la-reussite-et-les-echecs-de-la-recherche-publique-le-cnrs-paradis-des-sciences-molles-qui-coute-cher-tres-cher-20241026",
+			"pubDate": "Sat, 26 Oct 2024 12:00:06 GMT",
+			"image": "https://i.f1g.fr/media/cms/1200x630_crop/2024/10/24/a5654bcbdcb84c90052b1821afbf5cb9ba77b4bd72d9ac433dada7d60112ccbe.jpg",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "Le Figaro",
+			"url": "https://www.lefigaro.fr/actualite-france/il-incarne-la-reussite-et-les-echecs-de-la-recherche-publique-le-cnrs-paradis-des-sciences-molles-qui-coute-cher-tres-cher-20241026",
+			"description": "ANALYSE - Le statut garanti \u00e0 vie et l'entre-soi dans la distribution des postes et des financements encouragent le pantouflage et favorisent le militantisme."
+		},
+		{
 			"title": "\u00abPositions profond\u00e9ment bellicistes\u00bb : Sciences Po Strasbourg suspend son partenariat avec une universit\u00e9 isra\u00e9lienne - Le Journal du dimanche",
 			"link": "https://www.lejdd.fr/international/positions-profondement-bellicistes-sciences-po-strasbourg-suspend-son-partenariat-avec-une-universite-israelienne-151143",
 			"pubDate": "Wed, 30 Oct 2024 09:34:37 GMT",
@@ -571,24 +561,14 @@
 			"description": "VID\u00c9O - Sciences Po Strasbourg a officialis\u00e9 la suspension de ses relations avec une universit\u00e9 isra\u00e9lienne dans le contexte de la guerre men\u00e9e au Moyen-Orient."
 		},
 		{
-			"title": "\"Une erreur, une honte\": le directeur de Sciences Po Strasbourg s\u2019est \"oppos\u00e9 tr\u00e8s fermement\" \u00e0 la... - BFM Alsace",
-			"link": "https://www.bfmtv.com/alsace/une-erreur-une-honte-le-directeur-de-sciences-po-strasbourg-s-est-oppose-tres-fermement-a-la-fin-du-partenariat-avec-une-fac-israelienne_AN-202410310502.html",
-			"pubDate": "Thu, 31 Oct 2024 12:31:00 GMT",
-			"image": "https://images.bfmtv.com/p-t5J7uWhN-QcDwXCkCPJoHEYKo=/0x62:1200x737/1200x0/images/Sciences-Po-Strasbourg-1966078.jpg",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "BFMTV",
-			"url": "https://www.bfmtv.com/alsace/une-erreur-une-honte-le-directeur-de-sciences-po-strasbourg-s-est-oppose-tres-fermement-a-la-fin-du-partenariat-avec-une-fac-israelienne_AN-202410310502.html",
-			"description": "Jean-Philippe Heurtin, le directeur de Sciences Po Strasbourg, a r\u00e9agi aupr\u00e8s de BFM Alsace jeudi 31 octobre \u00e0 la suspension du partenariat avec une facult\u00e9 isra\u00e9lienne, vot\u00e9 en conseil d'administration. Il s'est dit \"extr\u00eamement pein\u00e9\", il d\u00e9nonce \"une erreur\" et dit se dit \"honteux de cette..."
-		},
-		{
-			"title": "N\u00e9andertal, Sapiens : deux fa\u00e7ons d\u2019enterrer les morts, deux cultures diff\u00e9rentes - Futura",
-			"link": "https://www.futura-sciences.com/sciences/actualites/homme-neandertal-sapiens-deux-facons-enterrer-morts-deux-cultures-differentes-117143/",
-			"pubDate": "Fri, 01 Nov 2024 10:18:18 GMT",
-			"image": "https://cdn.futura-sciences.com/buildsv6/images/largeoriginal/c/8/d/c8da1822e6_50222844_mort-squelette-humain.jpg",
+			"title": "Ce que nos cimeti\u00e8res r\u00e9v\u00e8lent de notre rapport au vivant - Futura",
+			"link": "https://www.futura-sciences.com/sciences/actualites/anthropologie-ce-nos-cimetieres-revelent-notre-rapport-vivant-117112/",
+			"pubDate": "Fri, 01 Nov 2024 08:04:57 GMT",
+			"image": "https://cdn.futura-sciences.com/buildsv6/images/largeoriginal/2/c/c/2ccb356148_50222795_cimetiere-urbain.jpg",
 			"logo": "https://picsum.photos/32/32?grayscale",
 			"site_name": "Futura",
-			"url": "https://www.futura-sciences.com/sciences/actualites/homme-neandertal-sapiens-deux-facons-enterrer-morts-deux-cultures-differentes-117143/",
-			"description": "Dis-moi comment tu enterres tes morts, je te dirai qui tu es. Si notre fa\u00e7on d\u2019inhumer les d\u00e9funts est en effet r\u00e9v\u00e9latrice de notre culture, cela est aussi vrai pour les soci\u00e9t\u00e9s pr\u00e9historiques...."
+			"url": "https://www.futura-sciences.com/sciences/actualites/anthropologie-ce-nos-cimetieres-revelent-notre-rapport-vivant-117112/",
+			"description": "Les cimeti\u00e8res, traditionnellement domin\u00e9s par des tombes en granit et un entretien intensif, se transforment peu \u00e0 peu avec l'interdiction des pesticides dans l'espace public. L'\u00e9volution du..."
 		},
 		{
 			"title": "F\u00eate de la science 2024 - ENS",
@@ -599,6 +579,16 @@
 			"site_name": "",
 			"url": "",
 			"description": ""
+		},
+		{
+			"title": "D\u00e9couverte r\u00e9volutionnaire sur Alzheimer : une nouvelle voie de traitement identifi\u00e9e - Futura",
+			"link": "https://www.futura-sciences.com/sante/actualites/maladie-alzheimer-decouverte-revolutionnaire-alzheimer-nouvelle-voie-traitement-identifiee-117031/",
+			"pubDate": "Wed, 30 Oct 2024 16:17:36 GMT",
+			"image": "https://cdn.futura-sciences.com/buildsv6/images/largeoriginal/2/9/4/29455cdcf2_50222638_piste-traitement-alzheimer.jpg",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "Futura",
+			"url": "https://www.futura-sciences.com/sante/actualites/maladie-alzheimer-decouverte-revolutionnaire-alzheimer-nouvelle-voie-traitement-identifiee-117031/",
+			"description": "Une d\u00e9couverte r\u00e9volutionnaire dans la lutte contre la maladie d'Alzheimer vient d'\u00eatre annonc\u00e9e. Des scientifiques ont identifi\u00e9 un m\u00e9canisme innovant impliquant les astrocytes, ouvrant de..."
 		},
 		{
 			"title": "Guerre au Proche-Orient. Sciences-Po Strasbourg suspend un partenariat universitaire avec Isra\u00ebl - Ouest-France",
@@ -621,6 +611,26 @@
 			"description": "Il a \u00e9t\u00e9 l\u2019une des figures de proue du Comit\u00e9 Palestine \u00e0 Sciences Po Paris, cr\u00e9\u00e9 peu apr\u00e8s les massacres du 7 Octobre commis en Isra\u00ebl par le Hamas. Il est d\u00e9sormais, \u00e0 23\u00a0ans, l\u2019assistant parlementaire de l\u2019eurod\u00e9put\u00e9e LFI Rima Hassan, elle-m\u00eame cible de nombreuses attaques et pol\u00e9miques. Portrait d\u2019un jeune homme aux multiples engagements."
 		},
 		{
+			"title": "Utopiales : ce que la SF fait au corps des femmes - France Culture",
+			"link": "https://www.radiofrance.fr/franceculture/podcasts/la-science-cqfd/utopiales-ce-que-la-sf-fait-au-corps-des-femmes-6954312",
+			"pubDate": "Thu, 31 Oct 2024 15:15:15 GMT",
+			"image": "https://www.radiofrance.fr/s3/cruiser-production-eu3/2024/10/c5a6a6ed-ff0c-47a3-9215-ab84815cc831/1200x680_sc_utopiales2024.jpg",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "France Culture",
+			"url": "https://www.radiofrance.fr/franceculture/podcasts/la-science-cqfd/utopiales-ce-que-la-sf-fait-au-corps-des-femmes-6954312",
+			"description": "De la femme \u00e9rotis\u00e9e des pulps \u00e0 la femme cyborg de Donna Haraway, en passant par l\u2019h\u00e9ro\u00efne guerri\u00e8re, le r\u00f4le des femmes varie dans les r\u00e9cits de SF. Que fait la SF au corps des femmes ? Comment expose-t-elle les enjeux qui l\u2019entourent ? Permet-elle sa lib\u00e9ration ou reproduit-elle des st\u00e9r\u00e9otypes ?"
+		},
+		{
+			"title": "Vous souhaitez prendre le contr\u00f4le de vos r\u00eaves ? Lisez le dernier num\u00e9ro de Sciences et Avenir ! - Sciences et Avenir",
+			"link": "https://www.sciencesetavenir.fr/decouvrir/agenda/edito-prendre-le-controle-de-ses-reves-a-decouvrir-dans-le-n-933-de-sciences-et-avenir-chez-vos-marchands-de-journaux_181679",
+			"pubDate": "Thu, 24 Oct 2024 07:00:00 GMT",
+			"image": "",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "",
+			"url": "",
+			"description": ""
+		},
+		{
 			"title": "Sciences-Po Strasbourg: le ministre des Affaires \u00e9trang\u00e8res d\u00e9plore la fin du partenariat avec une... - BFM Alsace",
 			"link": "https://www.bfmtv.com/alsace/sciences-po-strasbourg-le-ministre-des-affaires-etrangeres-deplore-la-fin-du-partenariat-avec-une-universite-israelienne_AD-202410310350.html",
 			"pubDate": "Thu, 31 Oct 2024 09:30:00 GMT",
@@ -629,16 +639,6 @@
 			"site_name": "BFMTV",
 			"url": "https://www.bfmtv.com/alsace/sciences-po-strasbourg-le-ministre-des-affaires-etrangeres-deplore-la-fin-du-partenariat-avec-une-universite-israelienne_AD-202410310350.html",
 			"description": "Apr\u00e8s la suspension, par Sciences-Po Strasbourg, d'un partenariat avec une universit\u00e9 isra\u00e9lienne, Jean-No\u00ebl Barrot a d\u00e9nonc\u00e9 la d\u00e9cision, ce jeudi 31 octobre.  Les positions de la facult\u00e9 sur Gaza avaient \u00e9t\u00e9 jug\u00e9es \"bellicistes\"."
-		},
-		{
-			"title": "Vous souhaitez prendre le contr\u00f4le de vos r\u00eaves ? Lisez le dernier num\u00e9ro de Sciences et Avenir ! - Sciences et Avenir",
-			"link": "https://www.sciencesetavenir.fr/decouvrir/agenda/edito-prendre-le-controle-de-ses-reves-a-decouvrir-dans-le-n-933-de-sciences-et-avenir-chez-vos-marchands-de-journaux_181679",
-			"pubDate": "Thu, 24 Oct 2024 07:00:00 GMT",
-			"image": "https://www.sciencesetavenir.fr/assets/img/2024/10/23/cover-r4x3w1200-6718c4c4d8772-sca933.jpg",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "Sciences et Avenir",
-			"url": "https://www.sciencesetavenir.fr/decouvrir/agenda/edito-prendre-le-controle-de-ses-reves-a-decouvrir-dans-le-n-933-de-sciences-et-avenir-chez-vos-marchands-de-journaux_181679",
-			"description": "\"Prenons le temps de r\u00eaver\", c'est l'\u00e9ditorial du r\u00e9dacteur en chef du mensuel Mathieu Nowak, extrait de Sciences et Avenir n\u00b0933, notre num\u00e9ro dat\u00e9 novembre\u00a02024."
 		},
 		{
 			"title": "A Sciences Po, quatre \u00e9tudiants suspendus saisissent le tribunal administratif - Le Monde",
@@ -661,24 +661,14 @@
 			"description": "L\u2019acc\u00e8s ouvert \u00e0 la science : une opportunit\u00e9 pour l\u2019avenir de la communaut\u00e9 scientifique, mais aussi des engagements institutionnels.\n\nPour la 3e ann\u00e9e cons\u00e9cutive, la Biblioth\u00e8que d\u00e9die le mois de novembre \u00e0 la science ouverte. Venez \u00e9changer, (re)d\u00e9couvrir son importance dans la carri\u00e8re d'un chercheur et contribuer \u00e0 la diss\u00e9mination de ce mouvement avec des professionnels \u00e0 travers diff\u00e9rents ateliers. Plus d'informations via notre newsletter d\u00e9di\u00e9e (4 num\u00e9ros) !"
 		},
 		{
-			"title": "D\u00e9couverte r\u00e9volutionnaire sur Alzheimer : une nouvelle voie de traitement identifi\u00e9e - Futura",
-			"link": "https://www.futura-sciences.com/sante/actualites/maladie-alzheimer-decouverte-revolutionnaire-alzheimer-nouvelle-voie-traitement-identifiee-117031/",
-			"pubDate": "Wed, 30 Oct 2024 16:17:36 GMT",
-			"image": "https://cdn.futura-sciences.com/buildsv6/images/largeoriginal/2/9/4/29455cdcf2_50222638_piste-traitement-alzheimer.jpg",
+			"title": "Page d'accueil CNRS Sciences informatiques | CNRS Sciences informatiques - INS2I",
+			"link": "https://www.ins2i.cnrs.fr/fr",
+			"pubDate": "Wed, 25 Sep 2024 07:00:00 GMT",
+			"image": "https://www.ins2i.cnrs.fr/sites/institut_ins2i/files/styles/institut_home_top/public/image/cnrs_20140001_0024_reduit.jpg?h=b5a880ad&itok=YkFxSRR1",
 			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "Futura",
-			"url": "https://www.futura-sciences.com/sante/actualites/maladie-alzheimer-decouverte-revolutionnaire-alzheimer-nouvelle-voie-traitement-identifiee-117031/",
-			"description": "Une d\u00e9couverte r\u00e9volutionnaire dans la lutte contre la maladie d'Alzheimer vient d'\u00eatre annonc\u00e9e. Des scientifiques ont identifi\u00e9 un m\u00e9canisme innovant impliquant les astrocytes, ouvrant de..."
-		},
-		{
-			"title": "Utopiales : ce que la SF fait au corps des femmes - France Culture",
-			"link": "https://www.radiofrance.fr/franceculture/podcasts/la-science-cqfd/utopiales-ce-que-la-sf-fait-au-corps-des-femmes-6954312",
-			"pubDate": "Thu, 31 Oct 2024 15:15:15 GMT",
-			"image": "https://www.radiofrance.fr/s3/cruiser-production-eu3/2024/10/c5a6a6ed-ff0c-47a3-9215-ab84815cc831/1200x680_sc_utopiales2024.jpg",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "France Culture",
-			"url": "https://www.radiofrance.fr/franceculture/podcasts/la-science-cqfd/utopiales-ce-que-la-sf-fait-au-corps-des-femmes-6954312",
-			"description": "De la femme \u00e9rotis\u00e9e des pulps \u00e0 la femme cyborg de Donna Haraway, en passant par l\u2019h\u00e9ro\u00efne guerri\u00e8re, le r\u00f4le des femmes varie dans les r\u00e9cits de SF. Que fait la SF au corps des femmes ? Comment expose-t-elle les enjeux qui l\u2019entourent ? Permet-elle sa lib\u00e9ration ou reproduit-elle des st\u00e9r\u00e9otypes ?"
+			"site_name": "CNRS Sciences informatiques",
+			"url": "https://www.ins2i.cnrs.fr/fr/institut-ins2i",
+			"description": ""
 		},
 		{
 			"title": "France: Sciences Po Strasbourg suspend un partenariat avec une universit\u00e9 isra\u00e9lienne - TRT Francais",
@@ -688,16 +678,6 @@
 			"logo": "https://picsum.photos/32/32?grayscale",
 			"site_name": "",
 			"url": "",
-			"description": ""
-		},
-		{
-			"title": "Page d'accueil CNRS Sciences informatiques | CNRS Sciences informatiques - INS2I",
-			"link": "https://www.ins2i.cnrs.fr/fr",
-			"pubDate": "Wed, 25 Sep 2024 07:00:00 GMT",
-			"image": "https://www.ins2i.cnrs.fr/sites/institut_ins2i/files/styles/institut_home_top/public/image/cnrs_20140001_0024_reduit.jpg?h=b5a880ad&itok=YkFxSRR1",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "CNRS Sciences informatiques",
-			"url": "https://www.ins2i.cnrs.fr/fr/institut-ins2i",
 			"description": ""
 		},
 		{
@@ -734,21 +714,11 @@
 			"title": "Atlas embryonnaire, oiseau migrateur et Mois sans tabac : l'actu des sciences en ultrabr\u00e8ves - Sciences et Avenir",
 			"link": "https://www.sciencesetavenir.fr/ultrabreves/atlas-embryonnaire-oiseaux-migrateurs-et-mois-sans-tabac-l-actu-des-sciences-en-ultrabreves_181879",
 			"pubDate": "Tue, 29 Oct 2024 16:44:25 GMT",
-			"image": "https://www.sciencesetavenir.fr/assets/img/2024/10/29/cover-r4x3w1200-6720eeb14d77f-cover-r4x3w1200-671b94fbd7cbd-zebrahub.jpg",
+			"image": "",
 			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "Sciences et Avenir",
-			"url": "https://www.sciencesetavenir.fr/ultrabreves/atlas-embryonnaire-oiseaux-migrateurs-et-mois-sans-tabac-l-actu-des-sciences-en-ultrabreves_181879",
-			"description": "Au sommaire des ultrabre\u0300ves du 29\u00a0octobre 2024 : un atlas embryonnaire r\u00e9volutionnaire, la fin de vie tragique d'un oiseau migrateur et le d\u00e9but de la 9e \u00e9dition du Mois sans tabac."
-		},
-		{
-			"title": "Les \u00e9toiles clignotent-elles ? - Caminteresse.fr",
-			"link": "https://www.caminteresse.fr/sciences/les-etoiles-clignotent-elles-11198045/",
-			"pubDate": "Fri, 01 Nov 2024 21:00:00 GMT",
-			"image": "https://www.caminteresse.fr/imgre/fit/~1~cam~2024~10~21~7dbbf26a-6188-427c-9de3-ae260d949b29.jpeg/1200x630/quality/80/les-etoiles-clignotent-elles.jpg",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "\u00c7a m'int\u00e9resse",
-			"url": "https://www.caminteresse.fr/sciences/les-etoiles-clignotent-elles-11198045/",
-			"description": "Parce qu\u2019elles sont souvent plus visibles l\u2019\u00e9t\u00e9 et particuli\u00e8rement lorsque le ciel est d\u00e9gag\u00e9, les \u00e9toiles brillent cependant tout au long de l\u2019ann\u00e9e"
+			"site_name": "",
+			"url": "",
+			"description": ""
 		},
 		{
 			"title": "Partenariat suspendu entre Sciences Po Strasbourg et une universit\u00e9 isra\u00e9lienne: \u00abune d\u00e9cision affligeante\u00bb, r\u00e9agit le ministre des Affaires \u00e9trang\u00e8res - Le Figaro",
@@ -761,36 +731,6 @@
 			"description": "L'IEP de Strasbourg a gel\u00e9 ses relations avec l'universit\u00e9 Reichman, invoquant ses \u00abprises de position\u00bb sur Gaza."
 		},
 		{
-			"title": "Un acc\u00e8s \u00e0 la science pour tous : journ\u00e9e portes ouvertes INRAE in\u00e9dite \u00e0 Bordeaux et dans le Pays Basque - INRAE INSTIT",
-			"link": "https://www.inrae.fr/actualites/acces-science-tous-journee-portes-ouvertes-inrae-inedite-bordeaux-pays-basque",
-			"pubDate": "Tue, 29 Oct 2024 09:40:43 GMT",
-			"image": "https://www.inrae.fr/sites/default/files/jpg/inrae_jpo24_villenave_12oct_r51887.jpg",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "INRAE Institutionnel",
-			"url": "",
-			"description": "COMMUNIQUE DE PRESSE REGIONAL - Au-del\u00e0 de ses missions premi\u00e8res en mati\u00e8re de recherche au b\u00e9n\u00e9fice des transitions \u00e9cologiques, agricoles et soci\u00e9tales, partout en France, INRAE mobilise ses \u00e9quipes au c\u0153ur des territoires pour un acc\u00e8s \u00e0 la science pour tous. En 2024, apr\u00e8s une attente de presque 15 ans pour certains sites, le centre INRAE Nouvelle-Aquitaine Bordeaux a ouvert ses portes au grand public le samedi 12 octobre 2024 dans le cadre de la F\u00eate de la Science. Rendez-vous \u00e0 Villenave d\u2019Ornon, Cestas-Gazinet, Pierroton et Saint-P\u00e9e-sur-Nivelle dans le Pays Basque pour un \u00e9v\u00e9nement multisites in\u00e9dit !"
-		},
-		{
-			"title": "Reportage : transformer de la boue en biom\u00e9thane - Sciences et Avenir",
-			"link": "https://www.sciencesetavenir.fr/videos/reportage-transformer-de-la-boue-en-biomethane_x83xq35",
-			"pubDate": "Thu, 31 Oct 2024 11:53:19 GMT",
-			"image": "https://medialb.ultimedia.com/multi/3zfzq/x83xq35-H.jpg",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "Sciences et Avenir",
-			"url": "https://www.sciencesetavenir.fr/videos/reportage-transformer-de-la-boue-en-biomethane_x83xq35",
-			"description": "A la station d'\u00e9puration et de traitement des eaux de Seine Valenton, une unit\u00e9 de production de biom\u00e9thane a \u00e9t\u00e9 inaugur\u00e9e le mardi 29 octobre. A la cl\u00e9, 45GWh d'\u00e9nergie dans le r"
-		},
-		{
-			"title": "\u00c0 Cherbourg, la Soci\u00e9t\u00e9 des sciences compte un acad\u00e9micien dans ses rangs - actu.fr",
-			"link": "https://actu.fr/normandie/cherbourg-en-cotentin_50129/a-cherbourg-la-societe-des-sciences-compte-un-academicien-dans-ses-rangs_61777837.html",
-			"pubDate": "Tue, 29 Oct 2024 13:46:40 GMT",
-			"image": "https://static.actu.fr/uploads/2024/10/bc43be01ef176c053be01ef17a453bv.jpg",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "actu.fr",
-			"url": "https://actu.fr/normandie/cherbourg-en-cotentin_50129/a-cherbourg-la-societe-des-sciences-compte-un-academicien-dans-ses-rangs_61777837.html",
-			"description": "La nouvelle a \u00e9t\u00e9 partag\u00e9e ce mercredi 23\u00a0octobre 2024\u2009: directeur de la Soci\u00e9t\u00e9 des sciences de Cherbourg, Jacques Foos a \u00e9t\u00e9 intronis\u00e9 Acad\u00e9micien Arts-Sciences-Lettres."
-		},
-		{
 			"title": "\u00c0 la rencontre des \u00e9tudiants de Sciences Po Paris - Le portail de la fonction publique",
 			"link": "https://www.fonction-publique.gouv.fr/toutes-les-actualites/la-rencontre-des-etudiants-de-sciences-po-paris",
 			"pubDate": "Mon, 21 Oct 2024 15:47:01 GMT",
@@ -799,6 +739,26 @@
 			"site_name": "",
 			"url": "",
 			"description": ""
+		},
+		{
+			"title": "Reportage : transformer de la boue en biom\u00e9thane - Sciences et Avenir",
+			"link": "https://www.sciencesetavenir.fr/videos/reportage-transformer-de-la-boue-en-biomethane_x83xq35",
+			"pubDate": "Thu, 31 Oct 2024 11:53:19 GMT",
+			"image": "",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "",
+			"url": "",
+			"description": ""
+		},
+		{
+			"title": "Un acc\u00e8s \u00e0 la science pour tous : journ\u00e9e portes ouvertes INRAE in\u00e9dite \u00e0 Bordeaux et dans le Pays Basque - INRAE INSTIT",
+			"link": "https://www.inrae.fr/actualites/acces-science-tous-journee-portes-ouvertes-inrae-inedite-bordeaux-pays-basque",
+			"pubDate": "Tue, 29 Oct 2024 09:40:43 GMT",
+			"image": "https://www.inrae.fr/sites/default/files/jpg/inrae_jpo24_villenave_12oct_r51887.jpg",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "INRAE Institutionnel",
+			"url": "",
+			"description": "COMMUNIQUE DE PRESSE REGIONAL - Au-del\u00e0 de ses missions premi\u00e8res en mati\u00e8re de recherche au b\u00e9n\u00e9fice des transitions \u00e9cologiques, agricoles et soci\u00e9tales, partout en France, INRAE mobilise ses \u00e9quipes au c\u0153ur des territoires pour un acc\u00e8s \u00e0 la science pour tous. En 2024, apr\u00e8s une attente de presque 15 ans pour certains sites, le centre INRAE Nouvelle-Aquitaine Bordeaux a ouvert ses portes au grand public le samedi 12 octobre 2024 dans le cadre de la F\u00eate de la Science. Rendez-vous \u00e0 Villenave d\u2019Ornon, Cestas-Gazinet, Pierroton et Saint-P\u00e9e-sur-Nivelle dans le Pays Basque pour un \u00e9v\u00e9nement multisites in\u00e9dit !"
 		},
 		{
 			"title": "F\u00eate de la Science 2024 - Ville de Lyon",
@@ -811,6 +771,16 @@
 			"description": ""
 		},
 		{
+			"title": "N\u00e9andertal, Sapiens : deux fa\u00e7ons d\u2019enterrer les morts, deux cultures diff\u00e9rentes - Futura",
+			"link": "https://www.futura-sciences.com/sciences/actualites/homme-neandertal-sapiens-deux-facons-enterrer-morts-deux-cultures-differentes-117143/",
+			"pubDate": "Fri, 01 Nov 2024 10:18:18 GMT",
+			"image": "https://cdn.futura-sciences.com/buildsv6/images/largeoriginal/c/8/d/c8da1822e6_50222844_mort-squelette-humain.jpg",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "Futura",
+			"url": "https://www.futura-sciences.com/sciences/actualites/homme-neandertal-sapiens-deux-facons-enterrer-morts-deux-cultures-differentes-117143/",
+			"description": "Dis-moi comment tu enterres tes morts, je te dirai qui tu es. Si notre fa\u00e7on d\u2019inhumer les d\u00e9funts est en effet r\u00e9v\u00e9latrice de notre culture, cela est aussi vrai pour les soci\u00e9t\u00e9s pr\u00e9historiques...."
+		},
+		{
 			"title": "L\u2019empreinte carbone des infrastructures de recherche d\u00e9fie la responsabilit\u00e9 environnementale des laboratoires INSU - Insu-CNRS",
 			"link": "https://www.insu.cnrs.fr/fr/cnrsinfo/lempreinte-carbone-des-infrastructures-de-recherche-defie-la-responsabilite",
 			"pubDate": "Thu, 31 Oct 2024 12:00:00 GMT",
@@ -819,16 +789,6 @@
 			"site_name": "CNRS Terre & Univers",
 			"url": "https://www.insu.cnrs.fr/fr/cnrsinfo/lempreinte-carbone-des-infrastructures-de-recherche-defie-la-responsabilite",
 			"description": ""
-		},
-		{
-			"title": "Sciences-po : suspendus apr\u00e8s une action propalestienne, quatre \u00e9tudiants vont devoir poursuivre leurs cours \u00e0 distance - Le Parisien",
-			"link": "https://www.leparisien.fr/societe/sciences-po-suspendus-apres-une-action-propalestienne-quatre-etudiants-vont-devoir-poursuivre-leurs-cours-a-distance-28-10-2024-UZBPGSOIOBCA5ETA7LNVQI76XY.php",
-			"pubDate": "Mon, 28 Oct 2024 18:00:00 GMT",
-			"image": "https://www.leparisien.fr/resizer/S-cVG2GmkwU1OMoB6Au0EjQrPcs=/1200x675/cloudfront-eu-central-1.images.arcpublishing.com/leparisien/HO7PNTKCSFDQPO2H3MDBQ2ZVOU.jpg",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "leparisien.fr",
-			"url": "https://www.leparisien.fr/societe/sciences-po-suspendus-apres-une-action-propalestienne-quatre-etudiants-vont-devoir-poursuivre-leurs-cours-a-distance-28-10-2024-UZBPGSOIOBCA5ETA7LNVQI76XY.php",
-			"description": "Quatre \u00e9tudiants de Sciences-po Paris avaient \u00e9t\u00e9 suspendus apr\u00e8s une action de soutien \u00e0 la Palestine lors d\u2019un forum auquel participaient "
 		},
 		{
 			"title": "Le Forum des Sciences expose l'art dans la Pr\u00e9histoire \u00e0 Villeneuve-d'Ascq - Vozer",
@@ -841,6 +801,16 @@
 			"description": "\ud83c\udfa8 Le Forum des Sciences expose l'art dans la Pr\u00e9histoire \ud83c\udfa8Apr\u00e8s le Mus\u00e9e de l'Homme de Paris, l'expo \"Arts et Pr\u00e9histoire\" a atterri\u2026"
 		},
 		{
+			"title": "Bienvenue \u00e0 Karen n\u00ed Mheallaigh - ENS",
+			"link": "http://www.ens.psl.eu/actualites/bienvenue-karen-ni-mheallaigh",
+			"pubDate": "Thu, 31 Oct 2024 08:15:46 GMT",
+			"image": "",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "",
+			"url": "",
+			"description": ""
+		},
+		{
 			"title": "Sciences Po Strasbourg suspend son partenariat avec une facult\u00e9 isra\u00e9lienne - Valeurs actuelles",
 			"link": "https://www.valeursactuelles.com/regions/grand-est/bas-rhin/strasbourg/societe/sciences-po-strasbourg-suspend-son-partenariat-avec-une-faculte-israelienne-denoncant-des-positions-tres-problematiques",
 			"pubDate": "Tue, 29 Oct 2024 20:40:50 GMT",
@@ -849,6 +819,16 @@
 			"site_name": "Valeurs actuelles",
 			"url": "https://www.valeursactuelles.com/regions/grand-est/bas-rhin/strasbourg/societe/sciences-po-strasbourg-suspend-son-partenariat-avec-une-faculte-israelienne-denoncant-des-positions-tres-problematiques",
 			"description": "Il n\u2019y aura pour l\u2019instant plus de liens entre Sciences Po Strasbourg et l\u2019universit\u00e9 Reichman de Herzliya, situ\u00e9e au nord de Tel-Aviv en Isra\u00ebl. Le conseil d\u2019administration de Sciences Po..."
+		},
+		{
+			"title": "Sciences-po : suspendus apr\u00e8s une action propalestienne, quatre \u00e9tudiants vont devoir poursuivre leurs cours \u00e0 distance - Le Parisien",
+			"link": "https://www.leparisien.fr/societe/sciences-po-suspendus-apres-une-action-propalestienne-quatre-etudiants-vont-devoir-poursuivre-leurs-cours-a-distance-28-10-2024-UZBPGSOIOBCA5ETA7LNVQI76XY.php",
+			"pubDate": "Mon, 28 Oct 2024 18:00:00 GMT",
+			"image": "https://www.leparisien.fr/resizer/S-cVG2GmkwU1OMoB6Au0EjQrPcs=/1200x675/cloudfront-eu-central-1.images.arcpublishing.com/leparisien/HO7PNTKCSFDQPO2H3MDBQ2ZVOU.jpg",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "leparisien.fr",
+			"url": "https://www.leparisien.fr/societe/sciences-po-suspendus-apres-une-action-propalestienne-quatre-etudiants-vont-devoir-poursuivre-leurs-cours-a-distance-28-10-2024-UZBPGSOIOBCA5ETA7LNVQI76XY.php",
+			"description": "Quatre \u00e9tudiants de Sciences-po Paris avaient \u00e9t\u00e9 suspendus apr\u00e8s une action de soutien \u00e0 la Palestine lors d\u2019un forum auquel participaient "
 		},
 		{
 			"title": "\u00c0 Sciences Po Strasbourg, les coulisses du boycott d\u2019une universit\u00e9 isra\u00e9lienne - Rue89 Strasbourg",
@@ -861,16 +841,6 @@
 			"description": "Fin juin, Sciences Po Strasbourg a vot\u00e9 la fin du partenariat avec l'universit\u00e9 isra\u00e9lienne Reichman. Une d\u00e9cision prise au terme d'un d\u00e9bat qui a divis\u00e9"
 		},
 		{
-			"title": "Bienvenue \u00e0 Karen n\u00ed Mheallaigh - ENS",
-			"link": "http://www.ens.psl.eu/actualites/bienvenue-karen-ni-mheallaigh",
-			"pubDate": "Thu, 31 Oct 2024 08:15:46 GMT",
-			"image": "",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "",
-			"url": "",
-			"description": ""
-		},
-		{
 			"title": "Le directeur de Sciences Po Strasbourg s\u2019est \"oppos\u00e9 tr\u00e8s fermement\" \u00e0 la suspension du partenariat avec une fac isra\u00e9lienne - BFM Alsace",
 			"link": "https://www.bfmtv.com/alsace/replay-emissions/bonsoir-l-alsace/le-directeur-de-sciences-po-strasbourg-s-est-oppose-tres-fermement-a-la-suspension-du-partenariat-avec-une-fac-israelienne_VN-202410310636.html",
 			"pubDate": "Thu, 31 Oct 2024 16:08:09 GMT",
@@ -879,6 +849,26 @@
 			"site_name": "BFMTV",
 			"url": "https://www.bfmtv.com/alsace/replay-emissions/bonsoir-l-alsace/le-directeur-de-sciences-po-strasbourg-s-est-oppose-tres-fermement-a-la-suspension-du-partenariat-avec-une-fac-israelienne_VN-202410310636.html",
 			"description": "VID\u00c9O - Jean-Philippe Heurtin, le directeur de Sciences Po Strasbourg, affirme aupr\u00e8s de BFM Alsace jeudi 31 octobre, s'\u00eatre \"oppos\u00e9 tr\u00e8s fermement \u00e0 la motion\" qui a entra\u00een\u00e9 la suspension du partenariat avec la facult\u00e9 isra\u00e9lienne Reichman."
+		},
+		{
+			"title": "\u00ab Sciences Po, champ de bataille de la guerre culturelle lanc\u00e9e contre la gauche \u00bb - Blast",
+			"link": "https://www.blast-info.fr/articles/2024/sciences-po-champ-de-bataille-de-la-guerre-culturelle-lancee-contre-la-gauche-nSy0WRa6Q9q5qqIzyYYbww",
+			"pubDate": "Wed, 23 Oct 2024 18:00:16 GMT",
+			"image": "https://static.blast-info.fr/stories/2024/open_graph-sciences-po-champ-de-bataille-de-la-guerre-culturelle-lancee-contre-la-gauche-nSy0WRa6Q9q5qqIzyYYbww.jpg",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "Blast le souffle de l\u2019info",
+			"url": "https://www.blast-info.fr/articles/2024/sciences-po-champ-de-bataille-de-la-guerre-culturelle-lancee-contre-la-gauche-nSy0WRa6Q9q5qqIzyYYbww",
+			"description": "Notre ami Jean-Fran\u00e7ois Bayart, sociologue souvent invit\u00e9 \u00e0 Blast, a \u00e9t\u00e9 professeur \u00e0 Sciences Po pendant 40 ans comme chercheur et directeur du prestigieux Centre de recherches internationales (CERI). Face \u00e0 la r\u00e9pression acharn\u00e9e men\u00e9e par l'institution\u2026"
+		},
+		{
+			"title": "CNRS Math\u00e9matiques - INSMI",
+			"link": "https://www.insmi.cnrs.fr/fr",
+			"pubDate": "Mon, 14 Oct 2024 07:00:00 GMT",
+			"image": "https://www.insmi.cnrs.fr/sites/institut_insmi/files/styles/institut_home_top/public/image/bille_rouge_tournee_0.png?h=c2f605ac&itok=cF0E5dDd",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "CNRS Math\u00e9matiques",
+			"url": "https://www.insmi.cnrs.fr/fr/cnrs-mathematiques",
+			"description": ""
 		},
 		{
 			"title": "Cin\u00e9ma, IA, sciences, fiction, BD, cosplay\u2026 les Utopiales 2024, c\u2019est parti \u00e0 Nantes - Ouest-France",
@@ -901,16 +891,6 @@
 			"description": "\u00ab\u00a0Ce n\u2019est pas cette universit\u00e9 qui aujourd\u2019hui bombarde au Liban ou \u00e0 Gaza\u00a0\u00bb, a fustig\u00e9 le ministre des Affaires \u00e9trang\u00e8res sur BFMTV."
 		},
 		{
-			"title": "\u00ab Sciences Po, champ de bataille de la guerre culturelle lanc\u00e9e contre la gauche \u00bb - Blast",
-			"link": "https://www.blast-info.fr/articles/2024/sciences-po-champ-de-bataille-de-la-guerre-culturelle-lancee-contre-la-gauche-nSy0WRa6Q9q5qqIzyYYbww",
-			"pubDate": "Wed, 23 Oct 2024 18:00:16 GMT",
-			"image": "https://static.blast-info.fr/stories/2024/open_graph-sciences-po-champ-de-bataille-de-la-guerre-culturelle-lancee-contre-la-gauche-nSy0WRa6Q9q5qqIzyYYbww.jpg",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "Blast le souffle de l\u2019info",
-			"url": "https://www.blast-info.fr/articles/2024/sciences-po-champ-de-bataille-de-la-guerre-culturelle-lancee-contre-la-gauche-nSy0WRa6Q9q5qqIzyYYbww",
-			"description": "Notre ami Jean-Fran\u00e7ois Bayart, sociologue souvent invit\u00e9 \u00e0 Blast, a \u00e9t\u00e9 professeur \u00e0 Sciences Po pendant 40 ans comme chercheur et directeur du prestigieux Centre de recherches internationales (CERI). Face \u00e0 la r\u00e9pression acharn\u00e9e men\u00e9e par l'institution\u2026"
-		},
-		{
 			"title": "L\u2019anthropoc\u00e8ne, un objet fronti\u00e8re qui signifie plus qu\u2019une tranche de temps g\u00e9ologique - Science et Vie",
 			"link": "https://www.science-et-vie.com/nature-et-environnement/lanthropocene-un-objet-frontiere-qui-signifie-plus-quune-tranche-de-temps-geologique-182879.html",
 			"pubDate": "Tue, 29 Oct 2024 17:00:00 GMT",
@@ -919,16 +899,6 @@
 			"site_name": "Science et vie",
 			"url": "https://www.science-et-vie.com/nature-et-environnement/lanthropocene-un-objet-frontiere-qui-signifie-plus-quune-tranche-de-temps-geologique-182879.html",
 			"description": "M\u00eame si le groupe de travail de la Commission internationale de stratigraphie a refus\u00e9 la proposition de cr\u00e9er une nouvelle p\u00e9riode g\u00e9ologique nomm\u00e9e anthropoc\u00e8ne, le d\u00e9bat n\u2019est pas clos pour autant. Le concept reste pr\u00e9cieux pour d\u00e9crire notre \u00e9poque, et permet de f\u00e9d\u00e9rer des communaut\u00e9s scientifiques distinctes."
-		},
-		{
-			"title": "CNRS Math\u00e9matiques - INSMI",
-			"link": "https://www.insmi.cnrs.fr/fr",
-			"pubDate": "Mon, 14 Oct 2024 07:00:00 GMT",
-			"image": "https://www.insmi.cnrs.fr/sites/institut_insmi/files/styles/institut_home_top/public/image/bille_rouge_tournee_0.png?h=c2f605ac&itok=cF0E5dDd",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "CNRS Math\u00e9matiques",
-			"url": "https://www.insmi.cnrs.fr/fr/cnrs-mathematiques",
-			"description": ""
 		},
 		{
 			"title": "Partenariat Sciences-Po Strasbourg/universit\u00e9 isra\u00e9lienne suspendu: Barrot fustige une \u00abd\u00e9cision affligeante - L'Opinion",
@@ -951,35 +921,55 @@
 			"description": "Jean-Philippe Heurtin est en col\u00e8re et le fait savoir. Le directeur de Sciences Po Strasbourg est vivement oppos\u00e9 \u00e0 la suspension du partenariat entre l\u2019\u00e9tablissement qu\u2019il dirige et l\u2019universit\u00e9 Reichman,..."
 		},
 		{
+			"title": "Les \u00e9toiles clignotent-elles ? - Caminteresse.fr",
+			"link": "https://www.caminteresse.fr/sciences/les-etoiles-clignotent-elles-11198045/",
+			"pubDate": "Fri, 01 Nov 2024 21:00:00 GMT",
+			"image": "https://www.caminteresse.fr/imgre/fit/~1~cam~2024~10~21~7dbbf26a-6188-427c-9de3-ae260d949b29.jpeg/1200x630/quality/80/les-etoiles-clignotent-elles.jpg",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "\u00c7a m'int\u00e9resse",
+			"url": "https://www.caminteresse.fr/sciences/les-etoiles-clignotent-elles-11198045/",
+			"description": "Parce qu\u2019elles sont souvent plus visibles l\u2019\u00e9t\u00e9 et particuli\u00e8rement lorsque le ciel est d\u00e9gag\u00e9, les \u00e9toiles brillent cependant tout au long de l\u2019ann\u00e9e"
+		},
+		{
+			"title": "Mobilisations propalestiniennes \u00e0 Sciences Po Paris : le nouveau directeur r\u00e9int\u00e8gre quatre \u00e9tudiants qui avaient \u00e9t\u00e9 expuls\u00e9s - CNEWS",
+			"link": "https://www.cnews.fr/france/2024-10-31/mobilisations-propalestiniennes-sciences-po-paris-le-nouveau-directeur-reintegre",
+			"pubDate": "Thu, 31 Oct 2024 16:21:29 GMT",
+			"image": "",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "",
+			"url": "",
+			"description": ""
+		},
+		{
 			"title": "Truffe du chien, tombe celte et biodiversit\u00e9 : l\u2019actu des sciences en ultrabr\u00e8ves - Sciences et Avenir",
 			"link": "https://www.sciencesetavenir.fr/ultrabreves/truffe-du-chien-tombe-celte-et-biodiversite-l-actu-des-sciences-en-ultrabre-ves_181859",
 			"pubDate": "Mon, 28 Oct 2024 16:46:05 GMT",
-			"image": "https://www.sciencesetavenir.fr/assets/img/2024/10/28/cover-r4x3w1200-671fb634e693c-chien-titree.jpg",
+			"image": "",
 			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "Sciences et Avenir",
-			"url": "https://www.sciencesetavenir.fr/ultrabreves/truffe-du-chien-tombe-celte-et-biodiversite-l-actu-des-sciences-en-ultrabre-ves_181859",
-			"description": "Au sommaire des actus du jour : pourquoi la truffe des chiens est sillonn\u00e9e, une tombe celte enfouie depuis 2600 vient d\u2019\u00eatre d\u00e9couverte en Allemagne et entretien avec Philippe Grandcolas sur le d\u00e9clin de la biodiversit\u00e9."
+			"site_name": "",
+			"url": "",
+			"description": ""
 		},
 		{
 			"title": "Recherche en intelligence artificielle et \u00e0 la biologie m\u00e9dicale : Cr\u00e9ation d'un nouveau centre de recherche d'excellence de l'Acad\u00e9mie autrichienne des Sciences (\u00d6AW) - France diplomatie",
 			"link": "https://www.diplomatie.gouv.fr/fr/politique-etrangere-de-la-france/diplomatie-scientifique-et-universitaire/veille-scientifique-et-technologique/autriche/article/recherche-en-intelligence-artificielle-et-a-la-biologie-medicale-creation-d-un",
 			"pubDate": "Wed, 30 Oct 2024 08:23:14 GMT",
-			"image": "https://www.diplomatie.gouv.fr/local/cache-vignettes/L800xH400/visuel_defaut_une_fd-44916.jpg?1702480405",
+			"image": "https://www.diplomatie.gouv.fr/local/cache-vignettes/L800xH400/visuel_defaut_une_fd-44916.jpg?1702480412",
 			"logo": "https://picsum.photos/32/32?grayscale",
 			"site_name": "France Diplomatie - Minist\u00e8re de l'Europe et des Affaires \u00e9trang\u00e8res",
 			"url": "https://www.diplomatie.gouv.fr/fr/politique-etrangere-de-la-france/diplomatie-scientifique-et-universitaire/veille-scientifique-et-technologique/autriche/article/recherche-en-intelligence-artificielle-et-a-la-biologie-medicale-creation-d-un",
 			"description": " En octobre dernier, AITHYRA, le nouvel institut d\u00e9di\u00e9 \u00e0 l'intelligence artificielle et \u00e0 la biologie m\u00e9dicale de l'Acad\u00e9mie autrichienne des sciences (\u2026) "
 		},
 		{
-			"title": "Sciences : une chercheuse strasbourgeoise r\u00e9compens\u00e9e - AirZen",
-			"link": "https://www.airzen.fr/sciences-une-chercheuse-strasbourgeoise-recompensee/",
-			"pubDate": "Mon, 28 Oct 2024 12:34:19 GMT",
-			"image": "https://www.airzen.fr/wp-content/uploads/2024/10/Emilie-Werner-et-Odile-Eisenstein-Directrice-de-recherche-emerite-au-CNRS-Institut-Charles-Gerhardt-Montpellier-ICGM-Universite-de-Montpellier-Membre-de-lAcademie-des-sciences-dans-la-section-de-C-scaled-e1729252447266.webp",
+			"title": "Les nocturnes de l'EMI | L'Op\u00e9ra dans la cit\u00e9 - Sciences Po",
+			"link": "https://www.sciencespo.fr/en/events/l-opera-dans-la-cite/",
+			"pubDate": "Tue, 08 Oct 2024 07:00:00 GMT",
+			"image": "https://www.sciencespo.fr/en/static/651752135c6a257c30d0747ec58dd467/02dff/NEEF_Alexander_78fec55cf0.jpg",
 			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "AirZen Radio",
-			"url": "https://www.airzen.fr/sciences-une-chercheuse-strasbourgeoise-recompensee/",
-			"description": "La chercheuse en chimie organique strasbourgeoise Emilie Werner \u00e9 \u00e9t\u00e9 r\u00e9compens\u00e9e du Prix Jeunes Talents France 2024 L\u2019Or\u00e9al Unesco \u00ab\u202fPour les femmes et la science\u202f\u00bb. Rencontre."
+			"site_name": "Sciences Po",
+			"url": "",
+			"description": "Rencontre avec Alexander Neef, Directeur g\u00e9n\u00e9ral de l'Op\u00e9ra national de Paris, dans le cadre des Nocturnes de l'EMI."
 		}
 	],
-	"timestamp": "2024-11-02 01:47:08.827849"
+	"timestamp": "2024-11-02 04:30:23.853609"
 }
