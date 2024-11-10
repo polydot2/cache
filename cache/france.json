@@ -1,114 +1,84 @@
 {
 	"content": [
 		{
-			"title": "SNCF : les syndicats appellent \u00e0 une gr\u00e8ve illimit\u00e9e \u00e0 partir du 11 d\u00e9cembre contre le d\u00e9mant\u00e8lement de la filiale de fret - CNEWS",
-			"link": "https://www.cnews.fr/france/2024-11-09/sncf-les-syndicats-appellent-une-greve-illimitee-partir-du-11-decembre-contre-le",
-			"pubDate": "Sat, 09 Nov 2024 11:04:19 GMT",
+			"title": "\u00ab Anis avait la vie devant lui \u00bb : des centaines de personnes ont rendu hommage \u00e0 l\u2019adolescent tu\u00e9 \u00e0 Poitiers - Le Parisien",
+			"link": "https://www.leparisien.fr/faits-divers/yanis-avait-la-vie-devant-lui-des-centaines-de-personnes-ont-rendu-hommage-a-ladolescent-tue-a-poitiers-09-11-2024-OR4FZHY5QFGL5FUQMANOM7WJYM.php",
+			"pubDate": "Sat, 09 Nov 2024 18:33:00 GMT",
+			"image": "https://www.leparisien.fr/resizer/UdEuZUI0F37tGmghSBjINCSPabk=/1200x675/cloudfront-eu-central-1.images.arcpublishing.com/leparisien/PGIY7CE7LFGHNBE35YNW7ZIXTQ.jpg",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "leparisien.fr",
+			"url": "https://www.leparisien.fr/faits-divers/yanis-avait-la-vie-devant-lui-des-centaines-de-personnes-ont-rendu-hommage-a-ladolescent-tue-a-poitiers-09-11-2024-OR4FZHY5QFGL5FUQMANOM7WJYM.php",
+			"description": "Ils \u00e9taient pr\u00e8s de 500 \u00e0 se rassembler pour dire un dernier adieu, ce samedi \u00e0 Poitiers, au gar\u00e7on de 15 ans victime collat\u00e9rale d\u2019une fusi"
+		},
+		{
+			"title": "\u00ab Prise isol\u00e9ment, la voix de la France n\u2019a plus de port\u00e9e \u00bb : la diplomatie fran\u00e7aise \u00e0 la peine - Le Parisien",
+			"link": "https://www.leparisien.fr/politique/prise-isolement-la-voix-de-la-france-na-plus-de-portee-la-diplomatie-francaise-a-la-peine-09-11-2024-6JPFRLFELBBYRFJPLECNQWRIMM.php",
+			"pubDate": "Sat, 09 Nov 2024 19:10:00 GMT",
+			"image": "https://www.leparisien.fr/resizer/gMsmQNKkgkM6GM1lGeE4bS3qf1w=/1200x675/cloudfront-eu-central-1.images.arcpublishing.com/leparisien/72FOUWOGKNBV5B2S23LLFZ5UQE.jpg",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "leparisien.fr",
+			"url": "https://www.leparisien.fr/politique/prise-isolement-la-voix-de-la-france-na-plus-de-portee-la-diplomatie-francaise-a-la-peine-09-11-2024-6JPFRLFELBBYRFJPLECNQWRIMM.php",
+			"description": "Apr\u00e8s l\u2019\u00e9lection de Donald Trump, les tensions avec Benyamin Netanyahou, des gendarmes fran\u00e7ais arr\u00eat\u00e9s au domaine d\u2019El\u00e9ona et la crise poli"
+		},
+		{
+			"title": "L\u2019enfant de huit ans qui avait chut\u00e9 du 4\u00e8me \u00e9tage de son immeuble est d\u00e9c\u00e9d\u00e9, son fr\u00e8re intern\u00e9 en psychiatrie - Sud Ouest",
+			"link": "https://www.sudouest.fr/faits-divers/l-enfant-de-huit-ans-qui-avait-chute-du-4eme-etage-de-son-immeuble-est-decede-son-frere-interne-en-psychiatrie-22098016.php",
+			"pubDate": "Sat, 09 Nov 2024 21:09:43 GMT",
+			"image": "https://media.sudouest.fr/22098016/1200x-1/dsc-8599-2.jpg",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "SudOuest.fr",
+			"url": "https://www.sudouest.fr/faits-divers/l-enfant-de-huit-ans-qui-avait-chute-du-4eme-etage-de-son-immeuble-est-decede-son-frere-interne-en-psychiatrie-22098016.php",
+			"description": "Le jeune gar\u00e7on \u00e9tait tomb\u00e9 par une fen\u00eatre de son appartement le 27\u00a0octobre dernier \u00e0 Villefontaine, en Is\u00e8re. Une enqu\u00eate pour homicide a \u00e9t\u00e9 ouverte et son fr\u00e8re de 26\u00a0ans a \u00e9t\u00e9 plac\u00e9 en garde \u00e0 vue, avant d\u2019\u00eatre hospitalis\u00e9 en psychiatrie"
+		},
+		{
+			"title": "Nicolas Sarkozy d\u00e9clenche un toll\u00e9 avec ses propos sur les enseignants - 20 Minutes",
+			"link": "https://www.20minutes.fr/politique/4120543-20241109-nicolas-sarkozy-viseur-syndicats-gauche-modem-apres-propos-enseignants",
+			"pubDate": "Sat, 09 Nov 2024 19:37:00 GMT",
+			"image": "https://img.20mn.fr/1sAkMKK8QR6Qk4w2RHRcSSk/1444x920_les-rencontres-de-l-avenir-a-saint-raphael-conferences-de-l-avenir-de-la-france-par-nicolas-sarkozy-ancien-president-de-la-republique-francaise-avec-nicolas-bouzou-president-des-rencontres-de-l-avenir-urman-sa5769-credit-lionel-urman-sipa-2411091054",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "20 Minutes",
+			"url": "https://www.20minutes.fr/politique/4120543-20241109-nicolas-sarkozy-viseur-syndicats-gauche-modem-apres-propos-enseignants",
+			"description": "L'ancien pr\u00e9sident de la R\u00e9publique avait estim\u00e9 que \u00ab\u00a0le statut de professeur des \u00e9coles, (...) c'est 24 heures par semaine \u00bb et \u00ab 6 mois de l'ann\u00e9e \u00bb "
+		},
+		{
+			"title": "Au proc\u00e8s des viols de Mazan, la terrible \u00ab image de la femme \u00bb des accus\u00e9s - Mediapart",
+			"link": "https://www.mediapart.fr/journal/france/091124/au-proces-des-viols-de-mazan-la-terrible-image-de-la-femme-des-accuses",
+			"pubDate": "Sat, 09 Nov 2024 10:48:20 GMT",
+			"image": "https://static.mediapart.fr/etmagine/og/journal/files/2024/11/09/15102024giselepelicotauprocesmazan.jpg",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "Mediapart",
+			"url": "https://www.mediapart.fr/journal/france/091124/au-proces-des-viols-de-mazan-la-terrible-image-de-la-femme-des-accuses",
+			"description": "Sept nouveaux cas d\u2019accus\u00e9s ont \u00e9t\u00e9 examin\u00e9s cette semaine par la cour criminelle du Vaucluse qui juge les viols r\u00e9p\u00e9t\u00e9s subis par Gis\u00e8le Pelicot, sous soumission chimique. \u00c0 la barre, l\u2019absence de c\u2026"
+		},
+		{
+			"title": "Pour le livre de Jordan Bardella, cette librairie fera comme avec Eric Zemmour, et versera les recettes \u00e0 une asso - Le HuffPost",
+			"link": "https://www.huffingtonpost.fr/culture/article/livre-de-jordan-bardella-comme-avec-zemmour-cette-libraire-versera-les-recettes-a-une-association_242039.html",
+			"pubDate": "Sat, 09 Nov 2024 17:18:51 GMT",
+			"image": "https://focus.huffingtonpost.fr/2024/11/09/57/26/795/447/1820/1023/75/0/a32798b_1731172340054-000-36kp4rj.jpg",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "Le HuffPost",
+			"url": "https://www.huffingtonpost.fr/culture/article/livre-de-jordan-bardella-comme-avec-zemmour-cette-libraire-versera-les-recettes-a-une-association_242039.html",
+			"description": "L\u2019association qui b\u00e9n\u00e9ficiera des ventes de \u00ab\u00a0Ce que je cherche\u00a0\u00bb, \u00e9crit par le leader du Rassemblement national, vient en aide aux mineurs isol\u00e9s."
+		},
+		{
+			"title": "\"Je me dis toujours que c'est loin de moi...\" : des consommateurs de drogues tr\u00e8s partag\u00e9s sur les mesures du gouvernement contre le narcotrafic - franceinfo",
+			"link": "https://www.francetvinfo.fr/societe/drogue/temoignages-je-me-dis-toujours-que-c-est-loin-de-moi-des-consommateurs-de-drogues-tres-partages-sur-les-mesures-du-gouvernement-contre-le-narcotrafic_6887684.html",
+			"pubDate": "Sat, 09 Nov 2024 15:42:09 GMT",
+			"image": "https://www.francetvinfo.fr/pictures/tGr4bhIANM4o3NstGq3Q2oPflMk/0x0:2833x1592/1500x843/2023/06/09/6482bd3b06cb0_cannabis.jpg",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "Franceinfo",
+			"url": "https://www.francetvinfo.fr/societe/drogue/temoignages-je-me-dis-toujours-que-c-est-loin-de-moi-des-consommateurs-de-drogues-tres-partages-sur-les-mesures-du-gouvernement-contre-le-narcotrafic_6887684.html",
+			"description": "En d\u00e9placement \u00e0 Marseille, les ministres de l'Int\u00e9rieur et de la Justice ont affich\u00e9 leur volont\u00e9 de renforcer les moyens policiers et judiciaires contre le narcotrafic. Y compris en visant les consommateurs."
+		},
+		{
+			"title": "Trafic de stup\u00e9fiants \u00e0 Marseille : une enqu\u00eate en cours met en lumi\u00e8re le syst\u00e8me de collecte de l'argent sale - CNEWS",
+			"link": "https://www.cnews.fr/faits-divers/2024-11-09/trafic-de-stupefiants-marseille-une-enquete-en-cours-met-en-lumiere-le",
+			"pubDate": "Sat, 09 Nov 2024 18:13:24 GMT",
 			"image": "",
 			"logo": "https://picsum.photos/32/32?grayscale",
 			"site_name": "",
 			"url": "",
 			"description": ""
-		},
-		{
-			"title": "L\u2019homme suspect\u00e9 du meurtre d\u2019un adolescent \u00e0 Poitiers li\u00e9 \u00e0 un clan de narcos marseillais - La Provence",
-			"link": "https://www.laprovence.com/article/faits-divers-justice/1507982329103315/l-homme-suspecte-du-meurtre-d-un-adolescent-a-poitiers-lie-a-un-clan-de-narcos-marseillais",
-			"pubDate": "Sat, 09 Nov 2024 08:13:32 GMT",
-			"image": "https://pictures.laprovence.com/cdn-cgi/image/,trim.left=0,trim.top=0,trim.height=1119,trim.width=2000/media/2024/11/08/VREL9589.jpg",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "",
-			"url": "https://www.laprovence.com/article/faits-divers-justice/1507982329103315/l-homme-suspecte-du-meurtre-d-un-adolescent-a-poitiers-lie-a-un-clan-de-narcos-marseillais?id=1507982329103315",
-			"description": "Le suspect interpell\u00e9 apr\u00e8s la fusillade qui a fait un mort et quatre bless\u00e9s, tous mineurs, la semaine derni\u00e8re \u00e0 Poitiers, a \u00e9t\u00e9 mis en examen pour \"assassinat\". Il aurait fait partie d\u2019un gang marseillais."
-		},
-		{
-			"title": "RN: Le livre de Jordan Bardella sort ce samedi...en plein proc\u00e8s de Marine Le Pen - BFMTV",
-			"link": "https://www.bfmtv.com/politique/rn-le-livre-de-jordan-bardella-sort-ce-samedi-en-plein-proces-de-marine-le-pen_VN-202411090107.html",
-			"pubDate": "Sat, 09 Nov 2024 06:28:11 GMT",
-			"image": "https://images.bfmtv.com/P78BoNdd5lN0wKM10PDZYf5TnX4=/0x0:1280x720/1280x0/images/RN-Le-livre-de-Jordan-Bardella-sort-ce-samedi-en-plein-proces-de-Marine-Le-Pen-1973174.jpg",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "BFMTV",
-			"url": "https://www.bfmtv.com/politique/rn-le-livre-de-jordan-bardella-sort-ce-samedi-en-plein-proces-de-marine-le-pen_VN-202411090107.html",
-			"description": "VID\u00c9O - En plein proc\u00e8s de Marine Le Pen, le pr\u00e9sident du RN trace sa route et explique sa vision politique dans un livre autobiographique."
-		},
-		{
-			"title": "Pluie et inondations : la Haute-Corse plac\u00e9e en vigilance orange - Le Monde",
-			"link": "https://www.lemonde.fr/planete/article/2024/11/09/pluies-et-inondations-la-haute-corse-placee-en-vigilance-orange_6383323_3245.html",
-			"pubDate": "Sat, 09 Nov 2024 16:16:45 GMT",
-			"image": "https://img.lemde.fr/2024/10/18/0/0/6000/4000/1440/960/60/0/30b5c55_bfba0d91a19243e4b1b36704fcac2bd7-0-6d7a1b33eaf94773af406193fcdc1c51.jpg",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "Le Monde.fr",
-			"url": "https://www.lemonde.fr/planete/article/2024/11/09/pluies-et-inondations-la-haute-corse-placee-en-vigilance-orange_6383323_3245.html",
-			"description": "Le d\u00e9partement est \u00e9galement plac\u00e9 en vigilance jaune pour des risques d\u2019orages. Les cumuls pourraient \u00ab\u00a0atteindre ponctuellement 150\u00a0mm, voire un peu plus\u00a0\u00bb, selon M\u00e9t\u00e9o-France."
-		},
-		{
-			"title": "\u00ab Ils ont tu\u00e9 un po\u00e8te \u00bb, pas un \u00ab guerrier \u00bb, dit la famille de Samuel Paty - Mediapart",
-			"link": "https://www.mediapart.fr/journal/france/091124/ils-ont-tue-un-poete-pas-un-guerrier-dit-la-famille-de-samuel-paty",
-			"pubDate": "Sat, 09 Nov 2024 07:44:05 GMT",
-			"image": "https://static.mediapart.fr/etmagine/og/journal/files/2024/11/09/o8112024lafamillepayauproces.jpg",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "Mediapart",
-			"url": "https://www.mediapart.fr/journal/france/091124/ils-ont-tue-un-poete-pas-un-guerrier-dit-la-famille-de-samuel-paty",
-			"description": "Au cinqui\u00e8me jour du proc\u00e8s d\u00e9di\u00e9 \u00e0 l\u2019attentat commis contre Samuel Paty, ses proches appel\u00e9s \u00e0 d\u00e9poser \u00e0 la barre du tribunal ont, chacun \u00e0 leur mani\u00e8re, donn\u00e9 \u00e0 voir leur difficile combat depuis qu\u2026"
-		},
-		{
-			"title": "Narcotrafic \u00e0 Rennes : comment le retour de deux trafiquants a mis le feu \u00e0 tout un quartier - Le T\u00e9l\u00e9gramme",
-			"link": "https://www.letelegramme.fr/ille-et-vilaine/rennes-35000/narcotrafic-a-rennes-comment-le-retour-de-deux-trafiquants-a-mis-le-feu-a-tout-un-quartier-6698884.php",
-			"pubDate": "Sat, 09 Nov 2024 10:00:02 GMT",
-			"image": "https://media.letelegramme.fr/api/v1/images/view/672f9883200b274a2c609c98/web_golden_xxl/672f9883200b274a2c609c98.1",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "Le T\u00e9l\u00e9gramme",
-			"url": "https://www.letelegramme.fr/ille-et-vilaine/rennes-35000/narcotrafic-a-rennes-comment-le-retour-de-deux-trafiquants-a-mis-le-feu-a-tout-un-quartier-6698884.php",
-			"description": "INFO LE T\u00c9L\u00c9GRAMME. Depuis plus de trois mois, le quartier de Maurepas, \u00e0 Rennes, subit une inqui\u00e9tante s\u00e9rie de fusillades. Une succession de faits divers qui cache, en r\u00e9alit\u00e9, deux guerres distinctes pour le contr\u00f4le du trafic de drogue."
-		},
-		{
-			"title": "Apr\u00e8s cette lourde charge contre les enseignants, Sarkozy accus\u00e9 de m\u00e9pris - Le HuffPost",
-			"link": "https://www.huffingtonpost.fr/politique/article/nicolas-sarkozy-livre-une-lourde-charge-contre-les-enseignants-et-se-fait-reprendre-de-volee_242032.html",
-			"pubDate": "Sat, 09 Nov 2024 14:45:08 GMT",
-			"image": "https://focus.huffingtonpost.fr/2024/11/09/70/0/1342/754/1820/1023/75/0/80e862a_1731160436493-csm-conf11-avenir-france-bv3a3194-selma-berny-be414af143.jpg",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "Le HuffPost",
-			"url": "https://www.huffingtonpost.fr/politique/article/nicolas-sarkozy-livre-une-lourde-charge-contre-les-enseignants-et-se-fait-reprendre-de-volee_242032.html",
-			"description": "L\u2019ancien chef de l\u2019\u00c9tat a ironis\u00e9 sur les heures de travail des professeurs des \u00e9coles et a affirm\u00e9 que la France comptait trop d\u2019enseignants."
-		},
-		{
-			"title": "La probable venue du pape Fran\u00e7ois \u00e0 Ajaccio, l\u2019imbroglio corse qui f\u00e2che - Lib\u00e9ration",
-			"link": "https://www.liberation.fr/societe/religions/la-probable-venue-du-pape-francois-a-ajaccio-limbroglio-corse-qui-fache-20241108_I4DVLJ6IONCCBNBR4XOSP6QLUI/",
-			"pubDate": "Fri, 08 Nov 2024 15:05:00 GMT",
-			"image": "https://www.liberation.fr/resizer/vMxhAVifC9tUEQA6ceBmjDyFTRY=/1200x630/filters:format(jpg):quality(70):focal(2467x1383:2477x1393)/cloudfront-eu-central-1.images.arcpublishing.com/liberation/3YZUXO6FABCX5FXGYMRRP6JSRU.jpg",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "Lib\u00e9ration",
-			"url": "",
-			"description": "La visite historique interviendrait une semaine apr\u00e8s les festivit\u00e9s organis\u00e9es pour la r\u00e9ouverture officielle de Notre-Dame, auxquelles le j\u00e9suite argentin ne compte pas participer. De quoi provoquer la consternation chez les \u00e9v\u00eaques."
-		},
-		{
-			"title": "Proc\u00e8s des viols de Mazan : le jour o\u00f9 une juge a t\u00e9moign\u00e9 - Paris Match",
-			"link": "https://www.parismatch.com/actu/faits-divers/proces-des-viols-de-mazan-le-jour-ou-une-juge-temoigne-243372",
-			"pubDate": "Sat, 09 Nov 2024 07:55:04 GMT",
-			"image": "https://www.parismatch.com/lmnr/var/pm/public/media/image/2024/11/08/22/sipa_01183204_000014.jpg?VersionId=oFIp_7ZVRVDjIJbzCfjfpj601TNuHJh7",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "",
-			"url": "https://www.parismatch.com/actu/faits-divers/proces-des-viols-de-mazan-le-jour-ou-une-juge-temoigne-243372",
-			"description": "La juge Gwenola Journot, 41 ans, qui a instruit le dossier Pelicot de novembre 2020 \u00e0 juin 2023 a \u00e9t\u00e9 cit\u00e9e comme t\u00e9moin \u00e0 la demande d\u2019un des avocats de la d\u00e9fense"
-		},
-		{
-			"title": "Politique : la d\u00e9faite de Kamala Harris, nouvelle source de division \u00e0 gauche - Sud Ouest",
-			"link": "https://www.sudouest.fr/politique/francois-hollande/politique-la-defaite-de-kamala-harris-nouvelle-source-de-division-a-gauche-22090772.php",
-			"pubDate": "Sat, 09 Nov 2024 15:20:18 GMT",
-			"image": "https://media.sudouest.fr/22090772/1200x-1/faure.jpg",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "SudOuest.fr",
-			"url": "https://www.sudouest.fr/politique/francois-hollande/politique-la-defaite-de-kamala-harris-nouvelle-source-de-division-a-gauche-22090772.php",
-			"description": "La victoire de Donald Trump percute aussi la vie politique fran\u00e7aise. En particulier \u00e0 gauche o\u00f9 le Parti socialiste se pr\u00e9pare \u00e0 son congr\u00e8s de janvier sur lequel veut peser\u2026 Fran\u00e7ois Hollande. Et pour cause, cette \u00e9ch\u00e9ance s\u2019annonce strat\u00e9gique pour 2027"
-		},
-		{
-			"title": "Gendarmes fran\u00e7ais arr\u00eat\u00e9s en Isra\u00ebl : \u00ab Je trouve \u00e7a intol\u00e9rable, inacceptable et scandaleux \u00bb, d\u00e9plore le pr\u00e9sident de la commission des Affaires \u00e9trang\u00e8res du S\u00e9nat - Public S\u00e9nat",
-			"link": "https://www.publicsenat.fr/actualites/international/gendarmes-francais-arretes-en-israel-je-trouve-ca-intolerable-inacceptable-et-scandaleux-deplore-le-president-de-la-commission-des-affaires-etrangeres-du-senat",
-			"pubDate": "Fri, 08 Nov 2024 15:51:50 GMT",
-			"image": "https://www.publicsenat.fr/app/uploads/2024/11/SIPA_sipausa30363332_000030-818x460.jpg",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "Public S\u00e9nat",
-			"url": "https://www.publicsenat.fr/actualites/international/gendarmes-francais-arretes-en-israel-je-trouve-ca-intolerable-inacceptable-et-scandaleux-deplore-le-president-de-la-commission-des-affaires-etrangeres-du-senat",
-			"description": "Deux gendarmes fran\u00e7ais ont \u00e9t\u00e9 arr\u00eat\u00e9s par des forces de l\u2019ordre isra\u00e9liennes ce jeudi 7\u00a0novembre lors du voyage diplomatique de Jean-No\u00ebl Barrot. Peu avant, le ministre des Affaires \u00e9trang\u00e8res avait refus\u00e9 d\u2019entrer dans un site religieux fran\u00e7ais \u00e0 cause de la pr\u00e9sence de policiers de l\u2019Etat h\u00e9breu arm\u00e9s \u00e0 l\u2019int\u00e9rieur. C\u00e9dric Perrin y voit la \u00ab\u00a0victoire de la violence sur le droit\u00a0\u00bb."
 		},
 		{
 			"title": "D\u00e9gradations \u00e0 Lyon 3 : la r\u00e9action de Gr\u00e9gory Doucet est \u201cscandaleuse\u201d pour Renaissance - Lyon Mag",
@@ -121,14 +91,44 @@
 			"description": "Suite aux d&eacute;gradations survenues &agrave; l&rsquo;Universit&eacute; Lyon 3 en marge de la venue de Ya&euml;l Braun-Pivet, pr&eacute;sidente de l&rsquo;Assembl&eacute;e nationale, le parti Renaissance (Rh&ocirc;ne) s&rsquo;insurge contre la r&eacute;ponse du maire de Lyon, Gr&eacute;gory Doucet."
 		},
 		{
-			"title": "Budget 2025: l'Assembl\u00e9e termine l'examen des recettes avec 34 milliards d'euros d'imp\u00f4ts suppl\u00e9mentaires - Les \u00c9chos",
-			"link": "https://www.lesechos.fr/economie-france/budget-fiscalite/budget-2025-lassemblee-termine-lexamen-des-recettes-avec-34-milliards-deuros-dimpots-supplementaires-2130734",
-			"pubDate": "Sat, 09 Nov 2024 11:41:18 GMT",
-			"image": "",
+			"title": "Le maire de Bordeaux n\u2019a \"pas du tout l\u2019intention\" de retirer les banderoles d\u00e9non\u00e7ant les coupes budg\u00e9taires de l\u2019\u00c9tat - franceinfo",
+			"link": "https://www.francetvinfo.fr/economie/budget/le-maire-de-bordeaux-n-a-pas-du-tout-l-intention-de-retirer-les-banderoles-denoncant-les-coupes-budgetaire-de-l-etat_6887831.html",
+			"pubDate": "Sat, 09 Nov 2024 17:26:22 GMT",
+			"image": "https://www.francetvinfo.fr/pictures/YAIrUnQwe2Et_3ztv2oSjxXczus/0x108:5410x3150/1500x843/2024/11/09/maxnewsspecialtwo041711-672f9af8f4063929722854.jpg",
 			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "",
-			"url": "",
-			"description": ""
+			"site_name": "Franceinfo",
+			"url": "https://www.francetvinfo.fr/economie/budget/le-maire-de-bordeaux-n-a-pas-du-tout-l-intention-de-retirer-les-banderoles-denoncant-les-coupes-budgetaire-de-l-etat_6887831.html",
+			"description": "Deux banderoles install\u00e9es sur le fronton de la mairie de Bordeaux d\u00e9noncent les coupes de l'Etat dans les budgets des collectivit\u00e9s territoriales."
+		},
+		{
+			"title": "Pluie et inondations : la Haute-Corse plac\u00e9e en vigilance orange - Le Monde",
+			"link": "https://www.lemonde.fr/planete/article/2024/11/09/pluies-et-inondations-la-haute-corse-placee-en-vigilance-orange_6383323_3245.html",
+			"pubDate": "Sat, 09 Nov 2024 16:16:45 GMT",
+			"image": "https://img.lemde.fr/2024/10/18/0/0/6000/4000/1440/960/60/0/30b5c55_bfba0d91a19243e4b1b36704fcac2bd7-0-6d7a1b33eaf94773af406193fcdc1c51.jpg",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "Le Monde.fr",
+			"url": "https://www.lemonde.fr/planete/article/2024/11/09/pluies-et-inondations-la-haute-corse-placee-en-vigilance-orange_6383323_3245.html",
+			"description": "Le d\u00e9partement est \u00e9galement plac\u00e9 en vigilance jaune pour des risques d\u2019orages. Les cumuls pourraient \u00ab\u00a0atteindre ponctuellement 150\u00a0mm, voire un peu plus\u00a0\u00bb, selon M\u00e9t\u00e9o-France."
+		},
+		{
+			"title": "Politique : la d\u00e9faite de Kamala Harris, nouvelle source de division \u00e0 gauche - Sud Ouest",
+			"link": "https://www.sudouest.fr/politique/francois-hollande/politique-la-defaite-de-kamala-harris-nouvelle-source-de-division-a-gauche-22090772.php",
+			"pubDate": "Sat, 09 Nov 2024 15:20:18 GMT",
+			"image": "https://media.sudouest.fr/22090772/1200x-1/faure.jpg",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "SudOuest.fr",
+			"url": "https://www.sudouest.fr/politique/francois-hollande/politique-la-defaite-de-kamala-harris-nouvelle-source-de-division-a-gauche-22090772.php",
+			"description": "La victoire de Donald Trump percute aussi la vie politique fran\u00e7aise. En particulier \u00e0 gauche o\u00f9 le Parti socialiste se pr\u00e9pare \u00e0 son congr\u00e8s de janvier sur lequel veut peser\u2026 Fran\u00e7ois Hollande. Et pour cause, cette \u00e9ch\u00e9ance s\u2019annonce strat\u00e9gique pour 2027"
+		},
+		{
+			"title": "Un homme tu\u00e9 par balle \u00e0 Perpignan, une enqu\u00eate ouverte pour meurtre - Le Figaro",
+			"link": "https://www.lefigaro.fr/faits-divers/un-homme-tue-par-balle-a-perpignan-une-enquete-ouverte-pour-meurtre-20241109",
+			"pubDate": "Sat, 09 Nov 2024 19:24:52 GMT",
+			"image": "https://i.f1g.fr/media/cms/1200x630_crop/2024/11/09/efaaf04c2fe9b89a061a5c5180018a6e43bc7856e1104d8e0a993bc032d5f444.jpg",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "Le Figaro",
+			"url": "https://www.lefigaro.fr/faits-divers/un-homme-tue-par-balle-a-perpignan-une-enquete-ouverte-pour-meurtre-20241109",
+			"description": "\u00abLes faits seraient survenus \u00e0 la suite d\u2019un diff\u00e9rend qui venait d\u2019opposer la victime \u00e0 un autre individu\u00bb, a pr\u00e9cis\u00e9 Philippe Latg\u00e9, procureur de la R\u00e9publique adjoint, ajoutant qu\u2019aucune interpellation n\u2019a \u00e9t\u00e9 faite."
 		},
 		{
 			"title": "Premier coup de froid \u00ab notable \u00bb la semaine prochaine dans le nord avec des temp\u00e9ratures proches de 0\u00b0C - La Voix du Nord",
@@ -141,6 +141,36 @@
 			"description": "Le temps va changer et les temp\u00e9ratures vont baisser en d\u00e9but de semaine prochaine...."
 		},
 		{
+			"title": "\u00ab \u00c7a fait du bien de parler entre voisins \u00bb : \u00e0 Douarnenez, apr\u00e8s l\u2019incendie de Kermabon, des habitants sous le choc - Le T\u00e9l\u00e9gramme",
+			"link": "https://www.letelegramme.fr/finistere/douarnenez-29100/ca-fait-du-bien-de-parler-entre-voisins-a-douarnenez-apres-lincendie-de-kermabon-des-habitants-sous-le-choc-6699069.php",
+			"pubDate": "Sat, 09 Nov 2024 16:56:47 GMT",
+			"image": "https://media.letelegramme.fr/api/v1/images/view/672f944f42b17c575179c9d9/web_golden_xxl/672f944f42b17c575179c9d9.1",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "Le T\u00e9l\u00e9gramme",
+			"url": "https://www.letelegramme.fr/finistere/douarnenez-29100/ca-fait-du-bien-de-parler-entre-voisins-a-douarnenez-apres-lincendie-de-kermabon-des-habitants-sous-le-choc-6699069.php",
+			"description": "L\u2019incendie dans l\u2019immeuble de Kermabon \u00e0 Tr\u00e9boul, \u00e0 Douarnenez, ce samedi 9\u00a0novembre vers 6\u00a0h, a fait deux morts. Parmi la vingtaine d\u2019habitants qui a d\u00fb \u00eatre \u00e9vacu\u00e9e, certains t\u00e9moignent."
+		},
+		{
+			"title": "Budget 2025: l'Assembl\u00e9e termine l'examen des recettes avec 34 milliards d'euros d'imp\u00f4ts suppl\u00e9mentaires - Les \u00c9chos",
+			"link": "https://www.lesechos.fr/economie-france/budget-fiscalite/budget-2025-lassemblee-termine-lexamen-des-recettes-avec-34-milliards-deuros-dimpots-supplementaires-2130734",
+			"pubDate": "Sat, 09 Nov 2024 11:41:18 GMT",
+			"image": "",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "",
+			"url": "",
+			"description": ""
+		},
+		{
+			"title": "Chat \u00e9cras\u00e9 gare Montparnasse : la SNCF finalement relax\u00e9e - Lib\u00e9ration",
+			"link": "https://www.liberation.fr/societe/police-justice/chat-ecrase-gare-montparnasse-la-sncf-finalement-relaxee-20241109_GL4JXG765BEU3PJ74AWE22NLXY/",
+			"pubDate": "Sat, 09 Nov 2024 17:20:25 GMT",
+			"image": "https://www.liberation.fr/resizer/DPkf55Rhz_bM4Y_H-0NdQVrti98=/1200x630/filters:format(jpg):quality(70)/cloudfront-eu-central-1.images.arcpublishing.com/liberation/FZ77D5QM6RHQFM7XGNMAQEUAGA.jpg",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "Lib\u00e9ration",
+			"url": "",
+			"description": "L\u2019avocat de la Fondation 30 millions d\u2019amis assure dans plusieurs m\u00e9dias ce samedi 9 novembre que l\u2019entreprise publique a \u00e9t\u00e9 relax\u00e9e en appel. Neko est mort sous un train \u00e0 Paris le 2 janvier 2023."
+		},
+		{
 			"title": "D\u00e9c\u00e8s de l'Homme en bleu : Limoges a du vague \u00e0 l'\u00e2me - Le Populaire du Centre",
 			"link": "https://www.lepopulaire.fr/limoges-87000/faits-divers/deces-de-l-homme-en-bleu-limoges-a-du-vague-a-l-ame_14593181/",
 			"pubDate": "Sat, 09 Nov 2024 17:36:00 GMT",
@@ -151,44 +181,24 @@
 			"description": "Jean-Marc Chatard, 74 ans, devenu un vrai symbole pour tous les Limougeauds, a \u00e9t\u00e9 mortellement percut\u00e9 par un chauffard qui a pris la fuite."
 		},
 		{
-			"title": "Un homme de 22 ans tu\u00e9 par balle \u00e0 Perpignan : la victime est un jeune p\u00e8re gitan du quartier Saint-Jacques - L'Ind\u00e9pendant",
-			"link": "https://www.lindependant.fr/2024/11/09/un-homme-de-22-ans-tue-par-balle-a-perpignan-la-victime-est-un-jeune-pere-gitan-du-quartier-saint-jacques-12313983.php",
-			"pubDate": "Sat, 09 Nov 2024 17:44:00 GMT",
-			"image": "https://images.lindependant.fr/api/v1/images/view/672f9d3ca2e7652e236604c7/large/image.jpg?v=1",
+			"title": "En direct, guerre au Proche-Orient : l\u2019Iran met en garde contre un risque de \u00ab propagation \u00bb du conflit hors de la r\u00e9gion - Le Monde",
+			"link": "https://www.lemonde.fr/international/live/2024/11/09/en-direct-guerre-au-proche-orient-l-iran-met-en-garde-contre-un-risque-de-propagation-du-conflit-hors-de-la-region_6376613_3210.html",
+			"pubDate": "Sat, 09 Nov 2024 14:27:16 GMT",
+			"image": "https://img.lemde.fr/2024/11/09/720/0/8640/4320/1440/720/60/0/7286025_4101b6136c204414a4f43194e49b6eed-0-56257ef42403481ca605794548cfd8df.jpg",
 			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "lindependant.fr",
-			"url": "https://www.lindependant.fr/2024/11/09/un-homme-de-22-ans-tue-par-balle-a-perpignan-la-victime-est-un-jeune-pere-gitan-du-quartier-saint-jacques-12313983.php",
-			"description": "Dans la nuit de ce vendredi\u00a08 au samedi 9\u00a0novembre 2024 \u00e0 Perpignan, un jeune homme de 22 ans a \u00e9t\u00e9 bless\u00e9 par balle devant un bar de nuit du Polygone nord. Il a succomb\u00e9 \u00e0 ses blessures. La victime \u00e9tait originaire..."
+			"site_name": "Le Monde.fr",
+			"url": "https://www.lemonde.fr/international/live/2024/11/09/en-direct-guerre-au-proche-orient-le-qatar-confirme-la-suspension-de-ses-efforts-de-mediation-entre-le-hamas-et-israel-reclamant-volonte-et-serieux_6376613_3210.html",
+			"description": "Le porte-parole du minist\u00e8re des affaires \u00e9trang\u00e8res qatari a expliqu\u00e9 que les parties avaient \u00e9t\u00e9 inform\u00e9es il y a dix jours que le Qatar suspendrait sa m\u00e9diation si un accord de tr\u00eave n\u2019\u00e9tait pas trouv\u00e9 lors de ce round de n\u00e9gociations."
 		},
 		{
-			"title": "Chat \u00e9cras\u00e9 par un train gare Montparnasse : la SNCF relax\u00e9e en appel - franceinfo",
-			"link": "https://www.francetvinfo.fr/faits-divers/justice-proces/chat-ecrase-par-un-train-gare-montparnasse-la-sncf-relaxee-en-appel_6887708.html",
-			"pubDate": "Sat, 09 Nov 2024 15:43:37 GMT",
-			"image": "https://www.francetvinfo.fr/pictures/rgVs8St3YBrgvLp9Py311w7slII/0x848:8154x5432/1500x843/2024/07/27/000-364y2qd-66a4ac7c45517599119654.jpg",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "Franceinfo",
-			"url": "https://www.francetvinfo.fr/faits-divers/justice-proces/chat-ecrase-par-un-train-gare-montparnasse-la-sncf-relaxee-en-appel_6887708.html",
-			"description": "En janvier 2023, les agents de la SNCF n'avaient pas accept\u00e9 de d\u00e9caler le d\u00e9part du train sous lequel se trouvait le chat, en gare Montparnasse \u00e0 Paris."
-		},
-		{
-			"title": "\u00ab Les flammes sortaient de partout \u00bb : Un voisin t\u00e9moigne apr\u00e8s l\u2019incendie mortel de Douarnenez - Le T\u00e9l\u00e9gramme",
-			"link": "https://www.letelegramme.fr/finistere/douarnenez-29100/les-flammes-sortaient-de-partout-un-voisin-temoigne-apres-lincendie-mortel-de-douarnenez-6698907.php",
-			"pubDate": "Sat, 09 Nov 2024 12:19:08 GMT",
-			"image": "https://media.letelegramme.fr/api/v1/images/view/672f54921761ff5599176498/web_golden_xxl/672f54921761ff5599176498.1",
+			"title": "Les deux fugitifs interpell\u00e9s vendredi \u00e0 Henvic \u00e9taient recherch\u00e9s depuis le mois de mai - Le T\u00e9l\u00e9gramme",
+			"link": "https://www.letelegramme.fr/finistere/henvic-29670/les-deux-fugitifs-interpelles-hier-a-henvic-etaient-recherches-depuis-le-mois-de-mai-6699112.php",
+			"pubDate": "Sat, 09 Nov 2024 18:49:10 GMT",
+			"image": "https://media.letelegramme.fr/api/v1/images/view/672fbec1fc85bd449d44f579/web_golden_xxl/672fbec1fc85bd449d44f579.1",
 			"logo": "https://picsum.photos/32/32?grayscale",
 			"site_name": "Le T\u00e9l\u00e9gramme",
-			"url": "https://www.letelegramme.fr/finistere/douarnenez-29100/les-flammes-sortaient-de-partout-un-voisin-temoigne-apres-lincendie-mortel-de-douarnenez-6698907.php",
-			"description": "\u00c0 Douarnenez (29), Jean-Claude habite un appartement dans l\u2019all\u00e9e voisine de l\u2019appartement touch\u00e9 par un incendie, faisant deux morts. Il \u00e9tait parmi les premiers \u00e0 d\u00e9couvrir le feu et \u00e0 alerter les secours."
-		},
-		{
-			"title": "Gabriel Attal se d\u00e9douane sur les d\u00e9rapages budg\u00e9taires : \u00abCertains de mes ministres voulaient s\u2019en prendre \u00e0 mon chien - Lib\u00e9ration",
-			"link": "https://www.liberation.fr/economie/gabriel-attal-se-dedouane-sur-les-derapages-budgetaires-certains-de-mes-ministres-voulaient-sen-prendre-a-mon-chien-20241108_6AKDHNZSLZFUJGLZZFVAENYK7M/",
-			"pubDate": "Sat, 09 Nov 2024 06:00:00 GMT",
-			"image": "https://www.liberation.fr/resizer/U-UabyBdsWpATgWt6Nt8qcYohuk=/1200x630/filters:format(jpg):quality(70):focal(2996x1555:3006x1565)/cloudfront-eu-central-1.images.arcpublishing.com/liberation/LRF2KDJTLZAAZO4FBGJJ3N2HAA.jpg",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "Lib\u00e9ration",
-			"url": "",
-			"description": "Ce vendredi 8 novembre, c\u2019\u00e9tait au tour de l\u2019ex-Premier ministre d\u2019\u00eatre auditionn\u00e9 par les s\u00e9nateurs dans le cadre de leur mission d\u2019information sur le d\u00e9rapage des d\u00e9penses publiques. Avec parfois des \u00e9changes tr\u00e8s vifs."
+			"url": "https://www.letelegramme.fr/finistere/henvic-29670/les-deux-fugitifs-interpelles-hier-a-henvic-etaient-recherches-depuis-le-mois-de-mai-6699112.php",
+			"description": "Au lendemain de la vaste op\u00e9ration de police men\u00e9e samedi \u00e0 Henvic (29), la garde \u00e0 vue des deux hommes interpell\u00e9s a \u00e9t\u00e9 prolong\u00e9e de 24\u00a0heures. Ils \u00e9taient recherch\u00e9s depuis six mois, dans le cadre de plusieurs enqu\u00eates en cours sur fond de trafic de stup\u00e9fiants."
 		},
 		{
 			"title": "\"Je pensais qu'il fallait que je m'habitue\" : le harc\u00e8lement scolaire au primaire, une r\u00e9alit\u00e9 minimis\u00e9e aux cons\u00e9quences lourdes - franceinfo",
@@ -211,14 +221,44 @@
 			"description": "Ce samedi vers 11 heures, un cadavre de g\u00e9nisse a \u00e9t\u00e9 d\u00e9pos\u00e9 par des agriculteurs devant la sous-pr\u00e9fecture de Pontarlier. Les \u00e9leveurs du Haut-Doubs veulent marquer les esprits et d\u00e9noncent 68 vaches tu\u00e9es par le pr\u00e9dateur..."
 		},
 		{
-			"title": "M\u00e9t\u00e9o. Cela fait douze jours que ce d\u00e9partement de l\u2019Ouest n\u2019a plus vu le soleil - Ouest-France",
-			"link": "https://www.ouest-france.fr/meteo/meteo-cela-fait-douze-jours-que-ce-departement-de-louest-na-plus-vu-le-soleil-2244dd68-9ea0-11ef-833b-d10e11afc3f8",
-			"pubDate": "Sat, 09 Nov 2024 14:52:14 GMT",
-			"image": "",
+			"title": "\"J\u2019ai crois\u00e9 le regard de Samuel\" : le r\u00e9cit bouleversant des policiers hant\u00e9s par la mort du professeur Paty - Midi Libre",
+			"link": "https://www.midilibre.fr/2024/11/09/jai-croise-le-regard-de-samuel-le-recit-bouleversant-des-policiers-hantes-par-la-mort-du-professeur-paty-12312719.php",
+			"pubDate": "Sat, 09 Nov 2024 05:31:00 GMT",
+			"image": "https://images.midilibre.fr/api/v1/images/view/672e9149f48588135c530df8/large/image.jpg?v=1",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "midilibre.fr",
+			"url": "https://www.midilibre.fr/2024/11/09/jai-croise-le-regard-de-samuel-le-recit-bouleversant-des-policiers-hantes-par-la-mort-du-professeur-paty-12312719.php",
+			"description": "Ils sont les premiers \u00e0 \u00eatre intervenus le 16\u00a0octobre 2020. Leur t\u00e9moignage est gla\u00e7ant. La famille de la victime a \u00e9galement commenc\u00e9 \u00e0 prendre la parole, vendredi, devant\u00a0la cour d\u2019assises sp\u00e9ciale de Paris."
+		},
+		{
+			"title": "Gr\u00e8ves : agriculteurs, fonctionnaires... Des dates de perturbations d\u00e9j\u00e0 annonc\u00e9es - Linternaute.com",
+			"link": "https://www.linternaute.com/actualite/societe/6587399-greves-agriculteurs-fonctionnaires-des-dates-de-perturbations-deja-annoncees/",
+			"pubDate": "Fri, 08 Nov 2024 18:16:09 GMT",
+			"image": "https://img-4.linternaute.com/VK5nI1hldbo-qS-quyQXKccd6y0=/1500x/smart/2345c8b692944131b48527124a0238a4/ccmcms-linternaute/67470043.jpg",
 			"logo": "https://picsum.photos/32/32?grayscale",
 			"site_name": "",
+			"url": "https://www.linternaute.com/actualite/societe/6587399-greves-agriculteurs-fonctionnaires-des-dates-de-perturbations-deja-annoncees/",
+			"description": "La FNSEA consid\u00e8re que les promesses du gouvernement n'ont pas \u00e9t\u00e9 tenues. Les agriculteurs envisagent de manifester leur m\u00e9contentement tout comme les fonctionnaires qui militent contre le passage d'un \u00e0 trois jour..."
+		},
+		{
+			"title": "Gabriel Attal se d\u00e9douane sur les d\u00e9rapages budg\u00e9taires : \u00abCertains de mes ministres voulaient s\u2019en prendre \u00e0 mon chien - Lib\u00e9ration",
+			"link": "https://www.liberation.fr/economie/gabriel-attal-se-dedouane-sur-les-derapages-budgetaires-certains-de-mes-ministres-voulaient-sen-prendre-a-mon-chien-20241108_6AKDHNZSLZFUJGLZZFVAENYK7M/",
+			"pubDate": "Sat, 09 Nov 2024 06:00:00 GMT",
+			"image": "https://www.liberation.fr/resizer/U-UabyBdsWpATgWt6Nt8qcYohuk=/1200x630/filters:format(jpg):quality(70):focal(2996x1555:3006x1565)/cloudfront-eu-central-1.images.arcpublishing.com/liberation/LRF2KDJTLZAAZO4FBGJJ3N2HAA.jpg",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "Lib\u00e9ration",
 			"url": "",
-			"description": ""
+			"description": "Ce vendredi 8 novembre, c\u2019\u00e9tait au tour de l\u2019ex-Premier ministre d\u2019\u00eatre auditionn\u00e9 par les s\u00e9nateurs dans le cadre de leur mission d\u2019information sur le d\u00e9rapage des d\u00e9penses publiques. Avec parfois des \u00e9changes tr\u00e8s vifs."
+		},
+		{
+			"title": "Macron-Barnier : un couple dans la tourmente - La Tribune.fr",
+			"link": "https://www.latribune.fr/la-tribune-dimanche/politique/macron-barnier-un-couple-dans-la-tourmente-1011011.html",
+			"pubDate": "Sat, 09 Nov 2024 21:00:00 GMT",
+			"image": "https://static.latribune.fr/full_width/2476615/retailleau.jpg",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "La Tribune",
+			"url": "https://www.latribune.fr/la-tribune-dimanche/politique/macron-barnier-un-couple-dans-la-tourmente-1011011.html",
+			"description": "BAROM\u00c8TRE \u2014 Bruno Retailleau d\u00e9croche le titre de meilleur ministre dans le dernier barom\u00e8tre Ipsos - \u00ab\u202fLa Tribune Dimanche\u202f\u00bb."
 		},
 		{
 			"title": "Comment Anne Hidalgo a r\u00e9ussi \u00e0 imposer son projet de zone \u00e0 trafic limit\u00e9 au c\u0153ur de Paris - Le Figaro",
@@ -241,19 +281,9 @@
 			"description": "ENQU\u00caTE - Derri\u00e8re la fusillade qui a co\u00fbt\u00e9 la vie \u00e0 Nicolas, la piste d\u2019un racket de la discoth\u00e8que le Seven se profile. Dans le milieu noctambule dr\u00f4mois, chacun y voit une nouvelle intimidation des trafiquants de drogue marseillais, qui cherchent \u00e0 s\u2019accaparer le secteur."
 		},
 		{
-			"title": "Homophobie : Un homme lui fait des avances, il le tabasse \u00e0 mort et filme la sc\u00e8ne - 20 Minutes",
-			"link": "https://www.20minutes.fr/faits_divers/4120520-20241109-doubs-homme-fait-avances-tabasse-mort-filme-scene",
-			"pubDate": "Sat, 09 Nov 2024 12:50:00 GMT",
-			"image": "https://img.20mn.fr/itlqWNQcSiG_2QBH3sd5DSk/1444x920_illustration-d-un-detenu-ici-dans-les-murs-de-la-prison-de-rennes-vezin-ou-la-surpopulation-carcerale-pose-probleme",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "20 Minutes",
-			"url": "https://www.20minutes.fr/faits_divers/4120520-20241109-doubs-homme-fait-avances-tabasse-mort-filme-scene",
-			"description": "Un jeune de 21 ans a \u00e9t\u00e9 mis en examen et \u00e9crou\u00e9 pour meurtre apr\u00e8s avoir rou\u00e9 de coups un cuisinier jeudi soir \u00e0 Morteau"
-		},
-		{
-			"title": "Mairie de Paris : un agent sur trois absent chaque jour pour arr\u00eat maladie - CNEWS",
-			"link": "https://www.cnews.fr/videos/france/2024-11-09/mairie-de-paris-un-agent-sur-trois-absent-chaque-jour-pour-arret-maladie",
-			"pubDate": "Sat, 09 Nov 2024 14:16:53 GMT",
+			"title": "M\u00e9t\u00e9o. Cela fait douze jours que ce d\u00e9partement de l\u2019Ouest n\u2019a plus vu le soleil - Ouest-France",
+			"link": "https://www.ouest-france.fr/meteo/meteo-cela-fait-douze-jours-que-ce-departement-de-louest-na-plus-vu-le-soleil-2244dd68-9ea0-11ef-833b-d10e11afc3f8",
+			"pubDate": "Sat, 09 Nov 2024 14:52:14 GMT",
 			"image": "",
 			"logo": "https://picsum.photos/32/32?grayscale",
 			"site_name": "",
@@ -261,24 +291,14 @@
 			"description": ""
 		},
 		{
-			"title": "\"Je n\u2019attendais plus rien de lui\" : victime d\u2019un pr\u00eatre p\u00e9dophile, il t\u00e9moigne - France 3 R\u00e9gions",
-			"link": "https://france3-regions.francetvinfo.fr/auvergne-rhone-alpes/cantal/temoignage-je-n-attendais-plus-rien-de-lui-victime-d-un-pretre-pedophile-il-temoigne-3057805.html",
-			"pubDate": "Sat, 09 Nov 2024 10:46:46 GMT",
-			"image": "https://france3-regions.francetvinfo.fr/image/0uik26qNHpTlI7bBdFhJN1lg6VM/930x620/regions/2024/11/09/cler-auri-11-08-17-14-00-05-22-06-672f3ad5755ac050284729.jpg",
+			"title": "Paris : un majordome du Premier ministre condamn\u00e9 \u00e0 un an de prison pour trafic de drogue - Le Parisien",
+			"link": "https://www.leparisien.fr/faits-divers/paris-un-majordome-du-premier-ministre-condamne-a-un-an-de-prison-pour-trafic-de-drogue-09-11-2024-5VUQ2KA5KNA4TFQLDJIXJT723Y.php",
+			"pubDate": "Sat, 09 Nov 2024 19:17:00 GMT",
+			"image": "https://www.leparisien.fr/resizer/NSA7MdifDTvC045-fN-EXFwH_zE=/1200x675/cloudfront-eu-central-1.images.arcpublishing.com/leparisien/OKSNNUBZUVFS5DKT6YJ5SAHEOE.jpg",
 			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "France 3 Auvergne-Rh\u00f4ne-Alpes",
-			"url": "https://france3-regions.francetvinfo.fr/auvergne-rhone-alpes/cantal/temoignage-je-n-attendais-plus-rien-de-lui-victime-d-un-pretre-pedophile-il-temoigne-3057805.html",
-			"description": "Un pr\u00eatre a \u00e9t\u00e9 condamn\u00e9 vendredi 8 novembre \u00e0 18 ans de prison pour un viol et des agressions sexuelles commis sur plusieurs enfants, notamment lorsqu'il \u00e9tait cur\u00e9 dans le village de Massiac (Cantal). L\u2019une de ses victimes..."
-		},
-		{
-			"title": "Gr\u00e8ves : agriculteurs, fonctionnaires... Des dates de perturbations d\u00e9j\u00e0 annonc\u00e9es - Linternaute.com",
-			"link": "https://www.linternaute.com/actualite/societe/6587399-greves-agriculteurs-fonctionnaires-des-dates-de-perturbations-deja-annoncees/",
-			"pubDate": "Fri, 08 Nov 2024 18:16:09 GMT",
-			"image": "https://img-4.linternaute.com/VK5nI1hldbo-qS-quyQXKccd6y0=/1500x/smart/2345c8b692944131b48527124a0238a4/ccmcms-linternaute/67470043.jpg",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "",
-			"url": "https://www.linternaute.com/actualite/societe/6587399-greves-agriculteurs-fonctionnaires-des-dates-de-perturbations-deja-annoncees/",
-			"description": "La FNSEA consid\u00e8re que les promesses du gouvernement n'ont pas \u00e9t\u00e9 tenues. Les agriculteurs envisagent de manifester leur m\u00e9contentement tout comme les fonctionnaires qui militent contre le passage d'un \u00e0 trois jour..."
+			"site_name": "leparisien.fr",
+			"url": "https://www.leparisien.fr/faits-divers/paris-un-majordome-du-premier-ministre-condamne-a-un-an-de-prison-pour-trafic-de-drogue-09-11-2024-5VUQ2KA5KNA4TFQLDJIXJT723Y.php",
+			"description": "Ce ma\u00eetre d\u2019h\u00f4tel de 26 ans, en arr\u00eat maladie, avait \u00e9t\u00e9 arr\u00eat\u00e9 jeudi soir en plein deal de coca\u00efne. Il a \u00e9cop\u00e9 d\u2019une peine am\u00e9nageable ce s"
 		},
 		{
 			"title": "\u00c0 Nantes, l\u2019essor \u00abdogmatique\u00bb des v\u00e9los \u00e0 l\u2019\u00e9preuve du savoir-vivre - Le Figaro",
@@ -291,16 +311,6 @@
 			"description": "Des associations nantaises s\u2019\u00e9meuvent des probl\u00e8mes de cohabitation qu\u2019occasionne la multiplication des cyclistes en centre-ville. Une faune de deux-roues qui empi\u00e9terait sur les d\u00e9placements des pi\u00e9tons."
 		},
 		{
-			"title": "Marseille : la strat\u00e9gie de la DZ Mafia pour r\u00e9gner sur le narcotrafic phoc\u00e9en - franceinfo",
-			"link": "https://www.francetvinfo.fr/faits-divers/criminalite-a-marseille/marseille-la-strategie-de-la-dz-mafia-pour-regner-sur-le-narcotrafic-phoceen_6886073.html",
-			"pubDate": "Fri, 08 Nov 2024 19:58:35 GMT",
-			"image": "https://www.francetvinfo.fr/pictures/q07i_sv5QkGu2TdPitAA8Ewm-W0/0x18:1590x913/1500x843/2024/11/08/marseille-la-strategie-de-la-dz-mafia-pour-regner-sur-le-narcotrafic-phoceen-672e6cf16e56a132969771.jpg",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "Franceinfo",
-			"url": "https://www.francetvinfo.fr/faits-divers/criminalite-a-marseille/marseille-la-strategie-de-la-dz-mafia-pour-regner-sur-le-narcotrafic-phoceen_6886073.html",
-			"description": "Groupe criminel en pleine ascension \u00e0 Marseille (Bouches-du-Rh\u00f4ne), la DZ Mafia tente de consolider son influence avec une strat\u00e9gie bien rod\u00e9e. Reportage sur le nouveau pilier du narcotrafic phoc\u00e9en."
-		},
-		{
 			"title": "\u00abJe me suis r\u00e9veill\u00e9e en larmes...\u00bb : ces Fran\u00e7aises expatri\u00e9es aux USA qui vivent la r\u00e9\u00e9lection de Trump - Le Figaro",
 			"link": "https://madame.lefigaro.fr/societe/actu/je-me-suis-reveillee-en-larmes-ces-francaises-expatriees-aux-usa-qui-vivent-la-reelection-de-trump-20241109",
 			"pubDate": "Sat, 09 Nov 2024 06:00:00 GMT",
@@ -311,34 +321,14 @@
 			"description": "T\u00c9MOIGNAGES.- Elles vivent de l\u2019autre c\u00f4t\u00e9 de l\u2019Atlantique, loin de leur France natale. Install\u00e9es aux \u00c9tats-Unis, parfois depuis des ann\u00e9es, ces femmes expatri\u00e9es nous confient leurs \u00e9tats d\u2019\u00e2me apr\u00e8s la victoire de Donald Trump."
 		},
 		{
-			"title": "Noyade dans une piscine en Ille-et-Vilaine : la fillette de 3 ans est d\u00e9c\u00e9d\u00e9e - Le T\u00e9l\u00e9gramme",
-			"link": "https://www.letelegramme.fr/bretagne/noyade-dans-une-piscine-en-ille-et-vilaine-la-fillette-de-3-ans-est-decedee-6699011.php",
-			"pubDate": "Sat, 09 Nov 2024 15:27:43 GMT",
-			"image": "https://media.letelegramme.fr/api/v1/images/view/672f7fedeb25754e420fab7a/web_golden_xxl/672f7fedeb25754e420fab7a.1",
+			"title": "\"C'est une grande victoire pour la cause des femmes\" : quand une salari\u00e9e obtient le droit de consulter la fiche de paie de ses coll\u00e8gues - franceinfo",
+			"link": "https://www.francetvinfo.fr/societe/temoignage-c-est-une-grande-victoire-pour-la-cause-des-femmes-quand-une-salariee-obtient-le-droit-de-consulter-la-fiche-de-paie-de-ses-collegues_6885026.html",
+			"pubDate": "Fri, 08 Nov 2024 10:21:17 GMT",
+			"image": "https://www.francetvinfo.fr/pictures/cVXm3hdSRYjQhACgDtn1dTApTrM/0x306:5885x3617/1500x843/2024/11/08/080-hl-jmbarrere-2457232-672db83724d6a230396598.jpg",
 			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "Le T\u00e9l\u00e9gramme",
-			"url": "https://www.letelegramme.fr/bretagne/noyade-dans-une-piscine-en-ille-et-vilaine-la-fillette-de-3-ans-est-decedee-6699011.php",
-			"description": "La fillette de 3 ans, retrouv\u00e9e inanim\u00e9e dans la piscine du Bocage \u00e0 Vitr\u00e9 (Ille-et-Vilaine) fin octobre, est finalement d\u00e9c\u00e9d\u00e9e apr\u00e8s plusieurs jours de coma artificiel."
-		},
-		{
-			"title": "Notre-Dame de Paris : ce que l\u2019on sait de la c\u00e9r\u00e9monie de r\u00e9ouverture de la cath\u00e9drale - T\u00e9l\u00e9rama.fr",
-			"link": "https://www.telerama.fr/arts-expositions/notre-dame-de-paris-ce-que-l-on-sait-de-la-ceremonie-de-reouverture-de-la-cathedrale-7022929.php",
-			"pubDate": "Fri, 08 Nov 2024 09:56:10 GMT",
-			"image": "https://focus.telerama.fr/2024/11/08/92/0/3000/2000/1200/800/60/0/b9719c4_1731059300608-gettyimages-1083521448.jpg",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "T\u00e9l\u00e9rama",
-			"url": "https://www.telerama.fr/arts-expositions/notre-dame-de-paris-ce-que-l-on-sait-de-la-ceremonie-de-reouverture-de-la-cathedrale-7022929.php",
-			"description": "Alors que le nom de Paul McCartney circule, le responsable de la restauration ne confirme pas, tout en promettant de \u201ctr\u00e8s grands artistes de renomm\u00e9e internationale\u201d."
-		},
-		{
-			"title": "Coupes budg\u00e9taires. 400 \u00e0 500 postes supprim\u00e9s au Conseil d\u00e9partemental de la Haute-Garonne - Le Journal du Pays Yonnais",
-			"link": "https://actu.fr/occitanie/toulouse_31555/coupes-budgetaires-400-a-500-postes-supprimes-au-conseil-departemental-de-la-haute-garonne_61844109.html",
-			"pubDate": "Fri, 08 Nov 2024 17:21:57 GMT",
-			"image": "https://static.actu.fr/uploads/2024/11/conseil-departemental-haute-garonne-toulouse-gl.jpg",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "actu.fr",
-			"url": "https://actu.fr/occitanie/toulouse_31555/coupes-budgetaires-400-a-500-postes-supprimes-au-conseil-departemental-de-la-haute-garonne_61844109.html",
-			"description": "Pour faire face aux coupes budg\u00e9taires impos\u00e9es par l'\u00c9tat, le Conseil d\u00e9partemental a annonc\u00e9 vendredi 8 novembre 2024 la fin de contrat de 400 \u00e0 500 agents en Haute-Garonne."
+			"site_name": "Franceinfo",
+			"url": "https://www.francetvinfo.fr/societe/temoignage-c-est-une-grande-victoire-pour-la-cause-des-femmes-quand-une-salariee-obtient-le-droit-de-consulter-la-fiche-de-paie-de-ses-collegues_6885026.html",
+			"description": "franceinfo a\u00a0rencontr\u00e9 la femme \u00e0 l'origine de cette jurisprudence majeure, mais peu connue. Depuis un arr\u00eat de la Cour de cassation, tout salari\u00e9 peut demander \u00e0 son entreprise de fournir les fiches de paie d'autres collaborateurs en cas de soup\u00e7on d'in\u00e9galit\u00e9."
 		},
 		{
 			"title": "Coups de feu \u00e0 Nantes : un nouveau bless\u00e9 dans le quartier Botti\u00e8re cette nuit - Ouest-France",
@@ -351,6 +341,86 @@
 			"description": ""
 		},
 		{
+			"title": "Maladie de Charcot : la Haute autorit\u00e9 de sant\u00e9 justifie son avis n\u00e9gatif pour le remboursement d\u2019un traitement potentiel - Le Figaro",
+			"link": "https://sante.lefigaro.fr/medecine/maladie-de-charcot-la-haute-autorite-de-sante-justifie-son-avis-negatif-pour-le-remboursement-d-un-traitement-potentiel-20241108",
+			"pubDate": "Fri, 08 Nov 2024 16:10:00 GMT",
+			"image": "https://i.f1g.fr/media/cms/1200x630_crop/2024/11/09/bc20429f1357cf797352cb4a08090f0481648c8f7ead108432c9193eea54ec5b.jpg",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "Le Figaro Sant\u00e9",
+			"url": "https://sante.lefigaro.fr/medecine/maladie-de-charcot-la-haute-autorite-de-sante-justifie-son-avis-negatif-pour-le-remboursement-d-un-traitement-potentiel-20241108",
+			"description": "Fin octobre, la HAS avait refus\u00e9 un acc\u00e8s \u00abpr\u00e9coce\u00bb au Qalsody de Biogen, indiqu\u00e9 dans une forme g\u00e9n\u00e9tique rare de la pathologie, ce qui avait suscit\u00e9 la col\u00e8re de patients."
+		},
+		{
+			"title": "Homophobie : Un homme lui fait des avances, il le tabasse \u00e0 mort et filme la sc\u00e8ne - 20 Minutes",
+			"link": "https://www.20minutes.fr/faits_divers/4120520-20241109-doubs-homme-fait-avances-tabasse-mort-filme-scene",
+			"pubDate": "Sat, 09 Nov 2024 12:50:00 GMT",
+			"image": "https://img.20mn.fr/itlqWNQcSiG_2QBH3sd5DSk/1444x920_illustration-d-un-detenu-ici-dans-les-murs-de-la-prison-de-rennes-vezin-ou-la-surpopulation-carcerale-pose-probleme",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "20 Minutes",
+			"url": "https://www.20minutes.fr/faits_divers/4120520-20241109-doubs-homme-fait-avances-tabasse-mort-filme-scene",
+			"description": "Un jeune de 21 ans a \u00e9t\u00e9 mis en examen et \u00e9crou\u00e9 pour meurtre apr\u00e8s avoir rou\u00e9 de coups un cuisinier jeudi soir \u00e0 Morteau"
+		},
+		{
+			"title": "R\u00e9seaux sociaux : les d\u00e9rives des \"chasseurs de p\u00e9dophiles\" - franceinfo",
+			"link": "https://www.francetvinfo.fr/internet/reseaux-sociaux/reseaux-sociaux-les-derives-des-chasseurs-de-pedophiles_6887930.html",
+			"pubDate": "Sat, 09 Nov 2024 19:24:57 GMT",
+			"image": "https://www.francetvinfo.fr/pictures/9RZmakRUA7AG5fcPLifxepoC_yg/37x0:1293x706/1500x843/2024/11/09/lap-672fb6ea6af2d690199150.png",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "Franceinfo",
+			"url": "https://www.francetvinfo.fr/internet/reseaux-sociaux/reseaux-sociaux-les-derives-des-chasseurs-de-pedophiles_6887930.html",
+			"description": "Plusieurs interpellations ont mis en lumi\u00e8re un groupe de pr\u00e9tendus justiciers anti-p\u00e9dophiles. Les individus sont soup\u00e7onn\u00e9s d\u2019avoir pi\u00e9g\u00e9, via les r\u00e9seaux sociaux, puis s\u00e9questr\u00e9 et violent\u00e9 plusieurs dizaines de personnes."
+		},
+		{
+			"title": "Le cadavre d'un homme d\u00e9couvert dans un buisson \u00e0 Strasbourg - France 3 R\u00e9gions",
+			"link": "https://france3-regions.francetvinfo.fr/grand-est/bas-rhin/strasbourg-0/le-cadavre-d-un-homme-decouvert-dans-un-buisson-a-strasbourg-3057997.html",
+			"pubDate": "Sat, 09 Nov 2024 17:36:44 GMT",
+			"image": "https://france3-regions.francetvinfo.fr/image/M749Zo6ADvth5-yFE-wk47Pjgsk/930x620/regions/2024/11/09/maxstockworld476131-672f9cdd5d468096235403.jpg",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "France 3 Grand Est",
+			"url": "https://france3-regions.francetvinfo.fr/grand-est/bas-rhin/strasbourg-0/le-cadavre-d-un-homme-decouvert-dans-un-buisson-a-strasbourg-3057997.html",
+			"description": "Le cadavre d'un homme a \u00e9t\u00e9 d\u00e9couvert ce samedi 9 novembre le long d'une voie ferr\u00e9e, \u00e0 Cronenbourg, quartier de Strasbourg (Bas-Rhin). Le p\u00e9rim\u00e8tre est boucl\u00e9 et les investigations sont en cours \u00e0 l'heure de publication..."
+		},
+		{
+			"title": "\u00c0 Rennes, une femme hospitalis\u00e9e en urgence absolue apr\u00e8s un choc avec une trottinette \u00e9lectrique - Le T\u00e9l\u00e9gramme",
+			"link": "https://www.letelegramme.fr/ille-et-vilaine/rennes-35000/a-rennes-une-femme-hospitalisee-en-urgence-absolue-apres-un-choc-avec-une-trottinette-electrique-6698448.php",
+			"pubDate": "Fri, 08 Nov 2024 14:18:19 GMT",
+			"image": "https://media.letelegramme.fr/api/v1/images/view/672e1dabcec0297eff594d8e/web_golden_xxl/672e1dabcec0297eff594d8e.1",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "Le T\u00e9l\u00e9gramme",
+			"url": "https://www.letelegramme.fr/ille-et-vilaine/rennes-35000/a-rennes-une-femme-hospitalisee-en-urgence-absolue-apres-un-choc-avec-une-trottinette-electrique-6698448.php",
+			"description": "La femme \u00e9tait inconsciente \u00e0 l\u2019arriv\u00e9e des secours, ce vendredi 8\u00a0novembre au matin, pr\u00e8s du canal Saint-Martin \u00e0 Rennes, apr\u00e8s un choc avec une trottinette \u00e9lectrique."
+		},
+		{
+			"title": "\u00ab Ils veulent se montrer guerriers \u00bb : pourquoi les ados utilisent katanas, haches et machettes pour en d\u00e9coudre - Le Parisien",
+			"link": "https://www.leparisien.fr/faits-divers/ils-veulent-se-montrer-guerriers-pourquoi-les-ados-utilisent-katanas-haches-et-machettes-pour-en-decoudre-08-11-2024-YYXNXBWWURC75H4UCXW6Y3YCEU.php",
+			"pubDate": "Fri, 08 Nov 2024 11:05:00 GMT",
+			"image": "https://www.leparisien.fr/resizer/bbDAbC6c0VHCJqKF4hAudIg2phQ=/1200x675/cloudfront-eu-central-1.images.arcpublishing.com/leparisien/OQUTYUMMYFDLJDBP3TKYHUSP5M.jpg",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "leparisien.fr",
+			"url": "https://www.leparisien.fr/faits-divers/ils-veulent-se-montrer-guerriers-pourquoi-les-ados-utilisent-katanas-haches-et-machettes-pour-en-decoudre-08-11-2024-YYXNXBWWURC75H4UCXW6Y3YCEU.php",
+			"description": "Volont\u00e9 de faire les gros durs, influences des clips et des jeux vid\u00e9o ou simple question d\u2019opportunit\u00e9\u2026 Le Parisien tente d\u2019analyser les ra"
+		},
+		{
+			"title": "Mairie de Paris : un agent sur trois absent chaque jour pour arr\u00eat maladie - CNEWS",
+			"link": "https://www.cnews.fr/videos/france/2024-11-09/mairie-de-paris-un-agent-sur-trois-absent-chaque-jour-pour-arret-maladie",
+			"pubDate": "Sat, 09 Nov 2024 14:16:53 GMT",
+			"image": "",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "",
+			"url": "",
+			"description": ""
+		},
+		{
+			"title": "Un pr\u00eatre condamn\u00e9 \u00e0 dix-huit ans de prison pour viol et agressions sexuelles sur mineur - Le Monde",
+			"link": "https://www.lemonde.fr/societe/article/2024/11/08/un-pretre-condamne-a-dix-huit-ans-de-prison-pour-viol-et-agressions-sexuelles-sur-mineur_6384262_3224.html",
+			"pubDate": "Fri, 08 Nov 2024 19:21:06 GMT",
+			"image": "https://img.lemde.fr/2024/01/09/0/0/3000/2000/1440/960/60/0/3aafab6_1704816574433-justice04.jpg",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "Le Monde.fr",
+			"url": "https://www.lemonde.fr/societe/article/2024/11/08/un-pretre-condamne-a-dix-huit-ans-de-prison-pour-viol-et-agressions-sexuelles-sur-mineur_6384262_3224.html",
+			"description": "Le pr\u00eatre de 70\u00a0ans \u00e9tait notamment jug\u00e9 pour les agressions sexuelles de quatre enfants d\u2019une m\u00eame famille et le viol de l\u2019un d\u2019entre eux dans le village de Massiac (Cantal). L\u2019enqu\u00eate avait r\u00e9v\u00e9l\u00e9 que l\u2019Eglise \u00e9tait au courant mais n\u2019avait pas pour autant interrompu son activit\u00e9."
+		},
+		{
 			"title": "B\u00e9b\u00e9 retrouv\u00e9 dans une poubelle \u00e0 Rennes. La m\u00e8re porte plainte pour viol contre le p\u00e8re, confirme son avocate - actu.fr",
 			"link": "https://actu.fr/bretagne/rennes_35238/bebe-retrouve-dans-une-poubelle-a-rennes-la-mere-porte-plainte-pour-viol-contre-le-pere-confirme-son-avocate_61846154.html",
 			"pubDate": "Sat, 09 Nov 2024 12:03:09 GMT",
@@ -361,9 +431,179 @@
 			"description": "Quelques jours apr\u00e8s le premier anniversaire du b\u00e9b\u00e9 retrouv\u00e9 dans un conteneur \u00e0 poubelles \u00e0 Rennes en octobre 2023, la m\u00e8re a port\u00e9 plainte pour viol contre le p\u00e8re de l'enfant."
 		},
 		{
+			"title": "La mairie de Paris veut pr\u00e9parer les habitants au risque d'inondation avec \"une grande op\u00e9ration de sensibilisation\" - franceinfo",
+			"link": "https://www.francetvinfo.fr/meteo/inondations/la-mairie-de-paris-veut-preparer-les-habitants-de-la-capitale-au-risque-inondation-en-leur-proposant-une-grande-operation-de-sensibilisation_6886040.html",
+			"pubDate": "Fri, 08 Nov 2024 19:11:51 GMT",
+			"image": "https://www.francetvinfo.fr/pictures/xjGd3nag_y-CtCneCSYKh_tO7KM/0x0:1024x575/1500x843/2024/11/08/080-hl-ebroncard-2540945-672e61382acbc947990240.jpg",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "Franceinfo",
+			"url": "https://www.francetvinfo.fr/meteo/inondations/la-mairie-de-paris-veut-preparer-les-habitants-de-la-capitale-au-risque-inondation-en-leur-proposant-une-grande-operation-de-sensibilisation_6886040.html",
+			"description": "Lors de cet exercice, qui pourrait avoir lieu en avril 2025, \"tous les Parisiens seront invit\u00e9s \u00e0 des r\u00e9unions dans les mairies d'arrondissement, a d\u00e9taill\u00e9 \u00e0 l'AFP la maire Anne Hidalgo."
+		},
+		{
+			"title": "La probable venue du pape Fran\u00e7ois \u00e0 Ajaccio, l\u2019imbroglio corse qui f\u00e2che - Lib\u00e9ration",
+			"link": "https://www.liberation.fr/societe/religions/la-probable-venue-du-pape-francois-a-ajaccio-limbroglio-corse-qui-fache-20241108_I4DVLJ6IONCCBNBR4XOSP6QLUI/",
+			"pubDate": "Fri, 08 Nov 2024 15:05:00 GMT",
+			"image": "https://www.liberation.fr/resizer/vMxhAVifC9tUEQA6ceBmjDyFTRY=/1200x630/filters:format(jpg):quality(70):focal(2467x1383:2477x1393)/cloudfront-eu-central-1.images.arcpublishing.com/liberation/3YZUXO6FABCX5FXGYMRRP6JSRU.jpg",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "Lib\u00e9ration",
+			"url": "",
+			"description": "La visite historique interviendrait une semaine apr\u00e8s les festivit\u00e9s organis\u00e9es pour la r\u00e9ouverture officielle de Notre-Dame, auxquelles le j\u00e9suite argentin ne compte pas participer. De quoi provoquer la consternation chez les \u00e9v\u00eaques."
+		},
+		{
 			"title": "Montreuil : une professeure gifl\u00e9e par une \u00e9l\u00e8ve pour lui avoir demand\u00e9 de retirer sa tenue \u00ab\u00e0 connotation religieuse\u00bb - CNEWS",
 			"link": "https://www.cnews.fr/videos/2024-11-09/montreuil-une-enseignante-giflee-par-une-eleve-pour-un-desaccord-vestimentaire",
 			"pubDate": "Sat, 09 Nov 2024 07:31:54 GMT",
+			"image": "",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "",
+			"url": "",
+			"description": ""
+		},
+		{
+			"title": "En Mayenne, une rave party rassemble environ 150 teufeurs dans le nord du d\u00e9partement - Ouest-France",
+			"link": "https://www.ouest-france.fr/pays-de-la-loire/villepail-53250/en-mayenne-une-rave-party-rassemble-une-centaine-de-teufeurs-dans-le-nord-du-departement-732d76b6-9e7f-11ef-84c9-4bebe8d0c332",
+			"pubDate": "Sat, 09 Nov 2024 10:34:20 GMT",
+			"image": "",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "",
+			"url": "",
+			"description": ""
+		},
+		{
+			"title": "T\u00e9moignage. Travers\u00e9es de la Manche : Osama, 20 ans, cherche son p\u00e8re disparu dans un naufrage au large de Calais - France 3 R\u00e9gions",
+			"link": "https://france3-regions.francetvinfo.fr/hauts-de-france/pas-calais/temoignage-traversees-de-la-manche-osama-20-ans-cherche-son-pere-disparu-dans-un-naufrage-au-large-de-calais-3057697.html",
+			"pubDate": "Sat, 09 Nov 2024 09:05:56 GMT",
+			"image": "https://france3-regions.francetvinfo.fr/image/05jhkptsqpNzUfX6ux_XfHfh4AU/930x620/regions/2024/11/08/une-672e51ad2bea1232859564.jpg",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "France 3 Hauts-de-France",
+			"url": "https://france3-regions.francetvinfo.fr/hauts-de-france/pas-calais/temoignage-traversees-de-la-manche-osama-20-ans-cherche-son-pere-disparu-dans-un-naufrage-au-large-de-calais-3057697.html",
+			"description": "Il y a dans son regard, une pointe de d\u00e9sespoir. Pourtant, depuis qu'il a fait naufrage avec d'autres migrants au large des plages du Calaisis, Osama fait tout pour retrouver son p\u00e8re, son mod\u00e8le. Ensemble, ils ont quitt\u00e9..."
+		},
+		{
+			"title": "Contre le brouillard aussi, les irr\u00e9ductibles Bretons r\u00e9sistent encore et toujours - Le HuffPost",
+			"link": "https://www.huffingtonpost.fr/environnement/article/meteo-cette-carte-du-brouillard-vu-de-l-espace-ne-va-pas-manquer-de-plaire-aux-bretons_241998.html",
+			"pubDate": "Fri, 08 Nov 2024 14:52:48 GMT",
+			"image": "https://focus.huffingtonpost.fr/2024/11/08/109/0/5000/2812/1820/1023/75/0/14d7fd7_1731077290802-gettyimages-641618482.jpg",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "Le HuffPost",
+			"url": "https://www.huffingtonpost.fr/environnement/article/meteo-cette-carte-du-brouillard-vu-de-l-espace-ne-va-pas-manquer-de-plaire-aux-bretons_241998.html",
+			"description": "Alors qu\u2019une large moiti\u00e9 nord de l\u2019Hexagone vit sous une nappe de brouillard et de nuages depuis dix jours, la Bretagne a eu droit \u00e0 une trou\u00e9e remarquable."
+		},
+		{
+			"title": "Noyade dans une piscine en Ille-et-Vilaine : la fillette de 3 ans est d\u00e9c\u00e9d\u00e9e - Le T\u00e9l\u00e9gramme",
+			"link": "https://www.letelegramme.fr/bretagne/noyade-dans-une-piscine-en-ille-et-vilaine-la-fillette-de-3-ans-est-decedee-6699011.php",
+			"pubDate": "Sat, 09 Nov 2024 15:27:43 GMT",
+			"image": "https://media.letelegramme.fr/api/v1/images/view/672f7fedeb25754e420fab7a/web_golden_xxl/672f7fedeb25754e420fab7a.1",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "Le T\u00e9l\u00e9gramme",
+			"url": "https://www.letelegramme.fr/bretagne/noyade-dans-une-piscine-en-ille-et-vilaine-la-fillette-de-3-ans-est-decedee-6699011.php",
+			"description": "La fillette de 3 ans, retrouv\u00e9e inanim\u00e9e dans la piscine du Bocage \u00e0 Vitr\u00e9 (Ille-et-Vilaine) fin octobre, est finalement d\u00e9c\u00e9d\u00e9e apr\u00e8s plusieurs jours de coma artificiel."
+		},
+		{
+			"title": "Parti pour une cueillette aux champignons, il se perd dans la for\u00eat pendant toute une nuit - France 3 R\u00e9gions",
+			"link": "https://france3-regions.francetvinfo.fr/occitanie/pyrenees-orientales/perpignan/un-homme-de-65-ans-porte-disparu-pendant-une-cueillette-aux-champignons-un-important-dispositif-deploye-pour-le-retrouver-3057820.html",
+			"pubDate": "Sat, 09 Nov 2024 11:02:50 GMT",
+			"image": "https://france3-regions.francetvinfo.fr/image/WkXibCf19IgcuP7KQc0SWkPzHqo/930x620/regions/2024/11/09/maxnewsspecial891086-672f741238a78648372747.jpg",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "France 3 Occitanie",
+			"url": "https://france3-regions.francetvinfo.fr/occitanie/pyrenees-orientales/perpignan/un-homme-de-65-ans-porte-disparu-pendant-une-cueillette-aux-champignons-un-important-dispositif-deploye-pour-le-retrouver-3057820.html",
+			"description": "Un homme \u00e2g\u00e9 de 65 ans avait disparu lors d'une balade pour cueillir des champignons vendredi 8 novembre en Conflent-Fenouill\u00e8des dans les Pyr\u00e9n\u00e9es-Orientales. Apr\u00e8s d'intenses recherches men\u00e9es par des dizaines de gendarmes,..."
+		},
+		{
+			"title": "\"Je suis livr\u00e9 \u00e0 moi-m\u00eame\": au parc Kalliste \u00e0 Marseille, ces jeunes dealers confient leur sentiment... - BFMTV",
+			"link": "https://www.bfmtv.com/marseille/je-suis-livre-a-moi-meme-au-parc-kalliste-a-marseille-ces-jeunes-dealers-confient-leur-sentiment-d-abandon_AV-202411080458.html",
+			"pubDate": "Fri, 08 Nov 2024 09:47:35 GMT",
+			"image": "https://images.bfmtv.com/RpaXFLRt_JTtUVi36s7x-hk2ij0=/0x0:1920x1080/1920x0/images/Des-logements-cite-Kalliste-a-Marseille-en-mai-2022-1406988.jpg",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "BFMTV",
+			"url": "https://www.bfmtv.com/marseille/je-suis-livre-a-moi-meme-au-parc-kalliste-a-marseille-ces-jeunes-dealers-confient-leur-sentiment-d-abandon_AV-202411080458.html",
+			"description": "Le parc Kalliste est une des plaques tournantes du trafic de stup\u00e9fiants, \u00e0 Marseille. Les dealers, souvent mineurs, s'y refugient car ils se sentent incompatibles avec le syst\u00e8me. Des associations tentent toutefois de les \u00e9loigner de la d\u00e9linquance."
+		},
+		{
+			"title": "Pluie-inondation : voici les deux d\u00e9partements plac\u00e9s en vigilance jaune ce samedi - CNEWS",
+			"link": "https://www.cnews.fr/france/2024-11-09/pluie-inondation-voici-les-deux-departements-places-en-vigilance-jaune-ce-samedi",
+			"pubDate": "Sat, 09 Nov 2024 05:57:44 GMT",
+			"image": "",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "",
+			"url": "",
+			"description": ""
+		},
+		{
+			"title": "Les automobilistes tr\u00e8s agac\u00e9s par cette pratique des cyclistes pourtant l\u00e9gale - Tuxboard",
+			"link": "https://www.tuxboard.com/les-automobilistes-tres-agaces-par-cette-pratique-des-cyclistes-pourtant-legale-09112024/",
+			"pubDate": "Sat, 09 Nov 2024 10:10:00 GMT",
+			"image": "https://www.tuxboard.com/wp-content/uploads/2024/11/Les-automobilistes-tres-agaces-par-cette-pratique-des-cyclistes-pourtant-legale.jpg",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "Tuxboard",
+			"url": "https://www.tuxboard.com/les-automobilistes-tres-agaces-par-cette-pratique-des-cyclistes-pourtant-legale-09112024/",
+			"description": "Il y a une pratique des cyclistes que les automobilistes d\u00e9testent. Pourtant, sachez qu'elle est autoris\u00e9e par le Code de la route !"
+		},
+		{
+			"title": "Le proc\u00e8s des assistants fictifs du RN, infructueuse tribune politique de Marine Le Pen : \u00abTout ceci est une fiction - Lib\u00e9ration",
+			"link": "https://www.liberation.fr/politique/elections/le-proces-des-assistants-fictifs-du-rn-infructueuse-tribune-politique-de-marine-le-pen-tout-ceci-est-une-fiction-20241108_WBC4YKTMMNG63NKWKVQCWUN5RY/",
+			"pubDate": "Fri, 08 Nov 2024 10:53:00 GMT",
+			"image": "https://www.liberation.fr/resizer/FXdRKCmPaL2ZpcgiF3q4Y3ZgzWA=/1200x630/filters:format(jpg):quality(70):focal(3089x1229:3099x1239)/cloudfront-eu-central-1.images.arcpublishing.com/liberation/2MTNBWSXS5DSHMP6U22MUD3SEE.jpg",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "Lib\u00e9ration",
+			"url": "",
+			"description": "Si l\u2019ex-pr\u00e9sidente du Rassemblement national a d\u00e9montr\u00e9 devant le tribunal de Paris ses talents d\u2019oratrices, elle a pein\u00e9, cette semaine encore, \u00e0 d\u00e9fendre sa th\u00e8se d\u2019un proc\u00e8s d\u2019intention."
+		},
+		{
+			"title": "Des policiers d\u00e9couvrent 40 armes \u00e0 feu et de la drogue chez un habitant de Dr\u00f4me - France Bleu",
+			"link": "https://www.francebleu.fr/infos/faits-divers-justice/des-policiers-decouvrent-40-armes-a-feu-et-de-la-drogue-chez-un-habitant-de-drome-1459116",
+			"pubDate": "Sat, 09 Nov 2024 10:51:02 GMT",
+			"image": "https://www.francebleu.fr/s3/cruiser-production-eu3/2024/11/eed648b8-46db-458b-a023-3b557f602822/1200x680_sc_armes.jpg",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "ici par France Bleu et France 3",
+			"url": "https://www.francebleu.fr/infos/faits-divers-justice/des-policiers-decouvrent-40-armes-a-feu-et-de-la-drogue-chez-un-habitant-de-drome-1459116",
+			"description": "Un homme de 41 ans, habitant de Portes-l\u00e8s-Valence, est d\u00e9f\u00e9r\u00e9 ce samedi 9 novembre au parquet de Valence. En d\u00e9but de semaine, des policiers ont d\u00e9couvert chez lui 40 armes \u00e0 feu et de la drogue. En garde \u00e0 vue, il reconna\u00eet vendre des stup\u00e9fiants. Il est en d\u00e9tention provisoire."
+		},
+		{
+			"title": "Poitiers : l'incendiaire d'une \u00e9glise class\u00e9e d\u00e9clar\u00e9 p\u00e9nalement irresponsable - CNEWS",
+			"link": "https://www.cnews.fr/faits-divers/2024-11-08/poitiers-lincendiaire-dune-eglise-classee-declare-penalement-irresponsable",
+			"pubDate": "Fri, 08 Nov 2024 22:44:50 GMT",
+			"image": "",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "",
+			"url": "",
+			"description": ""
+		},
+		{
+			"title": "Sant\u00e9: les m\u00e9decins devront indiquer sur l'ordonnance la maladie concern\u00e9e par la prescription - BFMTV",
+			"link": "https://www.bfmtv.com/sante/sante-les-medecins-devront-indiquer-sur-l-ordonnance-la-maladie-concernee-par-la-prescription_VN-202411090123.html",
+			"pubDate": "Sat, 09 Nov 2024 07:05:08 GMT",
+			"image": "https://images.bfmtv.com/BNM3CaXFub6WuaggRs2fkcZioVE=/0x0:1280x720/1280x0/images/Sante-les-medecins-devront-indiquer-sur-l-ordonnance-la-maladie-concernee-par-la-prescription-1973182.jpg",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "BFMTV",
+			"url": "https://www.bfmtv.com/sante/sante-les-medecins-devront-indiquer-sur-l-ordonnance-la-maladie-concernee-par-la-prescription_VN-202411090123.html",
+			"description": "VID\u00c9O - D'apr\u00e8s l'assurance maladie, cette nouvelle r\u00e8gle concernerait les anti-diab\u00e9tiques de type Ozempic, parfois utilis\u00e9s pour la perte de poids."
+		},
+		{
+			"title": "Auvergne-Rh\u00f4ne-Alpes. Attention champignons toxiques : un d\u00e9c\u00e8s et plusieurs cas graves dans la r\u00e9gion - Le Progr\u00e8s",
+			"link": "https://www.leprogres.fr/sante/2024/11/08/attention-champignons-toxiques-un-deces-et-plusieurs-cas-graves-dans-la-region",
+			"pubDate": "Fri, 08 Nov 2024 18:00:00 GMT",
+			"image": "https://cdn-s-www.leprogres.fr/images/F839D9D0-72E1-496E-AC83-95C344B1B436/FB1200/photo-1731090065.jpg",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "",
+			"url": "https://www.leprogres.fr/sante/2024/11/08/attention-champignons-toxiques-un-deces-et-plusieurs-cas-graves-dans-la-region",
+			"description": "Au centre antipoison de Lyon, comme dans ceux du reste de l\u2019Hexagone, on constate cette ann\u00e9e une recrudescence d\u2019intoxications alimentaires tr\u00e8s s\u00e9rieuses, dont une a m\u00eame conduit \u00e0 un d\u00e9c\u00e8s en octobre. \u00c0 chaque fois, il s\u2019agissait de champignons consomm\u00e9s \u00e0 la suite d\u2019une cueillette. La docteure Nathalie Paret met en garde \u00ab ne ramassez que ce que vous \u00eates certains de conna\u00eetre \u00bb."
+		},
+		{
+			"title": "Contresens sur une double-voie : un mort apr\u00e8s une collision entre deux voitures dans le Bas-Rhin - France 3 R\u00e9gions",
+			"link": "https://france3-regions.francetvinfo.fr/grand-est/bas-rhin/un-mort-apres-une-collision-entre-deux-voitures-dans-le-bas-rhin-3057832.html",
+			"pubDate": "Sat, 09 Nov 2024 11:14:18 GMT",
+			"image": "https://france3-regions.francetvinfo.fr/image/mM8rVjuFgJ8B3qsKZjrEz20DoD8/930x620/regions/2024/11/09/maxstockworld476040-672f3fa94d04a308212205.jpg",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "France 3 Grand Est",
+			"url": "https://france3-regions.francetvinfo.fr/grand-est/bas-rhin/un-mort-apres-une-collision-entre-deux-voitures-dans-le-bas-rhin-3057832.html",
+			"description": "Un grave accident de la circulation a eu lieu ce samedi 9 novembre peu avant 11 heures \u00e0 Sand, une commune du Bas-Rhin. L'un des deux conducteurs, \u00e9ject\u00e9 de son v\u00e9hicule, est mort."
+		},
+		{
+			"title": "Androcur : quel est ce m\u00e9dicament suspect\u00e9 d'\u00eatre \u00e0 l'origine de tumeurs au cerveau ? - CNEWS",
+			"link": "https://www.cnews.fr/sante/2024-11-08/androcur-quel-est-ce-medicament-suspecte-detre-lorigine-de-tumeurs-au-cerveau",
+			"pubDate": "Fri, 08 Nov 2024 18:13:01 GMT",
 			"image": "",
 			"logo": "https://picsum.photos/32/32?grayscale",
 			"site_name": "",
@@ -381,236 +621,6 @@
 			"description": "Un jeune militaire a \u00e9t\u00e9 gri\u00e8vement bless\u00e9 apr\u00e8s une soir\u00e9e pass\u00e9e en discoth\u00e8que \u00e0 Besan\u00e7on dans la nuit de jeudi \u00e0 vendredi. Pass\u00e9 \u00e0 tabac par ..."
 		},
 		{
-			"title": "En Mayenne, une rave party rassemble environ 150 teufeurs dans le nord du d\u00e9partement - Ouest-France",
-			"link": "https://www.ouest-france.fr/pays-de-la-loire/villepail-53250/en-mayenne-une-rave-party-rassemble-une-centaine-de-teufeurs-dans-le-nord-du-departement-732d76b6-9e7f-11ef-84c9-4bebe8d0c332",
-			"pubDate": "Sat, 09 Nov 2024 10:34:20 GMT",
-			"image": "",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "",
-			"url": "",
-			"description": ""
-		},
-		{
-			"title": "\"C'est une grande victoire pour la cause des femmes\" : quand une salari\u00e9e obtient le droit de consulter la fiche de paie de ses coll\u00e8gues - franceinfo",
-			"link": "https://www.francetvinfo.fr/societe/temoignage-c-est-une-grande-victoire-pour-la-cause-des-femmes-quand-une-salariee-obtient-le-droit-de-consulter-la-fiche-de-paie-de-ses-collegues_6885026.html",
-			"pubDate": "Fri, 08 Nov 2024 10:21:17 GMT",
-			"image": "https://www.francetvinfo.fr/pictures/cVXm3hdSRYjQhACgDtn1dTApTrM/0x306:5885x3617/1500x843/2024/11/08/080-hl-jmbarrere-2457232-672db83724d6a230396598.jpg",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "Franceinfo",
-			"url": "https://www.francetvinfo.fr/societe/temoignage-c-est-une-grande-victoire-pour-la-cause-des-femmes-quand-une-salariee-obtient-le-droit-de-consulter-la-fiche-de-paie-de-ses-collegues_6885026.html",
-			"description": "franceinfo a\u00a0rencontr\u00e9 la femme \u00e0 l'origine de cette jurisprudence majeure, mais peu connue. Depuis un arr\u00eat de la Cour de cassation, tout salari\u00e9 peut demander \u00e0 son entreprise de fournir les fiches de paie d'autres collaborateurs en cas de soup\u00e7on d'in\u00e9galit\u00e9."
-		},
-		{
-			"title": "La mairie de Paris veut pr\u00e9parer les habitants au risque d'inondation avec \"une grande op\u00e9ration de sensibilisation\" - franceinfo",
-			"link": "https://www.francetvinfo.fr/meteo/inondations/la-mairie-de-paris-veut-preparer-les-habitants-de-la-capitale-au-risque-inondation-en-leur-proposant-une-grande-operation-de-sensibilisation_6886040.html",
-			"pubDate": "Fri, 08 Nov 2024 19:11:51 GMT",
-			"image": "https://www.francetvinfo.fr/pictures/xjGd3nag_y-CtCneCSYKh_tO7KM/0x0:1024x575/1500x843/2024/11/08/080-hl-ebroncard-2540945-672e61382acbc947990240.jpg",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "Franceinfo",
-			"url": "https://www.francetvinfo.fr/meteo/inondations/la-mairie-de-paris-veut-preparer-les-habitants-de-la-capitale-au-risque-inondation-en-leur-proposant-une-grande-operation-de-sensibilisation_6886040.html",
-			"description": "Lors de cet exercice, qui pourrait avoir lieu en avril 2025, \"tous les Parisiens seront invit\u00e9s \u00e0 des r\u00e9unions dans les mairies d'arrondissement, a d\u00e9taill\u00e9 \u00e0 l'AFP la maire Anne Hidalgo."
-		},
-		{
-			"title": "\"Je suis livr\u00e9 \u00e0 moi-m\u00eame\": au parc Kalliste \u00e0 Marseille, ces jeunes dealers confient leur sentiment... - BFMTV",
-			"link": "https://www.bfmtv.com/marseille/je-suis-livre-a-moi-meme-au-parc-kalliste-a-marseille-ces-jeunes-dealers-confient-leur-sentiment-d-abandon_AV-202411080458.html",
-			"pubDate": "Fri, 08 Nov 2024 09:47:35 GMT",
-			"image": "https://images.bfmtv.com/RpaXFLRt_JTtUVi36s7x-hk2ij0=/0x0:1920x1080/1920x0/images/Des-logements-cite-Kalliste-a-Marseille-en-mai-2022-1406988.jpg",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "BFMTV",
-			"url": "https://www.bfmtv.com/marseille/je-suis-livre-a-moi-meme-au-parc-kalliste-a-marseille-ces-jeunes-dealers-confient-leur-sentiment-d-abandon_AV-202411080458.html",
-			"description": "Le parc Kalliste est une des plaques tournantes du trafic de stup\u00e9fiants, \u00e0 Marseille. Les dealers, souvent mineurs, s'y refugient car ils se sentent incompatibles avec le syst\u00e8me. Des associations tentent toutefois de les \u00e9loigner de la d\u00e9linquance."
-		},
-		{
-			"title": "Strasbourg. Un cadavre d\u00e9couvert dans un buisson \u00e0 Cronenbourg - DNA - Derni\u00e8res Nouvelles d'Alsace",
-			"link": "https://www.dna.fr/faits-divers-justice/2024/11/09/le-cadavre-d-un-homme-dans-un-buisson-a-cronenbourg",
-			"pubDate": "Sat, 09 Nov 2024 16:44:00 GMT",
-			"image": "https://cdn-s-www.dna.fr/images/FFD7AC43-DF49-4149-9F2E-194C7F99AFA8/FB1200/photo-1731170660.jpg",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "",
-			"url": "https://www.dna.fr/faits-divers-justice/2024/11/09/le-cadavre-d-un-homme-dans-un-buisson-a-cronenbourg",
-			"description": "Un cadavre a \u00e9t\u00e9 d\u00e9couvert dans un buisson, le long de la voie ferr\u00e9e, rue de Steinbourg, \u00e0 Cronenbourg en d\u00e9but d\u2019apr\u00e8s-midi ce samedi ..."
-		},
-		{
-			"title": "Maladie de Charcot : la Haute autorit\u00e9 de sant\u00e9 justifie son avis n\u00e9gatif pour le remboursement d\u2019un traitement potentiel - Le Figaro",
-			"link": "https://sante.lefigaro.fr/medecine/maladie-de-charcot-la-haute-autorite-de-sante-justifie-son-avis-negatif-pour-le-remboursement-d-un-traitement-potentiel-20241108",
-			"pubDate": "Fri, 08 Nov 2024 16:10:00 GMT",
-			"image": "https://i.f1g.fr/media/cms/1200x630_crop/2024/11/09/bc20429f1357cf797352cb4a08090f0481648c8f7ead108432c9193eea54ec5b.jpg",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "Le Figaro Sant\u00e9",
-			"url": "https://sante.lefigaro.fr/medecine/maladie-de-charcot-la-haute-autorite-de-sante-justifie-son-avis-negatif-pour-le-remboursement-d-un-traitement-potentiel-20241108",
-			"description": "Fin octobre, la HAS avait refus\u00e9 un acc\u00e8s \u00abpr\u00e9coce\u00bb au Qalsody de Biogen, indiqu\u00e9 dans une forme g\u00e9n\u00e9tique rare de la pathologie, ce qui avait suscit\u00e9 la col\u00e8re de patients."
-		},
-		{
-			"title": "T\u00e9moignage. Travers\u00e9es de la Manche : Osama, 20 ans, cherche son p\u00e8re disparu dans un naufrage au large de Calais - France 3 R\u00e9gions",
-			"link": "https://france3-regions.francetvinfo.fr/hauts-de-france/pas-calais/temoignage-traversees-de-la-manche-osama-20-ans-cherche-son-pere-disparu-dans-un-naufrage-au-large-de-calais-3057697.html",
-			"pubDate": "Sat, 09 Nov 2024 09:05:56 GMT",
-			"image": "https://france3-regions.francetvinfo.fr/image/05jhkptsqpNzUfX6ux_XfHfh4AU/930x620/regions/2024/11/08/une-672e51ad2bea1232859564.jpg",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "France 3 Hauts-de-France",
-			"url": "https://france3-regions.francetvinfo.fr/hauts-de-france/pas-calais/temoignage-traversees-de-la-manche-osama-20-ans-cherche-son-pere-disparu-dans-un-naufrage-au-large-de-calais-3057697.html",
-			"description": "Il y a dans son regard, une pointe de d\u00e9sespoir. Pourtant, depuis qu'il a fait naufrage avec d'autres migrants au large des plages du Calaisis, Osama fait tout pour retrouver son p\u00e8re, son mod\u00e8le. Ensemble, ils ont quitt\u00e9..."
-		},
-		{
-			"title": "Barrage forc\u00e9, coups de feu et interpellations \u00e0 Henvic : voici ce que l\u2019on sait ce vendredi soir [Vid\u00e9o] - Le T\u00e9l\u00e9gramme",
-			"link": "https://www.letelegramme.fr/finistere/henvic-29670/barrage-force-coups-de-feu-et-interpellations-a-henvic-voici-ce-que-lon-sait-ce-vendredi-soir-6698750.php",
-			"pubDate": "Fri, 08 Nov 2024 18:04:21 GMT",
-			"image": "https://media.letelegramme.fr/api/v1/images/view/672f389374f29527c849dc39/web_golden_xxl/672f389374f29527c849dc39.1",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "Le T\u00e9l\u00e9gramme",
-			"url": "https://www.letelegramme.fr/finistere/henvic-29670/barrage-force-coups-de-feu-et-interpellations-a-henvic-voici-ce-que-lon-sait-ce-vendredi-soir-6698750.php",
-			"description": "Une impressionnante op\u00e9ration de police li\u00e9e au trafic de stup\u00e9fiants ce vendredi apr\u00e8s-midi \u00e0 Henvic (29). Plusieurs coups de feu ont \u00e9t\u00e9 tir\u00e9s. Deux hommes sont en garde \u00e0 vue. Voici ce que l\u2019on sait de l\u2019enqu\u00eate, ce vendredi soir."
-		},
-		{
-			"title": "Parti pour une cueillette aux champignons, il se perd dans la for\u00eat pendant toute une nuit - France 3 R\u00e9gions",
-			"link": "https://france3-regions.francetvinfo.fr/occitanie/pyrenees-orientales/perpignan/un-homme-de-65-ans-porte-disparu-pendant-une-cueillette-aux-champignons-un-important-dispositif-deploye-pour-le-retrouver-3057820.html",
-			"pubDate": "Sat, 09 Nov 2024 11:02:50 GMT",
-			"image": "https://france3-regions.francetvinfo.fr/image/WkXibCf19IgcuP7KQc0SWkPzHqo/930x620/regions/2024/11/09/maxnewsspecial891086-672f741238a78648372747.jpg",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "France 3 Occitanie",
-			"url": "https://france3-regions.francetvinfo.fr/occitanie/pyrenees-orientales/perpignan/un-homme-de-65-ans-porte-disparu-pendant-une-cueillette-aux-champignons-un-important-dispositif-deploye-pour-le-retrouver-3057820.html",
-			"description": "Un homme \u00e2g\u00e9 de 65 ans avait disparu lors d'une balade pour cueillir des champignons vendredi 8 novembre en Conflent-Fenouill\u00e8des dans les Pyr\u00e9n\u00e9es-Orientales. Apr\u00e8s d'intenses recherches men\u00e9es par des dizaines de gendarmes,..."
-		},
-		{
-			"title": "Les automobilistes tr\u00e8s agac\u00e9s par cette pratique des cyclistes pourtant l\u00e9gale - Tuxboard",
-			"link": "https://www.tuxboard.com/les-automobilistes-tres-agaces-par-cette-pratique-des-cyclistes-pourtant-legale-09112024/",
-			"pubDate": "Sat, 09 Nov 2024 10:10:00 GMT",
-			"image": "https://www.tuxboard.com/wp-content/uploads/2024/11/Les-automobilistes-tres-agaces-par-cette-pratique-des-cyclistes-pourtant-legale.jpg",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "Tuxboard",
-			"url": "https://www.tuxboard.com/les-automobilistes-tres-agaces-par-cette-pratique-des-cyclistes-pourtant-legale-09112024/",
-			"description": "Il y a une pratique des cyclistes que les automobilistes d\u00e9testent. Pourtant, sachez qu'elle est autoris\u00e9e par le Code de la route !"
-		},
-		{
-			"title": "M\u00e9t\u00e9o : 5 d\u00e9partements en vigilance, quel temps fera-t-il ce week-end prolong\u00e9 ? - Journal de l'Economie",
-			"link": "https://www.journaldeleconomie.fr/meteo-5-departements-en-vigilance-quel-temps-fera-t-il-ce-week-end-prolonge/",
-			"pubDate": "Fri, 08 Nov 2024 15:10:00 GMT",
-			"image": "https://www.journaldeleconomie.fr/wp-content/uploads/2024/11/meteo-5-departements-en-vigilance-quel-temps-fera-t-il-ce-week-end-prolonge.jpg",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "Journal de l'Economie",
-			"url": "https://www.journaldeleconomie.fr/meteo-5-departements-en-vigilance-quel-temps-fera-t-il-ce-week-end-prolonge/",
-			"description": "Ce week-end prolong\u00e9 sera marqu\u00e9 par des conditions m\u00e9t\u00e9orologiques contrast\u00e9es sur l\u2019ensemble du territoire fran\u00e7ais, accompagn\u00e9es de vigilances sp\u00e9cifiques"
-		},
-		{
-			"title": "Un ma\u00eetre d\u2019h\u00f4tel de Matignon interpell\u00e9 \u00e0 Paris avec plus de 50 grammes de coca\u00efne - Lib\u00e9ration",
-			"link": "https://www.liberation.fr/societe/police-justice/un-maitre-dhotel-de-matignon-interpelle-a-paris-avec-plus-de-50-grammes-de-cocaine-20241108_77ABIFQY2FDUHPR5DOQBGG23IQ/",
-			"pubDate": "Fri, 08 Nov 2024 17:47:24 GMT",
-			"image": "https://www.liberation.fr/resizer/c7H4R_fRR1s_zR1tbfX0GtjDImU=/1200x630/filters:format(jpg):quality(70):focal(2461x1798:2471x1808)/cloudfront-eu-central-1.images.arcpublishing.com/liberation/JGBRMRGC45EFPFQFSNEIYYPVI4.jpg",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "Lib\u00e9ration",
-			"url": "",
-			"description": "La brigade des stup\u00e9fiants a \u00e9t\u00e9 saisie, indique le parquet de Paris. L\u2019homme de 26 ans serait en arr\u00eat maladie depuis plus d\u2019un an et n\u2019aurait jamais crois\u00e9 le Premier ministre actuel, Michel Barnier."
-		},
-		{
-			"title": "Leurs croquettes pour chats attirent un louveteau malade \u00e0 Valberg: cinq ans plus tard, retour sur une affaire qui a secou\u00e9 l\u2019\u00c9tat - Nice matin",
-			"link": "https://www.nicematin.com/animaux/leurs-croquettes-pour-chats-attirent-un-louveteau-malade-c-est-le-debut-d-une-affaire-qui-va-secouer-l-etat-955717",
-			"pubDate": "Sat, 09 Nov 2024 06:20:00 GMT",
-			"image": "https://fyooyzbm.filerobot.com/v7/protec/DATA_ART_14431362-jsVvf6Mw.jpg?vh=37fe81&ci_seal=05ecaf0a47",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "Nice-Matin",
-			"url": "https://www.nicematin.com/animaux/leurs-croquettes-pour-chats-attirent-un-louveteau-malade-c-est-le-debut-d-une-affaire-qui-va-secouer-l-etat-955717",
-			"description": "Valberg, mi-octobre 2019. Une histoire va secouer la station puis le sommet de l\u2019\u00c9tat et elle commence par des croquettes pour chats. \r\nDani\u00e8le Portalier a entendu la rumeur: un louveteau erre dans les rues de Valberg. Mais elle ne l\u2019a pas vu. Tous les jours, elle distribue des croquettes pour les c"
-		},
-		{
-			"title": "Sant\u00e9: les m\u00e9decins devront indiquer sur l'ordonnance la maladie concern\u00e9e par la prescription - BFMTV",
-			"link": "https://www.bfmtv.com/sante/sante-les-medecins-devront-indiquer-sur-l-ordonnance-la-maladie-concernee-par-la-prescription_VN-202411090123.html",
-			"pubDate": "Sat, 09 Nov 2024 07:05:08 GMT",
-			"image": "https://images.bfmtv.com/BNM3CaXFub6WuaggRs2fkcZioVE=/0x0:1280x720/1280x0/images/Sante-les-medecins-devront-indiquer-sur-l-ordonnance-la-maladie-concernee-par-la-prescription-1973182.jpg",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "BFMTV",
-			"url": "https://www.bfmtv.com/sante/sante-les-medecins-devront-indiquer-sur-l-ordonnance-la-maladie-concernee-par-la-prescription_VN-202411090123.html",
-			"description": "VID\u00c9O - D'apr\u00e8s l'assurance maladie, cette nouvelle r\u00e8gle concernerait les anti-diab\u00e9tiques de type Ozempic, parfois utilis\u00e9s pour la perte de poids."
-		},
-		{
-			"title": "Des policiers d\u00e9couvrent 40 armes \u00e0 feu et de la drogue chez un habitant de Portes-l\u00e8s-Valence dans la Dr\u00f4me - franceinfo",
-			"link": "https://www.francetvinfo.fr/france/auvergne-rhone-alpes/drome/des-policiers-decouvrent-40-armes-a-feu-et-de-la-drogue-chez-un-habitant-de-portes-les-valence-dans-la-drome_6887600.html",
-			"pubDate": "Sat, 09 Nov 2024 12:49:16 GMT",
-			"image": "https://www.francetvinfo.fr/pictures/kuqZOzMkauC4HYEx9e0_Vviw9SM/0x2:1024x578/1500x843/2024/11/09/1200x680-sc-armes-672f589c8f968295509456.webp",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "Franceinfo",
-			"url": "https://www.francetvinfo.fr/france/auvergne-rhone-alpes/drome/des-policiers-decouvrent-40-armes-a-feu-et-de-la-drogue-chez-un-habitant-de-portes-les-valence-dans-la-drome_6887600.html",
-			"description": "Les forces de l'ordre effectuaient une perquisition chez ce Dr\u00f4mois dans une affaire de stup\u00e9fiants."
-		},
-		{
-			"title": "Contre le brouillard aussi, les irr\u00e9ductibles Bretons r\u00e9sistent encore et toujours - Le HuffPost",
-			"link": "https://www.huffingtonpost.fr/environnement/article/meteo-cette-carte-du-brouillard-vu-de-l-espace-ne-va-pas-manquer-de-plaire-aux-bretons_241998.html",
-			"pubDate": "Fri, 08 Nov 2024 14:52:48 GMT",
-			"image": "https://focus.huffingtonpost.fr/2024/11/08/109/0/5000/2812/1820/1023/75/0/14d7fd7_1731077290802-gettyimages-641618482.jpg",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "Le HuffPost",
-			"url": "https://www.huffingtonpost.fr/environnement/article/meteo-cette-carte-du-brouillard-vu-de-l-espace-ne-va-pas-manquer-de-plaire-aux-bretons_241998.html",
-			"description": "Alors qu\u2019une large moiti\u00e9 nord de l\u2019Hexagone vit sous une nappe de brouillard et de nuages depuis dix jours, la Bretagne a eu droit \u00e0 une trou\u00e9e remarquable."
-		},
-		{
-			"title": "\u00ab Ils veulent se montrer guerriers \u00bb : pourquoi les ados utilisent katanas, haches et machettes pour en d\u00e9coudre - Le Parisien",
-			"link": "https://www.leparisien.fr/faits-divers/ils-veulent-se-montrer-guerriers-pourquoi-les-ados-utilisent-katanas-haches-et-machettes-pour-en-decoudre-08-11-2024-YYXNXBWWURC75H4UCXW6Y3YCEU.php",
-			"pubDate": "Fri, 08 Nov 2024 11:05:00 GMT",
-			"image": "https://www.leparisien.fr/resizer/bbDAbC6c0VHCJqKF4hAudIg2phQ=/1200x675/cloudfront-eu-central-1.images.arcpublishing.com/leparisien/OQUTYUMMYFDLJDBP3TKYHUSP5M.jpg",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "leparisien.fr",
-			"url": "https://www.leparisien.fr/faits-divers/ils-veulent-se-montrer-guerriers-pourquoi-les-ados-utilisent-katanas-haches-et-machettes-pour-en-decoudre-08-11-2024-YYXNXBWWURC75H4UCXW6Y3YCEU.php",
-			"description": "Volont\u00e9 de faire les gros durs, influences des clips et des jeux vid\u00e9o ou simple question d\u2019opportunit\u00e9\u2026 Le Parisien tente d\u2019analyser les ra"
-		},
-		{
-			"title": "Femme gravement bless\u00e9e par une trottinette \u00e0 Rennes : le conducteur en garde \u00e0 vue - Ouest-France",
-			"link": "https://www.ouest-france.fr/societe/faits-divers/femme-gravement-blessee-par-une-trottinette-a-rennes-le-conducteur-en-garde-a-vue-743b88be-9dd9-11ef-84c9-4bebe8d0c332",
-			"pubDate": "Fri, 08 Nov 2024 15:33:55 GMT",
-			"image": "",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "",
-			"url": "",
-			"description": ""
-		},
-		{
-			"title": "Poitiers : l'incendiaire d'une \u00e9glise class\u00e9e d\u00e9clar\u00e9 p\u00e9nalement irresponsable - CNEWS",
-			"link": "https://www.cnews.fr/faits-divers/2024-11-08/poitiers-lincendiaire-dune-eglise-classee-declare-penalement-irresponsable",
-			"pubDate": "Fri, 08 Nov 2024 22:44:50 GMT",
-			"image": "",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "",
-			"url": "",
-			"description": ""
-		},
-		{
-			"title": "EXCLUSIF - Jamais Macron n\u2019a \u00e9t\u00e9 plus impopulaire depuis son \u00e9lection en 2017 - Le HuffPost",
-			"link": "https://www.huffingtonpost.fr/politique/article/la-popularite-d-emmanuel-macron-tombe-au-plus-bas-depuis-son-election-en-2017-exclusif_242006.html",
-			"pubDate": "Fri, 08 Nov 2024 17:30:06 GMT",
-			"image": "https://focus.huffingtonpost.fr/2024/11/08/234/0/4497/2529/1820/1023/75/0/9329867_1731083002843-000-36l493k.jpg",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "Le HuffPost",
-			"url": "https://www.huffingtonpost.fr/politique/article/la-popularite-d-emmanuel-macron-tombe-au-plus-bas-depuis-son-election-en-2017-exclusif_242006.html",
-			"description": "Selon le barom\u00e8tre YouGov pour \u00ab\u00a0Le HuffPost\u00a0\u00bb, le pr\u00e9sident de la R\u00e9publique est aussi mal per\u00e7u qu\u2019il l\u2019\u00e9tait pendant la crise des gilets jaunes en d\u00e9cembre\u00a02018."
-		},
-		{
-			"title": "\"On nous met toujours des b\u00e2tons dans les roues\" : quatre mois apr\u00e8s la d\u00e9ception des l\u00e9gislatives, les \u00e9lecteurs du RN \u00e9voluent entre col\u00e8re et patience - franceinfo",
-			"link": "https://www.francetvinfo.fr/replay-radio/le-choix-franceinfo/on-nous-met-toujours-des-batons-dans-les-roues-quatre-mois-apres-la-deception-des-legislatives-les-electeurs-du-rn-evoluent-entre-colere-et-patience_6860036.html",
-			"pubDate": "Sat, 09 Nov 2024 06:00:02 GMT",
-			"image": "https://www.francetvinfo.fr/pictures/Wu2EYH4h2OftezkkvOXKqqNovSE/0x373:7167x4405/1500x843/2024/11/08/000-34ua3ht-672e229d3f25b125162075.jpg",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "Franceinfo",
-			"url": "https://www.francetvinfo.fr/replay-radio/le-choix-franceinfo/on-nous-met-toujours-des-batons-dans-les-roues-quatre-mois-apres-la-deception-des-legislatives-les-electeurs-du-rn-evoluent-entre-colere-et-patience_6860036.html",
-			"description": "Le premier livre de Jordan Bardella sort samedi en librairies. Mais dans le Var, o\u00f9 les \u00e9lecteurs ont presque cru voir le jeune patron du RN arriver \u00e0 Matignon, les sympathisants n'ont pas le c\u0153ur \u00e0 la f\u00eate et n'ont toujours pas dig\u00e9r\u00e9 le r\u00e9sultat des l\u00e9gislatives."
-		},
-		{
-			"title": "\u00abJe l\u2019ai achet\u00e9e 170.000 euros en 2022. Elle vaut 210.000 euros maintenant\u00bb : les passoires thermiques peuvent aussi \u00eatre de tr\u00e8s bonnes affaires immobili\u00e8res - Le Figaro",
-			"link": "https://www.lefigaro.fr/argent/je-l-ai-achetee-170-000-euros-en-2022-elle-vaut-210-000-euros-maintenant-les-passoires-thermiques-peuvent-aussi-etre-de-tres-bonnes-affaires-immobilieres-20241109",
-			"pubDate": "Sat, 09 Nov 2024 09:00:24 GMT",
-			"image": "https://i.f1g.fr/media/cms/1200x630_crop/2024/11/08/d111b9783561b3ab52725c4c5fbcf577b4430305f912193f2c98fd10e4af06ff.jpg",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "Le Figaro",
-			"url": "https://www.lefigaro.fr/argent/je-l-ai-achetee-170-000-euros-en-2022-elle-vaut-210-000-euros-maintenant-les-passoires-thermiques-peuvent-aussi-etre-de-tres-bonnes-affaires-immobilieres-20241109",
-			"description": "D\u00c9CRYPTAGE - Alors que beaucoup d\u2019acheteurs tournent les talons quand on leur propose de les visiter, certains ne jurent que par les passoires thermiques, les ach\u00e8tent et les r\u00e9novent. Ils sont convaincus qu\u2019ils finiront par retomber sur leurs pieds."
-		},
-		{
-			"title": "Le proc\u00e8s des assistants fictifs du RN, infructueuse tribune politique de Marine Le Pen : \u00abTout ceci est une fiction - Lib\u00e9ration",
-			"link": "https://www.liberation.fr/politique/elections/le-proces-des-assistants-fictifs-du-rn-infructueuse-tribune-politique-de-marine-le-pen-tout-ceci-est-une-fiction-20241108_WBC4YKTMMNG63NKWKVQCWUN5RY/",
-			"pubDate": "Fri, 08 Nov 2024 19:07:30 GMT",
-			"image": "https://www.liberation.fr/resizer/FXdRKCmPaL2ZpcgiF3q4Y3ZgzWA=/1200x630/filters:format(jpg):quality(70):focal(3089x1229:3099x1239)/cloudfront-eu-central-1.images.arcpublishing.com/liberation/2MTNBWSXS5DSHMP6U22MUD3SEE.jpg",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "Lib\u00e9ration",
-			"url": "",
-			"description": "Si l\u2019ex-pr\u00e9sidente du Rassemblement national a d\u00e9montr\u00e9 devant le tribunal de Paris ses talents d\u2019oratrices, elle a pein\u00e9, cette semaine encore, \u00e0 d\u00e9fendre sa th\u00e8se d\u2019un proc\u00e8s d\u2019intention."
-		},
-		{
 			"title": "Dans la Manche, des corps de migrants d\u00e9couverts et des interrogations sur le probable pire naufrage de l\u2019ann\u00e9e - Le Monde",
 			"link": "https://www.lemonde.fr/societe/article/2024/11/09/dans-la-manche-des-corps-de-migrants-decouverts-et-des-interrogations-sur-le-probable-pire-naufrage-de-l-annee_6384825_3224.html",
 			"pubDate": "Sat, 09 Nov 2024 09:48:33 GMT",
@@ -621,45 +631,15 @@
 			"description": "Officiellement, trois personnes migrantes sont mortes le 23\u00a0octobre. Mais des signalements de proches de disparus et de rescap\u00e9s font \u00e9tat de 15\u00a0victimes au total, majoritairement \u00e9rythr\u00e9ennes et syriennes. Depuis quelques jours notamment, la mar\u00e9e a ramen\u00e9 sur les plages plusieurs corps."
 		},
 		{
-			"title": "Pluie-inondation : voici le seul d\u00e9partement plac\u00e9 en vigilance orange ce samedi - CNEWS",
-			"link": "https://www.cnews.fr/france/2024-11-09/pluie-inondation-voici-le-seul-departement-place-en-vigilance-orange-ce-samedi",
-			"pubDate": "Sat, 09 Nov 2024 05:27:28 GMT",
-			"image": "",
+			"title": "\u00abJe l\u2019ai achet\u00e9e 170.000 euros en 2022. Elle vaut 210.000 euros maintenant\u00bb : les passoires thermiques peuvent aussi \u00eatre de tr\u00e8s bonnes affaires immobili\u00e8res - Le Figaro",
+			"link": "https://www.lefigaro.fr/argent/je-l-ai-achetee-170-000-euros-en-2022-elle-vaut-210-000-euros-maintenant-les-passoires-thermiques-peuvent-aussi-etre-de-tres-bonnes-affaires-immobilieres-20241109",
+			"pubDate": "Sat, 09 Nov 2024 09:00:24 GMT",
+			"image": "https://i.f1g.fr/media/cms/1200x630_crop/2024/11/08/d111b9783561b3ab52725c4c5fbcf577b4430305f912193f2c98fd10e4af06ff.jpg",
 			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "",
-			"url": "",
-			"description": ""
-		},
-		{
-			"title": "Auvergne-Rh\u00f4ne-Alpes. Attention champignons toxiques : un d\u00e9c\u00e8s et plusieurs cas graves dans la r\u00e9gion - Le Progr\u00e8s",
-			"link": "https://www.leprogres.fr/sante/2024/11/08/attention-champignons-toxiques-un-deces-et-plusieurs-cas-graves-dans-la-region",
-			"pubDate": "Fri, 08 Nov 2024 18:00:00 GMT",
-			"image": "https://cdn-s-www.leprogres.fr/images/F839D9D0-72E1-496E-AC83-95C344B1B436/FB1200/photo-1731090065.jpg",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "",
-			"url": "https://www.leprogres.fr/sante/2024/11/08/attention-champignons-toxiques-un-deces-et-plusieurs-cas-graves-dans-la-region",
-			"description": "Au centre antipoison de Lyon, comme dans ceux du reste de l\u2019Hexagone, on constate cette ann\u00e9e une recrudescence d\u2019intoxications alimentaires tr\u00e8s s\u00e9rieuses, dont une a m\u00eame conduit \u00e0 un d\u00e9c\u00e8s en octobre. \u00c0 chaque fois, il s\u2019agissait de champignons consomm\u00e9s \u00e0 la suite d\u2019une cueillette. La docteure Nathalie Paret met en garde \u00ab ne ramassez que ce que vous \u00eates certains de conna\u00eetre \u00bb."
-		},
-		{
-			"title": "Androcur : quel est ce m\u00e9dicament suspect\u00e9 d'\u00eatre \u00e0 l'origine de tumeurs au cerveau ? - CNEWS",
-			"link": "https://www.cnews.fr/sante/2024-11-08/androcur-quel-est-ce-medicament-suspecte-detre-lorigine-de-tumeurs-au-cerveau",
-			"pubDate": "Fri, 08 Nov 2024 18:13:01 GMT",
-			"image": "",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "",
-			"url": "",
-			"description": ""
-		},
-		{
-			"title": "Fran\u00e7ois Hollande lance son podcast \u00ab Un pr\u00e9sident devrait \u00e9couter \u00e7a \u00bb, juste apr\u00e8s l\u2019\u00e9lection de Trump - Le HuffPost",
-			"link": "https://www.huffingtonpost.fr/politique/article/francois-hollande-lance-son-podcast-un-president-devrait-ecouter-ca-juste-apres-l-election-de-trump_241969.html",
-			"pubDate": "Fri, 08 Nov 2024 07:16:44 GMT",
-			"image": "https://focus.huffingtonpost.fr/2024/11/08/256/0/4920/2767/1820/1023/75/0/942914d_1731048429147-gettyimages-2171049833.jpg",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "Le HuffPost",
-			"url": "https://www.huffingtonpost.fr/politique/article/francois-hollande-lance-son-podcast-un-president-devrait-ecouter-ca-juste-apres-l-election-de-trump_241969.html",
-			"description": "L\u2019ancien pr\u00e9sident de la R\u00e9publique souhaite publier un \u00e9pisode par mois. Le premier \u00e9pisode porte sur l\u2019\u00e9lection de Donald Trump."
+			"site_name": "Le Figaro",
+			"url": "https://www.lefigaro.fr/argent/je-l-ai-achetee-170-000-euros-en-2022-elle-vaut-210-000-euros-maintenant-les-passoires-thermiques-peuvent-aussi-etre-de-tres-bonnes-affaires-immobilieres-20241109",
+			"description": "D\u00c9CRYPTAGE - Alors que beaucoup d\u2019acheteurs tournent les talons quand on leur propose de les visiter, certains ne jurent que par les passoires thermiques, les ach\u00e8tent et les r\u00e9novent. Ils sont convaincus qu\u2019ils finiront par retomber sur leurs pieds."
 		}
 	],
-	"timestamp": "2024-11-09 20:22:27.750513"
+	"timestamp": "2024-11-10 01:50:49.092664"
 }
