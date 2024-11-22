@@ -1,54 +1,104 @@
 {
 	"content": [
 		{
-			"title": "Guerre en Ukraine : ce que l'on sait du tir de missile exp\u00e9rimental par la Russie, qui marque un tournant dans le conflit - franceinfo",
-			"link": "https://www.francetvinfo.fr/monde/europe/manifestations-en-ukraine/guerre-en-ukraine-ce-que-l-on-sait-du-tir-de-missile-hypersonique-par-la-russie-qui-marque-un-tournant-dans-le-conflit_6911441.html",
-			"pubDate": "Thu, 21 Nov 2024 22:00:37 GMT",
-			"image": "https://www.francetvinfo.fr/pictures/f19w3b7wQg8O9pCRrKJgzb6Jtp4/0x1:1024x577/1500x843/2024/11/21/000-36mu4rj-673facbfd891e394325786.jpg",
+			"title": "En direct, guerre en Ukraine : les derni\u00e8res informations - Le Monde",
+			"link": "https://www.lemonde.fr/international/live/2024/11/22/en-direct-guerre-en-ukraine-au-moins-deux-morts-a-soumy-dans-une-frappe-russe_6398132_3210.html",
+			"pubDate": "Fri, 22 Nov 2024 05:45:13 GMT",
+			"image": "https://img.lemde.fr/2024/11/21/378/0/5442/2721/1440/720/60/0/08b350c_2024-11-21t230442z-478264677-rc2o9bausr8s-rtrmadp-3-ukraine-crisis-usa-irbm.JPG",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "Le Monde.fr",
+			"url": "https://www.lemonde.fr/international/live/2024/11/22/en-direct-guerre-en-ukraine-au-moins-deux-morts-a-soumy-dans-une-frappe-russe_6398132_3210.html",
+			"description": "Vladimir Poutine a d\u00e9clar\u00e9, jeudi soir, que la Russie avait tir\u00e9 sur l\u2019Ukraine, \u00e0 Dnipro, un nouveau missile balistique \u00e0 moyenne port\u00e9e, appel\u00e9 \u00ab\u00a0Orechnik\u00a0\u00bb, qui ne portait pas de charge nucl\u00e9aire. Volodymyr Zelensky a appel\u00e9 le monde \u00e0 \u00ab\u00a0r\u00e9agir\u00a0\u00bb, d\u00e9non\u00e7ant l\u2019augmentation de \u00ab\u00a0l\u2019ampleur et de la brutalit\u00e9\u00a0\u00bb de la guerre."
+		},
+		{
+			"title": "Mandats d\u2019arr\u00eat de la CPI : \"Le monde de Benjamin Netanyahu vient de se r\u00e9tr\u00e9cir consid\u00e9rablement\" - FRANCE 24",
+			"link": "https://www.france24.com/fr/moyen-orient/20241122-mandats-arret-cpi-netanyahu-justice-cour-penale-international-gallant-deif-israel-gaza-hamas",
+			"pubDate": "Fri, 22 Nov 2024 07:01:36 GMT",
+			"image": "",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "",
+			"url": "",
+			"description": ""
+		},
+		{
+			"title": "Premier pari perdant de la nouvelle \u00e8re Trump : Matt Gaetz forc\u00e9 de renoncer \u00e0 diriger la Justice am\u00e9ricaine, et d\u00e9j\u00e0 remplac\u00e9 - Lib\u00e9ration",
+			"link": "https://www.liberation.fr/international/amerique/premier-pari-perdant-de-la-nouvelle-ere-trump-matt-gaetz-force-de-renoncer-a-diriger-la-justice-americaine-et-deja-remplace-20241122_A2FFCA6OVNFVDFM5DPNDYRNA5Q/",
+			"pubDate": "Fri, 22 Nov 2024 06:43:00 GMT",
+			"image": "https://www.liberation.fr/resizer/lnIERLOQ6fziykG7aIDNr9wndTU=/1200x630/filters:format(jpg):quality(70):focal(645x361:655x371)/cloudfront-eu-central-1.images.arcpublishing.com/liberation/VBJWD4UX2BE5ZKFLTHL7ZSA5OU.jpg",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "Lib\u00e9ration",
+			"url": "",
+			"description": "Soup\u00e7onn\u00e9 d'orgies impliquant une mineure, le choix tr\u00e8s controvers\u00e9 du pr\u00e9sident \u00e9lu a d\u00fb renoncer jeudi 21 novembre \u00e0 sa nomination. II a \u00e9t\u00e9 presque aussit\u00f4t remplac\u00e9 par l'ex-patronne de la justice floridienne Pam Bondi."
+		},
+		{
+			"title": "Transformer le bourreau russe en sauveur de Centrafricains: fabrique d\u2019une fausse nouvelle \u00e0 Bouar - RFI",
+			"link": "https://www.rfi.fr/fr/afrique/20241122-transformer-le-bourreau-russe-en-sauveur-de-centrafricains-fabrique-d-une-fausse-nouvelle-%C3%A0-bouar",
+			"pubDate": "Fri, 22 Nov 2024 05:00:05 GMT",
+			"image": "",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "",
+			"url": "",
+			"description": ""
+		},
+		{
+			"title": "L\u2019Iran de nouveau cible d\u2019une r\u00e9solution de l\u2019AIEA pour ses activit\u00e9s nucl\u00e9aires \u00ab troublantes \u00bb - Le Monde",
+			"link": "https://www.lemonde.fr/international/article/2024/11/21/l-iran-de-nouveau-cible-d-une-resolution-de-l-aiea-pour-ses-activites-nucleaires-troublantes_6407669_3210.html",
+			"pubDate": "Thu, 21 Nov 2024 21:49:01 GMT",
+			"image": "https://img.lemde.fr/2024/11/20/155/0/3772/2514/1440/960/60/0/75dc9b6_5302656-01-06.jpg",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "Le Monde.fr",
+			"url": "https://www.lemonde.fr/international/article/2024/11/21/l-iran-de-nouveau-cible-d-une-resolution-de-l-aiea-pour-ses-activites-nucleaires-troublantes_6407669_3210.html",
+			"description": "La r\u00e9solution a \u00e9t\u00e9 approuv\u00e9e par dix-neuf des trente-cinq\u00a0membres du conseil des gouverneurs de l\u2019Agence internationale de l\u2019\u00e9nergie atomique. Trois pays, dont la Russie, ont vot\u00e9 contre, et douze\u00a0se sont abstenus."
+		},
+		{
+			"title": "Guerre en Ukraine : quatre questions sur l'envoi critiqu\u00e9 de mines antipersonnel par les Etats-Unis - franceinfo",
+			"link": "https://www.francetvinfo.fr/monde/europe/manifestations-en-ukraine/guerre-en-ukraine-quatre-questions-sur-l-envoi-critique-de-mines-antipersonnel-par-les-etats-unis_6910847.html",
+			"pubDate": "Fri, 22 Nov 2024 04:56:50 GMT",
+			"image": "https://www.francetvinfo.fr/pictures/2GthrEtWenYbojRv6e3QgP1WUig/0x307:5472x3383/1500x843/2024/11/21/068-aa-18112024-1950414-673f4d4b42561375057511.jpg",
 			"logo": "https://picsum.photos/32/32?grayscale",
 			"site_name": "Franceinfo",
-			"url": "https://www.francetvinfo.fr/monde/europe/manifestations-en-ukraine/guerre-en-ukraine-ce-que-l-on-sait-du-tir-de-missile-hypersonique-par-la-russie-qui-marque-un-tournant-dans-le-conflit_6911441.html",
-			"description": "Dans une adresse \u00e0 la nation, Vladimir Poutine a d\u00e9menti l'utilisation d'un projectile intercontinental mais confirm\u00e9 l'emploi d'un nouveau type de missile hypersonique, en r\u00e9ponse aux frappes r\u00e9alis\u00e9es ces derniers jours par Kiev \u00e0 l'aide de missiles am\u00e9ricains et britanniques."
+			"url": "https://www.francetvinfo.fr/monde/europe/manifestations-en-ukraine/guerre-en-ukraine-quatre-questions-sur-l-envoi-critique-de-mines-antipersonnel-par-les-etats-unis_6910847.html",
+			"description": "Ces armes sont cens\u00e9es aider \u00e0 ralentir l'avanc\u00e9e des troupes russes dans l'est du pays, mais elles repr\u00e9sentent aussi une menace pour les populations civiles. Les Etats-Unis avaient dit renoncer aux mines en juin 2022."
 		},
 		{
-			"title": "En direct, guerre au Proche-Orient : Joe Biden juge \u00ab scandaleux \u00bb les mandats d\u2019arr\u00eat de la CPI contre Benyamin N\u00e9tanyahou et Yoav Gallant - Le Monde",
-			"link": "https://www.lemonde.fr/international/live/2024/11/22/en-direct-guerre-au-proche-orient-joe-biden-juge-scandaleux-les-mandats-d-arret-de-la-cpi-contre-benyamin-netanyahou-et-yoav-gallant_6394609_3210.html",
-			"pubDate": "Fri, 22 Nov 2024 00:17:31 GMT",
-			"image": "https://img.lemde.fr/2024/11/19/213/0/4224/2112/1440/720/60/0/348ace9_5296232-01-06.jpg",
+			"title": "Au Laos, des touristes occidentaux tu\u00e9s par des boissons empoisonn\u00e9es - Les \u00c9chos",
+			"link": "https://www.lesechos.fr/monde/asie-pacifique/au-laos-des-touristes-occidentaux-tues-par-des-boissons-empoisonnees-2133191",
+			"pubDate": "Fri, 22 Nov 2024 05:23:08 GMT",
+			"image": "",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "",
+			"url": "",
+			"description": ""
+		},
+		{
+			"title": "En direct, guerre au Proche Orient : nouveaux bombardements isra\u00e9liens sur la banlieue sud de Beyrouth - Le Monde",
+			"link": "https://www.lemonde.fr/international/live/2024/11/22/en-direct-guerre-au-proche-orient-aucune-equivalence-entre-israel-et-le-hamas-juge-joe-biden-apres-le-mandat-d-arret-emis-par-la-cpi-contre-netanyahou_6408012_3210.html",
+			"pubDate": "Fri, 22 Nov 2024 08:16:34 GMT",
+			"image": "https://img.lemde.fr/2024/11/22/458/0/5500/2750/1440/720/60/0/ee54d27_2024-11-22t062003z-1619170684-rc26abahqiwd-rtrmadp-3-israel-palestinians-lebanon.JPG",
 			"logo": "https://picsum.photos/32/32?grayscale",
 			"site_name": "Le Monde.fr",
-			"url": "https://www.lemonde.fr/international/live/2024/11/22/en-direct-guerre-au-proche-orient-joe-biden-juge-scandaleux-les-mandats-d-arret-de-la-cpi-contre-benyamin-netanyahou-et-yoav-gallant_6394609_3210.html",
-			"description": "La Cour p\u00e9nale internationale a \u00e9mis mercredi des mandats d\u2019arr\u00eat contre Benyamin N\u00e9tanyahou, son ex-ministre de la d\u00e9fense Yoav Gallant, et le chef de la branche arm\u00e9e du Hamas Mohammed Deif, pour crimes de guerre et crimes contre l\u2019humanit\u00e9. Le premier ministre isra\u00e9lien a affirm\u00e9 qu\u2019aucune d\u00e9cision \u00ab\u00a0ne l\u2019emp\u00eachera de d\u00e9fendre\u00a0\u00bb Isra\u00ebl."
+			"url": "https://www.lemonde.fr/international/live/2024/11/22/en-direct-guerre-au-proche-orient-aucune-equivalence-entre-israel-et-le-hamas-juge-joe-biden-apres-le-mandat-d-arret-emis-par-la-cpi-contre-netanyahou_6408012_3210.html",
+			"description": "Des frappes ont vis\u00e9 vendredi matin la banlieue sud de Beyrouth, bastion du Hezbollah libanais contre lequel Isra\u00ebl est en guerre, peu apr\u00e8s un appel de l\u2019arm\u00e9e isra\u00e9lienne \u00e0 \u00e9vacuer, selon des images de l\u2019Agence France-Presse."
 		},
 		{
-			"title": "Pam Bondi, une autre loyaliste de Trump de Floride, remplace Matt Gaetz \u00e0 la Justice - Le Figaro",
-			"link": "https://www.lefigaro.fr/international/trump-annonce-nommer-pam-bondi-une-autre-de-ses-fideles-comme-ministre-de-la-justice-20241122",
-			"pubDate": "Fri, 22 Nov 2024 03:17:23 GMT",
-			"image": "https://i.f1g.fr/media/cms/1200x630_crop/2024/11/22/7af823d8d2a65a822f96977f522332bb4063b97f2e2d1c4a040a986d059c5ae6.jpg",
+			"title": "En DIRECT Guerre en Ukraine : Le nouveau missile russe ne changera pas le cours de la guerre, affirme l\u2019Otan\u2026 - 20 Minutes",
+			"link": "https://www.20minutes.fr/monde/ukraine/4122681-20241122-direct-guerre-ukraine-nouveau-missile-russe-changera-cours-guerre-affirme-otan",
+			"pubDate": "Fri, 22 Nov 2024 06:47:38 GMT",
+			"image": "https://img.20mn.fr/f8SmIBoRRnKFjzjE75BdVyk/1444x920_in-this-photo-taken-from-a-video-released-by-russian-defense-ministry-press-service-no-friday-nov-22-2024-russian-t90m-proryv-tank-fires-towards-ukrainian-positions-at-an-undisclosed-location-in-ukraine-russian-defense-ministry-press-service-via-ap-pvb101-24327216420077-ap-provides-access-to-this-publicly-distributed-handout-photo-provided-by-russian-defense-ministry-mandatory-credit-2411220710",
 			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "Le Figaro",
-			"url": "https://www.lefigaro.fr/international/trump-annonce-nommer-pam-bondi-une-autre-de-ses-fideles-comme-ministre-de-la-justice-20241122",
-			"description": "Le pr\u00e9sident \u00e9lu am\u00e9ricain a fait cette annonce jeudi soir, quelques heures apr\u00e8s le retrait de son premier candidat controvers\u00e9. L\u2019ancienne procureure g\u00e9n\u00e9rale de Floride devrait \u00eatre confirm\u00e9e sans difficult\u00e9 par le S\u00e9nat."
+			"site_name": "20 Minutes",
+			"url": "https://www.20minutes.fr/monde/ukraine/4122681-20241122-direct-guerre-ukraine-nouveau-missile-russe-changera-cours-guerre-affirme-otan",
+			"description": "Suivez avec nous les derni\u00e8res informations sur le conflit russo-ukrainien en ce vendredi 22\u00a0novembre 2024"
 		},
 		{
-			"title": "\u00ab Le conflit r\u00e9gional provoqu\u00e9 par l\u2019Occident en Ukraine a pris les \u00e9l\u00e9ments d\u2019un caract\u00e8re mondial \u00bb : le verbatim du discours de Vladimir Poutine - Le Monde",
-			"link": "https://www.lemonde.fr/international/article/2024/11/22/le-conflit-regional-provoque-par-l-occident-en-ukraine-a-pris-les-elements-d-un-caractere-mondial-le-verbatim-du-discours-de-vladimir-poutine_6407768_3210.html",
-			"pubDate": "Thu, 21 Nov 2024 23:36:01 GMT",
-			"image": "https://img.lemde.fr/2024/11/21/287/516/2537/1691/1440/960/60/0/2bfe015_2024-11-21t173712z-1220294142-rc2t9banjqmq-rtrmadp-3-ukraine-crisis-putin.JPG",
+			"title": "Tunisie : pour les influenceurs, le respect des \u00ab bonnes m\u0153urs \u00bb ou la prison - Le Monde",
+			"link": "https://www.lemonde.fr/afrique/article/2024/11/22/tunisie-pour-les-influenceurs-le-respect-des-bonnes-m-urs-ou-la-prison_6408022_3212.html",
+			"pubDate": "Fri, 22 Nov 2024 05:30:09 GMT",
+			"image": "https://img.lemde.fr/2024/11/21/0/0/1440/960/1440/960/60/0/5ec252a_1732205913813-449999915-18447138586004733-1963694789822415609-n.jpg",
 			"logo": "https://picsum.photos/32/32?grayscale",
 			"site_name": "Le Monde.fr",
-			"url": "https://www.lemonde.fr/international/article/2024/11/22/le-conflit-regional-provoque-par-l-occident-en-ukraine-a-pris-les-elements-d-un-caractere-mondial-le-verbatim-du-discours-de-vladimir-poutine_6407768_3210.html",
-			"description": "\u00ab\u00a0Nous consid\u00e9rons \u00eatre dans notre droit d\u2019utiliser nos armes contre les installations militaires des pays qui autorisent l\u2019utilisation de leurs armes contre nos installations\u00a0\u00bb, a estim\u00e9 le pr\u00e9sident russe, jeudi 21\u00a0novembre, dans un discours t\u00e9l\u00e9vis\u00e9 depuis le Kremlin."
-		},
-		{
-			"title": "Laos : quatre clients d'un bar meurent apr\u00e8s avoir bu des shots d'alcool - CNEWS",
-			"link": "https://www.cnews.fr/monde/2024-11-21/laos-quatre-clients-dun-bar-meurent-apres-avoir-bu-des-shots-dalcool-1591323",
-			"pubDate": "Thu, 21 Nov 2024 19:02:59 GMT",
-			"image": "https://static.cnews.fr/sites/default/files/charlotte-harrison-stogmwkpbuo-unsplash_673f6c291661f.jpg",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "CNEWS",
-			"url": "https://www.cnews.fr/monde/2024-11-21/laos-quatre-clients-dun-bar-meurent-apres-avoir-bu-des-shots-dalcool-1591323",
-			"description": "Quatre touristes ont trouv\u00e9 la mort au Laos la semaine pass\u00e9e. Un empoisonnement \u00e0 l'alcool frelat\u00e9 contenant du m\u00e9thanol est soup\u00e7onn\u00e9. Au moins quatre touristes \u00e9trangers sont morts \u00e0 Vang Vieng, une ville du Laos, devenue une destination \u00e9cotouristique, ont annonc\u00e9 ce jeudi des responsables gouvernementaux et des m\u00e9dias. Les victimes auraient consomm\u00e9 des shots d\u2019alcool, m\u00e9lang\u00e9s \u00e0 du m\u00e9thanol, ce qui aurait caus\u00e9 un empoisonnement.\u00a0"
+			"url": "https://www.lemonde.fr/afrique/article/2024/11/22/tunisie-pour-les-influenceurs-le-respect-des-bonnes-m-urs-ou-la-prison_6408022_3212.html",
+			"description": "Apr\u00e8s les migrants, c\u2019est au tour des cr\u00e9ateurs de contenus sur TikTok et Instagram d\u2019\u00eatre vis\u00e9s par le r\u00e9gime de Ka\u00efs Sa\u00efed. Ces derni\u00e8res semaines, au moins sept d\u2019entre eux ont \u00e9t\u00e9 condamn\u00e9s \u00e0 des peines d\u2019emprisonnement."
 		},
 		{
 			"title": "COP29 : pourquoi le projet d'accord final provoque la col\u00e8re de l'UE - CNEWS",
@@ -61,6 +111,16 @@
 			"description": "Le projet pr\u00e9sent\u00e9 ce jeudi par la pr\u00e9sidence azerba\u00efdjanaise de la COP29 a suscit\u00e9 un rejet unanime de la part des dirigeants europ\u00e9ens. Il a \u00e9t\u00e9 critiqu\u00e9 pour son absence de chiffres concrets sur le financement climatique et des engagements faibles face aux producteurs de p\u00e9trole."
 		},
 		{
+			"title": "Guerre au Proche-Orient : nouveau veto am\u00e9ricain au Conseil de s\u00e9curit\u00e9 de l'ONU pour un cessez-le-feu \u00e0 Gaza - franceinfo",
+			"link": "https://www.francetvinfo.fr/monde/proche-orient/guerre/guerre-au-proche-orient-nouveau-veto-americain-au-conseil-de-securite-de-l-onu-pour-un-cessez-le-feu-a-gaza_6908912.html",
+			"pubDate": "Wed, 20 Nov 2024 15:48:03 GMT",
+			"image": "https://www.francetvinfo.fr/pictures/w5-9JSSmZrf83uu5kzEv1A2Tj_A/0x45:1024x621/1500x843/2024/11/20/063-2185750521-673e03858d506989419151.jpg",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "Franceinfo",
+			"url": "https://www.francetvinfo.fr/monde/proche-orient/guerre/guerre-au-proche-orient-nouveau-veto-americain-au-conseil-de-securite-de-l-onu-pour-un-cessez-le-feu-a-gaza_6908912.html",
+			"description": "Le projet de texte exigeait \"un cessez-le-feu imm\u00e9diat, inconditionnel et permanent qui doit \u00eatre respect\u00e9 par toutes les parties\" et \"la lib\u00e9ration imm\u00e9diate et inconditionnelle de tous les otages\"."
+		},
+		{
 			"title": "C\u00e2bles endommag\u00e9s en mer Baltique : un navire fran\u00e7ais envoy\u00e9 \u00e0 la rescousse au large de la Su\u00e8de - franceinfo",
 			"link": "https://www.francetvinfo.fr/monde/cables-endommages-en-mer-baltique-un-navire-francais-envoye-a-la-rescousse-au-large-de-la-suede_6908882.html",
 			"pubDate": "Thu, 21 Nov 2024 11:12:16 GMT",
@@ -69,6 +129,36 @@
 			"site_name": "Franceinfo",
 			"url": "https://www.francetvinfo.fr/monde/cables-endommages-en-mer-baltique-un-navire-francais-envoye-a-la-rescousse-au-large-de-la-suede_6908882.html",
 			"description": "Le \"Cable Vigilance\", qui bat pavillon tricolore, part de Calais ce jeudi. Cette mission est pr\u00e9vue jusqu'\u00e0 la fin novembre, alors qu'une enqu\u00eate a \u00e9t\u00e9 ouverte pour \u00e9tablir les causes de la rupture du \"C-Lion1\"."
+		},
+		{
+			"title": "Au Br\u00e9sil, la police f\u00e9d\u00e9rale demande l\u2019inculpation de Jair Bolsonaro pour tentative de \u00ab coup d\u2019Etat \u00bb en 2022 - Le Monde",
+			"link": "https://www.lemonde.fr/international/article/2024/11/21/au-bresil-la-police-federale-demande-l-inculpation-de-jair-bolsonaro-pour-tentative-de-coup-d-etat-en-2022_6407602_3210.html",
+			"pubDate": "Thu, 21 Nov 2024 01:58:00 GMT",
+			"image": "https://img.lemde.fr/2023/01/09/0/0/6997/4664/1440/960/60/0/58d104a_1673250223545-548279.jpg",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "Le Monde.fr",
+			"url": "https://www.lemonde.fr/international/article/2024/11/21/au-bresil-la-police-federale-demande-l-inculpation-de-jair-bolsonaro-pour-tentative-de-coup-d-etat-en-2022_6407602_3210.html",
+			"description": "Le rapport de la police doit ensuite \u00eatre remis par la Cour supr\u00eame au procureur g\u00e9n\u00e9ral, qui d\u00e9cidera d\u2019engager ou non des poursuites. Le juge \u00ab\u00a0fait tout ce que ne dit pas la loi\u00a0\u00bb, a r\u00e9agi l\u2019ancien pr\u00e9sident d\u2019extr\u00eame droite."
+		},
+		{
+			"title": "Mali : l\u2019\u00e9viction de Choguel Ma\u00efga, \u00e9pilogue d\u2019un long divorce entre l\u2019ex-premier ministre et la junte - Le Monde",
+			"link": "https://www.lemonde.fr/afrique/article/2024/11/21/mali-l-eviction-de-choguel-maiga-epilogue-d-un-long-divorce-entre-l-ex-premier-ministre-et-la-junte_6407207_3212.html",
+			"pubDate": "Thu, 21 Nov 2024 03:44:50 GMT",
+			"image": "https://img.lemde.fr/2024/11/21/325/0/3479/2319/1440/960/60/0/eba21a7_1732201168244-000-9nk7ww.jpg",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "Le Monde.fr",
+			"url": "https://www.lemonde.fr/afrique/article/2024/11/21/mali-l-eviction-de-choguel-maiga-epilogue-d-un-long-divorce-entre-l-ex-premier-ministre-et-la-junte_6407207_3212.html",
+			"description": "Nomm\u00e9 en juin\u00a02021, au lendemain du deuxi\u00e8me coup d\u2019Etat men\u00e9 par Assimi Go\u00efta, ce vieux routard de la politique malienne a \u00e9t\u00e9 remplac\u00e9 \u00e0 la t\u00eate du gouvernement par le g\u00e9n\u00e9ral Abdoulaye Ma\u00efga."
+		},
+		{
+			"title": "Portrait : Linda McMahon, la milliardaire du catch nomm\u00e9e ministre de l'\u00c9ducation par Donald Trump - L'\u00c9quipe",
+			"link": "https://www.lequipe.fr/Tous-sports/Article/Linda-mcmahon-la-milliardaire-du-catch-nommee-ministre-de-l-education-par-donald-trump/1521667",
+			"pubDate": "Thu, 21 Nov 2024 08:01:18 GMT",
+			"image": "https://medias.lequipe.fr/img-photo-jpg/linda-mcmahon-est-une-femme-d-affaires-ayant-donne-beaucoup-d-argent-pour-soutenir-la-campagne-de-donald-trump-mike-segar-reuters/1500000002087579/0:0,2000:1333-640-427-75/09b2d",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "L'\u00c9quipe",
+			"url": "https://www.lequipe.fr/Tous-sports/Article/Linda-mcmahon-la-milliardaire-du-catch-nommee-ministre-de-l-education-par-donald-trump/1521667",
+			"description": "Donald Trump a choisi Linda McMahon, l'ancienne patronne de la WWE, la grande f\u00e9d\u00e9ration de catch am\u00e9ricaine, comme secr\u00e9taire \u00e0 l'\u00e9ducation. Un minist\u00e8re que le pr\u00e9sident des \u00c9tats-Unis a annonc\u00e9 vouloir faire dispara\u00eetre."
 		},
 		{
 			"title": "Guerre au Proche-Orient. Au moins 36 morts en Syrie, veto am\u00e9ricain \u00e0 l\u2019Onu\u2026 Les derni\u00e8res infos - Ouest-France",
@@ -91,15 +181,35 @@
 			"description": "Depuis l\u2019effondrement de l\u2019auvent de la gare de Novi Sad, le 1\u1d49\u02b3\u00a0novembre, qui avait fait quinze morts, des manifestations sont r\u00e9guli\u00e8rement organis\u00e9es pour demander \u00e0 la justice d\u2019aller plus vite."
 		},
 		{
-			"title": "Guerre en Ukraine : ce que l\u2019on sait apr\u00e8s les tirs de missiles britanniques visant la Russie - L'Humanit\u00e9",
-			"link": "https://www.humanite.fr/monde/guerre-en-ukraine/guerre-en-ukraine-ce-que-lon-sait-apres-les-tirs-de-missiles-britanniques-visant-la-russie",
-			"pubDate": "Thu, 21 Nov 2024 14:04:54 GMT",
-			"image": "https://www.humanite.fr/wp-content/uploads/2024/11/ABACA_924957_004.jpg",
+			"title": "\u00c9tats-Unis : \u00e0 quoi joue Donald Trump avec son casting sulfureux ? - France Culture",
+			"link": "https://www.radiofrance.fr/franceculture/podcasts/culture-de-l-info/etats-unis-a-quoi-joue-donald-trump-avec-son-casting-sulfureux-3695706",
+			"pubDate": "Wed, 20 Nov 2024 19:56:04 GMT",
+			"image": "https://www.radiofrance.fr/s3/cruiser-production-eu3/2024/11/6f95931f-4655-4ae7-9f33-88d9e05f3ef7/1200x680_sc_mcmahon-musk.jpg",
 			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "L'Humanit\u00e9",
-			"url": "https://www.humanite.fr/monde/guerre-en-ukraine/guerre-en-ukraine-ce-que-lon-sait-apres-les-tirs-de-missiles-britanniques-visant-la-russie",
-			"description": "\nApr\u00e8s la salve d\u2019ATACMS \u00e9tats-uniens il y a deux jours, Kiev a vis\u00e9 la r\u00e9gion de Koursk avec des engins britanniques. Une acc\u00e9l\u00e9ration sur le terrain qui renforce l\u2019internationali..."
+			"site_name": "France Culture",
+			"url": "https://www.radiofrance.fr/franceculture/podcasts/culture-de-l-info/etats-unis-a-quoi-joue-donald-trump-avec-son-casting-sulfureux-3695706",
+			"description": "Une ancienne patronne du catch am\u00e9ricain \u00e0 l'\u00c9ducation, un vaccinosceptique \u00e0 la Sant\u00e9, un homme soup\u00e7onn\u00e9 d'agression sexuelle \u00e0 la Justice\u00a0: Donald Trump multiplie les annonces fracassantes de futures nominations. Au risque d'indisposer une partie de son camp..."
+		},
+		{
+			"title": "La Royal Navy va devoir d\u00e9sarmer ses deux navires d\u2019assaut amphibie plus t\u00f4t que pr\u00e9vu - Zone Militaire",
+			"link": "https://www.opex360.com/2024/11/21/la-royal-navy-va-devoir-desarmer-ses-deux-navires-dassaut-amphibie-plus-tot-que-prevu/",
+			"pubDate": "Thu, 21 Nov 2024 11:31:09 GMT",
+			"image": "https://www.opex360.com/wp-content/uploads/hms-albion-20190406.jpg",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "Zone Militaire",
+			"url": "https://www.opex360.com/2024/11/21/la-royal-navy-va-devoir-desarmer-ses-deux-navires-dassaut-amphibie-plus-tot-que-prevu/",
+			"description": "Au d\u00e9but des ann\u00e9es 2010 et \u00e0 la suite de la publication d'une revue strat\u00e9gique de d\u00e9fense et de s\u00e9curit\u00e9 , le gouvernement dirig\u00e9 par le conservateur"
+		},
+		{
+			"title": "Marius Borg H\u00f8iby est plac\u00e9 en d\u00e9tention et le prince h\u00e9ritier Haakon r\u00e9agit : une deuxi\u00e8me enqu\u00eate pour viol est ouverte - Histoires Royales",
+			"link": "https://histoiresroyales.fr/marius-borg-hoiby-est-place-en-detention-et-le-prince-heritier-haakon-reagit-une-deuxieme-enquete-pour-viol-est-ouverte/",
+			"pubDate": "Thu, 21 Nov 2024 06:13:12 GMT",
+			"image": "https://histoiresroyales.fr/wp-content/uploads/2024/11/photo-marius-borg-hoiby-place-detention-deuxieme-affaire-de-viol.jpg",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "Histoires Royales",
+			"url": "https://histoiresroyales.fr/marius-borg-hoiby-est-place-en-detention-et-le-prince-heritier-haakon-reagit-une-deuxieme-enquete-pour-viol-est-ouverte/",
+			"description": "Marius Borg H\u00f8iby est plac\u00e9 en d\u00e9tention et le prince h\u00e9ritier Haakon r\u00e9agit : une deuxi\u00e8me enqu\u00eate pour viol est ouverte."
 		}
 	],
-	"timestamp": "2024-11-22 04:28:15.704328"
+	"timestamp": "2024-11-22 08:30:13.424964"
 }
