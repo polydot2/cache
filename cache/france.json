@@ -1,64 +1,114 @@
 {
 	"content": [
 		{
-			"title": "Budget : Marine Le Pen estime que Michel Barnier reste \u00ab camp\u00e9 sur ses positions \u00bb, le Rassemblement national pr\u00eat \u00e0 voter la censure du gouvernement - Le Monde",
-			"link": "https://www.lemonde.fr/politique/article/2024/11/25/budget-marine-le-pen-estime-que-michel-barnier-reste-campe-sur-ses-positions-le-rassemblement-national-pret-a-voter-la-censure-du-gouvernement_6413154_823448.html",
-			"pubDate": "Mon, 25 Nov 2024 09:55:55 GMT",
-			"image": "https://img.lemde.fr/2024/11/25/0/0/3269/2179/1440/960/60/0/4a18b70_5348211-01-06.jpg",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "Le Monde.fr",
-			"url": "https://www.lemonde.fr/politique/article/2024/11/25/budget-marine-le-pen-estime-que-michel-barnier-reste-campe-sur-ses-positions-le-rassemblement-national-pret-a-voter-la-censure-du-gouvernement_6413154_823448.html",
-			"description": "La cheffe de file des d\u00e9put\u00e9s du RN a dit avoir \u00ab\u00a0r\u00e9p\u00e9t\u00e9 ses lignes rouges\u00a0\u00bb lundi \u00e0 Michel Barnier. \u00ab\u00a0Ma position n\u2019a pas \u00e9volu\u00e9. Pas plus, semble-t-il, que n\u2019a \u00e9volu\u00e9 celle du premier ministre\u00a0\u00bb, a-t-elle affirm\u00e9 en sortant de Matignon."
-		},
-		{
-			"title": "La peine maximale de vingt ans de prison requise contre Dominique Pelicot - 20 Minutes",
-			"link": "https://www.20minutes.fr/justice/4123151-20241125-proces-viols-mazan-vingt-ans-prison-peine-maximale-requis-contre-dominique-pelicot",
-			"pubDate": "Mon, 25 Nov 2024 08:58:00 GMT",
-			"image": "https://img.20mn.fr/ZqOBGr82TsmQUymjRA0f5ik/1444x920_this-court-sketch-created-at-the-avignon-courthouse-in-avignon-south-eastern-france-on-november-25-2024-shows-defendant-dominique-pelicot-top-r-during-his-trial-in-which-he-is-accused-of-drugging-his-wife-gisele-pelicot-bottom-c-for-nearly-ten-years-and-inviting-strangers-to-rape-her-at-their-home-in-mazan-a-small-town-in-the-south-of-france-on-november-25-2024-the-public-prosecutor-s-office-called-for-the-maximum-sentence-of-20-years-imprisonment-for-dominique-pelicot-who-for-a-decade-drugged-raped-and-then-had-his-wife-raped-by-dozens-of-men-recruited-over-the-internet-in-south-east-france-photo-by-benoit-peyrucq-afp",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "20 Minutes",
-			"url": "https://www.20minutes.fr/justice/4123151-20241125-proces-viols-mazan-vingt-ans-prison-peine-maximale-requis-contre-dominique-pelicot",
-			"description": "Le minist\u00e8re public a requis la peine maximale, soit vingt ans de r\u00e9clusion criminelle, \u00e0 l\u2019encontre de Dominique Pelicot pour avoir drogu\u00e9, viol\u00e9 et fait violer sa femme Gis\u00e8le Pelicot par des dizaines d\u2019hommes recrut\u00e9s sur Internet"
-		},
-		{
-			"title": "Abrogation du d\u00e9lit d\u2019apologie du terrorisme : qui est Ugo Bernalicis, le d\u00e9put\u00e9 LFI auteur de la proposition de loi pol\u00e9mique ? - CNEWS",
-			"link": "https://www.cnews.fr/france/2024-11-25/abrogation-du-delit-dapologie-du-terrorisme-qui-est-ugo-bernalicis-le-depute-lfi",
-			"pubDate": "Mon, 25 Nov 2024 09:05:37 GMT",
-			"image": "https://static.cnews.fr/sites/default/files/0ugo-taille1200_674426b7d2f74.jpg",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "CNEWS",
-			"url": "https://www.cnews.fr/france/2024-11-25/abrogation-du-delit-dapologie-du-terrorisme-qui-est-ugo-bernalicis-le-depute-lfi",
-			"description": "La France insoumise a suscit\u00e9 la pol\u00e9mique en d\u00e9posant une proposition de loi visant \u00e0 supprimer du Code p\u00e9nal le d\u00e9lit d\u2019apologie du terrorisme. Un texte qui sera d\u00e9fendu par le d\u00e9put\u00e9 du Nord Ugo Bernalicis, \u00e9lu LFI de la premi\u00e8re heure, qui s\u2019est d\u00e9j\u00e0 fait remarquer \u00e0 l\u2019Assembl\u00e9e nationale."
-		},
-		{
-			"title": "Boualem Sansal \"sera pr\u00e9sent\u00e9 au parquet cet apr\u00e8s-midi\" en Alg\u00e9rie, affirme son avocat, Fran\u00e7ois Zimeray - franceinfo",
-			"link": "https://www.francetvinfo.fr/culture/livres/boualem-sansal-sera-presente-au-parquet-cet-apres-midi-en-algerie-affirme-son-avocat-francois-zimeray_6918227.html",
-			"pubDate": "Mon, 25 Nov 2024 09:15:49 GMT",
-			"image": "https://www.francetvinfo.fr/pictures/1RNsvQV1WdzPc_FPtiX45Zkt9aA/0x88:1024x664/1500x843/2024/11/25/043-aur-aurimages-0032863-151-67443d4aa14fe460938395.jpg",
+			"title": "Violences faites aux femmes : le gouvernement va g\u00e9n\u00e9raliser le d\u00e9p\u00f4t de plainte \u00e0 l'h\u00f4pital, annonce la secr\u00e9taire d'\u00c9tat - franceinfo",
+			"link": "https://www.francetvinfo.fr/societe/violences-faites-aux-femmes/violences-faites-aux-femmes-l-aide-universelle-d-urgence-va-passer-de-13-a-20-millions-d-euros-annonce-la-secretaire-d-etat_6918167.html",
+			"pubDate": "Mon, 25 Nov 2024 10:05:32 GMT",
+			"image": "https://www.francetvinfo.fr/pictures/v0uOf6GOsMUmTSCcxuRL0xazsuA/131x0:1150x574/1500x843/2024/11/25/whatsapp-image-2024-11-25-at-08-36-55-67442ebf9770f474102567.jpg",
 			"logo": "https://picsum.photos/32/32?grayscale",
 			"site_name": "Franceinfo",
-			"url": "https://www.francetvinfo.fr/culture/livres/boualem-sansal-sera-presente-au-parquet-cet-apres-midi-en-algerie-affirme-son-avocat-francois-zimeray_6918227.html",
-			"description": "Selon plusieurs m\u00e9dias, l'\u00e9crivain franco-alg\u00e9rien aurait \u00e9t\u00e9 arr\u00eat\u00e9 le 16\u00a0novembre \u00e0 l'a\u00e9roport d'Alger, en provenance de France."
+			"url": "https://www.francetvinfo.fr/societe/violences-faites-aux-femmes/violences-faites-aux-femmes-l-aide-universelle-d-urgence-va-passer-de-13-a-20-millions-d-euros-annonce-la-secretaire-d-etat_6918167.html",
+			"description": "Salima Saa, secr\u00e9taire d\u2019\u00c9tat charg\u00e9e de l\u2019\u00c9galit\u00e9 entre les femmes et les hommes, \u00e9tait l'invit\u00e9e du \"8h30 franceinfo\""
 		},
 		{
-			"title": "Mobilisation des agriculteurs : convoi vers Strasbourg, barrages filtrants, \u00e0 quoi faut-il s'attendre cette semaine - France Bleu",
-			"link": "https://www.francebleu.fr/infos/agriculture-peche/mobilisation-des-agriculteurs-convoi-vers-strasbourg-barrages-filtrants-a-quoi-faut-il-s-attendre-cette-semaine-6360816",
-			"pubDate": "Mon, 25 Nov 2024 10:07:45 GMT",
-			"image": "https://www.francebleu.fr/s3/cruiser-production-eu3/2024/11/f185c51b-1986-486e-ba36-99aef393643c/1200x680_sc_maxnewsworldsix419633.jpg",
+			"title": "Budget : le RN pr\u00eat \u00e0 la censure, d\u00e9clare Marine Le Pen apr\u00e8s son entrevue avec Michel Barnier, \u00abcamp\u00e9 sur ses positions - Lib\u00e9ration",
+			"link": "https://www.liberation.fr/politique/budget-le-rn-pret-a-la-censure-declare-marine-le-pen-apres-son-entrevue-avec-michel-barnier-campe-sur-ses-positions-20241125_W2EHQVPD5NBXTI6ZEEBAKFJASM/",
+			"pubDate": "Mon, 25 Nov 2024 10:39:53 GMT",
+			"image": "https://www.liberation.fr/resizer/gZ16C7nbt-2d4gyKIAOIR0ZxOKM=/1200x630/filters:format(jpg):quality(70):focal(2689x1662:2699x1672)/cloudfront-eu-central-1.images.arcpublishing.com/liberation/RAMLT3ZNC5GABFJQBXACQTQ4GQ.jpg",
 			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "ici par France Bleu et France 3",
-			"url": "https://www.francebleu.fr/infos/agriculture-peche/mobilisation-des-agriculteurs-convoi-vers-strasbourg-barrages-filtrants-a-quoi-faut-il-s-attendre-cette-semaine-6360816",
-			"description": "Une deuxi\u00e8me semaine de mobilisation commence ce lundi pour les agriculteurs fran\u00e7ais. Les syndicats agricoles ont relanc\u00e9 les blocages il y a sept jours pour dire leur opposition au trait\u00e9 de libre-\u00e9change avec le Mercosur. Voici les actions pr\u00e9vues par le secteur cette semaine partout en France."
+			"site_name": "Lib\u00e9ration",
+			"url": "",
+			"description": "La pr\u00e9sidente du RN a affirm\u00e9 ce lundi 25 novembre que \u00absa position n\u2019a pas \u00e9volu\u00e9. Pas plus, semble-t-il, que n\u2019a \u00e9volu\u00e9 celle du Premier ministre\u00bb."
 		},
 		{
-			"title": "Plus de 30 interventions des pompiers ce dimanche dans la Manche \u00e0 cause du vent - Le Journal du Pays Yonnais",
-			"link": "https://actu.fr/faits-divers/plus-de-30-interventions-des-pompiers-ce-dimanche-dans-la-manche-a-cause-du-vent_61910166.html",
-			"pubDate": "Sun, 24 Nov 2024 18:27:58 GMT",
-			"image": "https://static.actu.fr/uploads/2024/11/d2e5971dd2476f6e5971dd247dae59v.jpg",
+			"title": "Meurtre de Victorine Dartois : d\u00e9nonc\u00e9 par son meilleur ami, le proc\u00e8s de Ludovic Bertin s'ouvre en Is\u00e8re - L'Ind\u00e9pendant",
+			"link": "https://www.lindependant.fr/2024/11/25/meurtre-de-victorine-dartois-denonce-par-son-meilleur-ami-le-proces-de-ludovic-bertin-souvre-en-isere-12345619.php",
+			"pubDate": "Mon, 25 Nov 2024 10:38:00 GMT",
+			"image": "https://images.lindependant.fr/api/v1/images/view/67445302277da158c64ddb89/large/image.jpg?v=1",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "lindependant.fr",
+			"url": "https://www.lindependant.fr/2024/11/25/meurtre-de-victorine-dartois-denonce-par-son-meilleur-ami-le-proces-de-ludovic-bertin-souvre-en-isere-12345619.php",
+			"description": "Le proc\u00e8s de Ludovic Bertin, 29 ans, pour le meurtre et la tentative de viol de Victorine Dartois en 2020 s'ouvre ce lundi devant la cour d'assises de l'Is\u00e8re.\u00a0"
+		},
+		{
+			"title": "Soumission chimique: Michel Barnier annonce l'exp\u00e9rimentation de kits de d\u00e9pistage rembours\u00e9s - BFMTV",
+			"link": "https://www.bfmtv.com/politique/gouvernement/soumission-chimique-michel-barnier-annonce-l-experimentation-de-kits-de-depistage-rembourses_AN-202411250697.html",
+			"pubDate": "Mon, 25 Nov 2024 14:59:11 GMT",
+			"image": "https://images.bfmtv.com/Xu9h9XhSlM7dQ_g6JX1yhGh2BAA=/0x0:1920x1080/1920x0/images/Michel-Barnier-detaille-ses-annonces-a-l-occasion-de-la-Journee-de-lutte-contre-les-violences-faites-aux-femmes-le-25-novembre-2024-a-Paris-1984099.jpg",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "BFMTV",
+			"url": "https://www.bfmtv.com/politique/gouvernement/soumission-chimique-michel-barnier-annonce-l-experimentation-de-kits-de-depistage-rembourses_AN-202411250697.html",
+			"description": "Le gouvernement a aussi annonc\u00e9 ce lundi 25 novembre le lancement d'une campagne d'informations pour aider les potentielles victimes de soumission chimique."
+		},
+		{
+			"title": "D\u00e9lit d\u2019apologie du terrorisme : Didier Migaud se dit \u00ab r\u00e9solument contre \u00bb la proposition de suppression port\u00e9e par LFI - Le Monde",
+			"link": "https://www.lemonde.fr/politique/article/2024/11/25/delit-d-apologie-du-terrorisme-didier-migaud-se-dit-resolument-contre-la-proposition-de-suppression-portee-par-lfi_6413113_823448.html",
+			"pubDate": "Mon, 25 Nov 2024 09:26:46 GMT",
+			"image": "https://img.lemde.fr/2024/11/19/0/0/3922/2614/1440/960/60/0/554ba71_5295171-01-06.jpg",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "Le Monde.fr",
+			"url": "https://www.lemonde.fr/politique/article/2024/11/25/delit-d-apologie-du-terrorisme-didier-migaud-se-dit-resolument-contre-la-proposition-de-suppression-portee-par-lfi_6413113_823448.html",
+			"description": "\u00ab\u00a0Je ne comprends pas qu\u2019on puisse baisser la garde devant la menace du terrorisme, qui est aujourd\u2019hui tr\u00e8s pr\u00e9sente\u00a0\u00bb, a r\u00e9agi lundi le ministre de la justice au sujet de la proposition de loi d\u00e9pos\u00e9e par les d\u00e9put\u00e9s \u00ab\u00a0insoumis\u00a0\u00bb visant \u00e0 supprimer ce d\u00e9lit, cr\u00e9\u00e9 par une loi de 2014."
+		},
+		{
+			"title": "Vents violents : alerte orange activ\u00e9e, voici les restrictions en cours \u00e0 Lyon - Le Journal du Pays Yonnais",
+			"link": "https://actu.fr/auvergne-rhone-alpes/lyon_69123/vents-violents-alerte-orange-activee-voici-les-restrictions-en-cours-a-lyon_61910910.html",
+			"pubDate": "Mon, 25 Nov 2024 09:45:48 GMT",
+			"image": "https://static.actu.fr/uploads/2024/03/vents-violents-lyon-tempete.png",
 			"logo": "https://picsum.photos/32/32?grayscale",
 			"site_name": "actu.fr",
-			"url": "https://actu.fr/faits-divers/plus-de-30-interventions-des-pompiers-ce-dimanche-dans-la-manche-a-cause-du-vent_61910166.html",
-			"description": "Avec des rafales d\u00e9passant les 100\u00a0km/h ce dimanche 24\u00a0novembre 2024 dans la Manche, notamment dans le nord du d\u00e9partement, les sapeurs-pompiers sont intervenus 32\u00a0fois."
+			"url": "https://actu.fr/auvergne-rhone-alpes/lyon_69123/vents-violents-alerte-orange-activee-voici-les-restrictions-en-cours-a-lyon_61910910.html",
+			"description": "De fortes rafales de vent sont en cours \u00e0 Lyon et dans le d\u00e9partement du Rh\u00f4ne. M\u00e9t\u00e9o France a plac\u00e9 le Rh\u00f4ne en vigilance orange ce lundi 25 novembre 2024."
+		},
+		{
+			"title": "Pr\u00e8s de 25\u00b0C \u00e0 Pau, plus de 15\u00b0C en r\u00e9gion parisienne... Comment expliquer les temp\u00e9ratures estivales de cette nuit ? - franceinfo",
+			"link": "https://www.francetvinfo.fr/meteo/pres-de-25-c-a-pau-en-pleine-nuit-plus-de-15-c-en-region-parisienne-comment-expliquer-les-temperatures-estivales-de-cette-nuit_6918386.html",
+			"pubDate": "Mon, 25 Nov 2024 14:52:11 GMT",
+			"image": "https://www.francetvinfo.fr/pictures/k_gcDryNyTsZ3cEgWtpfSSf5XdM/0x106:1024x682/1500x843/2024/11/25/043-aur-pr-64f00740-67447b9e6a713013622308.jpg",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "Franceinfo",
+			"url": "https://www.francetvinfo.fr/meteo/pres-de-25-c-a-pau-en-pleine-nuit-plus-de-15-c-en-region-parisienne-comment-expliquer-les-temperatures-estivales-de-cette-nuit_6918386.html",
+			"description": "Des niveaux de chaleur nocturne \"exceptionnels\" pour un mois de novembre ont \u00e9t\u00e9 enregistr\u00e9s dans la nuit de dimanche \u00e0 lundi, cons\u00e9quence d'une masse d'air chaude comme en apporte de plus en plus souvent le r\u00e9chauffement climatique, et d'un important effet de foehn."
+		},
+		{
+			"title": "Mort de Thomas \u00e0 Cr\u00e9pol : interdiction de tout rassemblement ce week-end dans quatre communes de la Dr\u00f4me - Le Monde",
+			"link": "https://www.lemonde.fr/societe/article/2024/11/25/mort-de-thomas-a-crepol-interdiction-de-tout-rassemblement-ce-week-end-dans-quatre-communes-de-la-drome_6413439_3224.html",
+			"pubDate": "Mon, 25 Nov 2024 13:19:34 GMT",
+			"image": "https://img.lemde.fr/2023/11/22/0/0/8256/5504/1440/960/60/0/cc78595_5941538-01-06.jpg",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "Le Monde.fr",
+			"url": "https://www.lemonde.fr/societe/article/2024/11/25/mort-de-thomas-a-crepol-interdiction-de-tout-rassemblement-ce-week-end-dans-quatre-communes-de-la-drome_6413439_3224.html",
+			"description": "Un groupuscule d\u2019ultradroite baptis\u00e9 \u00ab\u00a0Justice pour les n\u00f4tres\u00a0\u00bb avait appel\u00e9 \u00e0 se r\u00e9unir le 19\u00a0novembre \u00e0 Romans-sur-Is\u00e8re, un an apr\u00e8s le meurtre du jeune homme, mais avait finalement report\u00e9 son appel au 30\u00a0novembre, apr\u00e8s des protestations de ses proches."
+		},
+		{
+			"title": "Proc\u00e8s des viols de Mazan: la peine maximale de 20 ans de prison requise contre Dominique Pelicot - RFI",
+			"link": "https://www.rfi.fr/fr/france/20241125-proc%C3%A8s-viols-de-mazan-20-ans-requis-contre-dominique-pelicot-requisitoires",
+			"pubDate": "Mon, 25 Nov 2024 10:25:08 GMT",
+			"image": "",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "",
+			"url": "",
+			"description": ""
+		},
+		{
+			"title": "Arrestation de Boualem Sansal en Alg\u00e9rie : l'\u00e9mission C politique fait pol\u00e9mique - Le Journal du dimanche",
+			"link": "https://www.lejdd.fr/politique/absolument-odieux-requisitoire-du-service-public-lynchage-mediatique-lemission-c-politique-sur-larrestation-de-boualem-sansal-souleve-une-vague-dindignation-152097",
+			"pubDate": "Mon, 25 Nov 2024 08:59:10 GMT",
+			"image": "https://www.lejdd.fr/lmnr/var/jdd/public/media/image/2024/11/25/09/c-pol-1.jpg?VersionId=ShYszvDwPIqe8IJFsrNRwiK5wd46qAjz",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "",
+			"url": "https://www.lejdd.fr/politique/absolument-odieux-requisitoire-du-service-public-lynchage-mediatique-lemission-c-politique-sur-larrestation-de-boualem-sansal-souleve-une-vague-dindignation-152097",
+			"description": "Dans l\u2019\u00e9mission C Politique de ce dimanche\u00a024\u00a0novembre, l\u2019arrestation de Boualem Sansal en Alg\u00e9rie le 16\u00a0novembre dernier a \u00e9t\u00e9 \u00e9voqu\u00e9e par le docteur en sciences politiques, Nedjib Sidi Moussa. Une position qui a suscit\u00e9 de vives r\u00e9actions\u2026"
+		},
+		{
+			"title": "Affaire Penelope Fillon : pourquoi un troisi\u00e8me proc\u00e8s ce lundi pour Fran\u00e7ois Fillon \u00e0 la cour d\u2019appel de Paris - RTL",
+			"link": "https://www.rtl.fr/actu/justice-faits-divers/affaire-penelope-fillon-pourquoi-un-troisieme-proces-ce-lundi-pour-francois-fillon-a-la-cour-d-appel-de-paris-7900444099",
+			"pubDate": "Mon, 25 Nov 2024 04:38:00 GMT",
+			"image": "https://images.rtl.fr/~c/2000v2000/rtl/www/1445843-francois-fillon.jpg",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "www.rtl.fr",
+			"url": "https://www.rtl.fr/actu/justice-faits-divers/affaire-penelope-fillon-pourquoi-un-troisieme-proces-ce-lundi-pour-francois-fillon-a-la-cour-d-appel-de-paris-7900444099",
+			"description": "La cour d'appel de Paris r\u00e9examine ce lundi les sanctions inflig\u00e9es \u00e0 l'ancien Premier ministre, reconnu d\u00e9finitivement coupable de d\u00e9tournement de fonds publics."
 		},
 		{
 			"title": "Coupes budg\u00e9taires des Pays de la Loire. Pr\u00e8s de 3 000 manifestants mobilis\u00e9s \u00e0 Nantes - Ouest-France",
@@ -71,94 +121,44 @@
 			"description": ""
 		},
 		{
-			"title": "EN DIRECT Vents violents : Des rafales \u00e0 plus de 120 km/h attendues avec la\u2026 - 20 Minutes",
-			"link": "https://www.20minutes.fr/societe/4123122-20241125-tempete-bert-rafales-plus-120-km-h-attendues-neuf-departements-vigilance-orange",
-			"pubDate": "Mon, 25 Nov 2024 05:59:48 GMT",
-			"image": "https://img.20mn.fr/QSFqrbP6QUSC20Dwqw8S3Sk/1444x920_illustration-shows-a-woman-holding-an-umbrella-with-lots-of-wind-as-rain-and-windy-weather-is-forecast-today-with-the-passage-of-ciara-storm-all-over-belgium-sunday-09-february-2020-in-ellezelles-belga-photo-david-stockman-photo-by-david-stockman-belga-sipa-usa-29034092-2002091536",
+			"title": "Mort d'une femme de 18 ans dans un rod\u00e9o urbain, le maire de Bassens \"exc\u00e9d\u00e9\" par des rassemblements \"chaque semaine\" - France 3 R\u00e9gions",
+			"link": "https://france3-regions.francetvinfo.fr/nouvelle-aquitaine/gironde/bordeaux/mort-d-une-jeune-femme-de-18-ans-dans-un-rodeo-urbain-le-maire-de-la-commune-excede-3065773.html",
+			"pubDate": "Mon, 25 Nov 2024 11:33:35 GMT",
+			"image": "https://france3-regions.francetvinfo.fr/image/QlNSKyPtzMH3aKc2Y0AZJ7UjlLg/930x620/regions/2021/10/30/617d69a0bc70a_maxstockworld416826-1-5503997.jpg",
 			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "20 Minutes",
-			"url": "https://www.20minutes.fr/societe/4123122-20241125-tempete-bert-rafales-plus-120-km-h-attendues-neuf-departements-vigilance-orange",
-			"description": "Suivez avec nous l'\u00e9volution de la temp\u00eate Bert, avec des rafales pouvant atteindre les 120 km/h dans le centre-est de la France, ce lundi 25 novembre"
+			"site_name": "France 3 Nouvelle-Aquitaine",
+			"url": "https://france3-regions.francetvinfo.fr/nouvelle-aquitaine/gironde/bordeaux/mort-d-une-jeune-femme-de-18-ans-dans-un-rodeo-urbain-le-maire-de-la-commune-excede-3065773.html",
+			"description": "Une jeune femme de 18 ans est morte dans un accident entre deux motos, ce dimanche 24 novembre sur le boulevard de l\u2019Industrie \u00e0 Bassens, en Gironde. Deux autres jeunes hommes ont \u00e9t\u00e9 transport\u00e9s au CHU Pellegrin, \u00e0 Bordeaux,..."
 		},
 		{
-			"title": "REPORTAGE. Violences sexuelles : \u00e0 Paris, un dispositif unique de recueil de preuves sans d\u00e9p\u00f4t de plainte - franceinfo",
-			"link": "https://www.francetvinfo.fr/societe/harcelement-sexuel/reportage-violences-sexuelles-a-paris-un-dispositif-unique-de-recueil-de-preuves-avant-le-depot-de-plainte_6916589.html",
-			"pubDate": "Mon, 25 Nov 2024 05:42:59 GMT",
-			"image": "https://www.francetvinfo.fr/pictures/FFudpxnQP_9RtnmY6Pr1JmoYNCw/0x693:5413x3736/1500x843/2024/11/24/viooool-67432230bbc06983687550.jpg",
+			"title": "Mobilisation des agriculteurs : convoi vers Strasbourg, barrages filtrants, \u00e0 quoi faut-il s'attendre cette semaine - France Bleu",
+			"link": "https://www.francebleu.fr/infos/agriculture-peche/mobilisation-des-agriculteurs-convoi-vers-strasbourg-barrages-filtrants-a-quoi-faut-il-s-attendre-cette-semaine-6360816",
+			"pubDate": "Mon, 25 Nov 2024 10:07:45 GMT",
+			"image": "https://www.francebleu.fr/s3/cruiser-production-eu3/2024/11/f185c51b-1986-486e-ba36-99aef393643c/1200x680_sc_maxnewsworldsix419633.jpg",
 			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "Franceinfo",
-			"url": "https://www.francetvinfo.fr/societe/harcelement-sexuel/reportage-violences-sexuelles-a-paris-un-dispositif-unique-de-recueil-de-preuves-avant-le-depot-de-plainte_6916589.html",
-			"description": "Le 25 novembre est la journ\u00e9e mondiale contre les violences faites aux femmes. \u00c0 l'h\u00f4pital de l'H\u00f4tel-Dieu \u00e0 Paris, les femmes victimes de viol peuvent b\u00e9n\u00e9ficier d\u2019un recueil de preuves sans forc\u00e9ment porter plainte tout de suite. C'est un dispositif unique en France."
+			"site_name": "ici par France Bleu et France 3",
+			"url": "https://www.francebleu.fr/infos/agriculture-peche/mobilisation-des-agriculteurs-convoi-vers-strasbourg-barrages-filtrants-a-quoi-faut-il-s-attendre-cette-semaine-6360816",
+			"description": "Une deuxi\u00e8me semaine de mobilisation commence ce lundi pour les agriculteurs fran\u00e7ais. Les syndicats agricoles ont relanc\u00e9 les blocages il y a sept jours pour dire leur opposition au trait\u00e9 de libre-\u00e9change avec le Mercosur. Voici les actions pr\u00e9vues par le secteur cette semaine partout en France."
 		},
 		{
-			"title": "Une jeune fille tu\u00e9e sur le coup dans un rod\u00e9o urbain, la victime ne portait pas de casque - L'Ind\u00e9pendant",
-			"link": "https://www.lindependant.fr/2024/11/25/une-jeune-fille-tuee-sur-le-coup-dans-un-rodeo-urbain-la-victime-ne-portait-pas-de-casque-12345576.php",
-			"pubDate": "Mon, 25 Nov 2024 10:17:00 GMT",
-			"image": "https://images.lindependant.fr/api/v1/images/view/67444e3bf874fa4dc13f272a/large/image.jpg?v=1",
+			"title": "SNCF. Temp\u00eate Bert : \"Il n'y avait pas d'eau, ni de repas et les toilettes \u00e9taient bouch\u00e9es\", des passagers bloqu\u00e9s durant dix heures dans des trains, des perturbations encore ce matin - France 3 R\u00e9gions",
+			"link": "https://france3-regions.francetvinfo.fr/normandie/calvados/caen/sncf-des-centaines-de-passagers-bloques-pendant-plus-de-dix-heures-dans-des-trains-entre-paris-et-la-normandie-3065575.html",
+			"pubDate": "Mon, 25 Nov 2024 07:18:39 GMT",
+			"image": "https://france3-regions.francetvinfo.fr/image/txQBv8DuzHtGZTGSXp6M-yiH1Gk/930x620/regions/2024/11/25/pompiers-674423cc47239360081925.png",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "France 3 Normandie",
+			"url": "https://france3-regions.francetvinfo.fr/normandie/calvados/caen/sncf-des-centaines-de-passagers-bloques-pendant-plus-de-dix-heures-dans-des-trains-entre-paris-et-la-normandie-3065575.html",
+			"description": "Des trains entre Paris et la Normandie ont \u00e9t\u00e9 bloqu\u00e9s dans la nuit de dimanche \u00e0 lundi. Probl\u00e8mes d'alimentation \u00e9lectrique, sangliers heurt\u00e9s sur la voie... : des centaines de passagers ont pass\u00e9 au moins dix heures dans..."
+		},
+		{
+			"title": "Temp\u00eate Caetano : l\u2019une des victimes gravement bless\u00e9e dans l\u2019accident impliquant un Blablacar, quatre v\u00e9hicules et une moto, est d\u00e9c\u00e9d\u00e9e - L'Ind\u00e9pendant",
+			"link": "https://www.lindependant.fr/2024/11/25/tempete-caetano-lune-des-victimes-gravement-blessee-dans-laccident-impliquant-un-blablacar-quatre-vehicules-et-une-moto-est-decedee-12346047.php",
+			"pubDate": "Mon, 25 Nov 2024 14:26:00 GMT",
+			"image": "https://images.lindependant.fr/api/v1/images/view/6744887272e6d608841f5760/large/image.png?v=1",
 			"logo": "https://picsum.photos/32/32?grayscale",
 			"site_name": "lindependant.fr",
-			"url": "https://www.lindependant.fr/2024/11/25/une-jeune-fille-tuee-sur-le-coup-dans-un-rodeo-urbain-la-victime-ne-portait-pas-de-casque-12345576.php",
-			"description": "Deux gar\u00e7ons de 19 ans ont \u00e9galement \u00e9t\u00e9 hospitalis\u00e9s en urgence absolue."
-		},
-		{
-			"title": "La moiti\u00e9 des Fran\u00e7ais pr\u00e9voit de visiter la cath\u00e9drale Notre-Dame de Paris apr\u00e8s sa r\u00e9ouverture - franceinfo",
-			"link": "https://www.francetvinfo.fr/culture/patrimoine/incendie-de-notre-dame-de-paris/la-moitie-des-francais-prevoit-de-visiter-la-cathedrale-notre-dame-de-paris-apres-sa-reouverture_6916574.html",
-			"pubDate": "Sun, 24 Nov 2024 20:00:01 GMT",
-			"image": "https://www.francetvinfo.fr/pictures/WqC9EHpqmgo-f0FS2iSW9IfifQo/0x0:5906x3320/1500x843/2024/11/24/notre-dame-6743038050e4b060729145.jpg",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "Franceinfo",
-			"url": "https://www.francetvinfo.fr/culture/patrimoine/incendie-de-notre-dame-de-paris/la-moitie-des-francais-prevoit-de-visiter-la-cathedrale-notre-dame-de-paris-apres-sa-reouverture_6916574.html",
-			"description": "Notre-Dame de Paris doit rouvrir au public le 8 d\u00e9cembre apr\u00e8s cinq ans d'une reconstruction colossale \u00e0 la suite de l'incendie qui l'a ravag\u00e9e en 2019."
-		},
-		{
-			"title": "\"Ce serait une catastrophe\": vers une annulation de l'autorisation du chantier de l'A69? - RMC",
-			"link": "https://rmc.bfmtv.com/actualites/police-justice/ce-serait-une-catastrophe-vers-une-annulation-de-l-autorisation-du-chantier-de-l-a69_AN-202411250220.html",
-			"pubDate": "Mon, 25 Nov 2024 06:01:20 GMT",
-			"image": "https://images.bfmtv.com/iBpPNxEM2o8AdctAX6V_efhMxrI=/0x0:1920x1080/1920x0/images/Le-chantier-de-l-A69-entre-Castre-et-Toulouse-1983702.jpg",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "RMC",
-			"url": "https://rmc.bfmtv.com/actualites/police-justice/ce-serait-une-catastrophe-vers-une-annulation-de-l-autorisation-du-chantier-de-l-a69_AN-202411250220.html",
-			"description": "C'est un projet controvers\u00e9 sur lequel va se pencher ce lundi le tribunal administratif de Toulouse: l'A69 qui doit relier Castres \u00e0 Toulouse. Une autoroute dont ne veulent pas les militants et que le rapporteur public a pr\u00e9conis\u00e9 d'annuler faute d'int\u00e9r\u00eat public majeur. Pourtant les habitants, eux,..."
-		},
-		{
-			"title": "F\u00e9minicides : une femme est tu\u00e9e par un proche toutes les dix minutes dans le monde - Le Monde",
-			"link": "https://www.lemonde.fr/international/article/2024/11/25/feminicides-une-femme-est-tuee-par-un-proche-toutes-les-dix-minutes-dans-le-monde_6412904_3210.html",
-			"pubDate": "Mon, 25 Nov 2024 07:07:43 GMT",
-			"image": "https://img.lemde.fr/2024/11/25/0/0/3000/2000/1440/960/60/0/23ff9e4_1732517027506-marcheviolencesfemmes-as103140.jpg",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "Le Monde.fr",
-			"url": "https://www.lemonde.fr/international/article/2024/11/25/feminicides-une-femme-est-tuee-par-un-proche-toutes-les-dix-minutes-dans-le-monde_6412904_3210.html",
-			"description": "Selon les chiffres de l\u2019ONU, 85\u00a0000\u00a0femmes ont \u00e9t\u00e9 tu\u00e9es de mani\u00e8re intentionnelle en\u00a02023. Le foyer reste \u00ab\u00a0l\u2019endroit le plus dangereux\u00a0\u00bb pour elles, puisque 60\u00a0% ont \u00e9t\u00e9 tu\u00e9es par \u00ab\u00a0leur conjoint ou d\u2019autres membres de leur famille\u00a0\u00bb."
-		},
-		{
-			"title": "Le S\u00e9nat s'appr\u00eate \u00e0 son tour \u00e0 remodeler le projet de loi de finances - Les \u00c9chos",
-			"link": "https://www.lesechos.fr/economie-france/budget-fiscalite/le-senat-sapprete-a-son-tour-a-remodeler-le-projet-de-loi-de-finances-2133565",
-			"pubDate": "Mon, 25 Nov 2024 06:00:38 GMT",
-			"image": "",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "",
-			"url": "",
-			"description": ""
-		},
-		{
-			"title": "Un car scolaire transportant 34 passagers finit au foss\u00e9 dans le sud de la Sarthe - Ouest-France",
-			"link": "https://www.ouest-france.fr/faits-divers/accidents/un-car-scolaire-transportant-34-passagers-finit-au-fosse-dans-le-sud-de-la-sarthe-29b9489c-ab19-11ef-8248-4f6efd927e57",
-			"pubDate": "Mon, 25 Nov 2024 10:48:46 GMT",
-			"image": "https://media.ouest-france.fr/v1/pictures/MjAyNDExMDU4Zjc3MWE3MjY0ZjVjNGZiMzVhOTNkZWRlMThhZTA?width=1260&height=708&focuspoint=50%2C25&cropresize=1&client_id=bpeditorial&sign=a6a17adf34dd66e4a1882472954fa2b68aee5df25b8e60f33f9f9342f6139d40",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "Ouest-France.fr",
-			"url": "https://www.ouest-france.fr/faits-divers/accidents/un-car-scolaire-transportant-34-passagers-finit-au-fosse-dans-le-sud-de-la-sarthe-29b9489c-ab19-11ef-8248-4f6efd927e57",
-			"description": "Deux personnes ont \u00e9t\u00e9 l\u00e9g\u00e8rement bless\u00e9es dans un accident, ce lundi 25\u00a0novembre 2024. Un bus Al\u00e9op est tomb\u00e9 dans un foss\u00e9 \u00e0 Requeil, dans le sud de la Sarthe. 34\u00a0personnes \u00e9taient \u00e0 bord."
-		},
-		{
-			"title": "La mort de Victorine, \u00ab la phobie de beaucoup de parents \u00bb - 20 Minutes",
-			"link": "https://www.20minutes.fr/societe/4122656-20241125-meurtre-victorine-18-ans-retrouvee-noyee-ruisseau-phobie-beaucoup-jeunes-femmes-parents",
-			"pubDate": "Mon, 25 Nov 2024 04:02:00 GMT",
-			"image": "https://img.20mn.fr/E4kKneEISd2nAWSOf01PoQ/1444x920_villefontaine-nord-isere-le-04-10-2020-la-marche-blanche-a-villefontaine-a-reunies-plus-de-6000-personnes-pour-rendre-le-dernier-hommage-a-victorine-en-presence-des-parents-et-la-famille-de-victorine-ici-en-photo-romane-la-soeur-de-victorine-allilimourad-allili2613-2010050913-credit-allili-mourad-sipa-2010050918",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "20 Minutes",
-			"url": "https://www.20minutes.fr/societe/4122656-20241125-meurtre-victorine-18-ans-retrouvee-noyee-ruisseau-phobie-beaucoup-jeunes-femmes-parents",
-			"description": "Ce lundi d\u00e9bute le proc\u00e8s de Ludovic Bertin, accus\u00e9 d\u2019avoir tu\u00e9 Victorine, 18 ans, qui rentrait chez elle \u00e0 Villefontaine, en Is\u00e8re, en septembre\u00a02020"
+			"url": "https://www.lindependant.fr/2024/11/25/tempete-caetano-lune-des-victimes-gravement-blessee-dans-laccident-impliquant-un-blablacar-quatre-vehicules-et-une-moto-est-decedee-12346047.php",
+			"description": "La victime, un policier \u00e2g\u00e9 de 46 ans qui circulait dans l\u2019une des voitures impliqu\u00e9es dans l\u2019accident est d\u00e9c\u00e9d\u00e9e."
 		},
 		{
 			"title": "Vianney d\u2019Alan\u00e7on, l\u2019intrigant entrepreneur derri\u00e8re le raid des milliardaires sur l\u2019ESJ Paris - Lib\u00e9ration",
@@ -171,6 +171,66 @@
 			"description": "L\u2019homme d\u2019affaires a pilot\u00e9 le rachat de l\u2019\u00e9cole de journalisme parisienne par un consortium d\u00e9sireux d\u2019une formation \u00abantiwoke\u00bb et \u00e9cras\u00e9 par l\u2019ombre de Vincent Bollor\u00e9."
 		},
 		{
+			"title": "Un car scolaire transportant 34 passagers finit au foss\u00e9 en Sarthe, deux personnes bless\u00e9es - Ouest-France",
+			"link": "https://www.ouest-france.fr/faits-divers/accidents/un-car-scolaire-transportant-34-passagers-finit-au-fosse-dans-le-sud-de-la-sarthe-29b9489c-ab19-11ef-8248-4f6efd927e57",
+			"pubDate": "Mon, 25 Nov 2024 10:48:46 GMT",
+			"image": "https://media.ouest-france.fr/v1/pictures/MjAyNDExMDU4Zjc3MWE3MjY0ZjVjNGZiMzVhOTNkZWRlMThhZTA?width=1260&height=708&focuspoint=50%2C25&cropresize=1&client_id=bpeditorial&sign=a6a17adf34dd66e4a1882472954fa2b68aee5df25b8e60f33f9f9342f6139d40",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "Ouest-France.fr",
+			"url": "https://www.ouest-france.fr/faits-divers/accidents/un-car-scolaire-transportant-34-passagers-finit-au-fosse-dans-le-sud-de-la-sarthe-29b9489c-ab19-11ef-8248-4f6efd927e57",
+			"description": "Deux personnes ont \u00e9t\u00e9 l\u00e9g\u00e8rement bless\u00e9es dans un accident, ce lundi 25\u00a0novembre 2024. Un bus Al\u00e9op est tomb\u00e9 dans un foss\u00e9 \u00e0 Requeil, dans le sud de la Sarthe. 34\u00a0personnes \u00e9taient \u00e0 bord."
+		},
+		{
+			"title": "Un homme mis en examen apr\u00e8s la d\u00e9couverte du corps de sa voisine octog\u00e9naire dans un sac de voyage - Ouest-France",
+			"link": "https://www.ouest-france.fr/societe/faits-divers/un-homme-mis-en-examen-apres-la-decouverte-du-corps-de-sa-voisine-octogenaire-dans-un-sac-de-voyage-067d4a18-ab23-11ef-8248-4f6efd927e57",
+			"pubDate": "Mon, 25 Nov 2024 12:14:43 GMT",
+			"image": "",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "",
+			"url": "",
+			"description": ""
+		},
+		{
+			"title": "Bourg-en-Bresse : un lyc\u00e9en bless\u00e9 \u00e0 la gorge apr\u00e8s avoir \u00e9t\u00e9 agress\u00e9 \u00e0 coups de ciseaux par un camarade - CNEWS",
+			"link": "https://www.cnews.fr/faits-divers/2024-11-25/bourg-en-bresse-un-lyceen-blesse-la-gorge-apres-avoir-ete-agresse-coups-de",
+			"pubDate": "Mon, 25 Nov 2024 12:53:12 GMT",
+			"image": "https://static.cnews.fr/sites/default/files/000_1wc2n3-taille1200_67445f0f576d0_0.jpg",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "CNEWS",
+			"url": "https://www.cnews.fr/faits-divers/2024-11-25/bourg-en-bresse-un-lyceen-blesse-la-gorge-apres-avoir-ete-agresse-coups-de",
+			"description": "Lundi 25 novembre, un lyc\u00e9en de Bourg-en-Bresse (Ain) a \u00e9t\u00e9 bless\u00e9 apr\u00e8s avoir re\u00e7u des coups de ciseaux \u00e0 la gorge par un autre \u00e9l\u00e8ve de l'\u00e9tablissement. Ses jours ne sont pas en danger."
+		},
+		{
+			"title": "Budget 2025 : pourquoi le S\u00e9nat est en position de force pour imprimer sa marque sur le projet de loi - franceinfo",
+			"link": "https://www.francetvinfo.fr/politique/parlement-francais/senat/budget-2025-pourquoi-le-senat-est-en-position-de-force-pour-imprimer-sa-marque-sur-le-projet-de-loi_6908831.html",
+			"pubDate": "Mon, 25 Nov 2024 04:59:18 GMT",
+			"image": "https://www.francetvinfo.fr/pictures/6lHMTU7TnLH07t0jj54YdgG1AuA/0x68:1024x643/1500x843/2024/11/20/080-hl-acornu-2530195-673e06d78c3aa993973993.jpg",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "Franceinfo",
+			"url": "https://www.francetvinfo.fr/politique/parlement-francais/senat/budget-2025-pourquoi-le-senat-est-en-position-de-force-pour-imprimer-sa-marque-sur-le-projet-de-loi_6908831.html",
+			"description": "La droite et le centre, alli\u00e9s dans le \"socle commun\" du gouvernement Barnier, sont majoritaires \u00e0 la chambre haute, o\u00f9 ils comptent bien montrer une image plus constructive que lors des d\u00e9bats \u00e0 l'Assembl\u00e9e nationale."
+		},
+		{
+			"title": "F\u00e9minicides : une femme est tu\u00e9e par un proche toutes les dix minutes dans le monde - Le Monde",
+			"link": "https://www.lemonde.fr/international/article/2024/11/25/feminicides-une-femme-est-tuee-par-un-proche-toutes-les-dix-minutes-dans-le-monde_6412904_3210.html",
+			"pubDate": "Mon, 25 Nov 2024 07:07:43 GMT",
+			"image": "https://img.lemde.fr/2024/11/25/0/0/3000/2000/1440/960/60/0/23ff9e4_1732517027506-marcheviolencesfemmes-as103140.jpg",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "Le Monde.fr",
+			"url": "https://www.lemonde.fr/international/article/2024/11/25/feminicides-une-femme-est-tuee-par-un-proche-toutes-les-dix-minutes-dans-le-monde_6412904_3210.html",
+			"description": "Selon les chiffres de l\u2019ONU, 85\u00a0000\u00a0femmes ont \u00e9t\u00e9 tu\u00e9es de mani\u00e8re intentionnelle en\u00a02023. Le foyer reste \u00ab\u00a0l\u2019endroit le plus dangereux\u00a0\u00bb pour elles, puisque 60\u00a0% ont \u00e9t\u00e9 tu\u00e9es par \u00ab\u00a0leur conjoint ou d\u2019autres membres de leur famille\u00a0\u00bb."
+		},
+		{
+			"title": "Magali Berdah, l\u2019ex-\u00ab papesse des influenceurs \u00bb, relax\u00e9e dans une affaire de banqueroute - Le Monde",
+			"link": "https://www.lemonde.fr/societe/article/2024/11/25/magali-berdah-l-ex-papesse-des-influenceurs-relaxee-dans-une-affaire-de-banqueroute_6413608_3224.html",
+			"pubDate": "Mon, 25 Nov 2024 14:23:54 GMT",
+			"image": "https://img.lemde.fr/2024/11/23/0/0/5019/3346/1440/960/60/0/8fdacc6_5331184-01-06.jpg",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "Le Monde.fr",
+			"url": "https://www.lemonde.fr/societe/article/2024/11/25/magali-berdah-l-ex-papesse-des-influenceurs-relaxee-dans-une-affaire-de-banqueroute_6413608_3224.html",
+			"description": "L\u2019affaire concerne la soci\u00e9t\u00e9 de courtage BA &\u00a0CO, reprise en\u00a02014 par la m\u00e8re de Magali Berdah puis plac\u00e9e en liquidation judiciaire en\u00a02015. Magali Berdah s\u2019\u00e9tait pr\u00e9sent\u00e9e comme une simple salari\u00e9e de BA &\u00a0CO, alors que l\u2019accusation affirmait qu\u2019elle en \u00e9tait la g\u00e9rante de fait."
+		},
+		{
 			"title": "\u00cele-de-France : des op\u00e9rations escargots de taxis sur l\u2019A4 et l\u2019A6 en direction de Paris - Le Parisien",
 			"link": "https://www.leparisien.fr/paris-75/ile-de-france-des-operations-escargots-de-taxis-sur-la4-et-la6-en-direction-de-paris-25-11-2024-4MXL7DMQXZBJVPA627F4S7GTBE.php",
 			"pubDate": "Mon, 25 Nov 2024 08:27:00 GMT",
@@ -181,44 +241,34 @@
 			"description": "Plusieurs centaines de taxis se joignent ce lundi matin \u00e0 des op\u00e9rations escargots sur l\u2019A4 et l\u2019A6 vers Paris afin de d\u00e9noncer le projet de"
 		},
 		{
-			"title": "Emplois fictifs \u00e0 l'Assembl\u00e9e nationale : \u00e0 quelle peine sera condamn\u00e9 Fran\u00e7ois Fillon par la cour d'appel de Paris ? - franceinfo",
-			"link": "https://www.francetvinfo.fr/politique/francois-fillon/affaires-fillon/emplois-fictifs-a-l-assemblee-nationale-a-quelle-peine-sera-condamne-francois-fillon-par-la-cour-d-appel-de-paris_6916751.html",
-			"pubDate": "Mon, 25 Nov 2024 05:05:01 GMT",
-			"image": "https://www.francetvinfo.fr/pictures/sAoXWChLjme0b4v_t1ejhKPIUAY/0x407:4960x3194/1500x843/2024/11/24/080-hl-gbedrignans-2049526-67433701e3ad4870685425.jpg",
+			"title": "La moiti\u00e9 des Fran\u00e7ais pr\u00e9voit de visiter la cath\u00e9drale Notre-Dame de Paris apr\u00e8s sa r\u00e9ouverture - franceinfo",
+			"link": "https://www.francetvinfo.fr/culture/patrimoine/incendie-de-notre-dame-de-paris/la-moitie-des-francais-prevoit-de-visiter-la-cathedrale-notre-dame-de-paris-apres-sa-reouverture_6916574.html",
+			"pubDate": "Sun, 24 Nov 2024 20:00:01 GMT",
+			"image": "https://www.francetvinfo.fr/pictures/WqC9EHpqmgo-f0FS2iSW9IfifQo/0x0:5906x3320/1500x843/2024/11/24/notre-dame-6743038050e4b060729145.jpg",
 			"logo": "https://picsum.photos/32/32?grayscale",
 			"site_name": "Franceinfo",
-			"url": "https://www.francetvinfo.fr/politique/francois-fillon/affaires-fillon/emplois-fictifs-a-l-assemblee-nationale-a-quelle-peine-sera-condamne-francois-fillon-par-la-cour-d-appel-de-paris_6916751.html",
-			"description": "Jug\u00e9 d\u00e9finitivement coupable de d\u00e9tournement de fonds publics, l'ancien Premier ministre avait \u00e9cop\u00e9 en appel de quatre ans de prison, dont un ferme, et 350 000 euros d'amende. Ces peines sont r\u00e9examin\u00e9es."
+			"url": "https://www.francetvinfo.fr/culture/patrimoine/incendie-de-notre-dame-de-paris/la-moitie-des-francais-prevoit-de-visiter-la-cathedrale-notre-dame-de-paris-apres-sa-reouverture_6916574.html",
+			"description": "Notre-Dame de Paris doit rouvrir au public le 8 d\u00e9cembre apr\u00e8s cinq ans d'une reconstruction colossale \u00e0 la suite de l'incendie qui l'a ravag\u00e9e en 2019."
 		},
 		{
-			"title": "Pr\u00e8s de Lyon : un \u00e9l\u00e8ve d'un lyc\u00e9e poignard\u00e9 par un camarade en plein cours - actu.fr",
-			"link": "https://actu.fr/auvergne-rhone-alpes/bourg-en-bresse_01053/pres-de-lyon-un-eleve-d-un-lycee-poignarde-par-un-camarade-en-plein-cours_61911256.html",
-			"pubDate": "Mon, 25 Nov 2024 10:31:01 GMT",
-			"image": "https://static.actu.fr/uploads/2024/11/police-nationale-lyon-1.jpg",
+			"title": "Un homme de 22 ans mortellement poignard\u00e9 au thorax lors d'une soir\u00e9e : une suspecte de 17 ans interpell\u00e9e - Midi Libre",
+			"link": "https://www.midilibre.fr/2024/11/25/un-homme-de-22-ans-mortellement-poignarde-au-thorax-lors-dune-soiree-une-suspecte-de-17-ans-interpellee-12345725.php",
+			"pubDate": "Mon, 25 Nov 2024 12:16:00 GMT",
+			"image": "https://images.midilibre.fr/api/v1/images/view/6744681acd2c6c6f974ac628/large/image.jpg?v=16",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "midilibre.fr",
+			"url": "https://www.midilibre.fr/2024/11/25/un-homme-de-22-ans-mortellement-poignarde-au-thorax-lors-dune-soiree-une-suspecte-de-17-ans-interpellee-12345725.php",
+			"description": "Un homme de 22 ans a \u00e9t\u00e9 mortellement poignard\u00e9 dans la nuit de samedi \u00e0 dimanche en Haute-Sa\u00f4ne. Une jeune femme de 17 ans, suspect\u00e9e d'\u00eatre l'auteure de l'attaque, a \u00e9t\u00e9 arr\u00eat\u00e9e, a annonc\u00e9 lundi le procureur."
+		},
+		{
+			"title": "En Vend\u00e9e, 8 engins de travaux publics embras\u00e9s, l\u2019origine du feu encore inconnu - Le Journal des Sables",
+			"link": "https://actu.fr/pays-de-la-loire/les-sables-d-olonne_85194/en-vendee-8-engins-de-travaux-publics-embrases-lorigine-du-feu-encore-inconnu_61911470.html",
+			"pubDate": "Mon, 25 Nov 2024 10:20:11 GMT",
+			"image": "https://static.actu.fr/uploads/2024/11/3f0404be44476531404be444757140v.jpg",
 			"logo": "https://picsum.photos/32/32?grayscale",
 			"site_name": "actu.fr",
-			"url": "https://actu.fr/auvergne-rhone-alpes/bourg-en-bresse_01053/pres-de-lyon-un-eleve-d-un-lycee-poignarde-par-un-camarade-en-plein-cours_61911256.html",
-			"description": "Un \u00e9l\u00e8ve aurait ass\u00e9n\u00e9 des coups de ciseaux \u00e0 un autre en plein cours, ce lundi 25 novembre, au lyc\u00e9e Edgar-Quinet de Bourg-en-Bresse (Ain). La victime a \u00e9t\u00e9 bless\u00e9e \u00e0 la gorge."
-		},
-		{
-			"title": "20,2 \u00b0C relev\u00e9s dans les C\u00f4tes-d\u2019Armor, alors qu\u2019il y a trois jours il neigeait\u2026 - Ouest-France",
-			"link": "https://www.ouest-france.fr/meteo/20-2-c-releves-dans-les-cotes-darmor-alors-quil-y-a-trois-jours-il-neigeait-2c92d372-aa41-11ef-8248-4f6efd927e57",
-			"pubDate": "Sun, 24 Nov 2024 09:40:46 GMT",
-			"image": "",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "",
-			"url": "",
-			"description": ""
-		},
-		{
-			"title": "B\u00e9arn : il a fait jusqu\u2019\u00e0 26,9\u00b0C ce lundi 25 novembre au petit matin ! - La R\u00e9publique des Pyr\u00e9n\u00e9es",
-			"link": "https://www.larepubliquedespyrenees.fr/environnement/meteo/bearn-il-a-fait-jusqu-a-28-10c-ce-lundi-matin-22280132.php",
-			"pubDate": "Mon, 25 Nov 2024 06:24:32 GMT",
-			"image": "https://media.larepubliquedespyrenees.fr/22280132/1200x-1/meteo-ciel.jpg",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "LaRepubliqueDesPyrenees",
-			"url": "https://www.larepubliquedespyrenees.fr/environnement/meteo/bearn-il-a-fait-jusqu-a-28-10c-ce-lundi-matin-22280132.php",
-			"description": "C\u2019est une nouvelle fois en B\u00e9arn qu\u2019il a fait le plus chaud en France ce lundi 25\u00a0novembre\u00a0!"
+			"url": "https://actu.fr/pays-de-la-loire/les-sables-d-olonne_85194/en-vendee-8-engins-de-travaux-publics-embrases-lorigine-du-feu-encore-inconnu_61911470.html",
+			"description": "Dans la nuit de dimanche\u00a024 \u00e0 lundi 25\u00a0novembre, 8 camions de chantier et un camion benne d\u2019une entreprise de Vend\u00e9e ont pris feu."
 		},
 		{
 			"title": "\"Du jour au lendemain, je me suis retrouv\u00e9e sans rien\" : quand les maltraitances \u00e9conomiques s'additionnent aux violences conjugales - franceinfo",
@@ -231,64 +281,74 @@
 			"description": "Parfois difficiles \u00e0 cerner, les pressions \u00e9conomiques sur un conjoint peuvent se cumuler avec d'autres formes de violences. Les associations voient se multiplier les t\u00e9moignages de femmes pouss\u00e9es jusqu'\u00e0 l'asphyxie financi\u00e8re ou d\u00e9pourvues de ressources apr\u00e8s une s\u00e9paration."
 		},
 		{
-			"title": "\"Je ne verrai \u00e7a qu'une seule fois dans ma vie\" : les fid\u00e8les de Corse attendent avec enthousiasme la visite du pape - Corse Matin",
-			"link": "https://www.corsematin.com/article/societe/1009795594335315/je-ne-verrais-ca-quune-seule-fois-dans-ma-vie-les-fideles-de-corse-attendent-avec-enthousiasme-la-visite-du-pape",
-			"pubDate": "Sun, 24 Nov 2024 20:41:38 GMT",
-			"image": "https://pictures.corsematin.com/cdn-cgi/image//media/melody/2024/03/18/messe-de-la-madunuccia-mars-24-1710766082_11e7a48138f5665e7a48138f539e7av_.jpg",
+			"title": "Municipales \u00e0 Rognac: la liste du candidat du RN l'emporte, la maire sortante termine troisi\u00e8me - BFMTV",
+			"link": "https://www.bfmtv.com/marseille/municipales-a-rognac-la-liste-du-candidat-du-rn-l-emporte-la-maire-sortante-termine-troisieme_AN-202411240468.html",
+			"pubDate": "Sun, 24 Nov 2024 19:55:56 GMT",
+			"image": "https://images.bfmtv.com/e91gT9q6tMToiWoXd1bM5s8yLp8=/0x0:960x540/960x0/images/Tract-Rognac-RN-1981800.jpg",
 			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "",
-			"url": "https://www.corsematin.com/article/societe/1009795594335315/je-ne-verrais-ca-quune-seule-fois-dans-ma-vie-les-fideles-de-corse-attendent-avec-enthousiasme-la-visite-du-pape?id=1009795594335315",
-			"description": "\"Je ne verrai \u00e7a qu'une seule fois dans ma vie\" : les fid\u00e8les de Corse attendent avec enthousiasme la visite du pape"
+			"site_name": "BFMTV",
+			"url": "https://www.bfmtv.com/marseille/municipales-a-rognac-la-liste-du-candidat-du-rn-l-emporte-la-maire-sortante-termine-troisieme_AN-202411240468.html",
+			"description": "Christophe Gonzalez, candidat du Rassemblement national, a remport\u00e9 ce dimanche 24 novembre le second tour des \u00e9lections municipales anticip\u00e9es \u00e0 Rognac avec 191 voix d'avance sur Willy Nicollet (divers droite). Les deux autres listes ont r\u00e9colt\u00e9 un peu plus de 13% des suffrages."
 		},
 		{
-			"title": "Dans les Bouches-du-Rh\u00f4ne, le RN s'empare de Rognac \u00e0 un an et demi des prochaines municipales - France Bleu",
-			"link": "https://www.francebleu.fr/infos/politique/dans-les-bouches-du-rhone-le-rn-s-empare-de-rognac-a-un-an-et-demi-des-prochaines-municipales-1007517",
-			"pubDate": "Sun, 24 Nov 2024 19:22:26 GMT",
-			"image": "https://www.francebleu.fr/s3/cruiser-production-eu3/2024/11/c8a64faa-c26c-4faa-8cd8-6c5767eb7e51/1200x680_sc_whatsapp-image-2024-11-24-at-20-12-57.jpg",
+			"title": "Pape en Corse : comment la presse nationale analyse-t-elle cette visite ? - France 3 R\u00e9gions",
+			"link": "https://france3-regions.francetvinfo.fr/corse/pape-en-corse-comment-la-presse-nationale-analyse-t-elle-cette-visite-3065377.html",
+			"pubDate": "Sun, 24 Nov 2024 11:55:16 GMT",
+			"image": "https://france3-regions.francetvinfo.fr/image/H-a-qH77ZB3xcnKG5Cr8etBy6TA/930x620/regions/2024/11/20/dpaphotosseven572739-673e06f630e5a278532334.jpg",
 			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "ici par France Bleu et France 3",
-			"url": "https://www.francebleu.fr/infos/politique/dans-les-bouches-du-rhone-le-rn-s-empare-de-rognac-a-un-an-et-demi-des-prochaines-municipales-1007517",
-			"description": "Le candidat Rassemblement National Christophe Gonzalez remporte les \u00e9lections municipales anticip\u00e9es \u00e0 Rognac (13). Victoire du RN apr\u00e8s la d\u00e9mission du conseil municipal, sur fond d'affaires et de mauvaise gestion des comptes de la ville, le tout \u00e0 un an et demi des municipales de mars 2026. "
+			"site_name": "France 3 Corse ViaStella",
+			"url": "https://france3-regions.francetvinfo.fr/corse/pape-en-corse-comment-la-presse-nationale-analyse-t-elle-cette-visite-3065377.html",
+			"description": "Le Vatican a officialis\u00e9 la visite du pape Fran\u00e7ois en Corse le 15 d\u00e9cembre prochain. Au-del\u00e0 de l\u2019aspect religieux, la presse nationale s\u2019est empar\u00e9e du sujet entre enjeux diplomatiques et petites pol\u00e9miques sur l\u2019absence..."
 		},
 		{
-			"title": "Rester ou non sur X, la grande interrogation des m\u00e9dias - Le Monde",
-			"link": "https://www.lemonde.fr/economie/article/2024/11/25/rester-ou-non-sur-x-la-grande-interrogation-des-medias_6412696_3234.html",
-			"pubDate": "Mon, 25 Nov 2024 04:00:09 GMT",
-			"image": "https://img.lemde.fr/2024/11/02/1/0/5500/3666/1440/960/60/0/935c500_2024-11-02t043747z-4706126-rc2lwaa8aptl-rtrmadp-3-usa-election.JPG",
+			"title": "Guerre en Ukraine : l\u2019envoi de militaires europ\u00e9ens en discussion - Le Monde",
+			"link": "https://www.lemonde.fr/international/article/2024/11/25/guerre-en-ukraine-l-envoi-de-troupes-occidentales-de-nouveau-en-discussion_6412802_3210.html",
+			"pubDate": "Mon, 25 Nov 2024 05:00:21 GMT",
+			"image": "https://img.lemde.fr/2024/11/11/0/0/6399/4266/1440/960/60/0/6c61f59_2024-11-11t122946z-434524028-rc203barltou-rtrmadp-3-remembrance-day-france-macron.JPG",
 			"logo": "https://picsum.photos/32/32?grayscale",
 			"site_name": "Le Monde.fr",
-			"url": "https://www.lemonde.fr/economie/article/2024/11/25/rester-ou-non-sur-x-la-grande-interrogation-des-medias_6412696_3234.html",
-			"description": "Dans la foul\u00e9e du quotidien britannique \u00ab\u00a0The Guardian\u00a0\u00bb, les groupes de journaux r\u00e9gionaux Ouest-France et Sud Ouest\u00a0ont d\u00e9cid\u00e9 de suspendre leur activit\u00e9 sur le r\u00e9seau social d\u2019Elon Musk. Si certains m\u00e9dias arguent de la n\u00e9cessit\u00e9 de rester pr\u00e9sents, des discussions ont lieu dans diff\u00e9rentes r\u00e9dactions."
+			"url": "https://www.lemonde.fr/international/article/2024/11/25/guerre-en-ukraine-l-envoi-de-troupes-occidentales-de-nouveau-en-discussion_6412802_3210.html",
+			"description": "Dans la perspective d\u2019un d\u00e9sengagement am\u00e9ricain vis-\u00e0-vis de Kiev en raison du retour de Donald Trump \u00e0 la Maison Blanche, Paris et Londres n\u2019excluent pas de prendre la t\u00eate d\u2019une coalition en Ukraine, selon des modalit\u00e9s qui restent \u00e0 pr\u00e9ciser."
 		},
 		{
-			"title": "Bombe d\u00e9couverte en centre-ville d'Annecy : 3500 habitants \u00e9vacu\u00e9s, une vaste op\u00e9ration de d\u00e9minage en cours - France 3 R\u00e9gions",
-			"link": "https://france3-regions.francetvinfo.fr/auvergne-rhone-alpes/haute-savoie/annecy/bombe-decouverte-en-centre-ville-d-annecy-3500-habitants-evacues-une-vaste-operation-de-deminage-en-cours-3065236.html",
-			"pubDate": "Sun, 24 Nov 2024 08:49:39 GMT",
-			"image": "https://france3-regions.francetvinfo.fr/image/obKhIY8wdWEI0B4KsA0Sc3M7cVM/930x620/regions/2024/11/24/whatsapp-image-2024-11-24-at-08-51-24-6742e3ff5a18d154074584.jpg",
+			"title": "\u00c9coles de commerce : d\u00e9couvrez en avant-premi\u00e8re le top 10 du classement 2025 du Figaro - Le Figaro",
+			"link": "https://www.lefigaro.fr/actualite-france/decouvrez-en-avant-premiere-le-top-10-des-ecoles-de-commerce-du-classement-2025-du-figaro-20241125",
+			"pubDate": "Mon, 25 Nov 2024 06:00:00 GMT",
+			"image": "https://i.f1g.fr/media/cms/1200x630_crop/2024/11/24/caa809a5a2bffdef4663be60adf5600aa621538c0260b5c567583efbf108f311.jpg",
 			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "France 3 Auvergne-Rh\u00f4ne-Alpes",
-			"url": "https://france3-regions.francetvinfo.fr/auvergne-rhone-alpes/haute-savoie/annecy/bombe-decouverte-en-centre-ville-d-annecy-3500-habitants-evacues-une-vaste-operation-de-deminage-en-cours-3065236.html",
-			"description": "Une bombe datant de la Seconde Guerre mondiale a \u00e9t\u00e9 d\u00e9couverte dans le centre-ville d'Annecy, le 22 octobre dernier. Une importante op\u00e9ration de d\u00e9minage est organis\u00e9e ce dimanche 24 novembre. Au petit matin, tout un quartier..."
+			"site_name": "Le Figaro",
+			"url": "https://www.lefigaro.fr/actualite-france/decouvrez-en-avant-premiere-le-top-10-des-ecoles-de-commerce-du-classement-2025-du-figaro-20241125",
+			"description": "EXCLUSIF - Voici les 10 meilleures \u00e9coles de notre palmar\u00e8s qui para\u00eetra le 27 novembre."
 		},
 		{
-			"title": "Patrick Boucheron : \u00abL\u2019entr\u00e9e au Panth\u00e9on d\u2019un historien comme Marc Bloch parle d\u2019avenir\u00bb - Lib\u00e9ration",
-			"link": "https://www.liberation.fr/idees-et-debats/patrick-boucheron-lentree-au-pantheon-dun-historien-comme-marc-bloch-parle-davenir-20241124_HQMKVBAPQBHUJEAGZQWMISKOQM/",
-			"pubDate": "Sun, 24 Nov 2024 18:19:53 GMT",
-			"image": "https://www.liberation.fr/resizer/lkbKDh0Df7RaMsri8slfcOmb8eY=/1200x630/filters:format(jpg):quality(70):focal(1067x660:1077x670)/cloudfront-eu-central-1.images.arcpublishing.com/liberation/3BWKXUISUBFEDH6CBSAPFTCY2A.JPG",
+			"title": "Haut-Rhin. Il visait des joggeuses : un ado de 14 ans mis en examen pour viol et tentatives de viol - Le Progr\u00e8s",
+			"link": "https://www.leprogres.fr/faits-divers-justice/2024/11/25/il-visait-des-joggeuses-un-ado-de-14-ans-mis-en-examen-pour-viol-et-tentatives-de-viol",
+			"pubDate": "Mon, 25 Nov 2024 07:30:00 GMT",
+			"image": "https://picsum.photos/200/300?grayscale",
 			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "Lib\u00e9ration",
+			"site_name": "",
 			"url": "",
-			"description": "Le professeur au Coll\u00e8ge de France se r\u00e9jouit de la future panth\u00e9onisation de l\u2019historien et r\u00e9sistant. Et soutient la d\u00e9cision de la famille d\u2019exclure l\u2019extr\u00eame droite de la c\u00e9r\u00e9monie."
+			"description": ""
 		},
 		{
-			"title": "Sept ans apr\u00e8s avoir fui son bourreau, \u00ab on reste \u00e0 sa merci, rien n\u2019est fait pour qu\u2019on se rel\u00e8ve \u00bb - Ouest-France",
-			"link": "https://www.ouest-france.fr/faits-divers/violences/sept-ans-apres-avoir-fui-son-bourreau-on-reste-a-sa-merci-rien-nest-fait-pour-quon-se-releve-df35c9d2-a977-11ef-8248-4f6efd927e57",
-			"pubDate": "Mon, 25 Nov 2024 06:42:03 GMT",
-			"image": "https://media.ouest-france.fr/v1/pictures/MjAyNDExNTdkYTIzMzExNjQ5NjNiNDg4NDczZGI1MDY2YmRlNDc?width=1260&height=708&focuspoint=50%2C25&cropresize=1&client_id=bpeditorial&sign=4e98e3cda61e973ed67227f531de4ff9c399a0949a75a7a74055e020d900d6b6",
+			"title": "Les c\u00e9l\u00e9brit\u00e9s qui ont quitt\u00e9 X depuis l\u2019\u00e9lection de Donald Trump - Paris Match",
+			"link": "https://www.parismatch.com/people/les-celebrites-qui-ont-quitte-x-depuis-lelection-de-donald-trump-243852",
+			"pubDate": "Sun, 24 Nov 2024 16:30:19 GMT",
+			"image": "https://www.parismatch.com/lmnr/var/pm/public/media/image/2024/11/24/17/abaca_894468_133.jpg?VersionId=dqQ2pTzANx4wTu3HSbhRkLYAEcpKuxbN",
 			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "Ouest-France.fr",
-			"url": "https://www.ouest-france.fr/faits-divers/violences/sept-ans-apres-avoir-fui-son-bourreau-on-reste-a-sa-merci-rien-nest-fait-pour-quon-se-releve-df35c9d2-a977-11ef-8248-4f6efd927e57",
-			"description": "Nous avions rencontr\u00e9 Lucie (*) en octobre\u00a02023. Cette m\u00e8re de trois enfants qui s\u2019est install\u00e9e dans le pays de Lorient (Morbihan) pour fuir son bourreau, nous avait confi\u00e9 l\u2019indicible. Les menaces, les coups et les viols, r\u00e9p\u00e9t\u00e9s durant des ann\u00e9es. Recontact\u00e9e par Ouest-France en ce mois de novembre\u00a02024, marqu\u00e9 par la journ\u00e9e mondiale de lutte contre les violences faites aux femmes ce lundi 25\u00a0novembre 2024, elle t\u00e9moigne de la vie \u00ab\u00a0d\u2019apr\u00e8s\u00a0\u00bb."
+			"site_name": "",
+			"url": "https://www.parismatch.com/people/les-celebrites-qui-ont-quitte-x-depuis-lelection-de-donald-trump-243852",
+			"description": "Les \u00e9lections pr\u00e9sidentielles aux \u00c9tats-Unis ont fait grand bruit et entra\u00een\u00e9 bon nombre de r\u00e9actions. Engag\u00e9es et politis\u00e9es, certaines c\u00e9l\u00e9brit\u00e9s n\u2019ont pas h\u00e9sit\u00e9 \u00e0 faire savoir leur m\u00e9contentement en quittant le r\u00e9seau social X\u2026"
+		},
+		{
+			"title": "Homme tu\u00e9 \u00e0 coups de couteau pr\u00e8s de Toulouse : deux ados de 15 et 16 ans en garde \u00e0 vue - Le Journal du Pays Yonnais",
+			"link": "https://actu.fr/occitanie/blagnac_31069/homme-tue-a-coups-de-couteaux-pres-de-toulouse-deux-ados-de-15-et-16-ans-en-garde-a-vue_61909897.html",
+			"pubDate": "Sun, 24 Nov 2024 17:00:53 GMT",
+			"image": "https://static.actu.fr/uploads/2024/11/blagnac-homme-tue-coups-couteau.png",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "actu.fr",
+			"url": "https://actu.fr/occitanie/blagnac_31069/homme-tue-a-coups-de-couteaux-pres-de-toulouse-deux-ados-de-15-et-16-ans-en-garde-a-vue_61909897.html",
+			"description": "L'enqu\u00eate autour de la mort d'un homme de 40 ans, \u00e0 Blagnac, pr\u00e8s de Toulouse, se poursuit. Samedi 23 novembre 2024, la victime est d\u00e9c\u00e9d\u00e9e apr\u00e8s avoir re\u00e7u des coups de couteau."
 		},
 		{
 			"title": "Nouveau Front populaire : Jean-Luc M\u00e9lenchon accuse le Parti socialiste d'\u00eatre \"en train d'organiser un nouveau socle commun\" - franceinfo",
@@ -301,155 +361,15 @@
 			"description": "Plusieurs figures du Parti socialiste veulent trouver les conditions d'une \"non-censure\" en cas de chute du gouvernement de Michel Barnier."
 		},
 		{
-			"title": "Grenoble. Violences \u00e0 Saint-Bruno : le syndicat de transport M\u2019Tag lance un droit d\u2019alerte - Le Dauphin\u00e9 Lib\u00e9r\u00e9",
-			"link": "https://www.ledauphine.com/faits-divers-justice/2024/11/24/violences-a-saint-bruno-le-syndicat-de-transport-m-tag-lance-un-droit-d-alerte",
-			"pubDate": "Sun, 24 Nov 2024 06:20:13 GMT",
-			"image": "https://cdn-s-www.ledauphine.com/images/6D129669-03BB-4075-B308-AC1AE53215A2/FB1200/photo-1732459526.jpg",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "",
-			"url": "https://www.ledauphine.com/faits-divers-justice/2024/11/24/violences-a-saint-bruno-le-syndicat-de-transport-m-tag-lance-un-droit-d-alerte",
-			"description": "Apr\u00e8s les derniers \u00e9v\u00e9nements survenus dans le quartier Saint-Bruno \u00e0 Grenoble, le syndicat du transport M\u2019Tag alerte sur un \u00ab\u00a0danger grave et ..."
-		},
-		{
-			"title": "\u00abJustice va lui \u00eatre rendue\u00bb : S\u00e9bastien Chenu assure que Marine Le Pen \u00absera la candidate\u00bb du RN \u00e0 la pr\u00e9sidentielle - Le Figaro",
-			"link": "https://www.lefigaro.fr/politique/justice-va-lui-etre-rendue-sebastien-chenu-assure-que-marine-le-pen-sera-la-candidate-du-rn-a-la-presidentielle-20241124",
-			"pubDate": "Sun, 24 Nov 2024 15:09:15 GMT",
-			"image": "https://i.f1g.fr/media/cms/1200x630_crop/2024/11/24/85d699ae8a2354a3892a55f50df85ed840d5888e02121a7c7ae4ec7e2521c48a.png",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "Le Figaro",
-			"url": "https://www.lefigaro.fr/politique/justice-va-lui-etre-rendue-sebastien-chenu-assure-que-marine-le-pen-sera-la-candidate-du-rn-a-la-presidentielle-20241124",
-			"description": "\u00abSans se placer dans la situation\u00bb o\u00f9 Marine Le Pen serait emp\u00each\u00e9e de se pr\u00e9senter en 2027, le d\u00e9put\u00e9 du Nord a tout de m\u00eame affirm\u00e9 ce dimanche que \u00able parti saura s\u2019organiser\u00bb dans l\u2019hypoth\u00e8se inverse."
-		},
-		{
 			"title": "Mulhouse. Tirs de mortiers et d\u2019artifices sur des \u00e9l\u00e8ves de Saint-Cyr - L'Alsace.fr",
 			"link": "https://www.lalsace.fr/faits-divers-justice/2024/11/24/tirs-de-mortiers-et-d-artifices-sur-des-eleves-de-saint-cyr",
-			"pubDate": "Sun, 24 Nov 2024 07:11:47 GMT",
+			"pubDate": "Sun, 24 Nov 2024 15:37:00 GMT",
 			"image": "https://cdn-s-www.lalsace.fr/images/2EAE3618-7F5F-4CBB-BDDC-533DA8103F27/FB1200/photo-1732470408.jpg",
 			"logo": "https://picsum.photos/32/32?grayscale",
 			"site_name": "",
 			"url": "https://www.lalsace.fr/faits-divers-justice/2024/11/24/tirs-de-mortiers-et-d-artifices-sur-des-eleves-de-saint-cyr",
 			"description": "En marge des c\u00e9l\u00e9brations du 80e anniversaire de la Lib\u00e9ration de Mulhouse, les policiers ont d\u00fb intervenir \u00e0 la suite de tirs de mortiers et de ..."
-		},
-		{
-			"title": "Homme tu\u00e9 \u00e0 coups de couteau pr\u00e8s de Toulouse : deux ados de 15 et 16 ans en garde \u00e0 vue - actu.fr",
-			"link": "https://actu.fr/occitanie/blagnac_31069/homme-tue-a-coups-de-couteaux-pres-de-toulouse-deux-ados-de-15-et-16-ans-en-garde-a-vue_61909897.html",
-			"pubDate": "Sun, 24 Nov 2024 17:00:53 GMT",
-			"image": "https://static.actu.fr/uploads/2024/11/blagnac-homme-tue-coups-couteau.png",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "actu.fr",
-			"url": "https://actu.fr/occitanie/blagnac_31069/homme-tue-a-coups-de-couteaux-pres-de-toulouse-deux-ados-de-15-et-16-ans-en-garde-a-vue_61909897.html",
-			"description": "L'enqu\u00eate autour de la mort d'un homme de 40 ans, \u00e0 Blagnac, pr\u00e8s de Toulouse, se poursuit. Samedi 23 novembre 2024, la victime est d\u00e9c\u00e9d\u00e9e apr\u00e8s avoir re\u00e7u des coups de couteau."
-		},
-		{
-			"title": "R\u00e9forme des retraites : les d\u00e9put\u00e9s socialistes voteront l\u2019abrogation, quitte \u00e0 sacrifier la r\u00e9forme Touraine - Sud Ouest",
-			"link": "https://www.sudouest.fr/economie/reforme-des-retraites/reforme-des-retraites-les-deputes-socialistes-voteront-l-abrogation-quitte-a-sacrifier-la-reforme-touraine-22273198.php",
-			"pubDate": "Sun, 24 Nov 2024 14:25:50 GMT",
-			"image": "https://media.sudouest.fr/22273198/1200x-1/20241001173709-8467112.jpg",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "SudOuest.fr",
-			"url": "https://www.sudouest.fr/economie/reforme-des-retraites/reforme-des-retraites-les-deputes-socialistes-voteront-l-abrogation-quitte-a-sacrifier-la-reforme-touraine-22273198.php",
-			"description": "Alors que le vote sur l\u2019abrogation de la r\u00e9forme des retraites port\u00e9e par les Insoumis doit avoir lieu ce jeudi, le PS a annonc\u00e9 qu\u2019il voterait pour"
-		},
-		{
-			"title": "Nice : \u00e0 un an et demi des municipales, Estrosi salu\u00e9 par deux tiers des Ni\u00e7ois, Ciotti en retrait, la gauche dans les choux (sondage) - Nice-Presse",
-			"link": "https://nicepresse.com/nice-a-un-an-et-demi-des-municipales-estrosi-salue-par-deux-tiers-des-nicois-ciotti-en-retrait-la-gauche-dans-les-choux-sondage/",
-			"pubDate": "Sun, 24 Nov 2024 12:10:17 GMT",
-			"image": "https://nicepresse.com/wp-content/uploads/social-share-watermark/209346_social-share-watermark.jpg",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "Nice-Presse : actualit\u00e9s et infos en direct",
-			"url": "https://nicepresse.com/nice-a-un-an-et-demi-des-municipales-estrosi-salue-par-deux-tiers-des-nicois-ciotti-en-retrait-la-gauche-dans-les-choux-sondage/",
-			"description": "Info Nice-Presse. Bien des maires de grandes villes fran\u00e7aises aimeraient sans doute approcher des prochaines \u00e9lections municipales avec ce niveau de"
-		},
-		{
-			"title": "M\u00e9tropole de Lyon. Automobilistes, attention ! Le tunnel sous Fourvi\u00e8re sera ferm\u00e9 dans les deux sens cette semaine - Le Progr\u00e8s",
-			"link": "https://www.leprogres.fr/transport/2024/11/24/automobilistes-attention-le-tunnel-sous-fourviere-sera-ferme-dans-les-deux-sens-cette-semaine",
-			"pubDate": "Sun, 24 Nov 2024 11:00:57 GMT",
-			"image": "https://cdn-s-www.leprogres.fr/images/B9B72BD2-DCB6-45A2-9A9B-863E974294C0/FB1200/photo-1732460164.jpg",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "",
-			"url": "https://www.leprogres.fr/transport/2024/11/24/automobilistes-attention-le-tunnel-sous-fourviere-sera-ferme-dans-les-deux-sens-cette-semaine",
-			"description": "Tunnel sous Fourvi\u00e8re, A42, A47, A89, p\u00e9riph\u00e9rique nord\u2026 Voici les travaux pr\u00e9vus cette semaine sur les autoroutes de la M\u00e9tropole de Lyon et du Rh\u00f4ne."
-		},
-		{
-			"title": "Coup de vent en Bretagne : des rafales \u00e0 plus de 120 km/h et de nombreux promeneurs sur la c\u00f4te [En images] - Le T\u00e9l\u00e9gramme",
-			"link": "https://www.letelegramme.fr/bretagne/coup-de-vent-en-bretagne-des-rafales-a-plus-de-120-kmh-et-de-nombreux-promeneurs-sur-la-cote-en-images-6709174.php",
-			"pubDate": "Sun, 24 Nov 2024 17:42:59 GMT",
-			"image": "https://media.letelegramme.fr/api/v1/images/view/674366314d53b5465a23eab9/web_golden_xxl/674366314d53b5465a23eab9.1",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "Le T\u00e9l\u00e9gramme",
-			"url": "https://www.letelegramme.fr/bretagne/coup-de-vent-en-bretagne-des-rafales-a-plus-de-120-kmh-et-de-nombreux-promeneurs-sur-la-cote-en-images-6709174.php",
-			"description": "Avec une rafale \u00e0 131\u00a0km/h au plus fort de la temp\u00eate et des vitesses au-dessus des 110\u00a0km/h, l\u2019ouest breton a connu un week-end tr\u00e8s vent\u00e9 mais doux. De quoi attirer les promeneurs en bord de mer."
-		},
-		{
-			"title": "Une altercation qui a \"d\u00e9g\u00e9n\u00e9r\u00e9\": un homme de 66 ans meurt poignard\u00e9 en Is\u00e8re, sa femme en garde \u00e0 vue - BFMTV",
-			"link": "https://www.bfmtv.com/police-justice/une-altercation-qui-a-degenere-un-homme-de-66-ans-meurt-poignarde-en-isere-sa-femme-en-garde-a-vue_AD-202411240288.html",
-			"pubDate": "Sun, 24 Nov 2024 11:32:12 GMT",
-			"image": "https://images.bfmtv.com/imCUE1dutbbJq2m7fDO8PDWpXY4=/0x1:1408x793/1408x0/images/Voiron-Isere-1983441.jpg",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "BFMTV",
-			"url": "https://www.bfmtv.com/police-justice/une-altercation-qui-a-degenere-un-homme-de-66-ans-meurt-poignarde-en-isere-sa-femme-en-garde-a-vue_AD-202411240288.html",
-			"description": "La femme du suspect, \u00e2g\u00e9e de 70 ans, a \u00e9t\u00e9 plac\u00e9e en garde \u00e0 vue et est actuellement entendue par la police judiciaire. Les faits ont eu lieu \u00e0 Voiron, au nord de Grenoble."
-		},
-		{
-			"title": "\u00c0 Pont-Audemer, un homme de 33 ans tu\u00e9 par balles sur fond de trafic de drogue - France 3 R\u00e9gions",
-			"link": "https://france3-regions.francetvinfo.fr/normandie/eure/evreux/a-pont-audemer-un-homme-de-33-ans-tue-par-balle-sur-fond-de-trafic-de-drogue-3065533.html",
-			"pubDate": "Sun, 24 Nov 2024 17:45:37 GMT",
-			"image": "https://france3-regions.francetvinfo.fr/image/RYxAVr8KobSCMDEUhyQSTS2xC3o/930x620/regions/2024/08/07/maxstockworld460679-1-66b3324a2c59a184118114.jpg",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "France 3 Normandie",
-			"url": "https://france3-regions.francetvinfo.fr/normandie/eure/evreux/a-pont-audemer-un-homme-de-33-ans-tue-par-balle-sur-fond-de-trafic-de-drogue-3065533.html",
-			"description": "Un homme d\u00e9favorablement connu de la justice a \u00e9t\u00e9 abattu \u00e0 Pont-Audemer. Il pourrait s'agir d'un r\u00e8glement de comptes."
-		},
-		{
-			"title": "\"Arr\u00eatez-vous l\u00e0\" : \u00e9change tendu entre Villepin et Borne sur Isra\u00ebl dans l'\u00e9mission \"Quelle \u00e9poque\" - La Montagne",
-			"link": "https://www.lamontagne.fr/paris-75000/loisirs/arretez-vous-la-echange-tendu-entre-de-villepin-et-borne-sur-israel-dans-l-emission-quelle-epoque_14601032/",
-			"pubDate": "Sun, 24 Nov 2024 12:16:00 GMT",
-			"image": "https://img.lamontagne.fr/PDEQUQWPZ3QCZT0dK1QrvS0Cg78XXGz-07s_V1ZyEDM/fit/657/438/sm/0/bG9jYWw6Ly8vMDAvMDAvMDcvMjQvODkvMjAwMDAwNzI0ODk0NA.jpg",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "www.lamontagne.fr",
-			"url": "https://www.lamontagne.fr/paris-75000/loisirs/arretez-vous-la-echange-tendu-entre-de-villepin-et-borne-sur-israel-dans-l-emission-quelle-epoque_14601032/",
-			"description": "Les deux anciens Premier ministres se sont \u00e9charp\u00e9s sur la guerre sur Isra\u00ebl et la guerre au Proche-Orient dans l'\u00e9mission \"Quelle \u00e9poque\" diffus\u00e9e samedi 23 novembre sur France 2."
-		},
-		{
-			"title": "David, policier et champion du monde de Sambo, d\u00e9c\u00e8de apr\u00e8s le grave accident de l'A6b - Actu17",
-			"link": "https://actu17.fr/faits-divers/david-policier-et-champion-du-monde-de-sambo-decede-apres-le-grave-accident-de-la6b.html",
-			"pubDate": "Sun, 24 Nov 2024 20:28:00 GMT",
-			"image": "https://actu17.fr/medias/2024/11/david_heran_241124.webp",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "",
-			"url": "https://actu17.fr/faits-divers/david-policier-et-champion-du-monde-de-sambo-decede-apres-le-grave-accident-de-la6b.html",
-			"description": "David H\u00e9ran, policier parisien et champion du monde de Sambo en 2016, est d\u00e9c\u00e9d\u00e9 ce dimanche des suites d\u2019un grave accident de la route survenu jeudi sur l\u2019autoroute A6b, \u00e0 Chevilly-Larue (Val-de-Marne). \u00c2g\u00e9 de 46 ans, il \u00e9tait mari\u00e9 et p\u00e8re de deux enfants. Une cagnotte a \u00e9t\u00e9 lanc\u00e9e pour soutenir sa......"
-		},
-		{
-			"title": "Caf : qui sont les millions d'allocataires ayant droit au versement exceptionnel du 13 d\u00e9cembre - Droit Finances",
-			"link": "https://droit-finances.commentcamarche.com/vie-pratique/actualite-juridique-et-financiere/5431-caf-13-decembre/",
-			"pubDate": "Sun, 24 Nov 2024 16:45:03 GMT",
-			"image": "https://img-19.commentcamarche.com/WJUserIUNXDVI7758GBl9YAWVUI=/1500x/smart/09f1a8562fee4d51bfed9f0db0f886b8/ccmcms-droit-finances/32603690.jpg",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "",
-			"url": "https://droit-finances.commentcamarche.com/vie-pratique/actualite-juridique-et-financiere/5431-caf-13-decembre/",
-			"description": "Nombre d'allocataires de la Caf auront droit \u00e0 un virement exceptionnel sur leur compte bancaire le 13\u00a0d\u00e9cembre. Voici pourquoi et qui est concern\u00e9."
-		},
-		{
-			"title": "Guerre en Ukraine : l\u2019envoi de troupes occidentales de nouveau en discussion - Le Monde",
-			"link": "https://www.lemonde.fr/international/article/2024/11/25/guerre-en-ukraine-l-envoi-de-troupes-occidentales-de-nouveau-en-discussion_6412802_3210.html",
-			"pubDate": "Mon, 25 Nov 2024 05:00:28 GMT",
-			"image": "https://img.lemde.fr/2024/11/11/0/0/6399/4266/1440/960/60/0/6c61f59_2024-11-11t122946z-434524028-rc203barltou-rtrmadp-3-remembrance-day-france-macron.JPG",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "Le Monde.fr",
-			"url": "https://www.lemonde.fr/international/article/2024/11/25/guerre-en-ukraine-l-envoi-de-troupes-occidentales-de-nouveau-en-discussion_6412802_3210.html",
-			"description": "Dans la perspective d\u2019un d\u00e9sengagement am\u00e9ricain vis-\u00e0-vis de Kiev en raison du retour de Donald Trump \u00e0 la Maison Blanche, Paris et Londres n\u2019excluent pas de prendre la t\u00eate d\u2019une coalition en Ukraine, selon des modalit\u00e9s qui restent \u00e0 pr\u00e9ciser."
-		},
-		{
-			"title": "Les id\u00e9es du RN s\u2019installent dans l\u2019opinion mais le doute grandit sur sa capacit\u00e9 \u00e0 gouverner - Le Monde",
-			"link": "https://www.lemonde.fr/politique/article/2024/11/25/les-idees-du-rn-s-installent-dans-l-opinion-mais-le-doute-grandit-sur-sa-capacite-a-gouverner_6412870_823448.html",
-			"pubDate": "Mon, 25 Nov 2024 05:58:05 GMT",
-			"image": "https://img.lemde.fr/2024/11/24/1406/0/4480/2986/1440/960/60/0/2a52e85_1732461213074-12.jpg",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "Le Monde.fr",
-			"url": "https://www.lemonde.fr/politique/article/2024/11/25/les-idees-du-rn-s-installent-dans-l-opinion-mais-le-doute-grandit-sur-sa-capacite-a-gouverner_6412870_823448.html",
-			"description": "Pr\u00e8s de quatre Fran\u00e7ais sur dix valident les th\u00e8ses du Rassemblement national, selon le barom\u00e8tre annuel de l\u2019institut Verian pour \u00ab\u00a0Le Monde\u00a0\u00bb sur l\u2019image du parti d\u2019extr\u00eame droite. Si la campagne des l\u00e9gislatives a mis en avant son pr\u00e9sident, Jordan Bardella, elle a aussi laiss\u00e9 des traces."
 		}
 	],
-	"timestamp": "2024-11-25 12:49:33.968226"
+	"timestamp": "2024-11-25 16:31:08.909375"
 }
