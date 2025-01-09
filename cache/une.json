@@ -1,94 +1,124 @@
 {
 	"content": [
 		{
-			"title": "\u00ab On a tout perdu \u00bb : la maison de Laeticia Hallyday d\u00e9truite dans les incendies de Los Angeles - Ouest-France",
-			"link": "https://www.ouest-france.fr/faits-divers/incendie/on-a-tout-perdu-la-maison-de-laeticia-hallyday-detruite-dans-les-incendies-de-los-angeles-4cba0986-ce77-11ef-8d90-909e2a097509",
-			"pubDate": "Thu, 09 Jan 2025 11:20:58 GMT",
-			"image": "",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "",
-			"url": "",
-			"description": ""
-		},
-		{
-			"title": "Trump sur le Groenland : Londres refuse de \u00abcondamner\u00bb ses propos, le Kremlin \u00e9voque une rh\u00e9torique \u00abdramatique\u00bb - Le Figaro",
-			"link": "https://www.lefigaro.fr/international/royaume-uni-londres-refuse-de-condamner-les-propos-de-trump-sur-le-groenland-et-le-canal-de-panama-20250109",
-			"pubDate": "Thu, 09 Jan 2025 09:49:30 GMT",
-			"image": "https://i.f1g.fr/media/cms/1200x630_crop/2025/01/09/e3daf2f038aac4ed2cf1caf84bf5fadb70697adc4b2b854fc3d6d5ab2d848725.JPG",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "Le Figaro",
-			"url": "https://www.lefigaro.fr/international/royaume-uni-londres-refuse-de-condamner-les-propos-de-trump-sur-le-groenland-et-le-canal-de-panama-20250109",
-			"description": "POINT SUR LA SITUATION - Les propos pol\u00e9miques de Donald Trump ont suscit\u00e9 une avalanche de r\u00e9actions outr\u00e9es de la part des chancelleries occidentales."
-		},
-		{
-			"title": "Au Venezuela, l'opposant Gonzalez Urrutia promet de faire d\u00e9railler l'investiture de Maduro - FRANCE 24",
-			"link": "https://www.france24.com/fr/am%C3%A9riques/20250109-venezuela-opposant-gonzalez-urrutia-promet-de-faire-d%C3%A9railler-investiture-pr%C3%A9sident-nicolas-maduro",
-			"pubDate": "Thu, 09 Jan 2025 06:17:42 GMT",
-			"image": "",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "",
-			"url": "",
-			"description": ""
-		},
-		{
-			"title": "Liban: le Parlement r\u00e9uni ce jeudi pour \u00e9lire un pr\u00e9sident de la R\u00e9publique apr\u00e8s une vacance de plus de deux ans - RFI",
-			"link": "https://www.rfi.fr/fr/moyen-orient/20250109-liban-le-parlement-se-r%C3%A9unit-ce-jeudi-pour-%C3%A9lire-un-pr%C3%A9sident-apr%C3%A8s-une-vacance-de-plus-de-deux-ans",
-			"pubDate": "Thu, 09 Jan 2025 02:11:32 GMT",
-			"image": "",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "",
-			"url": "",
-			"description": ""
-		},
-		{
-			"title": "En direct, guerre en Ukraine : Volodymyr Zelensky attendu en Allemagne pour une r\u00e9union avec les alli\u00e9s de Kiev - Le Monde",
-			"link": "https://www.lemonde.fr/international/live/2025/01/09/en-direct-guerre-en-ukraine-volodymyr-zelensky-attendu-en-allemagne-pour-une-reunion-avec-les-allies-de-kiev_6482085_3210.html",
-			"pubDate": "Thu, 09 Jan 2025 05:34:14 GMT",
-			"image": "https://img.lemde.fr/2025/01/09/458/0/5500/2750/1440/720/60/0/00ba5e4_ftp-import-images-1-tkgtxll1y3hi-2025-01-09t113838z-1195770801-rc2b6can9oqj-rtrmadp-3-ukraine-crisis-usa.JPG",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "Le Monde.fr",
-			"url": "https://www.lemonde.fr/international/live/2025/01/09/en-direct-guerre-en-ukraine-un-site-petrolier-toujours-en-feu-en-russie-apres-une-attaque-ukrainienne_6482085_3210.html",
-			"description": "Le pr\u00e9sident ukrainien, Volodymyr Zelensky, et le secr\u00e9taire \u00e0 la d\u00e9fense am\u00e9ricain, Lloyd Austin, ont profit\u00e9 de leur derni\u00e8re rencontre jeudi en Allemagne pour presser la future administration Trump de ne pas abandonner le combat de Kiev, avertissant que cesser le soutien militaire maintenant \u00ab\u00a0ne ferait qu\u2019inciter \u00e0 plus d\u2019agression, de chaos et de guerre\u00a0\u00bb."
-		},
-		{
-			"title": "Maya Kandel : \u00abElon Musk et Mark Zuckerberg ont en commun la volont\u00e9 d\u2019affaiblir l\u2019Union europ\u00e9enne - Lib\u00e9ration",
-			"link": "https://www.liberation.fr/idees-et-debats/maya-kandel-elon-musk-et-mark-zuckerberg-ont-en-commun-la-volonte-daffaiblir-lunion-europeenne-20250109_BDTDJXD6XJA2TG756T3V5NML5I/",
-			"pubDate": "Thu, 09 Jan 2025 06:00:00 GMT",
-			"image": "https://www.liberation.fr/resizer/zZ9t5GV4AT-ZVi5__ZreZUCwU5I=/1200x630/filters:format(jpg):quality(70):focal(933x961:943x971)/cloudfront-eu-central-1.images.arcpublishing.com/liberation/IBBYQ2APR5D43LWTKAYWJGXMQQ.jpg",
+			"title": "Incendies en Californie : Trump s\u2019en prend au gouverneur d\u00e9mocrate, accus\u00e9 de \u00abprot\u00e9ger un poisson sans valeur - Lib\u00e9ration",
+			"link": "https://www.liberation.fr/international/amerique/incendies-en-californie-trump-sen-prend-au-gouverneur-democrate-accuse-de-proteger-un-poisson-sans-valeur-20250109_4TXBLP5SOJBXNHGGBIUAAGDUAM/",
+			"pubDate": "Thu, 09 Jan 2025 14:02:00 GMT",
+			"image": "https://www.liberation.fr/resizer/I8Jg9htKEtiZePlE6qVDMh7I_bM=/1200x630/filters:format(jpg):quality(70):focal(1811x1428:1821x1438)/cloudfront-eu-central-1.images.arcpublishing.com/liberation/ML7IKQSGTRGZTN63HZKJPAXJOU.jpg",
 			"logo": "https://picsum.photos/32/32?grayscale",
 			"site_name": "Lib\u00e9ration",
 			"url": "",
-			"description": "Alors que Zuckerberg vient de pr\u00eater all\u00e9geance au duo Trump-Musk au nom de la \u00ablibert\u00e9 d\u2019expression\u00bb, la chercheuse sp\u00e9cialiste des Etats-Unis analyse les ressorts id\u00e9ologiques et strat\u00e9giques \u00e0 l\u2019\u0153uvre."
+			"description": "Le futur pr\u00e9sident des Etats-Unis accuse Gavin Newsom d\u2019\u00eatre responsable des incendies qui ravagent actuellement l\u2019ouest am\u00e9ricain, ayant notamment selon lui choisit de prot\u00e9ger un poisson aux d\u00e9pens de la population."
+		},
+		{
+			"title": "\u00abD\u00e9veloppement dramatique de la situation\u00bb : la Russie r\u00e9agit aux menaces d\u2019annexion du Groenland de Trump - Le Journal du dimanche",
+			"link": "https://www.lejdd.fr/international/developpement-dramatique-de-la-situation-la-russie-reagit-aux-menaces-dannexion-du-groenland-de-trump-153684",
+			"pubDate": "Thu, 09 Jan 2025 10:19:20 GMT",
+			"image": "https://www.lejdd.fr/lmnr/var/jdd/public/media/image/2025/01/09/11/000_36rf9rh.jpg?VersionId=JdPpOD9G4l60zqxx8PAAJOSh5PIQ4aXh",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "",
+			"url": "https://www.lejdd.fr/international/developpement-dramatique-de-la-situation-la-russie-reagit-aux-menaces-dannexion-du-groenland-de-trump-153684",
+			"description": "Ce jeudi\u00a09\u00a0janvier, Moscou a indiqu\u00e9 suivre \u00ab\u00a0de tr\u00e8s pr\u00e8s\u00a0\u00bb les d\u00e9clarations \u00ab\u00a0dramatiques\u00a0\u00bb du pr\u00e9sident \u00e9lu am\u00e9ricain Donald Trump, qui a menac\u00e9 d\u2019annexer le Groenland, un territoire danois situ\u00e9 dans l\u2019Arctique o\u00f9 la Russie est un acteur majeur."
+		},
+		{
+			"title": "Liban : qui est Joseph Aoun, le nouveau pr\u00e9sident de la R\u00e9publique ? - FRANCE 24",
+			"link": "https://www.france24.com/fr/moyen-orient/20250109-liban-chef-arm%C3%A9e-joseph-aoun-%C3%A9lu-pr%C3%A9sident-de-la-r%C3%A9publique-parlement-militaire-portrait",
+			"pubDate": "Thu, 09 Jan 2025 12:40:33 GMT",
+			"image": "",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "",
+			"url": "",
+			"description": ""
+		},
+		{
+			"title": "Tchad: ce que l\u2019on sait au lendemain de l\u2019attaque du palais pr\u00e9sidentiel - RFI",
+			"link": "https://www.rfi.fr/fr/afrique/20250109-tchad-lendemain-de-l-attaque-du-palais-pr%C3%A9sidentiel-ce-que-l-on-sait",
+			"pubDate": "Thu, 09 Jan 2025 13:48:23 GMT",
+			"image": "",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "",
+			"url": "",
+			"description": ""
+		},
+		{
+			"title": "Guerre en Ukraine : 12 300 civils tu\u00e9s, dont plus de 650 enfants, depuis le d\u00e9but du conflit, selon un bilan \u00e9tabli par l'ONU - franceinfo",
+			"link": "https://www.francetvinfo.fr/monde/europe/manifestations-en-ukraine/guerre-en-ukraine-12-300-civils-tues-dont-plus-de-650-enfants-depuis-le-debut-du-conflit-selon-un-bilan-etabli-par-l-onu_7003472.html",
+			"pubDate": "Thu, 09 Jan 2025 09:14:24 GMT",
+			"image": "https://www.francetvinfo.fr/pictures/Yhdjy94MZ1SZ_8cfr5Jk7Vg6s-w/0x53:1024x629/1500x843/2025/01/09/000-36td6wf-677f984a4cc0d855041929.jpg",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "Franceinfo",
+			"url": "https://www.francetvinfo.fr/monde/europe/manifestations-en-ukraine/guerre-en-ukraine-12-300-civils-tues-dont-plus-de-650-enfants-depuis-le-debut-du-conflit-selon-un-bilan-etabli-par-l-onu_7003472.html",
+			"description": "L'ONU se dit \"profond\u00e9ment pr\u00e9occup\u00e9e\" par l'impact sur les civils de \"l'utilisation accrue des drones russes \u00e0 longues port\u00e9es\" et d\u00e9nonce les ex\u00e9cutions de militaires et de civils par les Russes et les mauvais traitements inflig\u00e9es aux soldats russes captur\u00e9s par les Ukrainiens."
+		},
+		{
+			"title": "Thierry Breton : \u00ab L'Europe a l'obligation d'enqu\u00eater sur les pratiques de Musk \u00bb - Les \u00c9chos",
+			"link": "https://www.lesechos.fr/tech-medias/hightech/thierry-breton-leurope-a-lobligation-denqueter-sur-les-pratiques-de-musk-2141407",
+			"pubDate": "Wed, 08 Jan 2025 18:30:17 GMT",
+			"image": "",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "",
+			"url": "",
+			"description": ""
+		},
+		{
+			"title": "Guerre en Ukraine, jour 1051 : nouvelle aide de Washington, 30 000 drones promis \u00e0 Kiev - La Croix",
+			"link": "https://www.la-croix.com/international/guerre-ukraine-russie-jour-1051-point-conflit-ukrainien-poutine-aujourdhui-20250109",
+			"pubDate": "Thu, 09 Jan 2025 10:08:17 GMT",
+			"image": "https://i.la-croix.com/1400x933/smart/2025/01/09/1937413-un-militaire-ukrainien-se-prepare-a-tirer-un-obusi.jpg",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "La Croix",
+			"url": "https://www.la-croix.com/international/guerre-ukraine-russie-jour-1051-point-conflit-ukrainien-poutine-aujourdhui-20250109",
+			"description": "L\u2019UE est \u00ab\u00a0pr\u00eate \u00e0 prendre le relais\u00a0\u00bb pour mener le soutien militaire \u00e0 l\u2019Ukraine, tandis que Washington a annonc\u00e9, jeudi 9\u00a0janvier, une nouvelle aide militaire de 500\u00a0millions de dollars pour l\u2019Ukraine. Une coalition internationale annonce dans le m\u00eame temps l\u2019envoi de 30\u00a0000 drones."
+		},
+		{
+			"title": "Lib\u00e9ration de Cecilia Sala : le coup diplomatique de Giorgia Meloni - Le Monde",
+			"link": "https://www.lemonde.fr/international/article/2025/01/09/liberation-de-cecilia-sala-le-coup-diplomatique-de-giorgia-meloni_6489405_3210.html",
+			"pubDate": "Thu, 09 Jan 2025 11:00:08 GMT",
+			"image": "https://img.lemde.fr/2025/01/08/0/0/3392/2261/1440/960/60/0/55e133e_ftp-import-images-1-qwa01zcs1dlp-5685779-01-06.jpg",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "Le Monde.fr",
+			"url": "https://www.lemonde.fr/international/article/2025/01/09/liberation-de-cecilia-sala-le-coup-diplomatique-de-giorgia-meloni_6489405_3210.html",
+			"description": "La journaliste italienne avait \u00e9t\u00e9 arr\u00eat\u00e9e le 19\u00a0d\u00e9cembre\u00a02024\u00a0en Iran. Sa lib\u00e9ration intervient quelques jours apr\u00e8s une entrevue surprise entre Donald Trump et la premi\u00e8re ministre italienne."
 		},
 		{
 			"title": "En direct, Syrie : au moins 37 morts dans des combats entre forces majoritairement kurdes et factions soutenues par la Turquie - Le Monde",
 			"link": "https://www.lemonde.fr/international/live/2025/01/09/en-direct-syrie-au-moins-37-morts-dans-des-combats-entre-forces-dominees-par-les-kurdes-et-forces-proturques_6480664_3210.html",
 			"pubDate": "Thu, 09 Jan 2025 05:49:11 GMT",
-			"image": "https://img.lemde.fr/2025/01/02/444/0/5336/2668/1440/720/60/0/6c2f1ac_5637728-01-06.jpg",
+			"image": "https://img.lemde.fr/2024/12/19/834/0/5000/2500/1440/720/60/0/cf40806_bbb566258e144acbb5b8bec4248a1e22-1-bd98702f942c410391f54fd3478a83cd.jpg",
 			"logo": "https://picsum.photos/32/32?grayscale",
 			"site_name": "Le Monde.fr",
-			"url": "https://www.lemonde.fr/international/live/2025/01/09/en-direct-syrie-au-moins-37-morts-dans-des-combats-entre-forces-dominees-par-les-kurdes-et-forces-proturques_6480664_3210.html",
-			"description": "L\u2019Observatoire syrien des droits de l\u2019homme a fait part de \u00ab\u00a0combats f\u00e9roces dans les environs de Manbij au cours des derni\u00e8res heures entre les Forces d\u00e9mocratiques syriennes et les factions de l\u2019Arm\u00e9e nationale syrienne\u00a0\u00bb, aid\u00e9es par l\u2019aviation turque."
+			"url": "https://www.lemonde.fr/international/live/2025/01/09/en-direct-syrie-plus-de-50-000-syriens-sont-rentres-dans-leur-pays-depuis-la-turquie-selon-ankara_6480664_3210.html",
+			"description": "Le pays, qui partage une fronti\u00e8re de plus de 900 kilom\u00e8tres avec la Syrie, accueille toujours sur son sol quelque 2,9\u00a0millions de Syriens ayant fui la guerre qui a meurtri leur pays \u00e0 partir de 2011, selon le minist\u00e8re de l\u2019int\u00e9rieur turc."
 		},
 		{
-			"title": "Syrie : \u00ab On est face \u00e0 un mouvement qui s\u2019est d\u00e9radicalis\u00e9 par le haut \u00bb - Le Monde",
-			"link": "https://www.lemonde.fr/international/article/2025/01/08/syrie-on-est-face-a-un-mouvement-qui-s-est-deradicalise-par-le-haut_6488489_3210.html",
-			"pubDate": "Wed, 08 Jan 2025 17:57:05 GMT",
-			"image": "https://img.lemde.fr/2025/01/08/0/0/5500/3666/1440/960/60/0/4952f8d_sirius-fs-upload-1-nm4tw5iekur0-1736349997331-275031.jpg",
+			"title": "\u00abGrooming gangs\u00bb en Grande-Bretagne: le peuple des abysses - Causeur.fr",
+			"link": "https://www.causeur.fr/grooming-gangs-en-grande-bretagne-le-peuple-des-abysses-299237",
+			"pubDate": "Thu, 09 Jan 2025 10:03:10 GMT",
+			"image": "https://www.causeur.fr/wp-content/uploads/2025/01/Elon-Musk-Keir-Starmer-grooming-gangs.jpg",
 			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "Le Monde.fr",
-			"url": "https://www.lemonde.fr/international/article/2025/01/08/syrie-on-est-face-a-un-mouvement-qui-s-est-deradicalise-par-le-haut_6488489_3210.html",
-			"description": "Grand sp\u00e9cialiste de la Syrie, le chercheur Patrick Haenni analyse la nature du nouveau pouvoir issu du groupe Hayat Tahrir Al-Cham et les d\u00e9fis strat\u00e9giques et s\u00e9curitaires auxquels vont \u00eatre confront\u00e9es les nouvelles autorit\u00e9s de Damas."
+			"site_name": "Causeur",
+			"url": "https://www.causeur.fr/grooming-gangs-en-grande-bretagne-le-peuple-des-abysses-299237",
+			"description": "Elon Musk s'improvise pyromane politique au Royaume-Uni depuis quelques jours, en accusant le Premier ministre Keir Starmer d\u2019avoir \u00e9t\u00e9 le \u00ab complice \u00bb de r\u00e9seaux p\u00e9docriminels, ou en qualifiant sa secr\u00e9taire d\u2019\u00c9tat Jess Phillips de \u00ab\u00a0sorci\u00e8re\u00a0\u00bb. Keir Starmer, piqu\u00e9 au vif, se d\u00e9fend. Qui dit vrai\u00a0?"
 		},
 		{
-			"title": "La journaliste italienne Cecilia Sala, d\u00e9tenue en Iran depuis d\u00e9cembre, a \u00e9t\u00e9 lib\u00e9r\u00e9e et rentre en Italie - franceinfo",
-			"link": "https://www.francetvinfo.fr/monde/iran/la-journaliste-italienne-detenue-en-iran-depuis-decembre-2024-a-ete-liberee-et-rentre-en-italie_7001588.html",
-			"pubDate": "Wed, 08 Jan 2025 11:34:36 GMT",
-			"image": "https://www.francetvinfo.fr/pictures/kKxSNhANiDrUmCoNgN0j9E3PRHw/0x53:1024x629/1500x843/2025/01/08/000-36rw3cj-677e6198c7113501897494.jpg",
+			"title": "ChatGPT aurait \u00e9t\u00e9 utilis\u00e9 pour l'attaque \u00e0 la bombe dans le Cybertruck \u00e0 Las Vegas - Clubic",
+			"link": "https://www.clubic.com/actualite-549467-chatgpt-aurait-ete-utilise-pour-l-attaque-a-la-bombe-dans-le-cybertruck-a-las-vegas.html",
+			"pubDate": "Thu, 09 Jan 2025 08:12:00 GMT",
+			"image": "https://pic.clubic.com/v1/images/2178691/raw",
 			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "Franceinfo",
-			"url": "https://www.francetvinfo.fr/monde/iran/la-journaliste-italienne-detenue-en-iran-depuis-decembre-2024-a-ete-liberee-et-rentre-en-italie_7001588.html",
-			"description": "Elle avait \u00e9t\u00e9 arr\u00eat\u00e9e le 19 d\u00e9cembre pour avoir \"enfreint les lois\" de la R\u00e9publique islamique. L'Iran n'avait jamais communiqu\u00e9 les raisons pr\u00e9cises de cette arrestation."
+			"site_name": "clubic.com",
+			"url": "https://www.clubic.com/actualite-549467-chatgpt-aurait-ete-utilise-pour-l-attaque-a-la-bombe-dans-le-cybertruck-a-las-vegas.html",
+			"description": "La personne \u00e0 l'origine de l'explosion du Cybertruck devant l'h\u00f4tel Trump de Las Vegas a utilis\u00e9 ChatGPT pour planifier son attaque. L'IA lui aurait ainsi fourni plusieurs informations importantes."
+		},
+		{
+			"title": "Un d\u00e9p\u00f4t de carburant dans l'ouest de la Russie vis\u00e9 par des drones ukrainiens - FRANCE 24",
+			"link": "https://www.france24.com/fr/europe/20250108-un-d%C3%A9p%C3%B4t-de-carburant-dans-l-ouest-de-la-russie-vis%C3%A9-par-des-drones-ukrainiens",
+			"pubDate": "Wed, 08 Jan 2025 10:27:46 GMT",
+			"image": "",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "",
+			"url": "",
+			"description": ""
 		},
 		{
 			"title": "\u00abMa jolie, tu n\u2019es plus gouverneur du Canada\u00bb : Elon Musk recadre s\u00e8chement Justin Trudeau sur la menace d'annexion am\u00e9ricaine - Le Journal du dimanche",
@@ -101,79 +131,49 @@
 			"description": "Le Premier ministre d\u00e9missionnaire Justin Trudeau a r\u00e9agi aux nombreuses d\u00e9clarations de Donald Trump \u00e9voquant sa volont\u00e9 de faire du Canada le 51e \u00c9tat am\u00e9ricain. Elon Musk s\u2019est m\u00eal\u00e9 \u00e0 la passe d\u2019armes entre les deux dirigeants, fustigeant le Canadien."
 		},
 		{
-			"title": "En direct, guerres au Proche-Orient : un accord sur une tr\u00eave dans la bande de Gaza est \u00ab tr\u00e8s proche \u00bb, affirme Antony Blinken - Le Monde",
-			"link": "https://www.lemonde.fr/international/live/2025/01/08/en-direct-guerres-au-proche-orient-un-accord-sur-une-treve-dans-la-bande-de-gaza-est-tres-proche-affirme-antony-blinken_6480664_3210.html",
-			"pubDate": "Wed, 08 Jan 2025 21:00:00 GMT",
-			"image": "https://img.lemde.fr/2025/01/02/444/0/5336/2668/1440/720/60/0/6c2f1ac_5637728-01-06.jpg",
+			"title": "Syrie : \u00ab On est face \u00e0 un mouvement qui s\u2019est d\u00e9radicalis\u00e9 par le haut \u00bb - Le Monde",
+			"link": "https://www.lemonde.fr/international/article/2025/01/08/syrie-on-est-face-a-un-mouvement-qui-s-est-deradicalise-par-le-haut_6488489_3210.html",
+			"pubDate": "Wed, 08 Jan 2025 17:57:05 GMT",
+			"image": "https://img.lemde.fr/2025/01/08/0/0/5500/3666/1440/960/60/0/4952f8d_sirius-fs-upload-1-nm4tw5iekur0-1736349997331-275031.jpg",
 			"logo": "https://picsum.photos/32/32?grayscale",
 			"site_name": "Le Monde.fr",
-			"url": "https://www.lemonde.fr/international/live/2025/01/09/en-direct-syrie-au-moins-37-morts-dans-des-combats-entre-forces-dominees-par-les-kurdes-et-forces-proturques_6480664_3210.html",
-			"description": "L\u2019Observatoire syrien des droits de l\u2019homme a fait part de \u00ab\u00a0combats f\u00e9roces dans les environs de Manbij au cours des derni\u00e8res heures entre les Forces d\u00e9mocratiques syriennes et les factions de l\u2019Arm\u00e9e nationale syrienne\u00a0\u00bb, aid\u00e9es par l\u2019aviation turque."
+			"url": "https://www.lemonde.fr/international/article/2025/01/08/syrie-on-est-face-a-un-mouvement-qui-s-est-deradicalise-par-le-haut_6488489_3210.html",
+			"description": "Grand sp\u00e9cialiste de la Syrie, le chercheur Patrick Haenni analyse la nature du nouveau pouvoir issu du groupe Hayat Tahrir Al-Cham et les d\u00e9fis strat\u00e9giques et s\u00e9curitaires auxquels vont \u00eatre confront\u00e9es les nouvelles autorit\u00e9s de Damas."
 		},
 		{
-			"title": "\u00ab Les Etats-Unis d\u2019Am\u00e9rique mexicaine, \u00e7a sonne bien, non ? \u00bb - 20 Minutes",
-			"link": "https://www.20minutes.fr/monde/etats-unis/4132708-20250108-etats-unis-etats-unis-amerique-mexicaine-ca-sonne-bien-non-presidente-mexique-repond-trump",
-			"pubDate": "Wed, 08 Jan 2025 19:06:00 GMT",
-			"image": "https://img.20mn.fr/moWpRRwUTfe7JzT7-wBTaCk/1444x920_mandatory-credit-photo-by-presidencia-de-la-republica-mexi-planet-pix-via-zuma-press-wire-shutterstock-15048253b-mexican-president-claudia-sheinbaum-calls-on-a-reporter-during-the-daily-news-conference-at-the-national-palace-december-27-2024-in-mexico-city-mexico-sheinbaum-a-new-cellphone-app-to-contact-the-mexican-consulate-for-migrants-in-the-united-states-who-are-detained-by-u-s-immigration-mexican-president-sheinbaum-on-assisting-migrants-in-the-united-states-mexico-city-df-mexico-27-dec-2024-shutterstock-editorial-mexican-president-sheinbaum-on-15048253b-2412280049",
+			"title": "\u00c9ric Zemmour et Sarah Knafo invit\u00e9s \u00e0 l\u2019investiture de Donald Trump le 20 janvier \u00e0 Washington - Le Parisien",
+			"link": "https://www.leparisien.fr/politique/eric-zemmour-et-sarah-knafo-invites-a-linvestiture-de-donald-trump-le-20-janvier-a-washington-08-01-2025-Q5C4CM5NXBDZVIPPQLONNTCA6U.php",
+			"pubDate": "Wed, 08 Jan 2025 17:56:00 GMT",
+			"image": "https://www.leparisien.fr/resizer/YDGvXRwxHzLdot7j6A4FkvDtRKc=/1200x675/cloudfront-eu-central-1.images.arcpublishing.com/leparisien/CKAT2MJJQRBLHMGSCQOLSJCVI4.jpg",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "leparisien.fr",
+			"url": "https://www.leparisien.fr/politique/eric-zemmour-et-sarah-knafo-invites-a-linvestiture-de-donald-trump-le-20-janvier-a-washington-08-01-2025-Q5C4CM5NXBDZVIPPQLONNTCA6U.php",
+			"description": "Le pr\u00e9sident et l\u2019unique eurod\u00e9put\u00e9e du parti Reconqu\u00eate seront pr\u00e9sents \u00e0 Washington le 20\u00a0janvier pour le retour du milliardaire r\u00e9publica"
+		},
+		{
+			"title": "\u00ab Les historiens diront que l\u2019impact a \u00e9t\u00e9 grand \u00bb, Biden juge son mandat - 20 Minutes",
+			"link": "https://www.20minutes.fr/monde/etats-unis/4132718-20250109-etats-unis-historiens-diront-impact-grand-faut-retenir-interview-joe-biden",
+			"pubDate": "Wed, 08 Jan 2025 23:26:00 GMT",
+			"image": "https://img.20mn.fr/1Utar9oIQTSJmmoRwu3ndCk/1444x920_president-joe-biden-meets-with-president-elect-donald-trump-in-the-oval-office-of-the-white-house-wednesday-nov-13-2024-in-washington-ap-photo-evan-vucci-xbom131-24335807634418-nov-13-2024-photo-2412010420",
 			"logo": "https://picsum.photos/32/32?grayscale",
 			"site_name": "20 Minutes",
-			"url": "https://www.20minutes.fr/monde/etats-unis/4132708-20250108-etats-unis-etats-unis-amerique-mexicaine-ca-sonne-bien-non-presidente-mexique-repond-trump",
-			"description": "Alors que Donald Trump annon\u00e7ait cette semaine vouloir renommer le golfe du Mexique \u00ab\u00a0golfe d\u2019Am\u00e9rique\u00a0\u00bb, Claudia Sheinbaum se pr\u00eate \u00e0 l\u2019exercice de la joute verbale avec son voisin am\u00e9ricain "
-		},
-		{
-			"title": "Joe Biden affirme qu\u2019il croyait \u00eatre \u00ab le mieux plac\u00e9 pour battre \u00bb Donald Trump lors de l\u2019\u00e9lection pr\u00e9sidentielle - Le Monde",
-			"link": "https://www.lemonde.fr/international/article/2025/01/08/joe-biden-affirme-qu-il-croyait-etre-le-mieux-place-pour-battre-donald-trump-lors-de-l-election-presidentielle_6488527_3210.html",
-			"pubDate": "Wed, 08 Jan 2025 18:36:23 GMT",
-			"image": "https://img.lemde.fr/2025/01/08/0/0/8440/5626/1440/960/60/0/7e97175_ftp-import-images-1-swyibnmzvnu8-bceb8b9277a5452caa2cd2222e500e4d-1-3dc67a1e231a4cfb945ac54e26d2ed67.jpg",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "Le Monde.fr",
-			"url": "https://www.lemonde.fr/international/article/2025/01/08/joe-biden-affirme-qu-il-croyait-etre-le-mieux-place-pour-battre-donald-trump-lors-de-l-election-presidentielle_6488527_3210.html",
-			"description": "\u00ab\u00a0Quand [Donald] Trump s\u2019est pr\u00e9sent\u00e9, j\u2019ai vraiment cru que j\u2019\u00e9tais le mieux plac\u00e9 pour le battre. Mais je ne voulais pas non plus \u00eatre pr\u00e9sident \u00e0 85 ou 86\u00a0ans. J\u2019ai donc \u00e9voqu\u00e9 le fait de passer le relais\u00a0\u00bb, a-t-il affirm\u00e9 au quotidien am\u00e9ricain \u00ab\u00a0USA Today\u00a0\u00bb."
-		},
-		{
-			"title": "Qu\u2019est-ce que le scandale des \u00abgrooming gangs\u00bb qu\u2019Elon Musk fait ressurgir pour s\u2019immiscer dans la politique britannique - Lib\u00e9ration",
-			"link": "https://www.liberation.fr/checknews/quest-ce-que-le-scandale-des-grooming-gangs-quelon-musk-fait-ressurgir-pour-simmiscer-dans-la-politique-britannique-20250108_O3ZTB5KVHJF5JEFIOLWXJJG2M4/",
-			"pubDate": "Wed, 08 Jan 2025 15:52:40 GMT",
-			"image": "https://www.liberation.fr/resizer/iZP_AtWj7MWt7i1Mmy7b4o54Oas=/1200x630/filters:format(jpg):quality(70):focal(3562x2061:3572x2071)/cloudfront-eu-central-1.images.arcpublishing.com/liberation/2Z6RKKZPNNCZRKAANM77SCQZUE.jpg",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "Lib\u00e9ration",
-			"url": "",
-			"description": "Le milliardaire am\u00e9ricain inonde son r\u00e9seau social X de publications \u00e0 propos d\u2019affaires de viols collectifs qui ont \u00e9mu le Royaume-Uni dans les ann\u00e9es 2010. Un moyen de critiquer le gouvernement et de promouvoir l\u2019extr\u00eame droite."
-		},
-		{
-			"title": "Guerre entre Isra\u00ebl et le Hamas : deux corps d'otages retenus dans la bande de Gaza ont \u00e9t\u00e9 retrouv\u00e9s, selon le ministre de la D\u00e9fense, un seul d'apr\u00e8s l'arm\u00e9e - franceinfo",
-			"link": "https://www.francetvinfo.fr/monde/proche-orient/israel-palestine/guerre-entre-israel-et-le-hamas-l-etat-hebreu-annonce-avoir-retrouve-les-corps-de-deux-otages-retenus-dans-la-bande-de-gaza_7001864.html",
-			"pubDate": "Wed, 08 Jan 2025 16:18:47 GMT",
-			"image": "https://www.francetvinfo.fr/pictures/Oev790Y0pbXSYuon513-PL0bUj4/0x0:1024x575/1500x843/2025/01/08/000-36kc9rg-677ea42a25e27431930285.jpg",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "Franceinfo",
-			"url": "https://www.francetvinfo.fr/monde/proche-orient/israel-palestine/guerre-entre-israel-et-le-hamas-l-etat-hebreu-annonce-avoir-retrouve-les-corps-de-deux-otages-retenus-dans-la-bande-de-gaza_7001864.html",
-			"description": "Youssef et Hamza al-Zayadna avaient \u00e9t\u00e9 captur\u00e9s par des membres du Hamas lors de l'attaque du 7 octobre 2023. L'arm\u00e9e isra\u00e9lienne affirme de son c\u00f4t\u00e9 avoir r\u00e9cup\u00e9r\u00e9 uniquement le corps de Youssef."
-		},
-		{
-			"title": "L'explosion devant l'h\u00f4tel Trump planifi\u00e9e avec ChatGPT - Euronews",
-			"link": "https://fr.euronews.com/next/2025/01/08/lexplosion-du-cybertruck-tesla-devant-lhotel-trump-international-lauteur-a-utilise-chatgpt",
-			"pubDate": "Wed, 08 Jan 2025 11:46:00 GMT",
-			"image": "https://static.euronews.com/articles/stories/08/95/66/00/1200x675_cmsv2_2b017375-b3b5-5912-90ad-302ea3752e30-8956600.jpg",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "euronews",
-			"url": "https://fr.euronews.com/next/2025/01/08/lexplosion-du-cybertruck-tesla-devant-lhotel-trump-international-lauteur-a-utilise-chatgpt",
-			"description": "L'homme qui a fait exploser un Cybertruck Tesla devant l'h\u00f4tel Trump International \u00e0 Las Vegas a utilis\u00e9 l'IA g\u00e9n\u00e9rative, selon la police."
-		},
-		{
-			"title": "Donald Trump saisit la Cour supr\u00eame pour \u00e9chapper au prononc\u00e9 de sa peine dans l'affaire Stormy Daniels - franceinfo",
-			"link": "https://www.francetvinfo.fr/monde/usa/presidentielle/donald-trump/donald-trump-saisit-la-cour-supreme-pour-echapper-au-prononce-de-sa-peine-dans-l-affaire-stormy-daniels_7001966.html",
-			"pubDate": "Wed, 08 Jan 2025 17:05:49 GMT",
-			"image": "https://www.francetvinfo.fr/pictures/PM2e5Pez4Yl893qFvi3kAbLaV9A/0x53:1024x629/1500x843/2025/01/08/063-2192850791-677eac5e0fda3219366215.jpg",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "Franceinfo",
-			"url": "https://www.francetvinfo.fr/monde/usa/presidentielle/donald-trump/donald-trump-saisit-la-cour-supreme-pour-echapper-au-prononce-de-sa-peine-dans-l-affaire-stormy-daniels_7001966.html",
-			"description": "La peine du milliardaire doit \u00eatre connue vendredi 10 janvier, sauf succ\u00e8s de ce recours devant la plus haute juridiction f\u00e9d\u00e9rale."
+			"url": "https://www.20minutes.fr/monde/etats-unis/4132718-20250109-etats-unis-historiens-diront-impact-grand-faut-retenir-interview-joe-biden",
+			"description": "Dans une interview exclusive, Joe Biden revient sur son bilan, ses regrets et ses r\u00e9ussites avant de quitter la Maison-Blanche. Lucide sur ses limites, il d\u00e9fend ses choix \u00e9conomiques, sa politique \u00e9trang\u00e8re et r\u00e9fl\u00e9chit \u00e0 des d\u00e9cisions in\u00e9dites"
 		},
 		{
 			"title": "En direct, guerre en Ukraine : Volodymyr Zelensky participera jeudi, en Allemagne, \u00e0 une r\u00e9union avec les alli\u00e9s de Kiev - Le Monde",
 			"link": "https://www.lemonde.fr/international/live/2025/01/08/en-direct-guerre-en-ukraine-volodymyr-zelensky-participera-jeudi-en-allemagne-a-une-reunion-avec-les-allies-de-kiev_6482085_3210.html",
 			"pubDate": "Wed, 08 Jan 2025 20:38:43 GMT",
+			"image": "https://img.lemde.fr/2025/01/09/462/0/6000/3000/1440/720/60/0/a8ccd52_ftp-import-images-1-r76z452ibcvd-aa7694d9dc55434fb483ff2e4afbc984-0-53f5dbbca07a44b68871b5df5b22b5d6.jpg",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "Le Monde.fr",
+			"url": "https://www.lemonde.fr/international/live/2025/01/09/en-direct-guerre-en-ukraine-volodymyr-zelensky-estime-que-la-presence-de-troupes-occidentales-en-ukraine-aiderait-a-forcer-la-russie-a-la-paix_6482085_3210.html",
+			"description": "Cette hypoth\u00e8se, qui a en particulier \u00e9t\u00e9 \u00e9voqu\u00e9e \u00e0 la mi-d\u00e9cembre par le pr\u00e9sident fran\u00e7ais, Emmanuel Macron, et le premier ministre polonais, Donald Tusk, a \u00e9t\u00e9 rejet\u00e9e par la Russie, qui l\u2019a qualifi\u00e9e de \u00ab\u00a0pr\u00e9matur\u00e9e\u00a0\u00bb."
+		},
+		{
+			"title": "Donald Trump : la r\u00e9ponse \u00e9tonnante du Mexique aux sorties du futur pr\u00e9sident des Etats-Unis - CNEWS",
+			"link": "https://www.cnews.fr/monde/2025-01-08/donald-trump-la-reponse-etonnante-du-mexique-aux-sorties-du-futur-president-des",
+			"pubDate": "Wed, 08 Jan 2025 20:35:42 GMT",
 			"image": "",
 			"logo": "https://picsum.photos/32/32?grayscale",
 			"site_name": "",
@@ -181,5 +181,5 @@
 			"description": ""
 		}
 	],
-	"timestamp": "2025-01-09 12:45:08.474014"
+	"timestamp": "2025-01-09 16:28:39.399258"
 }
