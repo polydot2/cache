@@ -1,34 +1,54 @@
 {
 	"content": [
 		{
-			"title": "EN DIRECT - Discours de politique g\u00e9n\u00e9rale : Bayrou a \u00e9cart\u00e9 une \"suspension\" de la r\u00e9forme des retraites - RTL",
-			"link": "https://www.rtl.fr/actu/politique/en-direct-francois-bayrou-suivez-le-discours-de-politique-generale-du-premier-ministre-7900460500",
-			"pubDate": "Tue, 14 Jan 2025 11:11:05 GMT",
-			"image": "https://images.rtl.fr/~c/2000v2000/rtl/www/1727883-francois-bayrou-a-l-assemblee-nationale-lors-de-son-discours-de-politique-generale-mardi-14-janvier.jpg",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "www.rtl.fr",
-			"url": "https://www.rtl.fr/actu/politique/en-direct-francois-bayrou-suivez-le-discours-de-politique-generale-du-premier-ministre-7900460500",
-			"description": "Pr\u00e8s de trois semaines apr\u00e8s la nomination de son gouvernement, Fran\u00e7ois Bayrou expose sa vision aux d\u00e9put\u00e9s, lors de son discours de politique g\u00e9n\u00e9rale."
-		},
-		{
-			"title": "68,6 millions d'habitants en France au 1er janvier : nombre de d\u00e9c\u00e8s, baisse des naissances... ce qu'il faut retenir du bilan de l'Insee - Midi Libre",
-			"link": "https://www.midilibre.fr/2025/01/14/686-millions-dhabitants-en-france-au-1er-janvier-nombre-de-deces-baisse-des-naissances-toutes-les-donnees-demographiques-de-linsee-12444687.php",
-			"pubDate": "Tue, 14 Jan 2025 11:19:00 GMT",
-			"image": "https://images.midilibre.fr/api/v1/images/view/6786481a3232736992729579/large/image.jpg?v=1",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "midilibre.fr",
-			"url": "https://www.midilibre.fr/2025/01/14/686-millions-dhabitants-en-france-au-1er-janvier-nombre-de-deces-baisse-des-naissances-toutes-les-donnees-demographiques-de-linsee-12444687.php",
-			"description": "La France comptait 68,6 millions d'habitants au 1er janvier 2025, soit une hausse de 0,25 % sur un an, limit\u00e9e par une nouvelle baisse des naissances et une progression des d\u00e9c\u00e8s l'an dernier, a indiqu\u00e9 mardi l'Insee."
-		},
-		{
-			"title": "Vague de froid : 34 d\u00e9partements en vigilance jaune, temp\u00e9ratures n\u00e9gatives g\u00e9n\u00e9ralis\u00e9es ce mardi - Ouest-France",
-			"link": "https://www.ouest-france.fr/meteo/vague-de-froid/vague-de-froid-34-departements-en-vigilance-jaune-temperatures-negatives-generalisees-ce-mardi-39ba2c5e-d236-11ef-b406-af013b65761f",
-			"pubDate": "Tue, 14 Jan 2025 05:55:55 GMT",
+			"title": "Retraites, dette, proportionnelle... Ce qu'il faut retenir du discours de politique g\u00e9n\u00e9rale de Fran\u00e7ois Bayrou - RFI",
+			"link": "https://www.rfi.fr/fr/france/20250114-france-le-premier-ministre-fran%C3%A7ois-bayrou-annonce-rouvrir-le-chantier-des-retraites",
+			"pubDate": "Tue, 14 Jan 2025 15:09:46 GMT",
 			"image": "",
 			"logo": "https://picsum.photos/32/32?grayscale",
 			"site_name": "",
 			"url": "",
 			"description": ""
+		},
+		{
+			"title": "D\u00e9mographie : l'inexorable chute des naissances en France - Les \u00c9chos",
+			"link": "https://www.lesechos.fr/politique-societe/societe/demographie-linexorable-chute-des-naissances-en-france-2142345",
+			"pubDate": "Tue, 14 Jan 2025 11:00:00 GMT",
+			"image": "",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "",
+			"url": "",
+			"description": ""
+		},
+		{
+			"title": "Neige, verglas et grand froid : une trentaine de d\u00e9partements plac\u00e9s en vigilance par M\u00e9t\u00e9o France ce mercredi - Le Journal du Pays Yonnais",
+			"link": "https://actu.fr/meteo/neige-verglas-et-grand-froid-une-trentaine-de-departements-places-en-vigilance-par-meteo-france-ce-mercredi_62115905.html",
+			"pubDate": "Tue, 14 Jan 2025 15:38:47 GMT",
+			"image": "https://static.actu.fr/uploads/2024/11/1-neige-meteo-novembre-2024-montgermont-rennes-hiver-froid.jpeg",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "actu.fr",
+			"url": "https://actu.fr/meteo/neige-verglas-et-grand-froid-une-trentaine-de-departements-places-en-vigilance-par-meteo-france-ce-mercredi_62115905.html",
+			"description": "Vingt-quatre d\u00e9partements sont en vigilance jaune \"grand froid\" et seize en vigilance jaune \"neige-verglas\", pour mercredi 15 janvier. Des gel\u00e9es et un redoux sont pr\u00e9vus."
+		},
+		{
+			"title": "Cyclistes renvers\u00e9s \u00e0 Rouen : une victime d\u00e9c\u00e9d\u00e9e, suspecte en garde \u00e0 vue, armes retrouv\u00e9es... ce que l'on sait - CNEWS",
+			"link": "https://www.cnews.fr/faits-divers/2025-01-14/cyclistes-renverses-rouen-une-victime-decedee-suspecte-en-garde-vue-armes",
+			"pubDate": "Tue, 14 Jan 2025 17:07:18 GMT",
+			"image": "",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "",
+			"url": "",
+			"description": ""
+		},
+		{
+			"title": "Circulation, enqu\u00eate, nombre de bless\u00e9s\u2026 Le bilan de l\u2019accident de tram en gare de Strasbourg - Rue89 Strasbourg",
+			"link": "https://www.rue89strasbourg.com/circulation-enquete-nombre-de-blesses-le-bilan-de-laccident-de-tram-en-gare-de-strasbourg-326143",
+			"pubDate": "Mon, 13 Jan 2025 14:50:22 GMT",
+			"image": "https://www.rue89strasbourg.com/wp-content/uploads/2025/01/accident.jpeg__rs?x=50&y=50",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "Rue89 Strasbourg",
+			"url": "https://www.rue89strasbourg.com/circulation-enquete-nombre-de-blesses-le-bilan-de-laccident-de-tram-en-gare-de-strasbourg-326143",
+			"description": "Samedi 11 janvier, deux tramways de la CTS sont entr\u00e9s en collision en gare centrale. L'enqu\u00eate judiciaire a \u00e9cart\u00e9 l'hypoth\u00e8se de l'accident volontaire."
 		},
 		{
 			"title": "Pour les 50 ans de la loi Veil sur l'avortement, ce documentaire, d'int\u00e9r\u00eat public, est diffus\u00e9 ce soir sur France 5 - aufeminin",
@@ -41,24 +61,44 @@
 			"description": "\u00c0 l'occasion du cinquanti\u00e8me anniversaire de la loi Viel sur l'avortement, le documentaire \"Il suffit d'\u00e9couter les femmes\" est diffus\u00e9 ce mardi 14 janvier, \u00e0 21h05 sur France 5..."
 		},
 		{
-			"title": "Un cycliste quinquag\u00e9naire hospitalis\u00e9 en urgence apr\u00e8s une collision avec un car \u00e0 Rennes - Ouest-France",
-			"link": "https://www.ouest-france.fr/faits-divers/accidents/un-cycliste-quinquagenaire-hospitalise-en-urgence-apres-une-collision-avec-un-car-a-rennes-c694cc46-d26e-11ef-b406-af013b65761f",
-			"pubDate": "Tue, 14 Jan 2025 12:30:02 GMT",
-			"image": "",
+			"title": "\u00ab Il y aura peut-\u00eatre des imb\u00e9ciles \u00bb\u2026 La tombe de Jean-Marie Le Pen sera-t-elle vandalis\u00e9e comme celle de P\u00e9tain ? - 20 Minutes",
+			"link": "https://www.20minutes.fr/societe/4133579-20250114-peut-etre-imbeciles-tombe-jean-marie-pen-vandalisee-comme-celle-petain",
+			"pubDate": "Tue, 14 Jan 2025 11:34:00 GMT",
+			"image": "https://img.20mn.fr/xFFIUrZrT7yw11RiXDDrNSk/1444x920_this-photograph-shows-the-le-pen-family-plot-in-the-cemetery-of-la-trinite-sur-mer-western-france-on-january-7-2025-a-few-hours-after-the-death-of-french-far-right-politician-jean-marie-le-pen-jean-marie-le-pen-a-french-far-right-figure-and-runner-up-in-the-2002-presidential-election-died-on-january-7-2025-at-the-age-of-96-in-garches-hauts-de-seine-in-a-hospital-where-he-had-been-admitted-for-several-weeks-photo-by-loic-venance-afp",
 			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "",
-			"url": "",
-			"description": ""
+			"site_name": "20 Minutes",
+			"url": "https://www.20minutes.fr/societe/4133579-20250114-peut-etre-imbeciles-tombe-jean-marie-pen-vandalisee-comme-celle-petain",
+			"description": "Le fondateur du Front national, mort \u00e0 96 ans, a \u00e9t\u00e9 enterr\u00e9 aupr\u00e8s de ses parents au cimeti\u00e8re de La Trinit\u00e9-sur-Mer, dans le Morbihan"
 		},
 		{
-			"title": "Une des cyclistes d\u00e9c\u00e8de apr\u00e8s l'accident impliquant une conductrice \u00e0 Rouen - actu.fr",
-			"link": "https://actu.fr/normandie/rouen_76540/une-des-cyclistes-decede-apres-l-accident-impliquant-une-conductrice-a-rouen_62115346.html",
-			"pubDate": "Tue, 14 Jan 2025 14:22:16 GMT",
-			"image": "https://static.actu.fr/uploads/2025/01/15e9026d7387619e9026d73870de90v.jpeg",
+			"title": "\u00ab C\u2019est l\u2019horreur \u00bb : pourquoi l\u2019air est extr\u00eamement pollu\u00e9 sur une partie de la Bretagne cette semaine - Le T\u00e9l\u00e9gramme",
+			"link": "https://www.letelegramme.fr/bretagne/cest-lhorreur-pourquoi-lair-est-extremement-pollue-sur-une-partie-de-la-bretagne-cette-semaine-6740478.php",
+			"pubDate": "Tue, 14 Jan 2025 17:21:20 GMT",
+			"image": "https://media.letelegramme.fr/api/v1/images/view/6786a9efe5f9f20ab07a44ed/web_golden_xxl/6786a9efe5f9f20ab07a44ed.1",
 			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "actu.fr",
-			"url": "https://actu.fr/normandie/rouen_76540/une-des-cyclistes-decede-apres-l-accident-impliquant-une-conductrice-a-rouen_62115346.html",
-			"description": "Apr\u00e8s l\u2019accident ce mardi 14 janvier 2025, rue Alsace-Lorraine, \u00e0 Rouen (Seine-Maritime), entre un v\u00e9hicule et des cyclistes, la victime la plus gri\u00e8vement bless\u00e9e est d\u00e9c\u00e9d\u00e9e."
+			"site_name": "Le T\u00e9l\u00e9gramme",
+			"url": "https://www.letelegramme.fr/bretagne/cest-lhorreur-pourquoi-lair-est-extremement-pollue-sur-une-partie-de-la-bretagne-cette-semaine-6740478.php",
+			"description": "Un important \u00e9pisode de pollution de l\u2019air touche actuellement le Morbihan, l\u2019Ille-et-Vilaine et les C\u00f4tes-d\u2019Armor. Et cela pourrait durer\u2026 Voici ce qu\u2019il faut savoir."
+		},
+		{
+			"title": "\"Une violente campagne de harc\u00e8lement nourrie par plusieurs contre-v\u00e9rit\u00e9s\" : \"Le Monde\" monte au cr\u00e9neau pour d\u00e9fendre sa journaliste envoy\u00e9e aux obs\u00e8ques de Jean-Marie Le Pen - Purem\u00e9dias",
+			"link": "https://www.ozap.com/actu/une-violente-campagne-de-harcelement-nourrie-par-plusieurs-contre-verites-le-monde-monte-au-creneau-pour-defendre-sa-journaliste-envoyee-aux-obseques-de-jean-marie-le-pen/648318",
+			"pubDate": "Tue, 14 Jan 2025 14:01:00 GMT",
+			"image": "https://static1.ozap.com/uploads/8e/e5/f0/4e/e3b407a7181ab784-1200x630-1.jpg",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "",
+			"url": "https://www.ozap.com/actu/une-violente-campagne-de-harcelement-nourrie-par-plusieurs-contre-verites-le-monde-monte-au-creneau-pour-defendre-sa-journaliste-envoyee-aux-obseques-de-jean-marie-le-pen/648318",
+			"description": "La direction du journal a publi\u00e9 un article sur son site internet pour apporter son soutien \u00e0 Ivanne Trippenbach, accus\u00e9e par l&#039;extr\u00eame-droite de s&#039;\u00eatre infiltr\u00e9e dans l&#039;\u00e9glise o\u00f9 \u00e9taient c\u00e9l\u00e9br\u00e9es les obs\u00e8ques de Jean-Marie Le Pen \u00e0 La Trinit\u00e9-sur-Mer."
+		},
+		{
+			"title": "Recensement 2025 : que va me demander l\u2019agent recenseur ? Suis-je concern\u00e9 cette ann\u00e9e ? - France 3 R\u00e9gions",
+			"link": "https://france3-regions.francetvinfo.fr/bourgogne-franche-comte/doubs/recensement-2025-que-va-me-demander-l-agent-recenseur-suis-je-concerne-cette-annee-3089893.html",
+			"pubDate": "Tue, 14 Jan 2025 05:20:01 GMT",
+			"image": "https://france3-regions.francetvinfo.fr/image/UsotzjO5_6LPoeDcqOezl4Sb3QA/930x620/regions/2025/01/12/maxnewsworldfive032206-67838f6b43c03255613337.jpg",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "France 3 Bourgogne-Franche-Comt\u00e9",
+			"url": "https://france3-regions.francetvinfo.fr/bourgogne-franche-comte/doubs/recensement-2025-que-va-me-demander-l-agent-recenseur-suis-je-concerne-cette-annee-3089893.html",
+			"description": "Le recensement de la population d\u00e9bute \u00e0 partir du jeudi 16 janvier dans de nombreuses communes en France. C\u2019est votre tour cette ann\u00e9e ? On vous explique en quoi consiste cette phase de recensement et ce que vous devrez..."
 		},
 		{
 			"title": "Quelle est cette \u00abnomenklatura alg\u00e9rienne\u00bb qui peut se rendre en France sans visa, comme le d\u00e9plore Darmanin - Lib\u00e9ration",
@@ -71,34 +111,44 @@
 			"description": "En vertu d\u2019un accord intergouvernemental, que le garde des Sceaux souhaite suspendre, les ressortissants alg\u00e9riens titulaires d\u2019un passeport diplomatique ou de service sont exempt\u00e9s de visa pour leurs courts s\u00e9jours en France."
 		},
 		{
-			"title": "\u00ab L\u00e2chez-vous ! \u00bb Un d\u00e9put\u00e9 ciottiste appelle au cyberharc\u00e8lement contre une journaliste du Monde - 20 Minutes",
-			"link": "https://www.20minutes.fr/societe/4133605-20250114-jean-marie-pen-lachez-depute-ciottiste-appelle-cyberharcelement-contre-journaliste-monde",
-			"pubDate": "Tue, 14 Jan 2025 13:18:00 GMT",
-			"image": "https://img.20mn.fr/xHzGxtaOQAOsbSZuT04IZyk/1444x920_alexandre-allegret-pilot-seance-de-questions-au-gouvernement-par-les-deputes-du-22-octobre-2024-assemblee-nationale-paris-france-weekly-session-of-questions-to-the-government-by-members-of-parliament-mp-s-of-october-22-2024-national-assembly-paris-france-04nicolasmessyasz-2024-10-22b-119a-credit-nicolas-messyasz-sipa-2410222159",
+			"title": "Savoie : une skieuse britannique d\u00e9c\u00e8de apr\u00e8s une violente collision - Ouest-France",
+			"link": "https://www.ouest-france.fr/societe/faits-divers/savoie-une-skieuse-britannique-decede-apres-une-violente-collision-5d0e537a-d28a-11ef-b406-af013b65761f",
+			"pubDate": "Tue, 14 Jan 2025 15:55:30 GMT",
+			"image": "",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "",
+			"url": "",
+			"description": ""
+		},
+		{
+			"title": "En direct, d\u00e9claration de politique g\u00e9n\u00e9rale : des d\u00e9put\u00e9s insoumis, \u00e9cologistes et communistes d\u00e9posent une motion de censure contre Fran\u00e7ois Bayrou ; le PS r\u00e9serve sa r\u00e9ponse - Le Monde",
+			"link": "https://www.lemonde.fr/politique/live/2025/01/14/en-direct-declaration-de-politique-generale-francois-bayrou-a-reussi-l-exploit-de-ne-jamais-mentionner-l-urgence-climatique-deplorent-les-ong-environnementales_6496767_823448.html",
+			"pubDate": "Tue, 14 Jan 2025 19:03:51 GMT",
+			"image": "https://img.lemde.fr/2025/01/14/208/0/2500/1250/1440/720/60/0/120ac89_sirius-fs-upload-1-e50ukdn0jogh-1736875766549-unnamed-21.jpg",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "Le Monde.fr",
+			"url": "https://www.lemonde.fr/politique/live/2025/01/14/en-direct-declaration-de-politique-generale-francois-bayrou-a-reussi-l-exploit-de-ne-jamais-mentionner-l-urgence-climatique-deplorent-les-ong-environnementales_6496767_823448.html",
+			"description": "La pr\u00e9sidente du groupe La France insoumise \u00e0 l\u2019Assembl\u00e9e nationale, Mathilde Panot, a d\u00e9pos\u00e9 une motion de censure contre le gouvernement de Fran\u00e7ois Bayrou, sign\u00e9e par 57 autres d\u00e9put\u00e9s. La motion, d\u00e9pos\u00e9e peu apr\u00e8s la d\u00e9claration de politique g\u00e9n\u00e9rale du nouveau premier ministre, sera examin\u00e9e jeudi."
+		},
+		{
+			"title": "L'immobilier public \u00e0 la rescousse de la r\u00e9forme de l'Etat - La Tribune.fr",
+			"link": "https://www.latribune.fr/economie/france/l-immobilier-public-a-la-rescousse-de-la-reforme-de-l-etat-1015880.html",
+			"pubDate": "Tue, 14 Jan 2025 14:56:00 GMT",
+			"image": "https://pictures.latribune.fr/cdn-cgi/image//452/2514452.jpg",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "",
+			"url": "https://www.latribune.fr/economie/france/l-immobilier-public-a-la-rescousse-de-la-reforme-de-l-etat-1015880.html?id=2460603382017315",
+			"description": "Lors de sa d\u00e9claration de politique g\u00e9n\u00e9rale ce mardi apr\u00e8s-midi, le Premier ministre a annonc\u00e9 la cr\u00e9ation d'un fonds sp\u00e9cial d\u00e9di\u00e9 \u00e0 la r\u00e9forme de l'\u00c9tat financ\u00e9 par des actifs immobiliers."
+		},
+		{
+			"title": "L\u2019Ecossais et le Tib\u00e9tain bless\u00e9s par balles \u00e0 Rennes sont hors de danger - 20 Minutes",
+			"link": "https://www.20minutes.fr/faits_divers/faits-divers-rennes/4133535-20250114-rennes-ecossais-tibetain-touches-balles-perdues-hors-danger",
+			"pubDate": "Tue, 14 Jan 2025 08:11:00 GMT",
+			"image": "https://img.20mn.fr/Aahb-aotSuCGvu1jyjrd8Sk/1444x920_des-tirs-en-rafale-ont-reveille-la-place-de-banat-et-le-quartier-du-blosne-en-mars-2024-ou-les-impacts-de-balles-sont-toujours-visibles-la-police-penche-pour-la-these-du-reglement-de-compte-sur-fond-de-trafic-de-stupefiants",
 			"logo": "https://picsum.photos/32/32?grayscale",
 			"site_name": "20 Minutes",
-			"url": "https://www.20minutes.fr/societe/4133605-20250114-jean-marie-pen-lachez-depute-ciottiste-appelle-cyberharcelement-contre-journaliste-monde",
-			"description": "Le d\u00e9put\u00e9 du Gard Alexandre Allegret-Pilot appelle au cyberharc\u00e8lement contre la journaliste du Monde Ivanne Trippenbach. Le RN lui reproche sa pr\u00e9sence dans l\u2019\u00e9glise de La\u00a0Trinit\u00e9-sur-mer o\u00f9 se d\u00e9roulaient les obs\u00e8ques de Jean-Marie Le\u00a0Pen"
-		},
-		{
-			"title": "Deux riverains touch\u00e9s par des balles perdues \u00e0 Rennes : ce que l\u2019on sait - Le T\u00e9l\u00e9gramme",
-			"link": "https://www.letelegramme.fr/ille-et-vilaine/rennes-35000/touches-par-des-balles-perdues-a-rennes-que-sait-on-des-deux-blesses-victimes-collaterales-du-narcotrafic-6739608.php",
-			"pubDate": "Mon, 13 Jan 2025 17:57:37 GMT",
-			"image": "https://media.letelegramme.fr/api/v1/images/view/67858b595a07fe3ed4361079/web_golden_xxl/67858b595a07fe3ed4361079.1",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "Le T\u00e9l\u00e9gramme",
-			"url": "https://www.letelegramme.fr/ille-et-vilaine/rennes-35000/touches-par-des-balles-perdues-a-rennes-que-sait-on-des-deux-blesses-victimes-collaterales-du-narcotrafic-6739608.php",
-			"description": "Samedi 11\u00a0janvier, la guerre qui oppose les narcotrafiquants \u00e0 Rennes a fait de nouvelles victimes collat\u00e9rales. Deux habitants du quartier, pr\u00e9sents sur la dalle Kennedy, \u00e0 Villejean, lors d\u2019un \u00e9pisode de tirs, ont \u00e9t\u00e9 touch\u00e9s par des balles perdues."
-		},
-		{
-			"title": "Nouvelle-Aquitaine : une patiente est morte dans un incendie au service psychiatrie de l\u2019h\u00f4pital de Niort - Sud Ouest",
-			"link": "https://www.sudouest.fr/sante/niort-une-patiente-meurt-dans-un-incendie-au-service-psychiatrie-de-l-hopital-22826377.php",
-			"pubDate": "Tue, 14 Jan 2025 13:05:33 GMT",
-			"image": "https://media.sudouest.fr/22826377/1200x-1/camion-pompier.jpg",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "SudOuest.fr",
-			"url": "https://www.sudouest.fr/sante/niort-une-patiente-meurt-dans-un-incendie-au-service-psychiatrie-de-l-hopital-22826377.php",
-			"description": "Une patiente est morte ce mardi matin des suites d\u2019un incendie d\u00e9clench\u00e9 par l\u2019occupante d\u2019une autre chambre qui \u00ab\u00a0aurait mis le feu \u00e0 son lit\u00a0\u00bb"
+			"url": "https://www.20minutes.fr/faits_divers/faits-divers-rennes/4133535-20250114-rennes-ecossais-tibetain-touches-balles-perdues-hors-danger",
+			"description": "Deux hommes ont \u00e9t\u00e9 victimes de tirs en rafale sur la dalle Kennedy ce week-end"
 		},
 		{
 			"title": "Pic de froid en Ille-et-Vilaine : la Pr\u00e9fecture annonce plusieurs mesures - Le T\u00e9l\u00e9gramme",
@@ -111,24 +161,34 @@
 			"description": "En raison de l\u2019\u00e9pisode de grand froid qui touche actuellement le d\u00e9partement d\u2019Ille-et-Vilaine, le Pr\u00e9fet a activ\u00e9 le niveau jaune du dispositif \u00ab\u00a0pic de froid\u00a0\u00bb. Voici ce que cela signifie."
 		},
 		{
-			"title": "Sarkozy l\u00e2che d\u00e9j\u00e0 Gu\u00e9ant et Hortefeux : \u00ab Que les autres s\u2019expliquent, c\u2019est pas moi quand m\u00eame - Mediapart",
-			"link": "https://www.mediapart.fr/journal/france/140125/sarkozy-lache-deja-gueant-et-hortefeux-que-les-autres-s-expliquent-c-est-pas-moi-quand-meme",
-			"pubDate": "Tue, 14 Jan 2025 06:35:11 GMT",
-			"image": "https://static.mediapart.fr/etmagine/og/journal/files/2025/01/14/251301-img-satkozy-proces-kadhafi.jpg",
+			"title": "Maladie de Charcot : la demande de s\u00e9dation profonde de l\u2019artiste toulousaine Karine Brailly a \u00e9t\u00e9 accept\u00e9e - Le Parisien",
+			"link": "https://www.leparisien.fr/haute-garonne-31/maladie-de-charcot-la-demande-de-sedation-profonde-de-lartiste-toulousaine-karine-brailly-a-ete-acceptee-14-01-2025-Y3RAPSNAGNE6FA356ACT6TKLUA.php",
+			"pubDate": "Tue, 14 Jan 2025 11:04:00 GMT",
+			"image": "https://www.leparisien.fr/resizer/EfrBQrFruf4mD1xCBv8YYlZ-hZI=/1200x675/cloudfront-eu-central-1.images.arcpublishing.com/leparisien/OJ4JAH6CFFC5RFAPPP4CZG7JIQ.jpg",
 			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "Mediapart",
-			"url": "https://www.mediapart.fr/journal/france/140125/sarkozy-lache-deja-gueant-et-hortefeux-que-les-autres-s-expliquent-c-est-pas-moi-quand-meme",
-			"description": "Avant m\u00eame de rentrer dans le fond des accusations, le proc\u00e8s des financements libyens a montr\u00e9, lundi 13 janvier, une r\u00e9alit\u00e9 qui commence \u00e0 poindre derri\u00e8re l\u2019\u00e9nergie que met l\u2019ancien pr\u00e9sident de \u2026"
+			"site_name": "leparisien.fr",
+			"url": "https://www.leparisien.fr/haute-garonne-31/maladie-de-charcot-la-demande-de-sedation-profonde-de-lartiste-toulousaine-karine-brailly-a-ete-acceptee-14-01-2025-Y3RAPSNAGNE6FA356ACT6TKLUA.php",
+			"description": "Karine Brailly va b\u00e9n\u00e9ficier ce mardi de la s\u00e9dation profonde, accept\u00e9e par ses m\u00e9decins \u00e0 l\u2019h\u00f4pital Purpan \u00e0 Toulouse (Haute-Garonne). Pour"
 		},
 		{
-			"title": "Barom\u00e8tre des territoires : les Fran\u00e7ais \"d\u00e9sempar\u00e9s\" face \u00e0 l\u2019empilement des crises - franceinfo",
-			"link": "https://www.francetvinfo.fr/societe/barometre-des-territoires-les-francais-desempares-face-a-l-empilement-des-crises_7013258.html",
-			"pubDate": "Tue, 14 Jan 2025 06:18:14 GMT",
-			"image": "https://www.francetvinfo.fr/pictures/x7-T_sd8_BzkjUuGF7_Hax3t_ro/0x89:2121x1281/1500x843/2025/01/14/gettyimages-1295833423-6785ffb75f064379450628.jpg",
+			"title": "Reconnu coupable d'agressions sexuelles en appel, l'\u00e9tudiant en m\u00e9decine \u00e9chappe \u00e0 la prison ferme - France 3 R\u00e9gions",
+			"link": "https://france3-regions.francetvinfo.fr/centre-val-de-loire/loiret/orleans/reconnu-coupable-d-agressions-sexuelles-en-appel-l-etudiant-en-medecine-echappe-a-la-prison-ferme-3090655.html",
+			"pubDate": "Tue, 14 Jan 2025 12:58:59 GMT",
+			"image": "https://france3-regions.francetvinfo.fr/image/4FXyq42fX4qm26XVpJr3gjixDeA/930x620/regions/2024/06/03/tribunal-orleans-665de5201b367412925964.jpg",
 			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "Franceinfo",
-			"url": "https://www.francetvinfo.fr/societe/barometre-des-territoires-les-francais-desempares-face-a-l-empilement-des-crises_7013258.html",
-			"description": "Plus de 60% des Fran\u00e7ais estiment que la France est \"en d\u00e9clin\". Ils sont particuli\u00e8rement inquiets pour leur niveau de vie et leur s\u00e9curit\u00e9 et sont plus de 90% \u00e0 exprimer leur attachement au mod\u00e8le de solidarit\u00e9 \u00e0 la fran\u00e7aise."
+			"site_name": "France 3 Centre-Val de Loire",
+			"url": "https://france3-regions.francetvinfo.fr/centre-val-de-loire/loiret/orleans/reconnu-coupable-d-agressions-sexuelles-en-appel-l-etudiant-en-medecine-echappe-a-la-prison-ferme-3090655.html",
+			"description": "La cour d'appel d'Orl\u00e9ans a condamn\u00e9 Nicolas W, accus\u00e9 d'agressions sexuelles par deux femmes entre 2017 et 2020, \u00e0 cinq ans de prison avec sursis, dont trois ans de sursis probatoire. Une importante mobilisation militante..."
+		},
+		{
+			"title": "Nouvelle-Aquitaine : une patiente est morte dans un incendie au service psychiatrie de l\u2019h\u00f4pital de Niort - Sud Ouest",
+			"link": "https://www.sudouest.fr/sante/niort-une-patiente-meurt-dans-un-incendie-au-service-psychiatrie-de-l-hopital-22826377.php",
+			"pubDate": "Tue, 14 Jan 2025 13:05:33 GMT",
+			"image": "https://media.sudouest.fr/22826377/1200x-1/camion-pompier.jpg",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "SudOuest.fr",
+			"url": "https://www.sudouest.fr/sante/niort-une-patiente-meurt-dans-un-incendie-au-service-psychiatrie-de-l-hopital-22826377.php",
+			"description": "Une patiente est morte ce mardi matin des suites d\u2019un incendie d\u00e9clench\u00e9 par l\u2019occupante d\u2019une autre chambre qui \u00ab\u00a0aurait mis le feu \u00e0 son lit\u00a0\u00bb"
 		},
 		{
 			"title": "Pr\u00e8s de deux tiers des Fran\u00e7ais ne font pas confiance aux m\u00e9dias sur les sujets d'actualit\u00e9 - franceinfo",
@@ -141,74 +201,34 @@
 			"description": "Selon le nouveau barom\u00e8tre La Croix/Verian/La Poste, si 76% des sond\u00e9s affirment suivre l'actualit\u00e9 avec \"un grand int\u00e9r\u00eat\", une majorit\u00e9 ressent une \"fatigue\" par rapport \u00e0 l'actualit\u00e9. Et 70% font d'abord confiance en leurs proches pour s'informer."
 		},
 		{
-			"title": "Jordan Bardella se dit \"extr\u00eamement inquiet\" des n\u00e9gociations entre le gouvernement et la gauche - BFMTV",
-			"link": "https://www.bfmtv.com/politique/front-national/jordan-bardella-se-dit-extremement-inquiet-des-negociations-entre-le-gouvernement-et-la-gauche_AN-202501130449.html",
-			"pubDate": "Mon, 13 Jan 2025 11:24:47 GMT",
-			"image": "https://images.bfmtv.com/LFTN-thrNBF0yCZwCeudYqNygps=/0x0:2048x1152/2048x0/images/Jordan-Bardella-president-du-RN-le-16-decembre-2024-a-Matignon-2012304.jpg",
+			"title": "Sarkozy l\u00e2che d\u00e9j\u00e0 Gu\u00e9ant et Hortefeux : \u00ab Que les autres s\u2019expliquent, c\u2019est pas moi quand m\u00eame - Mediapart",
+			"link": "https://www.mediapart.fr/journal/france/140125/sarkozy-lache-deja-gueant-et-hortefeux-que-les-autres-s-expliquent-c-est-pas-moi-quand-meme",
+			"pubDate": "Tue, 14 Jan 2025 06:35:11 GMT",
+			"image": "https://static.mediapart.fr/etmagine/og/journal/files/2025/01/14/251301-img-satkozy-proces-kadhafi.jpg",
 			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "BFMTV",
-			"url": "https://www.bfmtv.com/politique/front-national/jordan-bardella-se-dit-extremement-inquiet-des-negociations-entre-le-gouvernement-et-la-gauche_AN-202501130449.html",
-			"description": "Le pr\u00e9sident du RN surjoue les cons\u00e9quences potentielles des n\u00e9gociations en cours entre la gauche, hors LFI, et le gouvernement. "
+			"site_name": "Mediapart",
+			"url": "https://www.mediapart.fr/journal/france/140125/sarkozy-lache-deja-gueant-et-hortefeux-que-les-autres-s-expliquent-c-est-pas-moi-quand-meme",
+			"description": "Avant m\u00eame de rentrer dans le fond des accusations, le proc\u00e8s des financements libyens a montr\u00e9, lundi 13 janvier, une r\u00e9alit\u00e9 qui commence \u00e0 poindre derri\u00e8re l\u2019\u00e9nergie que met l\u2019ancien pr\u00e9sident de \u2026"
 		},
 		{
-			"title": "Maladie de Charcot : la demande de s\u00e9dation profonde de l\u2019artiste toulousaine Karine Brailly a \u00e9t\u00e9 accept\u00e9e - Le Parisien",
-			"link": "https://www.leparisien.fr/haute-garonne-31/maladie-de-charcot-la-demande-de-sedation-profonde-de-lartiste-toulousaine-karine-brailly-a-ete-acceptee-14-01-2025-Y3RAPSNAGNE6FA356ACT6TKLUA.php",
-			"pubDate": "Tue, 14 Jan 2025 11:04:00 GMT",
-			"image": "https://www.leparisien.fr/resizer/EfrBQrFruf4mD1xCBv8YYlZ-hZI=/1200x675/cloudfront-eu-central-1.images.arcpublishing.com/leparisien/OJ4JAH6CFFC5RFAPPP4CZG7JIQ.jpg",
+			"title": "Drogue, extorsion de fonds, saisie d'armes et voiture de luxe : ce que l'on sait de la grosse op\u00e9ration de police \u00e0 Digne - France 3 R\u00e9gions",
+			"link": "https://france3-regions.francetvinfo.fr/provence-alpes-cote-d-azur/alpes-de-haute-provence/digne-les-bains/drogue-extorsion-de-fonds-saisie-d-armes-et-voiture-de-luxe-ce-que-l-on-sait-de-la-grosse-operation-de-police-a-digne-3090871.html",
+			"pubDate": "Tue, 14 Jan 2025 10:47:21 GMT",
+			"image": "https://france3-regions.francetvinfo.fr/image/jF25w09yUj_wvAeKdT31beXB8LA/930x620/regions/2025/01/14/f72bffcc-a294-4c64-ae7e-7cfcc6cdd2df-67863b0b88a37159868560.jpg",
 			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "leparisien.fr",
-			"url": "https://www.leparisien.fr/haute-garonne-31/maladie-de-charcot-la-demande-de-sedation-profonde-de-lartiste-toulousaine-karine-brailly-a-ete-acceptee-14-01-2025-Y3RAPSNAGNE6FA356ACT6TKLUA.php",
-			"description": "Karine Brailly va b\u00e9n\u00e9ficier ce mardi de la s\u00e9dation profonde, accept\u00e9e par ses m\u00e9decins \u00e0 l\u2019h\u00f4pital Purpan \u00e0 Toulouse (Haute-Garonne). Pour"
+			"site_name": "France 3 Provence-Alpes-C\u00f4te d'Azur",
+			"url": "https://france3-regions.francetvinfo.fr/provence-alpes-cote-d-azur/alpes-de-haute-provence/digne-les-bains/drogue-extorsion-de-fonds-saisie-d-armes-et-voiture-de-luxe-ce-que-l-on-sait-de-la-grosse-operation-de-police-a-digne-3090871.html",
+			"description": "Ce mardi 14 janvier, six personnes ont \u00e9t\u00e9 interpell\u00e9es au petit matin \u00e0 Digne-les-Bains, dans les Alpes-de-Haute-Provence dans une op\u00e9ration place nette qui fait suite \u00e0 celle d\u00e9j\u00e0 op\u00e9r\u00e9e en mars dernier. Des renforts de..."
 		},
 		{
-			"title": "Une m\u00e8re de famille attaqu\u00e9e \u00e0 coups de couteau pendant qu'elle faisait son jogging, l'agresseur toujours en fuite: ce que l'on sait de l'affaire - Nice matin",
-			"link": "https://www.nicematin.com/faits-divers/une-mere-de-famille-attaquee-a-coups-de-couteau-pendant-qu-elle-faisait-son-jogging-l-agresseur-toujours-en-fuite-ce-que-l-on-sait-de-l-affaire-967480",
-			"pubDate": "Mon, 13 Jan 2025 12:18:00 GMT",
-			"image": "https://fyooyzbm.filerobot.com/v7/maxmatinarch697202-HBnGXO16.jpg?vh=0beb4e&ci_seal=57174eeada",
+			"title": "Barom\u00e8tre des territoires : les Fran\u00e7ais \"d\u00e9sempar\u00e9s\" face \u00e0 l\u2019empilement des crises - franceinfo",
+			"link": "https://www.francetvinfo.fr/societe/barometre-des-territoires-les-francais-desempares-face-a-l-empilement-des-crises_7013258.html",
+			"pubDate": "Tue, 14 Jan 2025 06:18:14 GMT",
+			"image": "https://www.francetvinfo.fr/pictures/x7-T_sd8_BzkjUuGF7_Hax3t_ro/0x89:2121x1281/1500x843/2025/01/14/gettyimages-1295833423-6785ffb75f064379450628.jpg",
 			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "Nice-Matin",
-			"url": "https://www.nicematin.com/faits-divers/une-mere-de-famille-attaquee-a-coups-de-couteau-pendant-qu-elle-faisait-son-jogging-l-agresseur-toujours-en-fuite-ce-que-l-on-sait-de-l-affaire-967480",
-			"description": "Dans le Gard, une femme \u00e2g\u00e9e de 44 ans faisant son footing a \u00e9t\u00e9 poignard\u00e9e en plein jour ce week-end \u00e0 Verg\u00e8ze. Les faits se sont d\u00e9roul\u00e9s aux alentours de 11h ce samedi 11 janvier dans un parc de la commune.\u00a0 \r\nLa joggeuse, qui aurait \u00e9t\u00e9 attaqu\u00e9e par derri\u00e8re et qui a re\u00e7u plusieurs coups de cout"
-		},
-		{
-			"title": "Nouvelle r\u00e8gle du Code de la route depuis le 11 janvier 2025 : attention \u00e0 l'amende de 135\u20ac en cas de non-respect - Pleine vie",
-			"link": "https://www.pleinevie.fr/conso-argent/transports/nouvelle-regle-du-code-de-la-route-depuis-le-11-janvier-2025-attention-a-lamende-de-135e-en-cas-de-non-respect-145155.html",
-			"pubDate": "Tue, 14 Jan 2025 11:14:00 GMT",
-			"image": "https://www.pleinevie.fr/wp-content/uploads/pleinevie/2025/01/nouvelle-regle-du-code-de-la-route-depuis-le-11-janvier-2025-attention-a-lamende-de-135e-en-cas-de-non-respect.jpg",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "Pleine vie",
-			"url": "https://www.pleinevie.fr/conso-argent/transports/nouvelle-regle-du-code-de-la-route-depuis-le-11-janvier-2025-attention-a-lamende-de-135e-en-cas-de-non-respect-145155.html",
-			"description": "Vous d\u00e9sirez savoir quel est le montant de l\u2019amende encourue en cas de non-respect de cette nouvelle r\u00e8gle du Code de la route ? Nous vous le d\u00e9voilons."
-		},
-		{
-			"title": "\u00abJ\u2019ai pris la d\u00e9cision de d\u00e9cliner cette d\u00e9coration\u00bb : l\u2019artiste franco-iranienne Marjane Satrapi refuse la L\u00e9gion d'honneur - CNEWS",
-			"link": "https://www.cnews.fr/france/2025-01-14/jai-pris-la-decision-de-decliner-cette-decoration-lartiste-franco-iranienne",
-			"pubDate": "Tue, 14 Jan 2025 06:44:43 GMT",
-			"image": "",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "",
-			"url": "",
-			"description": ""
-		},
-		{
-			"title": "Akha : c'est quoi cette application surnomm\u00e9e le \"Waze des fraudeurs\" pour le m\u00e9tro et le train ? - Journal du geek",
-			"link": "https://www.journaldugeek.com/2025/01/14/akha-cest-quoi-cette-application-surnommee-le-waze-des-controleurs-pour-le-metro-et-le-train/",
-			"pubDate": "Tue, 14 Jan 2025 07:31:31 GMT",
-			"image": "https://www.journaldugeek.com/app/uploads/2025/01/transport.jpg",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "Journal du Geek",
-			"url": "https://www.journaldugeek.com/2025/01/14/akha-cest-quoi-cette-application-surnommee-le-waze-des-controleurs-pour-le-metro-et-le-train/",
-			"description": "L'application est encore m\u00e9connue du grand public, mais elle ne pla\u00eet pas \u00e0 Val\u00e9rie P\u00e9cresse."
-		},
-		{
-			"title": "Une partie de Rennes boucl\u00e9e pour un proc\u00e8s sous haute surveillance - 20 Minutes",
-			"link": "https://www.20minutes.fr/justice/4133412-20250114-rennes-partie-centre-ville-bouclee-proces-sous-tres-haute-surveillance",
-			"pubDate": "Tue, 14 Jan 2025 04:02:00 GMT",
-			"image": "https://img.20mn.fr/ML_obL6PRbW1ceMfCrC0dQ/1444x920_illustration-salle-audience-cour-assises-ille-vilaine-rennes",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "20 Minutes",
-			"url": "https://www.20minutes.fr/justice/4133412-20250114-rennes-partie-centre-ville-bouclee-proces-sous-tres-haute-surveillance",
-			"description": "Un dispositif de s\u00e9curit\u00e9 exceptionnel sera d\u00e9ploy\u00e9 du 14 au 24\u00a0janvier autour du parlement de Bretagne, o\u00f9 sont jug\u00e9s des narcotrafiquants"
+			"site_name": "Franceinfo",
+			"url": "https://www.francetvinfo.fr/societe/barometre-des-territoires-les-francais-desempares-face-a-l-empilement-des-crises_7013258.html",
+			"description": "Plus de 60% des Fran\u00e7ais estiment que la France est \"en d\u00e9clin\". Ils sont particuli\u00e8rement inquiets pour leur niveau de vie et leur s\u00e9curit\u00e9 et sont plus de 90% \u00e0 exprimer leur attachement au mod\u00e8le de solidarit\u00e9 \u00e0 la fran\u00e7aise."
 		},
 		{
 			"title": "Assassinat de Jean-Christophe Mocchi : cinq personnes mises en examen et incarc\u00e9r\u00e9es - France 3 R\u00e9gions",
@@ -221,89 +241,39 @@
 			"description": "Lundi 13 janvier, quatre personnes ont \u00e9t\u00e9 mises en examen dans le cadre de l\u2019enqu\u00eate sur l\u2019assassinat de Jean-Christophe Mocchi, chef d\u2019entreprise tu\u00e9 le 24 juin 2022 \u00e0 Propriano. Toutes ont \u00e9t\u00e9 plac\u00e9es en d\u00e9tention provisoire,..."
 		},
 		{
-			"title": "\u00abJe ne me pardonnerai jamais\u00bb : Marine Le Pen regrette d\u2019avoir expuls\u00e9 Jean-Marie Le Pen du RN en 2015 - Lib\u00e9ration",
-			"link": "https://www.liberation.fr/politique/je-ne-me-pardonnerai-jamais-marine-le-pen-regrette-davoir-expulse-jean-marie-le-pen-du-rn-en-2015-20250113_NVRPDTTPI5CKVFKWEWLZFKLEKI/",
-			"pubDate": "Tue, 14 Jan 2025 12:32:19 GMT",
-			"image": "https://www.liberation.fr/resizer/1kBJbGOI6KyjfXi5wQizcHONSs4=/1200x630/filters:format(jpg):quality(70):focal(3049x1781:3059x1791)/cloudfront-eu-central-1.images.arcpublishing.com/liberation/4HEUI525KJDAJO76OKOKGC2AL4.jpg",
+			"title": "Nouvelle r\u00e8gle du Code de la route depuis le 11 janvier 2025 : attention \u00e0 l'amende de 135\u20ac en cas de non-respect - Pleine vie",
+			"link": "https://www.pleinevie.fr/conso-argent/transports/nouvelle-regle-du-code-de-la-route-depuis-le-11-janvier-2025-attention-a-lamende-de-135e-en-cas-de-non-respect-145155.html",
+			"pubDate": "Tue, 14 Jan 2025 11:14:00 GMT",
+			"image": "https://www.pleinevie.fr/wp-content/uploads/pleinevie/2025/01/nouvelle-regle-du-code-de-la-route-depuis-le-11-janvier-2025-attention-a-lamende-de-135e-en-cas-de-non-respect.jpg",
 			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "Lib\u00e9ration",
-			"url": "",
-			"description": "Dans une interview \u00e0 l\u2019hebdomadaire bollor\u00e9en \u00abJD News\u00bb, Marine Le Pen dit regretter avoir exclu Jean-Marie Le Pen du FN. M\u00e9prise id\u00e9ologique ou remords guid\u00e9 par la mort de son p\u00e8re ?"
+			"site_name": "Pleine vie",
+			"url": "https://www.pleinevie.fr/conso-argent/transports/nouvelle-regle-du-code-de-la-route-depuis-le-11-janvier-2025-attention-a-lamende-de-135e-en-cas-de-non-respect-145155.html",
+			"description": "Vous d\u00e9sirez savoir quel est le montant de l\u2019amende encourue en cas de non-respect de cette nouvelle r\u00e8gle du Code de la route ? Nous vous le d\u00e9voilons."
 		},
 		{
-			"title": "Le ministre des Transports, Philippe Tabarot, vis\u00e9 par une enqu\u00eate pour d\u00e9tournement de fonds publics - Les \u00c9chos",
-			"link": "https://www.lesechos.fr/politique-societe/gouvernement/le-ministre-des-transports-philippe-tabarot-vise-par-une-enquete-pour-detournement-de-fonds-publics-2142083",
-			"pubDate": "Mon, 13 Jan 2025 11:10:35 GMT",
-			"image": "",
+			"title": "Si vous n'avez pas cette nouvelle vignette sur votre auto, c'est 135\u20ac d'amende illico ! - Biba",
+			"link": "https://www.bibamagazine.fr/lifestyle/vie-quotidienne/navez-pas-nouvelle-vignette-auto-135e-damende-illico-448889.html",
+			"pubDate": "Tue, 14 Jan 2025 07:00:12 GMT",
+			"image": "https://www.bibamagazine.fr/wp-content/uploads/biba/2025/01/copie-de-copie-de-copie-de-copie-de-copie-de-copie-de-copie-de-copie-de-copie-de-copie-de-sans-titre-32.jpg",
 			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "",
-			"url": "",
-			"description": ""
+			"site_name": "Biba Magazine",
+			"url": "https://www.bibamagazine.fr/lifestyle/vie-quotidienne/navez-pas-nouvelle-vignette-auto-135e-damende-illico-448889.html",
+			"description": "Cette vignette, petit autocollant aux grands enjeux, est dor\u00e9navant incontournable pour les automobilistes fran\u00e7ais."
 		},
 		{
-			"title": "La maman accouche dans le train, le contr\u00f4leur s\u2019improvise sage-femme : \"Jamais fait \u00e7a\" - France Live",
-			"link": "https://www.francelive.fr/article/france-live/la-maman-accouche-dans-le-train-le-controleur-simprovise-sage-femme-jamais-fait-ca-8775390/",
-			"pubDate": "Tue, 14 Jan 2025 10:02:00 GMT",
-			"image": "",
+			"title": "Une partie de Rennes boucl\u00e9e pour un proc\u00e8s sous haute surveillance - 20 Minutes",
+			"link": "https://www.20minutes.fr/justice/4133412-20250114-rennes-partie-centre-ville-bouclee-proces-sous-tres-haute-surveillance",
+			"pubDate": "Tue, 14 Jan 2025 04:02:00 GMT",
+			"image": "https://img.20mn.fr/ML_obL6PRbW1ceMfCrC0dQ/1444x920_illustration-salle-audience-cour-assises-ille-vilaine-rennes",
 			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "",
-			"url": "",
-			"description": ""
+			"site_name": "20 Minutes",
+			"url": "https://www.20minutes.fr/justice/4133412-20250114-rennes-partie-centre-ville-bouclee-proces-sous-tres-haute-surveillance",
+			"description": "Un dispositif de s\u00e9curit\u00e9 exceptionnel sera d\u00e9ploy\u00e9 du 14 au 24\u00a0janvier autour du parlement de Bretagne, o\u00f9 sont jug\u00e9s des narcotrafiquants"
 		},
 		{
-			"title": "\u00abLa gauche totalitaire\u00bb, \u00able vrai fascisme\u00bb... L'appel de Marine Tondelier \u00e0 interdire la plateforme X soul\u00e8ve un toll\u00e9 - Le Journal du dimanche",
-			"link": "https://www.lejdd.fr/politique/la-gauche-totalitaire-le-vrai-fascisme-lappel-de-marine-tondelier-interdire-la-plateforme-x-souleve-un-tolle-153809",
-			"pubDate": "Mon, 13 Jan 2025 06:35:50 GMT",
-			"image": "https://www.lejdd.fr/lmnr/var/jdd/public/media/image/2025/01/13/07/sipa_01191344_000030.jpg?VersionId=Ax8z6RpocfqBj8zfnfYeDxCZ9m.709uK",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "",
-			"url": "https://www.lejdd.fr/politique/la-gauche-totalitaire-le-vrai-fascisme-lappel-de-marine-tondelier-interdire-la-plateforme-x-souleve-un-tolle-153809",
-			"description": "La secr\u00e9taire nationale des \u00c9cologistes, Marine Tondelier, a enjoint, dimanche 12 janvier, les membres du Nouveau Front populaire \u00e0 quitter le r\u00e9seau social X, qu\u2019elle consid\u00e8re \u00ab dangereux \u00bb. Sa d\u00e9claration n\u2019a pas manqu\u00e9 de susciter des r\u00e9actions."
-		},
-		{
-			"title": "A l\u2019Assembl\u00e9e nationale, Manuel Valls d\u00e9fend le projet de loi d\u2019urgence pour Mayotte face aux critiques - Le Monde",
-			"link": "https://www.lemonde.fr/outre-mer/article/2025/01/13/a-l-assemblee-nationale-manuel-valls-defend-le-projet-de-loi-d-urgence-pour-mayotte-face-aux-critiques_6496350_1840826.html",
-			"pubDate": "Mon, 13 Jan 2025 20:11:14 GMT",
-			"image": "",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "",
-			"url": "",
-			"description": ""
-		},
-		{
-			"title": "Les plus gros narcotrafiquants de France bient\u00f4t emprisonn\u00e9s en Normandie ? - France 3 R\u00e9gions",
-			"link": "https://france3-regions.francetvinfo.fr/normandie/orne/alencon/les-plus-gros-narcotrafiquants-de-france-bientot-emprisonnes-en-normandie-3090310.html",
-			"pubDate": "Mon, 13 Jan 2025 11:30:22 GMT",
-			"image": "https://france3-regions.francetvinfo.fr/image/leYHsUKZGgjgxSajtLzKTDIAlxI/930x620/regions/2025/01/13/maxnewsworldfour758059-6784e4c51afa9276599633.jpg",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "France 3 Normandie",
-			"url": "https://france3-regions.francetvinfo.fr/normandie/orne/alencon/les-plus-gros-narcotrafiquants-de-france-bientot-emprisonnes-en-normandie-3090310.html",
-			"description": "G\u00e9rald Darmanin souhaite que \"les cent plus gros narcotrafiquants du pays soient isol\u00e9s dans une prison de haute s\u00e9curit\u00e9\". Si le garde des Sceaux n'a pas pr\u00e9cis\u00e9 l'\u00e9tablissement de destination, le centre p\u00e9nitentiaire d'Alen\u00e7on-Cond\u00e9-sur-Sarthe..."
-		},
-		{
-			"title": "Le Burkina Faso consid\u00e8re qu\u2019Emmanuel Macron \u00ab a insult\u00e9 tous les Africains \u00bb avec ses propos sur la lutte contre les djihadistes - Le Monde",
-			"link": "https://www.lemonde.fr/afrique/article/2025/01/14/le-burkina-faso-considere-qu-emmanuel-macron-a-insulte-tous-les-africains-avec-ses-propos-sur-la-lutte-contre-les-djihadistes_6496585_3212.html",
-			"pubDate": "Tue, 14 Jan 2025 03:54:08 GMT",
-			"image": "",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "",
-			"url": "",
-			"description": ""
-		},
-		{
-			"title": "Accident de tram \u00e0 Strasbourg : la rame n'\u00e9tait pas \u00e9quip\u00e9e d'un syst\u00e8me l'emp\u00eachant de repartir en arri\u00e8re - actu.fr",
-			"link": "https://actu.fr/grand-est/strasbourg_67482/accident-de-tram-a-strasbourg-la-rame-n-etait-pas-equipee-d-un-systeme-l-empechant-de-repartir-en-arriere_62107637.html",
-			"pubDate": "Mon, 13 Jan 2025 08:11:49 GMT",
-			"image": "https://static.actu.fr/uploads/2025/01/accident-tram-tunnel-gare-strasbourg-1.jpg",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "actu.fr",
-			"url": "https://actu.fr/grand-est/strasbourg_67482/accident-de-tram-a-strasbourg-la-rame-n-etait-pas-equipee-d-un-systeme-l-empechant-de-repartir-en-arriere_62107637.html",
-			"description": "Ce lundi, le directeur g\u00e9n\u00e9ral de la CTS confirme que la rame ayant percut\u00e9 une autre rame samedi n'\u00e9tait pas \u00e9quip\u00e9e d'un syst\u00e8me de s\u00e9curit\u00e9 l'emp\u00eachant de repartir en arri\u00e8re."
-		},
-		{
-			"title": "Autoroute A69 : les opposants demandent \u00e0 la justice la suspension \u00ab urgente \u00bb du chantier - Le Monde",
-			"link": "https://www.lemonde.fr/planete/article/2025/01/13/autoroute-a69-les-opposants-demandent-a-la-justice-la-suspension-urgente-du-chantier_6495898_3244.html",
-			"pubDate": "Mon, 13 Jan 2025 14:16:55 GMT",
+			"title": "Il fait 9 \u00b0C dans ce Resto U de l\u2019Ouest, contraint de fermer : un food-truck appel\u00e9 en renfort - Ouest-France",
+			"link": "https://www.ouest-france.fr/meteo/vague-de-froid/il-fait-9-c-dans-ce-resto-u-de-bretagne-pres-de-brest-un-food-truck-appele-en-renfort-58846a56-d262-11ef-a472-523f8d5502d1",
+			"pubDate": "Tue, 14 Jan 2025 11:32:57 GMT",
 			"image": "",
 			"logo": "https://picsum.photos/32/32?grayscale",
 			"site_name": "",
@@ -321,44 +291,34 @@
 			"description": "Avant Rillette, menac\u00e9e d\u2019euthanasie dans l\u2019Aube, Woody avait d\u00e9fray\u00e9 la chronique. Le sanglier, recueilli par une Lot-et-Garonnaise, vit depuis bient\u00f4t deux ans dans un parc animalier, o\u00f9 il peine \u00e0 trouver sa place"
 		},
 		{
-			"title": "Maintenue \u00e0 Rennes, l\u2019alerte \u00e0 la pollution de l\u2019air va s\u2019\u00e9tendre \u00e0 tout l\u2019est de la Bretagne - Ouest-France",
-			"link": "https://www.ouest-france.fr/bretagne/rennes-35000/maintenue-a-rennes-lalerte-a-la-pollution-de-lair-va-setendre-a-tout-lest-de-la-bretagne-986814b4-d19b-11ef-8aa9-6a8073542db7",
-			"pubDate": "Mon, 13 Jan 2025 12:20:26 GMT",
+			"title": "Tarn: \"disparition inqui\u00e9tante\" d'une adolescente de 14 ans, une enqu\u00eate ouverte - BFMTV",
+			"link": "https://www.bfmtv.com/police-justice/faits-divers/tarn-disparition-inquietante-d-une-adolescente-de-14-ans-une-enquete-ouverte_AN-202501140264.html",
+			"pubDate": "Tue, 14 Jan 2025 07:54:10 GMT",
+			"image": "https://images.bfmtv.com/UNW4X4YePU6K_gcTop_J89SHo2Y=/0x106:2048x1258/2048x0/images/Police-illustration-1774585.jpg",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "BFMTV",
+			"url": "https://www.bfmtv.com/police-justice/faits-divers/tarn-disparition-inquietante-d-une-adolescente-de-14-ans-une-enquete-ouverte_AN-202501140264.html",
+			"description": "La famille de l'adolescente a signal\u00e9 sa disparition le samedi 11 janvier \u00e0 Albi. La piste de la fugue est \u00e0 ce stade privil\u00e9gi\u00e9e par le parquet."
+		},
+		{
+			"title": "Le Burkina Faso consid\u00e8re qu\u2019Emmanuel Macron \u00ab a insult\u00e9 tous les Africains \u00bb avec ses propos sur la lutte contre les djihadistes - Le Monde",
+			"link": "https://www.lemonde.fr/afrique/article/2025/01/14/le-burkina-faso-considere-qu-emmanuel-macron-a-insulte-tous-les-africains-avec-ses-propos-sur-la-lutte-contre-les-djihadistes_6496585_3212.html",
+			"pubDate": "Tue, 14 Jan 2025 03:54:08 GMT",
+			"image": "https://img.lemde.fr/2025/01/07/0/0/5899/3933/1440/960/60/0/c02a1dd_ftp-import-images-1-lyzm7jlq3mgi-2025-01-07t144055z-1027563004-rc2z4cam9lm9-rtrmadp-3-ghana-mahama-inauguration.JPG",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "Le Monde.fr",
+			"url": "https://www.lemonde.fr/afrique/article/2025/01/14/le-burkina-faso-considere-qu-emmanuel-macron-a-insulte-tous-les-africains-avec-ses-propos-sur-la-lutte-contre-les-djihadistes_6496585_3212.html",
+			"description": "Le pr\u00e9sident fran\u00e7ais avait \u00e9voqu\u00e9 l\u2019\u00ab\u00a0ingratitude\u00a0\u00bb de certains pays africains envers la France dont les soldats ont d\u00fb quitter le territoire."
+		},
+		{
+			"title": "En Bretagne, une enqu\u00eate pour viols ouverte contre deux pr\u00eatres - Le Monde",
+			"link": "https://www.lemonde.fr/societe/article/2025/01/14/en-bretagne-une-enquete-pour-viols-ouverte-contre-deux-pretres_6496485_3224.html",
+			"pubDate": "Mon, 13 Jan 2025 23:29:56 GMT",
 			"image": "",
 			"logo": "https://picsum.photos/32/32?grayscale",
 			"site_name": "",
 			"url": "",
 			"description": ""
-		},
-		{
-			"title": "Deux pr\u00eatres de Loud\u00e9ac accus\u00e9s de viols : une enqu\u00eate est en cours, les deux hommes sont actuellement suspendus - France 3 R\u00e9gions",
-			"link": "https://france3-regions.francetvinfo.fr/bretagne/cotes-d-armor/saint-brieuc/deux-pretres-de-loudeac-accuses-de-viols-une-enquete-est-en-cours-les-deux-hommes-sont-actuellement-suspendus-3090406.html",
-			"pubDate": "Mon, 13 Jan 2025 11:39:56 GMT",
-			"image": "https://france3-regions.francetvinfo.fr/image/7gZz6I3-KB-j7vV0Qy9kMXLLs48/930x620/regions/2022/01/02/61d1ef827e6bb_tribunal-saint-brieuc.jpg",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "France 3 Bretagne",
-			"url": "https://france3-regions.francetvinfo.fr/bretagne/cotes-d-armor/saint-brieuc/deux-pretres-de-loudeac-accuses-de-viols-une-enquete-est-en-cours-les-deux-hommes-sont-actuellement-suspendus-3090406.html",
-			"description": "Deux pr\u00eatres de la zone pastorale de Loud\u00e9ac dans les C\u00f4tes d'Armor ont \u00e9t\u00e9 suspendus et n'ont plus le droit de c\u00e9l\u00e9brer de messes. Deux femmes ont d\u00e9nonc\u00e9 leur comportement. Ce lundi 13 janvier, le procureur de la R\u00e9publique..."
-		},
-		{
-			"title": "Soignants agress\u00e9s \u00e0 Annemasse : le proc\u00e8s des deux fr\u00e8res renvoy\u00e9 au 17 f\u00e9vrier - ici, le m\u00e9dia de la vie locale",
-			"link": "https://www.francebleu.fr/infos/faits-divers-justice/soignants-agresses-a-annemasse-le-proces-des-deux-freres-renvoye-au-17-fevrier-8445281",
-			"pubDate": "Mon, 13 Jan 2025 15:32:26 GMT",
-			"image": "https://www.francebleu.fr/s3/cruiser-production-eu3/2025/01/e580731a-05c4-4510-8205-a0db2abfcde0/1200x680_sc_whatsapp-image-2025-01-13-at-15-13-44.jpg",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "ici, le m\u00e9dia de la vie locale",
-			"url": "https://www.francebleu.fr/infos/faits-divers-justice/soignants-agresses-a-annemasse-le-proces-des-deux-freres-renvoye-au-17-fevrier-8445281",
-			"description": "Le proc\u00e8s des deux hommes interpell\u00e9s apr\u00e8s l'agression de plusieurs soignants aux urgences d'Annemasse est renvoy\u00e9 au 17 f\u00e9vrier prochain."
-		},
-		{
-			"title": "L\u00e9gislative partielle en Is\u00e8re : le changement de ton d\u2019Attal sur le candidat NFP Lyes Louffok - Lib\u00e9ration",
-			"link": "https://www.liberation.fr/politique/legislative-partielle-en-isere-le-revirement-dattal-sur-le-candidat-nfp-lyes-louffok-20250113_JRSDAECCNJAITH2QKVJUF6HMZM/",
-			"pubDate": "Mon, 13 Jan 2025 11:34:13 GMT",
-			"image": "https://www.liberation.fr/resizer/UtPqoDC1EeP5ydTtl4w_nnAblM0=/1200x630/filters:format(jpg):quality(70):focal(2081x1490:2091x1500)/cloudfront-eu-central-1.images.arcpublishing.com/liberation/Y2HJWFXV2JBXPMDVT2JB746NHQ.jpg",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "Lib\u00e9ration",
-			"url": "",
-			"description": "Avant le second tour, le patron de Renaissance appelle \u00e0 faire barrage \u00e0 \u00abl\u2019extr\u00eame gauche\u00bb repr\u00e9sent\u00e9e, selon lui, par Lyes Louffok. En 2021 pourtant, il disait tout le \u00abrespect\u00bb qu\u2019il avait pour ce d\u00e9fenseur des droits de l'enfant."
 		},
 		{
 			"title": "R\u00e9forme des retraites : Bayrou organise une r\u00e9union de la derni\u00e8re chance \u00e0 Matignon avec le PS - Le Parisien",
@@ -371,45 +331,15 @@
 			"description": "Ce lundi \u00e0 18h30, le patron du PS Olivier Faure et les pr\u00e9sidents des groupes parlementaires sont re\u00e7us \u00e0 Matignon. Au c\u0153ur de la discussion"
 		},
 		{
-			"title": "Un d\u00e9partement en vigilance orange, les Alpes-Maritimes en jaune... le point sur les pr\u00e9visions m\u00e9t\u00e9o de ce mardi - Nice matin",
-			"link": "https://www.nicematin.com/meteo/un-departement-en-vigilance-orange-les-alpes-maritimes-en-jaune-le-point-sur-les-previsions-meteo-de-ce-mardi-967506",
-			"pubDate": "Mon, 13 Jan 2025 15:20:00 GMT",
-			"image": "https://fyooyzbm.filerobot.com/v7/maxmatinarch683814-SZX1Q8dl.jpg?vh=38cc04&ci_seal=a3862a8912",
+			"title": "Discours de politique g\u00e9n\u00e9rale de Fran\u00e7ois Bayrou : le temps de la proportionnelle, cheval de bataille du nouveau Premier ministre, est-il venu ? - franceinfo",
+			"link": "https://www.francetvinfo.fr/politique/parlement-francais/assemblee-nationale/discours-de-politique-generale-de-francois-bayrou-le-temps-de-la-proportionnelle-cheval-de-bataille-du-nouveau-premier-ministre-est-il-venu_7003844.html",
+			"pubDate": "Tue, 14 Jan 2025 05:02:56 GMT",
+			"image": "https://www.francetvinfo.fr/pictures/kxjinpZzUyj9L7OPYvG5dxHWvy8/0x604:5802x3865/1500x843/2025/01/09/000-36qk2ez-677fc695c6357795327868.jpg",
 			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "Nice-Matin",
-			"url": "https://www.nicematin.com/meteo/un-departement-en-vigilance-orange-les-alpes-maritimes-en-jaune-le-point-sur-les-previsions-meteo-de-ce-mardi-967506",
-			"description": "Ce lundi 13 janvier, le d\u00e9partement de l'Oise est plac\u00e9 en vigilance orange aux crues pour la soir\u00e9e et la journ\u00e9e de demain, mardi 14 janvier.\u00a0 \r\nSi un seul d\u00e9partement est class\u00e9 en vigilance orange, les trois quarts du pays sont plac\u00e9s en vigilance jaune pour divers ph\u00e9nom\u00e8nes: avalanches, grand "
-		},
-		{
-			"title": "Strava Leaks : \u00e0 l\u2019\u00cele-Longue, pourquoi les marins militaires doivent faire une \u00ab di\u00e8te \u00bb num\u00e9rique - Le T\u00e9l\u00e9gramme",
-			"link": "https://www.letelegramme.fr/finistere/brest-29200/strava-leaks-a-lile-longue-pourquoi-les-marins-militaires-doivent-faire-une-diete-numerique-6739748.php",
-			"pubDate": "Mon, 13 Jan 2025 18:59:53 GMT",
-			"image": "https://media.letelegramme.fr/api/v1/images/view/67857ff3f31e410ac5235f64/web_golden_xxl/67857ff3f31e410ac5235f64.1",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "Le T\u00e9l\u00e9gramme",
-			"url": "https://www.letelegramme.fr/finistere/brest-29200/strava-leaks-a-lile-longue-pourquoi-les-marins-militaires-doivent-faire-une-diete-numerique-6739748.php",
-			"description": "Des joggeurs qui rendent publique leur trace num\u00e9rique en pleine zone militaire\u00a0! Le fait n\u2019est pas nouveau. Mais \u00e0 la base des sous-marins nucl\u00e9aires de l\u2019\u00cele-Longue (29), le sujet rejoint les int\u00e9r\u00eats vitaux du pays."
-		},
-		{
-			"title": "Supprimer l\u2019Ademe et son si\u00e8ge \u00e0 Angers pour faire des \u00e9conomies ? L\u2019id\u00e9e de Val\u00e9rie P\u00e9cresse - Ouest-France",
-			"link": "https://www.ouest-france.fr/economie/budget-collectivites-etat/supprimer-lademe-et-son-siege-a-angers-pour-faire-des-economies-lidee-de-valerie-pecresse-4c409ae4-d18b-11ef-8aa9-6a8073542db7",
-			"pubDate": "Mon, 13 Jan 2025 09:32:32 GMT",
-			"image": "",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "",
-			"url": "",
-			"description": ""
-		},
-		{
-			"title": "Dans le Finist\u00e8re un incendie ravage le manoir de Kernault, class\u00e9 monument historique - Le Figaro",
-			"link": "https://www.lefigaro.fr/culture/patrimoine/dans-le-finistere-un-incendie-ravage-le-manoir-de-kernault-classe-monument-historique-20250113",
-			"pubDate": "Mon, 13 Jan 2025 14:48:07 GMT",
-			"image": "https://i.f1g.fr/media/cms/1200x630_crop/2025/01/13/62045d78332ed7efb6724fe1d519619929bc4d0f4182f047aec879e4bdd50bb5.jpg",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "Le Figaro",
-			"url": "https://www.lefigaro.fr/culture/patrimoine/dans-le-finistere-un-incendie-ravage-le-manoir-de-kernault-classe-monument-historique-20250113",
-			"description": "L\u2019embrasement a commenc\u00e9 le dimanche 12 janvier dans la matin\u00e9e puis a d\u00e9truit l\u2019int\u00e9gralit\u00e9 de la toiture de cet \u00e9difice du XVe si\u00e8cle, situ\u00e9 \u00e0 Mellac en Bretagne. Le monument \u00e9tait en voie de restauration depuis 2020. Les raisons du d\u00e9part de feu sont encore inconnues."
+			"site_name": "Franceinfo",
+			"url": "https://www.francetvinfo.fr/politique/parlement-francais/assemblee-nationale/discours-de-politique-generale-de-francois-bayrou-le-temps-de-la-proportionnelle-cheval-de-bataille-du-nouveau-premier-ministre-est-il-venu_7003844.html",
+			"description": "Le nouveau chef du gouvernement r\u00e9clame de longue date que les \u00e9lections l\u00e9gislatives se d\u00e9roulent au scrutin proportionnel. Mais l'adoption de cette mesure, pl\u00e9biscit\u00e9e par les \u00e9lecteurs, pourrait se heurter \u00e0 la division de l'Assembl\u00e9e et une possible censure."
 		}
 	],
-	"timestamp": "2025-01-14 16:28:12.560932"
+	"timestamp": "2025-01-14 20:23:39.068870"
 }
