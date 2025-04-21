@@ -1,25 +1,585 @@
 {
 	"content": [
 		{
-			"title": "En direct, mort du pape Fran\u00e7ois : les derni\u00e8res informations, r\u00e9actions et t\u00e9moignages recueillis sur la place Saint-Pierre, au Vatican - Le Monde.fr",
-			"link": "https://www.lemonde.fr/disparitions/live/2025/04/21/en-direct-mort-du-pape-francois-francois-bayrou-salue-la-demarche-historique-du-souverain-pontife-qui-a-provoque-un-basculement-au-sein-de-l-eglise_6598507_3382.html",
-			"pubDate": "Mon, 21 Apr 2025 12:45:00 GMT",
-			"image": "https://img.lemde.fr/2025/04/21/121/0/5389/2694/1440/720/60/0/61f56a1_ftp-import-images-1-zrppumb7qbjn-2025-04-21t121847z-1937783931-rc2c2eaktk4p-rtrmadp-3-pope-francis-philippines.JPG",
+			"title": "Le pape Fran\u00e7ois, artisan de la modernisation de l'Eglise catholique, est mort \u00e0 l'\u00e2ge de 88 ans - France Info",
+			"link": "https://www.francetvinfo.fr/monde/vatican/pape-francois/le-pape-francois-artisan-de-la-modernisation-de-l-eglise-catholique-est-mort-a-l-age-de-88-ans_4734485.html",
+			"pubDate": "Mon, 21 Apr 2025 07:59:42 GMT",
+			"image": "https://www.francetvinfo.fr/pictures/n0deW5BWDGVrXZ52dYgyRfBg1DU/0x222:5831x3500/1500x843/2023/03/30/6425536469753_000-33bt89w.jpg",
 			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "Le Monde.fr",
-			"url": "https://www.lemonde.fr/disparitions/live/2025/04/21/en-direct-mort-du-pape-francois-francois-bayrou-salue-la-demarche-historique-du-souverain-pontife-qui-a-provoque-un-basculement-au-sein-de-l-eglise_6598507_3382.html",
-			"description": "Jorge Mario Bergoglio est mort, lundi, \u00e0 l\u2019\u00e2ge de 88\u00a0ans, a annonc\u00e9 le Vatican, apr\u00e8s un\u00a0pontificat de douze ans. Le premier pape sud-am\u00e9ricain sera mis en bi\u00e8re \u00e0 20\u00a0heures."
+			"site_name": "Franceinfo",
+			"url": "https://www.francetvinfo.fr/monde/vatican/pape-francois/le-pape-francois-artisan-de-la-modernisation-de-l-eglise-catholique-est-mort-a-l-age-de-88-ans_4734485.html",
+			"description": "Premier souverain pontife sud-am\u00e9ricain, Jorge Bergoglio \u00e9tait devenu le 266e chef de l'Eglise catholique le 13 mars 2013."
 		},
 		{
-			"title": "Trump promet la fortune \u00e0 Moscou et Kiev s\u2019il y a un accord cette semaine - 20 Minutes",
-			"link": "https://www.20minutes.fr/monde/etats-unis/4149553-20250421-guerre-ukraine-trump-promet-fortune-moscou-kiev-trouvent-accord-semaine",
-			"pubDate": "Mon, 21 Apr 2025 00:30:00 GMT",
-			"image": "https://img.20mn.fr/bUicLUwxTnWx6D2CkOvDbik/1444x920_mandatory-credit-photo-by-chris-kleponis-upi-shutterstock-15258683j-president-donald-trump-speaks-after-signing-an-executive-order-expanding-fishing-rights-in-the-pacific-islands-in-the-oval-office-of-the-white-house-in-washington-dc-on-thursday-april-17-2025-trump-signs-a-proclamation-expanding-fishing-rights-in-the-pacific-islands-washington-district-of-columbia-united-states-17-apr-2025-shutterstock-editorial-trump-signs-a-proclamation-exp-15258683j-2504172353",
+			"title": "Donald Trump \u00absoutient fermement\u00bb son ministre de la D\u00e9fense apr\u00e8s une nouvelle faille de s\u00e9curit\u00e9 - Le Figaro",
+			"link": "https://www.lefigaro.fr/international/donald-trump-soutient-fermement-son-ministre-de-la-defense-apres-une-nouvelle-faille-de-securite-20250421",
+			"pubDate": "Mon, 21 Apr 2025 14:15:04 GMT",
+			"image": "https://i.f1g.fr/media/cms/1200x630_crop/2025/04/21/f8b6830754d7e11fe400f2971ed4b2be127ae61a63604ae2b7ff0425909aa6fe.JPG",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "Le Figaro",
+			"url": "https://www.lefigaro.fr/international/donald-trump-soutient-fermement-son-ministre-de-la-defense-apres-une-nouvelle-faille-de-securite-20250421",
+			"description": "D\u00e9j\u00e0 mis en cause dans une faille de s\u00e9curit\u00e9 le mois dernier, Pete Hegseth fait l\u2019objet d\u2019un nouveau scandale ce lundi. Il a divulgu\u00e9 des informations sur une op\u00e9ration militaire au Y\u00e9men \u00e0 son \u00e9pouse, son fr\u00e8re, son avocat, sur la messagerie Signal."
+		},
+		{
+			"title": "En direct, guerre \u00e0 Gaza : le chef limog\u00e9 du Shin Bet, les services du renseignement int\u00e9rieur isra\u00e9liens, met en cause Benyamin N\u00e9tanyahou - Le Monde.fr",
+			"link": "https://www.lemonde.fr/international/live/2025/04/21/en-direct-guerre-a-gaza-le-chef-limoge-du-shin-bet-les-services-du-renseignement-interieur-israeliens-met-en-cause-benyamin-netanyahou_6597607_3210.html",
+			"pubDate": "Mon, 21 Apr 2025 16:27:10 GMT",
+			"image": "https://img.lemde.fr/2025/04/21/421/0/5051/2525/1440/720/60/0/8df5f7f_ftp-import-images-1-nchnvazab0b9-d848a6f0bc234b1cbf39b77467f54ad3-0-610d5496aadb4ee3abbba384a26fa3ef.jpg",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "Le Monde.fr",
+			"url": "https://www.lemonde.fr/international/live/2025/04/21/en-direct-guerre-a-gaza-le-chef-limoge-du-shin-bet-les-services-du-renseignement-interieur-israeliens-met-en-cause-benyamin-netanyahou_6597607_3210.html",
+			"description": "Dans une d\u00e9claration \u00e9crite sous serment \u00e0 la Cour supr\u00eame, Ronen Bar dit \u00e9galement que le premier ministre isra\u00e9lien lui a dit \u00ab\u00a0\u00e0 plus d\u2019une reprise\u00a0\u00bb qu\u2019il s\u2019attendait \u00e0 ce que le Shin Bet agisse contre les citoyens isra\u00e9liens impliqu\u00e9s dans des manifestations."
+		},
+		{
+			"title": "Guerre en Ukraine : Trump esp\u00e8re un accord dans la semaine, tr\u00eave pascale\u2026 Le point sur la nuit - Ouest-France",
+			"link": "https://www.ouest-france.fr/europe/ukraine/guerre-en-ukraine-trump-espere-un-accord-dans-la-semaine-treve-pascale-le-point-sur-la-nuit-72976a42-1e5c-11f0-9f5f-06399571ff35",
+			"pubDate": "Mon, 21 Apr 2025 03:45:40 GMT",
+			"image": "",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "",
+			"url": "",
+			"description": ""
+		},
+		{
+			"title": "\u00ab La r\u00e9surrection de J\u00e9sus est le fondement de l\u2019esp\u00e9rance \u00bb : le magnifique dernier message du pape Fran\u00e7ois - La Croix",
+			"link": "https://www.la-croix.com/a-vif/la-resurrection-de-jesus-est-le-fondement-de-l-esperance-le-magnifique-dernier-message-du-pape-francois-20250421",
+			"pubDate": "Mon, 21 Apr 2025 09:29:50 GMT",
+			"image": "https://i.la-croix.com/1400x933/smart/2025/04/21/2052719-le-pape-francois-est-apparu-pour-la-derniere-fois-.jpg",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "La Croix",
+			"url": "https://www.la-croix.com/a-vif/la-resurrection-de-jesus-est-le-fondement-de-l-esperance-le-magnifique-dernier-message-du-pape-francois-20250421",
+			"description": "Le message urbi et orbi de ce dimanche de P\u00e2ques fut le dernier message du pape Fran\u00e7ois, d\u00e9c\u00e9d\u00e9 ce lundi 21\u00a0avril au matin. Un texte tr\u00e8s spirituel, mais aussi politique, dans lequel le pape se dit \u00ab\u00a0proche des souffrances\u00a0\u00bb des Isra\u00e9liens et Palestiniens. La Croix vous propose de lire ce texte en int\u00e9gralit\u00e9."
+		},
+		{
+			"title": "\u00abHabemus papam !\u00bb : pourquoi est-ce le cardinal corse Dominique Mamberti qui va annoncer le nom du nouveau pape ? - CNews",
+			"link": "https://www.cnews.fr/monde/2025-04-21/habemus-papam-pourquoi-est-ce-le-cardinal-corse-dominique-mamberti-qui-va-annoncer",
+			"pubDate": "Mon, 21 Apr 2025 14:38:58 GMT",
+			"image": "",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "",
+			"url": "",
+			"description": ""
+		},
+		{
+			"title": "Secouristes tu\u00e9s \u00e0 Gaza : la D\u00e9fense civile palestinienne d\u00e9nonce des \u00abex\u00e9cutions sommaires\u00bb - Le Figaro",
+			"link": "https://www.lefigaro.fr/international/secouristes-tues-a-gaza-la-defense-civile-palestinienne-denonce-des-executions-sommaires-20250421",
+			"pubDate": "Mon, 21 Apr 2025 06:27:36 GMT",
+			"image": "https://i.f1g.fr/media/cms/1200x630_crop/2025/04/21/1378b6b408825a6429a8fa02a4a0979e4f43b13bda11bf9b601fd7d050e2e3ac.jpg",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "Le Figaro",
+			"url": "https://www.lefigaro.fr/international/secouristes-tues-a-gaza-la-defense-civile-palestinienne-denonce-des-executions-sommaires-20250421",
+			"description": "\u00abLa vid\u00e9o film\u00e9e par l\u2019un des ambulanciers prouve que le narratif de l\u2019occupation isra\u00e9lienne est faux et d\u00e9montre qu\u2019elle a proc\u00e9d\u00e9 \u00e0 des ex\u00e9cutions sommaires\u00bb, a d\u00e9clar\u00e9 un responsable de la D\u00e9fense civile \u00e0 Gaza."
+		},
+		{
+			"title": "La derni\u00e8re apparition du pape Fran\u00e7ois en images : sa rencontre avec J.D. Vance - parismatch.com",
+			"link": "https://www.parismatch.com/actu/international/la-derniere-apparition-du-pape-francois-en-photos-sa-rencontre-avec-jd-vance-250349",
+			"pubDate": "Mon, 21 Apr 2025 08:53:17 GMT",
+			"image": "https://www.parismatch.com/lmnr/var/pm/public/media/image/2025/04/21/10/resize_2025-04-20t104146z_1372099867_rc2m1eaaqhkf_rtrmadp_3_usa-vance-vatican.jpg?VersionId=BX8SjwFpT5gLqZIwDWoPmQbeRTWSqrLr",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "",
+			"url": "https://www.parismatch.com/actu/international/la-derniere-apparition-du-pape-francois-en-photos-sa-rencontre-avec-jd-vance-250349",
+			"description": "Alors que le Vatican a annonc\u00e9 sa mort ce lundi 21\u00a0avril, le pape Fran\u00e7ois avait effectu\u00e9 sa derni\u00e8re apparition publique la veille, pour la messe de P\u00e2ques et un entretien priv\u00e9 avec le vice-pr\u00e9sident des \u00c9tats-Unis, J.D. Vance."
+		},
+		{
+			"title": "Partout aux \u00c9tats-Unis, des milliers d'Am\u00e9ricains manifestent contre la politique de Donald Trump - RFI",
+			"link": "https://www.rfi.fr/fr/am%C3%A9riques/20250420-partout-aux-%C3%A9tats-unis-des-milliers-d-am%C3%A9ricains-manifestent-contre-la-politique-de-donald-trump",
+			"pubDate": "Sun, 20 Apr 2025 10:18:20 GMT",
+			"image": "",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "",
+			"url": "",
+			"description": ""
+		},
+		{
+			"title": "Le vice-pr\u00e9sident am\u00e9ricain JD Vance rencontre le Premier ministre indien Modi - Le Figaro",
+			"link": "https://www.lefigaro.fr/international/le-vice-president-americain-jd-vance-est-arrive-en-inde-pour-parler-commerce-20250421",
+			"pubDate": "Mon, 21 Apr 2025 06:05:17 GMT",
+			"image": "https://i.f1g.fr/media/cms/1200x630_crop/2025/04/21/d4dcb8d4c8e82d61cd79d21570da9c07ec908cda8510912c0ba204003b1fb669.jpg",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "Le Figaro",
+			"url": "https://www.lefigaro.fr/international/le-vice-president-americain-jd-vance-est-arrive-en-inde-pour-parler-commerce-20250421",
+			"description": "Alors que l\u2019Inde est toujours sous la menace de taxes de 26% sur ses exportations vers les \u00c9tats-Unis, le premier ministre indien esp\u00e8re conclure un accord commercial."
+		},
+		{
+			"title": "La r\u00e9sistance d\u2019Harvard face \u00e0 Donald Trump : la chronique \"Sans filtre\" de M\u00e9mona Hintermann - ladepeche.fr",
+			"link": "https://www.ladepeche.fr/2025/04/20/la-resistance-dharvard-face-a-donald-trump-la-chronique-sans-filtre-de-memona-hintermann-12645452.php",
+			"pubDate": "Sun, 20 Apr 2025 04:30:00 GMT",
+			"image": "https://images.ladepeche.fr/api/v1/images/view/68027a90b8a200d15b0cd17c/large/image.jpg?v=1",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "ladepeche.fr",
+			"url": "https://www.ladepeche.fr/2025/04/20/la-resistance-dharvard-face-a-donald-trump-la-chronique-sans-filtre-de-memona-hintermann-12645452.php",
+			"description": "Sans filtre, la chronique de M\u00e9mona Hintermann, grand reporter, ancienne membre du Conseil sup\u00e9rieur de l\u2019audiovisuel. Aujourd\u2019hui, la r\u00e9sistance de l\u2019universit\u00e9 Harvard aux injonctions de Donald Trump."
+		},
+		{
+			"title": "La folie Carlo Acutis, \u00ab l\u2019ap\u00f4tre du Web \u00bb mort \u00e0 15 ans et premier saint du XXIe si\u00e8cle - Le Parisien",
+			"link": "https://www.leparisien.fr/societe/religions/la-folie-carlo-acutis-lapotre-du-web-mort-a-15-ans-et-premier-saint-du-xxie-siecle-21-04-2025-MLA5MFVJT5BMXEYU6ZUE6ITCPY.php",
+			"pubDate": "Mon, 21 Apr 2025 04:00:00 GMT",
+			"image": "https://www.leparisien.fr/resizer/oFgViNLKI9xP-LEZmsJBs4yBgVw=/1200x675/cloudfront-eu-central-1.images.arcpublishing.com/leparisien/BK7CVIH2Z5FI5HTCUDFVEGETZY.jpg",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "leparisien.fr",
+			"url": "https://www.leparisien.fr/societe/religions/la-folie-carlo-acutis-lapotre-du-web-mort-a-15-ans-et-premier-saint-du-xxie-siecle-21-04-2025-MLA5MFVJT5BMXEYU6ZUE6ITCPY.php",
+			"description": "Carlo Acutis, un ado mort d\u2019une leuc\u00e9mie en 2006, avait inond\u00e9 Internet du message de la Bible il y a vingt-cinq ans.  \u00c0 Assise (Italie), o\u00f9"
+		},
+		{
+			"title": "Nucl\u00e9aire : Iraniens et Am\u00e9ricains avancent vers une \u00e9bauche d\u2019accord - Le Figaro",
+			"link": "https://www.lefigaro.fr/international/nucleaire-iraniens-et-americains-avancent-vers-une-ebauche-d-accord-20250420",
+			"pubDate": "Sun, 20 Apr 2025 16:09:18 GMT",
+			"image": "https://i.f1g.fr/media/cms/1200x630_crop/2025/04/20/02f9f76214e94f9af7e3dadc6b1aaa35d4acc434bc34c7014d5bdde0b8d28ddc.jpg",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "Le Figaro",
+			"url": "https://www.lefigaro.fr/international/nucleaire-iraniens-et-americains-avancent-vers-une-ebauche-d-accord-20250420",
+			"description": "Des experts des deux pays se r\u00e9uniront \u00e0 partir de mercredi \u00e0 Oman, avant de nouvelles discussions, samedi, dans le sultanat."
+		},
+		{
+			"title": "Expulsions : la Cour supr\u00eame engage la confrontation avec Donald Trump - Mediapart",
+			"link": "https://www.mediapart.fr/journal/international/210425/expulsions-la-cour-supreme-engage-la-confrontation-avec-donald-trump",
+			"pubDate": "Mon, 21 Apr 2025 08:41:21 GMT",
+			"image": "https://static.mediapart.fr/etmagine/og/journal/files/2025/04/21/20250421-usa-abrigo-garcia-cour-supreme-venezuela.jpg",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "Mediapart",
+			"url": "https://www.mediapart.fr/journal/international/210425/expulsions-la-cour-supreme-engage-la-confrontation-avec-donald-trump",
+			"description": "La plus haute instance judiciaire \u00e9tats-unienne a emp\u00each\u00e9 l\u2019expulsion vers le Salvador de migrants v\u00e9n\u00e9zu\u00e9liens accus\u00e9s par l\u2019administration d\u2019\u00eatre membres de gangs. Un Salvadorien renvoy\u00e9 dans son p\u2026"
+		},
+		{
+			"title": "Manuel Valls se refait une sant\u00e9 \u00e0 gauche : \u00ab Il est pro, il a \u00e9t\u00e9 Premier ministre et \u00e7a se voit \u00bb - Le Parisien",
+			"link": "https://www.leparisien.fr/politique/manuel-valls-se-refait-une-sante-a-gauche-il-est-pro-il-a-ete-premier-ministre-et-ca-se-voit-21-04-2025-UZWDODO2GVGYZD6DECL2UYFXCI.php",
+			"pubDate": "Mon, 21 Apr 2025 07:30:00 GMT",
+			"image": "https://www.leparisien.fr/resizer/D26Y0brJ0jVqX1Lx2tjeDK9ZDmg=/1200x675/cloudfront-eu-central-1.images.arcpublishing.com/leparisien/JYBG6EPPZ5AZ3I7Z3G5JH6KPZE.jpg",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "leparisien.fr",
+			"url": "https://www.leparisien.fr/politique/manuel-valls-se-refait-une-sante-a-gauche-il-est-pro-il-a-ete-premier-ministre-et-ca-se-voit-21-04-2025-UZWDODO2GVGYZD6DECL2UYFXCI.php",
+			"description": "Micros coup\u00e9s, de nombreux responsables de gauche saluent le travail accompli par Manuel Valls \u00e0 la t\u00eate du minist\u00e8re des Outre-mer. Un reto"
+		},
+		{
+			"title": "RDC: apr\u00e8s le retour annonc\u00e9 de Kabila \u00e0 Goma, Kinshasa prend une s\u00e9rie de mesures contre lui et ses proches - RFI",
+			"link": "https://www.rfi.fr/fr/afrique/20250420-rdc-apr%C3%A8s-le-retour-annonc%C3%A9-de-kabila-%C3%A0-goma-kinshasa-prend-une-s%C3%A9rie-de-mesures-contre-lui-et-ses-proches",
+			"pubDate": "Sun, 20 Apr 2025 19:04:30 GMT",
+			"image": "",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "",
+			"url": "",
+			"description": ""
+		},
+		{
+			"title": "Armes europ\u00e9ennes au Soudan (5/5) : IGG, une soci\u00e9t\u00e9 \u00e9miratie toujours pris\u00e9e des Europ\u00e9ens - France 24",
+			"link": "https://www.france24.com/fr/afrique/20250421-enquete-armes-europeennes-soudan-volet-5-igg-edge-france-emirats",
+			"pubDate": "Mon, 21 Apr 2025 05:16:02 GMT",
+			"image": "",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "",
+			"url": "",
+			"description": ""
+		},
+		{
+			"title": "Diplomatie : Trump pr\u00e9pare un retrait massif des \u00c9tats-Unis en Afrique - La Croix",
+			"link": "https://www.la-croix.com/international/diplomatie-trump-prepare-un-retrait-massif-des-etats-unis-en-afrique-20250420",
+			"pubDate": "Sun, 20 Apr 2025 16:06:03 GMT",
+			"image": "https://i.la-croix.com/1400x933/smart/2025/04/20/2052221-le-president-donald-trump-lors-d-une-ceremonie-a-w.jpg",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "La Croix",
+			"url": "https://www.la-croix.com/international/diplomatie-trump-prepare-un-retrait-massif-des-etats-unis-en-afrique-20250420",
+			"description": "Un projet de d\u00e9cret de l\u2019administration am\u00e9ricaine, r\u00e9v\u00e9l\u00e9 par le New York Times, envisage une r\u00e9duction drastique de la pr\u00e9sence diplomatique am\u00e9ricaine au sud du Sahara."
+		},
+		{
+			"title": "L\u2019astuce de 60 Millions de consommateurs pour ne plus avoir de d\u00e9penses \u00e0 payer avec l\u2019AdBlue - VOnews",
+			"link": "https://www.vonews.fr/actualites/12334-lastuce-de-60-millions-de-consommateurs-pour-ne-plus-avoir-de-depenses-a-payer-avec-ladblue/",
+			"pubDate": "Mon, 21 Apr 2025 14:32:22 GMT",
+			"image": "https://www.vonews.fr/wp-content/uploads/2025/04/www.vonews.fr-lastuce-de-60-millions-de-consommateurs-pour-ne-plus-avoir-de-depenses-a-payer-avec-ladblue-lastuce-de-60-millions-de-consommateurs-pour-ne-plus-avoir-de-depenses-a-payer-avec-ladblue.jpg",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "VOnews",
+			"url": "https://www.vonews.fr/actualites/12334-lastuce-de-60-millions-de-consommateurs-pour-ne-plus-avoir-de-depenses-a-payer-avec-ladblue/",
+			"description": "Le magazine 60 Millions de consommateurs a d\u00e9voil\u00e9 son astuce pour ne plus avoir de d\u00e9penses \u00e0 payer avec l'AdBlue."
+		},
+		{
+			"title": "D\u00e9finition d'une femme bas\u00e9e sur le sexe biologique : des ministres britanniques s'organiseraient contre la d\u00e9cision de la Cour supr\u00eame, selon des r\u00e9v\u00e9lations de presse - CNews",
+			"link": "https://www.cnews.fr/monde/2025-04-20/definition-dune-femme-basee-sur-le-sexe-biologique-des-ministres-britanniques",
+			"pubDate": "Sun, 20 Apr 2025 17:05:01 GMT",
+			"image": "",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "",
+			"url": "",
+			"description": ""
+		},
+		{
+			"title": "A Bethl\u00e9em, la tristesse d\u2019une ville palestinienne ruin\u00e9e par la guerre et ses cons\u00e9quences - Le Monde.fr",
+			"link": "https://www.lemonde.fr/international/article/2025/04/20/a-bethleem-la-tristesse-d-une-ville-palestinienne-ruinee-par-la-guerre-et-ses-consequences_6598368_3210.html",
+			"pubDate": "Sun, 20 Apr 2025 15:46:50 GMT",
+			"image": "https://img.lemde.fr/2025/04/19/9/0/4860/3240/1440/960/60/0/e966fcb_ftp-import-images-1-k209dnjpnuds-2025-04-19t090247z-2024578291-rc2x0eak1xc4-rtrmadp-3-religion-easter-holy-fire-arrival.JPG",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "Le Monde.fr",
+			"url": "https://www.lemonde.fr/international/article/2025/04/20/a-bethleem-la-tristesse-d-une-ville-palestinienne-ruinee-par-la-guerre-et-ses-consequences_6598368_3210.html",
+			"description": "Alors que quelques chr\u00e9tiens palestiniens se sont r\u00e9unis dans la ville, dimanche, pour la messe de P\u00e2ques, les touristes ne sont pas revenus depuis l\u2019attaque terroriste du 7\u00a0octobre\u00a02023. Le taux de ch\u00f4mage et la pauvret\u00e9 ont explos\u00e9 au sein de la population."
+		},
+		{
+			"title": "Les 100 jours de Trump \u00e0 la Maison-Blanche : son best-of en 9 phrases choc - parismatch.com",
+			"link": "https://www.parismatch.com/actu/international/les-100-jours-de-trump-a-la-maison-blanche-son-best-of-en-9-phrases-choc-250345",
+			"pubDate": "Mon, 21 Apr 2025 07:05:08 GMT",
+			"image": "https://www.parismatch.com/lmnr/var/pm/public/media/image/2025/04/21/09/sipa_shutterstock41277570_000012.jpg?VersionId=CUXPykOXS7kKp_b60GDrjFZUkjOA5Cqr",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "",
+			"url": "https://www.parismatch.com/actu/international/les-100-jours-de-trump-a-la-maison-blanche-son-best-of-en-9-phrases-choc-250345",
+			"description": "Religion, immigration ou diplomatie\u00a0: depuis son retour \u00e0 la Maison Blanche, Donald Trump a multipli\u00e9 les d\u00e9clarations chocs, entre invectives, annonces fracassantes et revirements soudains."
+		},
+		{
+			"title": "La RDC et les \u00c9tats-Unis n\u00e9gocient un futur accord minier - RFI",
+			"link": "https://www.rfi.fr/fr/afrique/20250420-rdc-usa-kinshasa-et-washington-n%C3%A9gocient-un-futur-accord-minier",
+			"pubDate": "Sun, 20 Apr 2025 01:00:14 GMT",
+			"image": "",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "",
+			"url": "",
+			"description": ""
+		},
+		{
+			"title": "Le pr\u00e9sident du Salvador propose un \u00e9change de prisonniers au Venezuela - France 24",
+			"link": "https://www.france24.com/fr/info-en-continu/20250421-immigration-le-pr%C3%A9sident-du-salvador-propose-un-%C3%A9change-de-prisonniers-au-venezuela",
+			"pubDate": "Mon, 21 Apr 2025 01:19:17 GMT",
+			"image": "",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "",
+			"url": "",
+			"description": ""
+		},
+		{
+			"title": "Le programme de la visite d'Emmanuel Macron \u00e0 Mayotte et la R\u00e9union - Outre-mer la 1\u00e8re",
+			"link": "https://la1ere.francetvinfo.fr/mayotte/le-programme-de-la-visite-d-emmanuel-macron-a-mayotte-et-la-reunion-1579850.html",
+			"pubDate": "Sun, 20 Apr 2025 16:14:26 GMT",
+			"image": "https://la1ere.francetvinfo.fr/image/QnARoToXfyExaiZ9326JGDLvXqw/930x620/outremer/2019/10/22/5daf021ec610a_000_1lm9io-1196223.jpg",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "Mayotte la 1\u00e8re",
+			"url": "https://la1ere.francetvinfo.fr/mayotte/le-programme-de-la-visite-d-emmanuel-macron-a-mayotte-et-la-reunion-1579850.html",
+			"description": "Le pr\u00e9sident de la R\u00e9publique profite de son d\u00e9placement dans la r\u00e9gion, \u00e0 l'occasion du 5\u00e8me sommet de la Comission de l'Oc\u00e9an Indien, pour aller \u00e0 la rencontre de la population mahoraise. Atterrissage demain matin et d\u00e9collage en fin d'apr\u00e8s-midi pour la R\u00e9union. Une visite express dont on vous d\u00e9taille le programme."
+		},
+		{
+			"title": "Le futur mari\u00e9 d\u00e9c\u00e8de en tombant d\u2019un tabouret lors de son enterrement de vie de gar\u00e7on - Ouest-France",
+			"link": "https://www.ouest-france.fr/societe/faits-divers/le-futur-marie-decede-en-tombant-dun-tabouret-lors-de-son-enterrement-de-vie-de-garcon-798e8496-1dbe-11f0-acea-8da06560feaa",
+			"pubDate": "Mon, 21 Apr 2025 15:02:00 GMT",
+			"image": "",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "",
+			"url": "",
+			"description": ""
+		},
+		{
+			"title": "Elle meurt apr\u00e8s une op\u00e9ration r\u00e9alis\u00e9e par un faux chirurgien rencontr\u00e9 sur TikTok, l\u2019homme interpell\u00e9 alors qu\u2019il tentait de fuir \u00e0 l\u2019\u00e9tranger - ladepeche.fr",
+			"link": "https://www.ladepeche.fr/2025/04/20/elle-meurt-apres-une-operation-realisee-par-un-faux-chirurgien-rencontre-sur-tiktok-lhomme-interpelle-alors-quil-tentait-de-fuir-a-letranger-12648307.php",
+			"pubDate": "Sun, 20 Apr 2025 16:06:00 GMT",
+			"image": "https://images.ladepeche.fr/api/v1/images/view/68050968ca97aff2d307dac1/large/image.jpg?v=1",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "ladepeche.fr",
+			"url": "https://www.ladepeche.fr/2025/04/20/elle-meurt-apres-une-operation-realisee-par-un-faux-chirurgien-rencontre-sur-tiktok-lhomme-interpelle-alors-quil-tentait-de-fuir-a-letranger-12648307.php",
+			"description": "Une jeune femme de 31 ans est morte des complications d\u2019une op\u00e9ration de chirurgie r\u00e9alis\u00e9e par un faux m\u00e9decin rencontr\u00e9 sur TikTok. Il a \u00e9t\u00e9 interpell\u00e9 et poursuivi par la justice."
+		},
+		{
+			"title": "Plus de 750 koalas abattus par des tireurs d\u2019\u00e9lite en h\u00e9licopt\u00e8re en Australie - Le Parisien",
+			"link": "https://www.leparisien.fr/animaux/plus-de-750-koalas-abattus-par-des-tireurs-delite-en-helicoptere-en-australie-21-04-2025-IMTIMBEXCBBJPBPIN5BCV66SAY.php",
+			"pubDate": "Mon, 21 Apr 2025 11:17:00 GMT",
+			"image": "https://www.leparisien.fr/resizer/Is7HHOo23CW1YBsNIqoqZiV928c=/1200x675/cloudfront-eu-central-1.images.arcpublishing.com/leparisien/LTRA32SBJ5DPNCWXJ7PT26BTZU.jpg",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "leparisien.fr",
+			"url": "https://www.leparisien.fr/animaux/plus-de-750-koalas-abattus-par-des-tireurs-delite-en-helicoptere-en-australie-21-04-2025-IMTIMBEXCBBJPBPIN5BCV66SAY.php",
+			"description": "Des centaines de marsupiaux ont \u00e9t\u00e9 tu\u00e9s dans le parc national australien de Budj Bim, apr\u00e8s un incendie de for\u00eat."
+		},
+		{
+			"title": "Comment Trump pousse l\u2019Islande, la Norv\u00e8ge et le Royaume-Uni dans les bras de l\u2019Union europ\u00e9enne - Le Figaro",
+			"link": "https://www.lefigaro.fr/international/comment-trump-pousse-l-islande-la-norvege-et-le-royaume-uni-dans-les-bras-de-l-union-europeenne-20250421",
+			"pubDate": "Mon, 21 Apr 2025 06:00:33 GMT",
+			"image": "https://i.f1g.fr/media/cms/1200x630_crop/2025/04/20/1f394e4dcad74fee98a5ff5bd32d1ed0a72d75a1d3fdba40843cf8f678f5a5dd.jpg",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "Le Figaro",
+			"url": "https://www.lefigaro.fr/international/comment-trump-pousse-l-islande-la-norvege-et-le-royaume-uni-dans-les-bras-de-l-union-europeenne-20250421",
+			"description": "D\u00c9CRYPTAGE - L\u2019Islande doit tenir un r\u00e9f\u00e9rendum d\u2019adh\u00e9sion en 2027 et la Norv\u00e8ge songe \u00e0 une nouvelle tentative. Le gouvernement britannique cherche de son c\u00f4t\u00e9 \u00e0 resserrer les liens avec l\u2019UE en mati\u00e8re de d\u00e9fense."
+		},
+		{
+			"title": "Les lions vivent \u00e0 10 km du centre-ville : une adolescente de 14 ans enlev\u00e9e et d\u00e9vor\u00e9e par un f\u00e9lin - Midi Libre",
+			"link": "https://www.midilibre.fr/2025/04/21/une-adolescente-de-14-ans-enlevee-et-tuee-par-un-lion-lanimal-vivait-tout-pres-de-chez-elle-12649302.php",
+			"pubDate": "Mon, 21 Apr 2025 05:54:00 GMT",
+			"image": "https://images.midilibre.fr/api/v1/images/view/6805dcb37cd217072101711f/large/image.png?v=1",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "midilibre.fr",
+			"url": "https://www.midilibre.fr/2025/04/21/une-adolescente-de-14-ans-enlevee-et-tuee-par-un-lion-lanimal-vivait-tout-pres-de-chez-elle-12649302.php",
+			"description": "Une adolescente de 14 ans a \u00e9t\u00e9 enlev\u00e9e et tu\u00e9e par un lion au Kenya, ont annonc\u00e9 les services en charge des animaux sauvages du pays le 20\u00a0avril 2025. La jeune fille vivait en banlieue de Nairobi, \u00e0 quelques..."
+		},
+		{
+			"title": "\u00ab La situation en Isra\u00ebl et en Palestine est la pointe avanc\u00e9e d\u2019un probl\u00e8me qui se pose ailleurs \u00bb - Mediapart",
+			"link": "https://www.mediapart.fr/journal/culture-et-idees/200425/la-situation-en-israel-et-en-palestine-est-la-pointe-avancee-d-un-probleme-qui-se-pose-ailleurs",
+			"pubDate": "Sun, 20 Apr 2025 16:18:20 GMT",
+			"image": "https://static.mediapart.fr/etmagine/og/journal/files/2025/04/18/eran-tzidkiyahu.jpg",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "Mediapart",
+			"url": "https://www.mediapart.fr/journal/culture-et-idees/200425/la-situation-en-israel-et-en-palestine-est-la-pointe-avancee-d-un-probleme-qui-se-pose-ailleurs",
+			"description": "Le chercheur Eran Tzidkiyahu a soutenu une th\u00e8se pionni\u00e8re comparant le Hamas palestinien et le sionisme religieux isra\u00e9lien. Entretien."
+		},
+		{
+			"title": "En direct, guerre en Ukraine : la Russie \u00ab va analyser \u00bb la proposition de Zelensky de suspendre les frappes contre les infrastructures civiles, dit Poutine - Le Monde.fr",
+			"link": "https://www.lemonde.fr/international/live/2025/04/21/en-direct-guerre-en-ukraine-les-dernieres-informations_6598007_3210.html",
+			"pubDate": "Mon, 21 Apr 2025 16:26:19 GMT",
+			"image": "https://img.lemde.fr/2025/04/21/460/0/4865/2432/1440/720/60/0/542f3b9_ftp-import-images-1-lwvpqpkqn3y7-2025-04-21t072851z-749261095-rc261easzp7x-rtrmadp-3-ukraine-crisis-east-frontline.JPG",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "Le Monde.fr",
+			"url": "https://www.lemonde.fr/international/live/2025/04/21/en-direct-guerre-en-ukraine-les-dernieres-informations_6598007_3210.html",
+			"description": "Le pr\u00e9sident ukrainien a propos\u00e9 de prolonger de trente jours la tr\u00eave portant sur les frappes de drones et de missiles contre les infrastructures civiles. \u00ab\u00a0Tout cela m\u00e9rite d\u2019\u00eatre \u00e9tudi\u00e9 attentivement. Peut-\u00eatre de fa\u00e7on bilat\u00e9rale\u00a0\u00bb, a r\u00e9agi le pr\u00e9sident russe."
+		},
+		{
+			"title": "Une femme d\u2019affaires condamn\u00e9e \u00e0 30 ans de prison pour blanchiment de 17 milliards de dollars - Charente Libre",
+			"link": "https://www.charentelibre.fr/international/une-femme-d-affaires-condamnee-a-30-ans-de-prison-pour-blanchiment-de-17-milliards-de-dollars-24119221.php",
+			"pubDate": "Mon, 21 Apr 2025 09:42:42 GMT",
+			"image": "https://media.charentelibre.fr/24119221/1200x-1/20240411045304-74731412.jpg",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "CharenteLibre.fr",
+			"url": "https://www.charentelibre.fr/international/une-femme-d-affaires-condamnee-a-30-ans-de-prison-pour-blanchiment-de-17-milliards-de-dollars-24119221.php",
+			"description": "Au Vietnam, Truong My Lan, puissante femme d\u2019affaires, a \u00e9t\u00e9 condamn\u00e9e \u00e0 30\u00a0ans de prison pour avoir blanchi 17,7\u00a0milliards de dollars. D\u00e9j\u00e0 frapp\u00e9e d\u2019une peine de mort dans une autre affaire, elle est au c\u0153ur du plus grand scandale financier de l\u2019histoire du pays."
+		},
+		{
+			"title": "\u00ab Vengeance et jalousie \u00bb : une Br\u00e9silienne offre des \u0153ufs de P\u00e2ques empoisonn\u00e9s \u00e0 la nouvelle compagne de son ex - Le Parisien",
+			"link": "https://www.leparisien.fr/faits-divers/vengeance-et-jalousie-une-bresilienne-offre-des-oeufs-de-paques-empoisonnes-a-la-nouvelle-compagne-de-son-ex-21-04-2025-BNKCZ3XOKZDDTMUKIX6GBF4UCQ.php",
+			"pubDate": "Mon, 21 Apr 2025 12:30:00 GMT",
+			"image": "https://www.leparisien.fr/resizer/wIvJeXUvBw1aTb5EgSVow2oW1BQ=/1200x675/cloudfront-eu-central-1.images.arcpublishing.com/leparisien/THKNBZ4ZEFCRZPCJELHLRPXNYE.jpg",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "leparisien.fr",
+			"url": "https://www.leparisien.fr/faits-divers/vengeance-et-jalousie-une-bresilienne-offre-des-oeufs-de-paques-empoisonnes-a-la-nouvelle-compagne-de-son-ex-21-04-2025-BNKCZ3XOKZDDTMUKIX6GBF4UCQ.php",
+			"description": "Mirian Lira a distribu\u00e9 les \u0153ufs en chocolat \u00e0 sa famille, sans se douter qu\u2019ils avaient \u00e9t\u00e9 empoisonn\u00e9s. Son fils de 7 ans est d\u00e9c\u00e9d\u00e9, tand"
+		},
+		{
+			"title": "Australie : six personnes emport\u00e9es par de gigantesques vagues au large de Sydney et Melbourne ce week-end - Lib\u00e9ration",
+			"link": "https://www.liberation.fr/international/asie-pacifique/australie-six-personnes-emportees-par-de-gigantesques-vagues-au-large-de-sidney-et-melbourne-ce-week-end-20250420_2UHHO5FCRVFYJB5USYMKU5LCU4/",
+			"pubDate": "Sun, 20 Apr 2025 08:44:00 GMT",
+			"image": "https://www.liberation.fr/resizer/Qe4LOqGBJS5MpWW3_2wKAzOwNs0=/1200x630/filters:format(jpg):quality(70):focal(4479x3167:4489x3177)/cloudfront-eu-central-1.images.arcpublishing.com/liberation/MQPOPKV6BNBE5BZJXK6YONWTIM.jpg",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "Lib\u00e9ration",
+			"url": "",
+			"description": "Plus de 150 interventions ont eu lieu depuis ce vendredi au large des c\u00f4tes des Etats de Victoria et de Nouvelle-Galles du Sud, ont annonc\u00e9 les services de secours."
+		},
+		{
+			"title": "Effondrement d\u2019un immeuble \u00e0 Bangkok lors du s\u00e9isme : ce que l\u2019on sait de l'arrestation d'un ressortissant chinois - CNews",
+			"link": "https://www.cnews.fr/monde/2025-04-20/effondrement-dun-immeuble-bangkok-lors-du-seisme-ce-que-lon-sait-de-larrestation",
+			"pubDate": "Sun, 20 Apr 2025 12:37:39 GMT",
+			"image": "",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "",
+			"url": "",
+			"description": ""
+		},
+		{
+			"title": "Leur voyage tourne au cauchemar : \u00e0 peine arriv\u00e9es aux \u00c9tats-Unis, deux adolescentes finissent fouill\u00e9es \u00e0 nu et jet\u00e9es en prison avant d\u2019\u00eatre expuls\u00e9es du pays - L'Ind\u00e9pendant",
+			"link": "https://www.lindependant.fr/2025/04/21/leur-voyage-tourne-au-cauchemar-a-peine-arrivee-aux-etats-unis-deux-adolescentes-finissent-fouillees-a-nu-et-jetees-en-prison-avant-detre-expulsees-du-12649954.php",
+			"pubDate": "Mon, 21 Apr 2025 14:34:00 GMT",
+			"image": "https://images.lindependant.fr/api/v1/images/view/680655be18e4c3f60b015090/large/image.jpg?v=1",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "lindependant.fr",
+			"url": "https://www.lindependant.fr/2025/04/21/leur-voyage-tourne-au-cauchemar-a-peine-arrivee-aux-etats-unis-deux-adolescentes-finissent-fouillees-a-nu-et-jetees-en-prison-avant-detre-expulsees-du-12649954.php",
+			"description": "Depuis le retour de Donald Trump \u00e0 la Maison Blanche, les conditions d\u2019entr\u00e9e aux \u00c9tats-Unis sont de plus en plus difficiles."
+		},
+		{
+			"title": "Voici ce qui emp\u00eache la mont\u00e9e en gamme du tourisme en Guadeloupe - Le Figaro",
+			"link": "https://www.lefigaro.fr/voyages/guides/voici-ce-qui-empeche-la-montee-en-gamme-du-tourisme-en-guadeloupe-20250421",
+			"pubDate": "Mon, 21 Apr 2025 05:00:00 GMT",
+			"image": "https://i.f1g.fr/media/cms/1200x630_crop/2025/04/21/19ad5ffd489f0fc533b18efaa8e278ea79c31c6742b0e13d3524d09243a0d0ae.jpg",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "Le Figaro",
+			"url": "https://www.lefigaro.fr/voyages/guides/voici-ce-qui-empeche-la-montee-en-gamme-du-tourisme-en-guadeloupe-20250421",
+			"description": "Infrastructures insuffisantes, faible pratique de l\u2019anglais... Les r\u00e9alit\u00e9s du terrain freinent la mont\u00e9e en puissance d\u2019un tourisme haut de gamme visant de nouvelles client\u00e8les."
+		},
+		{
+			"title": "Giuliano da Empoli : \u00ab La formule des ing\u00e9nieurs du chaos est toujours la m\u00eame : la col\u00e8re et la frustration, d\u00e9multipli\u00e9es par l\u2019algorithme \u00bb - Le Monde.fr",
+			"link": "https://www.lemonde.fr/idees/article/2025/04/21/giuliano-da-empoli-la-formule-des-ingenieurs-du-chaos-est-toujours-la-meme-la-colere-et-la-frustration-demultipliees-par-l-algorithme_6598588_3232.html",
+			"pubDate": "Mon, 21 Apr 2025 15:00:12 GMT",
+			"image": "https://img.lemde.fr/2025/04/21/1183/0/5223/3482/1440/960/60/0/49a8623_sirius-fs-upload-1-koxw1ngrgkt1-1745225323503-giuliano-da-empoli-olivier-dangla-pour-le-monde-def-02.jpg",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "Le Monde.fr",
+			"url": "https://www.lemonde.fr/idees/article/2025/04/21/giuliano-da-empoli-la-formule-des-ingenieurs-du-chaos-est-toujours-la-meme-la-colere-et-la-frustration-demultipliees-par-l-algorithme_6598588_3232.html",
+			"description": "Auteur de \u00ab\u00a0L\u2019Heure des pr\u00e9dateurs\u00a0\u00bb, l\u2019\u00e9crivain italo-suisse analyse, dans un entretien au \u00ab\u00a0Monde\u00a0\u00bb, la responsabilit\u00e9 des progressistes dans l\u2019av\u00e8nement de dirigeants autoritaires arm\u00e9s par les potentats du num\u00e9rique."
+		},
+		{
+			"title": "Trump souhaite une \u00ab joyeuse P\u00e2ques aux fous de la gauche radicale \u00bb - 20 Minutes",
+			"link": "https://www.20minutes.fr/monde/etats-unis/4149539-20250420-etats-unis-fous-gauche-radicale-juges-faibles-inefficaces-v-ux-lunaires-trump-paques",
+			"pubDate": "Sun, 20 Apr 2025 18:08:00 GMT",
+			"image": "https://img.20mn.fr/n9GVAX6ETTeAbCHgPfNQPik/1444x920_president-donald-trump-stops-and-waves-from-the-north-portico-as-he-departs-the-white-house-april-20-2025-francis-chung-politico-60889678-2504201720",
 			"logo": "https://picsum.photos/32/32?grayscale",
 			"site_name": "20 Minutes",
-			"url": "https://www.20minutes.fr/monde/etats-unis/4149553-20250421-guerre-ukraine-trump-promet-fortune-moscou-kiev-trouvent-accord-semaine",
-			"description": "Trump esp\u00e8re que Zelensky et Poutine \u00ab\u00a0arriveront \u00e0 un accord \u00bb car ils \u00ab\u00a0pourront ensuite faire de bonnes affaires avec les Etats-Unis\u00a0\u00bb"
+			"url": "https://www.20minutes.fr/monde/etats-unis/4149539-20250420-etats-unis-fous-gauche-radicale-juges-faibles-inefficaces-v-ux-lunaires-trump-paques",
+			"description": "Le pr\u00e9sident am\u00e9ricain a saisi l'occasion des c\u00e9l\u00e9brations de P\u00e2ques pour s'attaquer \u00e0 ses adversaires politiques, dont Joe Biden, mais aussi les juges et les forces de l'ordre "
+		},
+		{
+			"title": "Voici les fermes solaires qui explosent aux \u00c9tats-Unis, elles mettent des milliers de moutons affam\u00e9s en action - Laplasturgie.fr -",
+			"link": "https://www.laplasturgie.fr/voici-les-fermes-solaires-qui-explosent-aux-etats-unis-elles-mettent-des-milliers-de-moutons-affames-en-action/",
+			"pubDate": "Mon, 21 Apr 2025 14:30:48 GMT",
+			"image": "",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "",
+			"url": "",
+			"description": ""
+		},
+		{
+			"title": "\"Tueurs \u00e0 gages\" et \"racaille menteuse\" : le pr\u00e9sident argentin Javier Milei s'en prend \u00e0 la presse - France Info",
+			"link": "https://www.francetvinfo.fr/monde/argentine/tueurs-a-gages-et-racaille-menteuse-le-president-argentin-javier-milei-s-en-prend-a-la-presse_7200849.html",
+			"pubDate": "Sun, 20 Apr 2025 17:25:44 GMT",
+			"image": "https://www.francetvinfo.fr/pictures/dZL8B6oYzG1thtdHkM-H-YBeDzA/0x10:1024x586/1500x843/2025/04/20/000-36yy3z2-68052bf3c8710765658918.jpg",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "Franceinfo",
+			"url": "https://www.francetvinfo.fr/monde/argentine/tueurs-a-gages-et-racaille-menteuse-le-president-argentin-javier-milei-s-en-prend-a-la-presse_7200849.html",
+			"description": "Le dirigeant a r\u00e9agi \u00e0 la couverture par la presse de ses annonces pour les agriculteurs, dont le non-renouvellement de la r\u00e9duction de taxes sur les exportations agricoles."
+		},
+		{
+			"title": "Gisement oubli\u00e9 de p\u00e9trole lourd retrouv\u00e9 dans les archives confidentielles de l\u2019Arm\u00e9e, r\u00e9activation pr\u00e9vue fin avril 2025 - Laplasturgie.fr -",
+			"link": "https://www.laplasturgie.fr/gisement-oublie-de-petrole-lourd-retrouve-dans-les-archives-confidentielles-de-larmee-reactivation-prevue-fin-avril-2025/",
+			"pubDate": "Mon, 21 Apr 2025 08:00:36 GMT",
+			"image": "",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "",
+			"url": "",
+			"description": ""
+		},
+		{
+			"title": "Faux h\u00e9ros en R\u00e9publique Dominicaine : un homme lib\u00e9r\u00e9 sous caution apr\u00e8s avoir menti sur le sauvetage de survivants - guadeloupe.franceantilles.fr",
+			"link": "https://www.guadeloupe.franceantilles.fr/actualite/faits-divers/faux-heros-en-republique-dominicaine-un-homme-libere-sous-caution-apres-avoir-menti-sur-le-sauvetage-de-survivants-1032350.php",
+			"pubDate": "Sun, 20 Apr 2025 13:48:12 GMT",
+			"image": "https://medias.franceantilles.fr/api/v1/images/view/6804fa31ffbf9ab7ce06649e/width_1000/image.jpg",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "guadeloupe.franceantilles.fr",
+			"url": "",
+			"description": "L'effondrement de la discoth\u00e8que Jet Set le 8 avril dernier, qui a fait 232 morts, a marqu\u00e9 la R\u00e9publique Dominicaine. Mais parmi les r\u00e9cits de trag\u00e9die et d'h\u00e9ro\u00efsme, une histoire trouble a \u00e9merg\u00e9\u00a0: celle d'un \u00abfaux sauveur\u00bb qui a menti pour se faire passer pour un h\u00e9ros\u2026 et a \u00e9t\u00e9 pay\u00e9 pour cela."
+		},
+		{
+			"title": "\u00ab S\u00e9isme en Californie, r\u00e9action saisissante \u00bb : des \u00e9l\u00e9phants se regroupent en cercle pour prot\u00e9ger leurs petits dans une sc\u00e8ne d\u2019une rare intensit\u00e9 \u00e9motionnelle captur\u00e9e en vid\u00e9o - afriquenligne.fr",
+			"link": "https://afriquenligne.fr/2025/04/21/seisme-en-californie-reaction-saisissante-des-elephants-se-regroupent-en-cercle-pour-proteger-leurs-petits-dans-une-scene-dune-rare-intensite-emotionnelle-capturee-en-video/",
+			"pubDate": "Mon, 21 Apr 2025 04:11:00 GMT",
+			"image": "https://afriquenligne.fr/wp-content/uploads/2025/04/des-elephants-heroiques-en-californie-une-video-bouleversante-montre-un-cercle-protecteur-pour-sauver-leurs-petits-.jpg",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "Afriquenligne.fr - L'actualit\u00e9 africaine",
+			"url": "https://afriquenligne.fr/2025/04/21/seisme-en-californie-reaction-saisissante-des-elephants-se-regroupent-en-cercle-pour-proteger-leurs-petits-dans-une-scene-dune-rare-intensite-emotionnelle-capturee-en-video/",
+			"description": "Ce matin du 14 avril, le sud de la Californie a \u00e9t\u00e9 \u00e9branl\u00e9 par un s\u00e9isme de magnitude 5,2. \u00c0 plus de 50 kilom\u00e8tres de l'\u00e9picentre, le San Diego Zoo Safari Park a \u00e9t\u00e9 le th\u00e9\u00e2tre d'une sc\u00e8ne m\u00e9morable. Les cam\u00e9ras ont immortalis\u00e9 un moment d'une rare beaut\u00e9 et d'une intelligence fascinante : un groupe"
+		},
+		{
+			"title": "Pour son pr\u00e9sident, la Pologne pourrait profiter du parapluie nucl\u00e9aire de l'Otan et de la dissuasion fran\u00e7aise - Zone Militaire",
+			"link": "https://www.opex360.com/2025/04/21/pour-son-president-la-pologne-pourrait-profiter-du-parapluie-nucleaire-de-lotan-et-de-la-dissuasion-francaise/",
+			"pubDate": "Mon, 21 Apr 2025 13:07:27 GMT",
+			"image": "https://www.opex360.com/wp-content/uploads/asmpa-20120621.jpg",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "Zone Militaire",
+			"url": "https://www.opex360.com/2025/04/21/pour-son-president-la-pologne-pourrait-profiter-du-parapluie-nucleaire-de-lotan-et-de-la-dissuasion-francaise/",
+			"description": "Ayant rappel\u00e9 que les \"int\u00e9r\u00eats vitaux\" de la France avaient une \"dimension europ\u00e9enne\", lors d'un discours prononc\u00e9 \u00e0 l'\u00c9cole militaire en f\u00e9vrier 2020,"
+		},
+		{
+			"title": "A Tokyo, le tourisme sexuel se d\u00e9veloppe dans l\u2019ombre - 20 Minutes",
+			"link": "https://www.20minutes.fr/monde/japon/4149507-20250420-japon-discrete-expansion-tourisme-sexuel-tokyo",
+			"pubDate": "Sun, 20 Apr 2025 06:45:00 GMT",
+			"image": "https://img.20mn.fr/rj-fCI1CTKucwju7NqP6-yk/1444x920_this-photo-taken-on-march-31-2025-shows-people-walking-down-a-street-by-the-i-love-kabukicho-neon-sign-in-the-red-light-entertainment-area-of-kabukicho-in-the-shinjuku-district-of-tokyo-sex-tourism-in-other-asian-countries-is-well-established-but-the-young-women-standing-waiting-around-a-tokyo-park-near-the-kabukicho-entertainment-district-every-night-suggest-that-it-s-coming-out-of-the-shadows-in-japan-too-photo-by-richard-a-brooks-afp-to-go-with-japan-prostitution-social-tourism-economy-reportage-by-caroline-gardin",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "20 Minutes",
+			"url": "https://www.20minutes.fr/monde/japon/4149507-20250420-japon-discrete-expansion-tourisme-sexuel-tokyo",
+			"description": "Avec la hausse du tourisme international et la baisse du pouvoir d'achat, de jeunes japonaises ont commenc\u00e9 \u00e0 offrir leurs services sexuels"
+		},
+		{
+			"title": "Il d\u00e9couvre un ver de 30 cm dans ses reins apr\u00e8s deux jours sans uriner - Charente Libre",
+			"link": "https://www.charentelibre.fr/sante/un-homme-decouvre-un-ver-de-30-cm-dans-ses-reins-apres-deux-jours-sans-uriner-24114202.php",
+			"pubDate": "Mon, 21 Apr 2025 06:00:00 GMT",
+			"image": "https://media.charentelibre.fr/24114202/1200x-1/image.jpg",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "CharenteLibre.fr",
+			"url": "https://www.charentelibre.fr/sante/un-homme-decouvre-un-ver-de-30-cm-dans-ses-reins-apres-deux-jours-sans-uriner-24114202.php",
+			"description": "Incapable d\u2019uriner pendant deux jours, un trentenaire indien d\u00e9couvre un parasite g\u00e9ant de 30 centim\u00e8tres dans ses reins. Un cas m\u00e9dical aussi rare qu\u2019impressionnant."
+		},
+		{
+			"title": "Oiseaux de Magyar: les chiffres impressionnants de l'arm\u00e9e de drones qui red\u00e9finit la guerre en Ukraine - slate.fr",
+			"link": "https://www.slate.fr/monde/oiseaux-magyar-chiffres-statistiques-armee-drones-ukraine-fpv-guerre-russie-video-bombardements",
+			"pubDate": "Sun, 20 Apr 2025 06:55:03 GMT",
+			"image": "https://www.slate.fr/uploads/store/story_270232/original_270232.jpg",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "Slate.fr",
+			"url": "https://www.slate.fr/monde/oiseaux-magyar-chiffres-statistiques-armee-drones-ukraine-fpv-guerre-russie-video-bombardements",
+			"description": "En deux ans, une petite unit\u00e9 de drones ukrainienne s'est transform\u00e9e en un r\u00e9giment redout\u00e9, accumulant plus de 5.000 frappes en un mois. Entre\u2026"
+		},
+		{
+			"title": "Allemagne : deux hommes tu\u00e9s par balle, la police lance une importante chasse \u00e0 l\u2019homme dans le centre du pays - Sud Ouest",
+			"link": "https://www.sudouest.fr/international/europe/allemagne/allemagne-deux-hommes-tues-par-balle-la-police-lance-une-importante-chasse-a-l-homme-dans-le-centre-du-pays-24111157.php",
+			"pubDate": "Sun, 20 Apr 2025 16:06:49 GMT",
+			"image": "https://media.sudouest.fr/24111157/1200x-1/20250206115108-93844512.jpg",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "SudOuest.fr",
+			"url": "https://www.sudouest.fr/international/europe/allemagne/allemagne-deux-hommes-tues-par-balle-la-police-lance-une-importante-chasse-a-l-homme-dans-le-centre-du-pays-24111157.php",
+			"description": "Apr\u00e8s la d\u00e9couverte d\u2019un beau-p\u00e8re et son gendre morts devant une r\u00e9sidence en Hesse, la police tente de retrouver le ou les suspects en fuite"
+		},
+		{
+			"title": "\"On est tous traumatis\u00e9s psychologiquement\" : la difficile reconstruction des Ukrainiens amput\u00e9s pendant la guerre - France Info",
+			"link": "https://www.francetvinfo.fr/monde/europe/manifestations-en-ukraine/reportage-on-est-tous-traumatises-psychologiquement-la-difficile-reconstruction-des-ukrainiens-amputes-pendant-la-guerre_7200405.html",
+			"pubDate": "Sun, 20 Apr 2025 12:52:17 GMT",
+			"image": "https://www.francetvinfo.fr/pictures/atHoh53XKCIBskWOsTFmdRFGbL4/0x0:2312x1301/1500x843/2025/04/20/artem-yavtoshenko-a-perdu-sa-jambe-droite-sur-le-front-du-donbass-il-soigne-ses-douleurs-du-membre-fantome-grace-a-l-appareil-de-la-societe-francaise-dessintey-gilles-gallinaro-6804b6beec097047142637.jpg",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "Franceinfo",
+			"url": "https://www.francetvinfo.fr/monde/europe/manifestations-en-ukraine/reportage-on-est-tous-traumatises-psychologiquement-la-difficile-reconstruction-des-ukrainiens-amputes-pendant-la-guerre_7200405.html",
+			"description": "Alors que des dizaines de milliers de militaires et de civils ukrainiens ont \u00e9t\u00e9 amput\u00e9s depuis le d\u00e9but de l'invasion russe, les soignants tentent de les aider \u00e0 se reconstruire, notamment gr\u00e2ce \u00e0 des technologies fran\u00e7aises."
+		},
+		{
+			"title": "Vous pourrez vous faire refouler de ce pays tr\u00e8s appr\u00e9ci\u00e9 des Fran\u00e7ais \u2013 sauf si vous anticipez ceci - Le Figaro",
+			"link": "https://www.lefigaro.fr/voyages/vous-pourrez-vous-faire-refouler-de-ce-pays-tres-apprecie-des-francais-sauf-si-vous-anticipez-ceci-20250421",
+			"pubDate": "Mon, 21 Apr 2025 04:00:00 GMT",
+			"image": "https://i.f1g.fr/media/cms/1200x630_crop/2025/04/18/486e3e34bd72bd785461ed1d2fad0e4cc63ecd58d5773312010e604dad5279cd.jpg",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "Le Figaro",
+			"url": "https://www.lefigaro.fr/voyages/vous-pourrez-vous-faire-refouler-de-ce-pays-tres-apprecie-des-francais-sauf-si-vous-anticipez-ceci-20250421",
+			"description": "Un nouveau document de voyage sera \u00e0 remplir en ligne \u00e0 partir du 1er mai, maximum 3 jours avant votre voyage."
+		},
+		{
+			"title": "Donald Trump et son mod\u00e8le William McKinley, pr\u00e9sident de 1897 \u00e0 1901 : \u00abQui voudrait revenir \u00e0 un tel niveau de violence sociale - Lib\u00e9ration",
+			"link": "https://www.liberation.fr/idees-et-debats/trump-et-son-modele-william-mckinley-qui-voudrait-revenir-a-un-tel-niveau-de-violence-sociale-20250421_77Y3DP2GCJE6LMRV6DXEF56XNQ/",
+			"pubDate": "Mon, 21 Apr 2025 09:38:00 GMT",
+			"image": "https://www.liberation.fr/resizer/qUBKawL7L5A0VyIgSXk-L4jN_f4=/1200x630/filters:format(jpg):quality(70):focal(855x353:865x363)/cloudfront-eu-central-1.images.arcpublishing.com/liberation/CEX43FF2MVH6TJZFBM4ZYEREVY.jpg",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "Lib\u00e9ration",
+			"url": "",
+			"description": "Tarifs douaniers, corruption, expansionnisme et attentats anarchistes\u2026 Le \u00abbon vieux temps\u00bb auquel semble vouloir revenir Donald Trump en prenant pour mod\u00e8le le mandat de l\u2019obscur pr\u00e9sident McKinley, explique l\u2019historien Justin F. Jackson."
+		},
+		{
+			"title": "Elle vivait \u00e0 c\u00f4t\u00e9 des cadavres de sa m\u00e8re et son fr\u00e8re : une enfant de 4 ans survit seule dans un appartement pendant des jours - ladepeche.fr",
+			"link": "https://www.ladepeche.fr/2025/04/20/elle-vivait-a-cote-des-cadavres-de-sa-mere-et-son-frere-une-enfant-de-4-ans-survit-seule-dans-un-appartement-pendant-des-jours-12648062.php",
+			"pubDate": "Sun, 20 Apr 2025 10:48:00 GMT",
+			"image": "https://images.ladepeche.fr/api/v1/images/view/6804ce208607b04dbe0f91af/large/image.jpg?v=1",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "ladepeche.fr",
+			"url": "https://www.ladepeche.fr/2025/04/20/elle-vivait-a-cote-des-cadavres-de-sa-mere-et-son-frere-une-enfant-de-4-ans-survit-seule-dans-un-appartement-pendant-des-jours-12648062.php",
+			"description": "\u00c0 New-York, une petite fille de 4 ans \u00e9tait livr\u00e9e \u00e0 elle-m\u00eame et survivait en mangeant du chocolat dans un appartement. \u00c0 l\u2019int\u00e9rieur du logement, elle \u00e9tait enferm\u00e9e avec le corps de sa m\u00e8re et celui de son fr\u00e8re en..."
+		},
+		{
+			"title": "Des centaines de personnes manifestent au Maroc contre un navire suspect\u00e9 de transporter \"des pi\u00e8ces d'avions militaires\" vers Isra\u00ebl - France Info",
+			"link": "https://www.francetvinfo.fr/monde/proche-orient/israel-palestine/des-centaines-de-personnes-manifestent-au-maroc-contre-un-navire-suspecte-de-transporter-des-pieces-d-avions-militaires-vers-israel_7200810.html",
+			"pubDate": "Sun, 20 Apr 2025 16:32:31 GMT",
+			"image": "https://www.francetvinfo.fr/pictures/T18YIQ648d8VMTds5ta7tOb-3vs/0x23:1024x598/1500x843/2025/04/20/000-1pv7zg-6805210c656f9583237766.jpg",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "Franceinfo",
+			"url": "https://www.francetvinfo.fr/monde/proche-orient/israel-palestine/des-centaines-de-personnes-manifestent-au-maroc-contre-un-navire-suspecte-de-transporter-des-pieces-d-avions-militaires-vers-israel_7200810.html",
+			"description": "Selon des organisations de soutien aux Palestiniens et des syndicats de travailleurs portuaires marocains, un navire en partance des Etats-Unis et \u00e0 destination d'Isra\u00ebl devait accoster dans le port de Tanger."
+		},
+		{
+			"title": "L\u2019Allemagne bloque \u00e0 nouveau la vente d\u2019avions de combat Eurofighter \u00e0 la Turquie - Zone Militaire",
+			"link": "https://www.opex360.com/2025/04/20/lallemagne-bloque-a-nouveau-la-vente-davions-de-combat-eurofighter-a-la-turquie/",
+			"pubDate": "Sun, 20 Apr 2025 10:56:56 GMT",
+			"image": "https://www.opex360.com/wp-content/uploads/typhoon-shader-20230526.jpg",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "Zone Militaire",
+			"url": "https://www.opex360.com/2025/04/20/lallemagne-bloque-a-nouveau-la-vente-davions-de-combat-eurofighter-a-la-turquie/",
+			"description": "En octobre dernier, l'hebdomadaire Der Spiegel avan\u00e7a que Berlin avait assoupli ses restrictions relatives aux ventes d'\u00e9quipements militaires \u00e0 Ankara."
+		},
+		{
+			"title": "L'arm\u00e9e fran\u00e7aise d\u00e9voile les quatre super-pouvoirs du nouveau char Leclerc dop\u00e9 \u00e0 l'IA - Clubic",
+			"link": "https://www.clubic.com/actualite-562764-l-armee-francaise-devoile-les-quatre-super-pouvoirs-du-nouveau-char-leclerc-dope-a-l-ia.html",
+			"pubDate": "Sun, 20 Apr 2025 18:31:00 GMT",
+			"image": "https://pic.clubic.com/v1/images/2295549/raw",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "clubic.com",
+			"url": "https://www.clubic.com/actualite-562764-l-armee-francaise-devoile-les-quatre-super-pouvoirs-du-nouveau-char-leclerc-dope-a-l-ia.html",
+			"description": "L'intelligence artificielle est au c\u0153ur des blind\u00e9s fran\u00e7ais. Le Commandement du combat futur (CCF) en dit plus sur les capacit\u00e9s pr\u00e9cises du viseur qui transformera les chars Leclerc en sentinelles autonomes capables de d\u00e9tecter les menaces en temps r\u00e9el."
+		},
+		{
+			"title": "La baignade du dimanche de P\u00e2ques tourne au drame, un adolescent de 17 ans meurt par noyade sur une plage catalane - L'Ind\u00e9pendant",
+			"link": "https://www.lindependant.fr/2025/04/20/la-baignade-du-dimanche-de-paques-tourne-au-drame-un-adolescent-de-17-ans-meurt-par-noyade-sur-une-plage-catalane-12648418.php",
+			"pubDate": "Sun, 20 Apr 2025 16:21:00 GMT",
+			"image": "https://images.lindependant.fr/api/v1/images/view/68051df76c5aeb8e6a0a7d7d/large/image.jpg?v=1",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "lindependant.fr",
+			"url": "https://www.lindependant.fr/2025/04/20/la-baignade-du-dimanche-de-paques-tourne-au-drame-un-adolescent-de-17-ans-meurt-par-noyade-sur-une-plage-catalane-12648418.php",
+			"description": "La victime s\u2019\u00e9tait mise \u00e0 l\u2019eau avec trois amis, mais n\u2019en est pas ressortie. Apr\u00e8s une heure de recherches, son corps sans vie a \u00e9t\u00e9 retrouv\u00e9 au milieu des vagues."
 		}
 	],
-	"timestamp": "2025-04-21 12:48:57.696502"
+	"timestamp": "2025-04-21 16:32:19.824280"
 }
