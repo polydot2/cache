@@ -99,17 +99,45 @@ def myconverter(o):
     if isinstance(o, datetime.datetime):
         return o.__str__()
 
-def _printcache(name, url):
-    result=_get_category(url)
-
-    objectJson = {"content": result}
-    objectJson['timestamp'] = datetime.datetime.now()
-
-    path = 'cache/'+name+'.json'
-    json.dump(objectJson, open(os.path.join(os.path.dirname(__file__), path), 'w'), indent='\t', default = myconverter)
-
+def _printcache(name, url, max_entries=100):
+    # Obtenir les nouvelles entrées
+    result = _get_category(url)
+    
+    # Chemin du fichier JSON
+    path = os.path.join(os.path.dirname(__file__), 'cache', f'{name}.json')
+    
+    # Lire le contenu existant du fichier JSON (s'il existe)
+    existing_data = {"content": [], "timestamp": None}
+    try:
+        with open(path, 'r') as f:
+            existing_data = json.load(f)
+    except (FileNotFoundError, json.JSONDecodeError):
+        # Si le fichier n'existe pas ou est corrompu, on commence avec une liste vide
+        pass
+    
+    # Fusionner les nouvelles entrées avec les anciennes, en évitant les doublons
+    existing_links = {item["link"] for item in existing_data["content"]}
+    new_items = [item for item in result if item["link"] not in existing_links]
+    combined_content = existing_data["content"] + new_items
+    
+    # Limiter le nombre total d'entrées (les plus récentes en premier)
+    combined_content = sorted(
+        combined_content,
+        key=lambda x: x.get("pubDate", ""),
+        reverse=True
+    )[:max_entries]
+    
+    # Créer l'objet JSON à sauvegarder
+    objectJson = {
+        "content": combined_content,
+        "timestamp": datetime.datetime.now()
+    }
+    
+    # Écrire dans le fichier JSON
+    with open(path, 'w') as f:
+        json.dump(objectJson, f, indent='\t', default=myconverter)
+        
 ### main ###
-
 _printcache('une',      'https://news.google.com/rss/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx1YlY4U0FtWnlHZ0pHVWlnQVAB?hl=fr&gl=FR&ceid=FR%3Afr')
 _printcache('france',   'https://news.google.com/rss/topics/CAAqIggKIhxDQkFTRHdvSkwyMHZNR1k0YkRsakVnSm1jaWdBUAE?hl=fr&gl=FR&ceid=FR%3Afr')
 _printcache('sciences', 'https://news.google.com/rss/search?q=sciences&hl=fr&gl=FR&ceid=FR%3Afr')
