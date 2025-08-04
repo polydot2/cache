@@ -95,10 +95,12 @@ def _get_category(url):
                 
     return items
 
+# Exemple de myconverter pour gérer les objets datetime
 def myconverter(o):
-    if isinstance(o, datetime.datetime):
-        return o.__str__()
-
+    if isinstance(o, datetime):
+        return o.isoformat()
+    raise TypeError(f"Object of type {type(o)} is not JSON serializable")
+    
 def _printcache(name, url, max_entries=100):
     # Obtenir les nouvelles entrées
     result = _get_category(url)
@@ -112,7 +114,6 @@ def _printcache(name, url, max_entries=100):
         with open(path, 'r') as f:
             existing_data = json.load(f)
     except (FileNotFoundError, json.JSONDecodeError):
-        # Si le fichier n'existe pas ou est corrompu, on commence avec une liste vide
         pass
     
     # Fusionner les nouvelles entrées avec les anciennes, en évitant les doublons
@@ -120,17 +121,25 @@ def _printcache(name, url, max_entries=100):
     new_items = [item for item in result if item["link"] not in existing_links]
     combined_content = existing_data["content"] + new_items
     
-    # Limiter le nombre total d'entrées (les plus récentes en premier)
+    # Fonction pour parser pubDate
+    def parse_date(date_str):
+        try:
+            # Parser la date au format RFC 822/1123 (ex: "Wed, 30 Jul 2025 17:22:28 GMT")
+            return email.utils.parsedate_to_datetime(date_str)
+        except (ValueError, TypeError):
+            return datetime.min  # Si la date est invalide, placer à la fin
+    
+    # Trier par pubDate (les plus récentes en premier)
     combined_content = sorted(
         combined_content,
-        key=lambda x: x.get("pubDate", ""),
+        key=lambda x: parse_date(x.get("pubDate", "")),
         reverse=True
     )[:max_entries]
     
     # Créer l'objet JSON à sauvegarder
     objectJson = {
         "content": combined_content,
-        "timestamp": datetime.datetime.now()
+        "timestamp": datetime.now().isoformat()
     }
     
     # Écrire dans le fichier JSON
