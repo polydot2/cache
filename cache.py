@@ -102,7 +102,7 @@ def myconverter(o):
         return o.isoformat()
     raise TypeError(f"Object of type {type(o)} is not JSON serializable")
     
-def _printcache(name, url, max_entries=100):
+def _printcache(name, url, max_entries=200):
     # Obtenir les nouvelles entrées
     result = _get_category(url)
     
