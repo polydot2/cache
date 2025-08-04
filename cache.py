@@ -1,11 +1,12 @@
 import requests
 import xml.etree.ElementTree as ET
 import json
-import datetime
 import os
 from bs4 import BeautifulSoup
 import base64
 from urllib.parse import quote, urlparse
+from datetime import datetime
+import email.utils
 
 def get_decoding_params(gn_art_id):
     response = requests.get(f"https://news.google.com/rss/articles/{gn_art_id}")
