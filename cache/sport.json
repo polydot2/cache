@@ -1,9 +1,609 @@
 {
 	"content": [
 		{
+			"title": "Futsal. L\u2019\u00e9quipe de France d\u00e9barque \u00e0 l\u2019Antar\u00e8s Arena - Ouest-France",
+			"link": "https://www.ouest-france.fr/sport/football/futsal/futsal-lequipe-de-france-debarque-a-lantares-arena-b5fab55e-d766-11f1-b736-5b9907ef0b5a",
+			"pubDate": "Tue, 03 Nov 2026 19:15:15 GMT",
+			"image": "",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "",
+			"url": "",
+			"description": ""
+		},
+		{
+			"title": "Bodo Glimt-Lille : Les compos (21h sur Canal+Sport) - Foot01",
+			"link": "https://www.foot01.com/ligue-des-champions/bodo-glimt-lille-les-compos-21h-sur-canalsport",
+			"pubDate": "Tue, 03 Nov 2026 18:57:00 GMT",
+			"image": "https://r.testifier.nl/Acbs8526SDKI/resizing_type:fill/width:1200/height:630/plain/https%3A%2F%2Fs3-newsifier.ams3.digitaloceanspaces.com%2Ffoot01.com%2Fimages%2F2026-11%2Ficonsport-378342-0008-6aea2ee796cc3.jpg",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "Foot01",
+			"url": "https://www.foot01.com/ligue-des-champions/bodo-glimt-lille-les-compos-21h-sur-canalsport",
+			"description": "D\u00e9couvrez les compositions de Bodo Glimt et de Lille pour leur rencontre de la 4e journ\u00e9e de Ligue des Champions."
+		},
+		{
+			"title": "NBA : Quand LeBron James boit un verre de vin en plein match ! : Sports - Orange - Sports - Orange",
+			"link": "https://sports.orange.fr/plus-de-sport/basket/article/nba-quand-lebron-james-boit-un-verre-de-vin-en-plein-match-exclu-CNT000002twZ1o.html",
+			"pubDate": "Tue, 03 Nov 2026 18:50:00 GMT",
+			"image": "http://media2.woopic.com/api/v1/images/504%2Fsport%2FMedia365-Sport-News%2F723%2Fb83%2Fdbd46b7fc467ca13bae4ca0b7b%2Fnba-quand-lebron-james-boit-un-verre-de-vin-en-plein-match%7Cjames-031126.jpg?format=470x264&facedetect=1&quality=85",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "Orange Actualit\u00e9s",
+			"url": "https://sports.orange.fr/plus-de-sport/basket/article/nba-quand-lebron-james-boit-un-verre-de-vin-en-plein-match-exclu-CNT000002twZ1o.html",
+			"description": "[bold]Une sc\u00e8ne cocasse s'est produite lors du match entre Chicago et les Sixers de LeBron James.\n[/bold]"
+		},
+		{
+			"title": "Sport / danse internationale : Nol\u00e4n Granier, le Blayais au sommet de l\u2019Europe - Sud Ouest",
+			"link": "https://www.sudouest.fr/sport/sport-danse-internationale-nolaen-granier-le-blayais-au-sommet-de-l-europe-31354197.php",
+			"pubDate": "Tue, 03 Nov 2026 18:47:00 GMT",
+			"image": "https://media.sudouest.fr/31354197/1200x-1/sportsblayais-881a419129fd40f493274d9ec2621fa7-191508-ph0.jpg",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "SudOuest.fr",
+			"url": "https://www.sudouest.fr/sport/sport-danse-internationale-nolaen-granier-le-blayais-au-sommet-de-l-europe-31354197.php",
+			"description": "Une chor\u00e9graphie impos\u00e9e et 32 concurrents d\u2019\u00e9lite\u00a0: \u00e0 Madrid, Nol\u00e4n Granier livre une prestation magistrale et monte sur la 3e marche du podium europ\u00e9en de hip-hop"
+		},
+		{
+			"title": "L\u2019\u00e9cole de rugby de Treilli\u00e8res lab\u00e9lis\u00e9e par la FFR : \u00abNous transmettons aux enfants les belles valeurs de notre sport\u00bb - Ouest-France",
+			"link": "https://www.ouest-france.fr/pays-de-la-loire/treillieres-44119/lecole-de-rugby-de-treillieres-labelisee-par-la-ffr-nous-transmettons-aux-enfants-les-belles-valeurs-de-notre-sport-857387c2-d788-11f1-9911-9179baff22e2",
+			"pubDate": "Tue, 03 Nov 2026 18:39:30 GMT",
+			"image": "",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "",
+			"url": "",
+			"description": ""
+		},
+		{
+			"title": "Marathon des Vins de Blaye : une nouvelle dynamique avant la 22e \u00e9dition - Sud Ouest",
+			"link": "https://www.sudouest.fr/sport/marathon-des-vins-de-blaye-une-nouvelle-dynamique-avant-la-22e-edition-31300693.php",
+			"pubDate": "Tue, 03 Nov 2026 18:35:00 GMT",
+			"image": "https://media.sudouest.fr/31300693/1200x-1/sportsblayais-18859162383748df863300db9c02230c-090917-ph0.jpg",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "SudOuest.fr",
+			"url": "https://www.sudouest.fr/sport/marathon-des-vins-de-blaye-une-nouvelle-dynamique-avant-la-22e-edition-31300693.php",
+			"description": "Nouvelle \u00e9tape pour le Marathon des Vins de Blaye\u00a0: entre bilan, ambitions et mobilisation des b\u00e9n\u00e9voles, l\u2019association pr\u00e9pare son rendez-vous de 2027"
+		},
+		{
+			"title": "D\u00e9c\u00e8s de Jes\u00fas de Miguel: la plan\u00e8te football en deuil, la F\u00e9d\u00e9ration espagnole annule tous les matchs - tv5monde",
+			"link": "https://information.tv5monde.com/sport/deces-de-jesus-de-miguel-la-planete-football-en-deuil-la-federation-espagnole-annule-tous-les-matchs-2844294",
+			"pubDate": "Tue, 03 Nov 2026 18:06:00 GMT",
+			"image": "",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "",
+			"url": "",
+			"description": ""
+		},
+		{
+			"title": "Ligue des champions : Villarreal-PSG, Bodo/Glimt-Lille... Suivez la quatri\u00e8me journ\u00e9e de la phase de ligue avec nous - franceinfo",
+			"link": "https://www.franceinfo.fr/sports/directs/direct-ligue-des-champions-villarreal-psg-bodo-glimt-lille-suivez-la-quatrieme-journee-de-la-phase-de-ligue-avec-nous_8264123.html",
+			"pubDate": "Tue, 03 Nov 2026 18:02:32 GMT",
+			"image": "https://www.franceinfo.fr/pictures/s2ZwSHIiKY-YKHZl3N7TQM32Z_w/0x0:4500x2531/1500x843/2026/11/02/6ae890442e9e6414755731.jpg",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "franceinfo",
+			"url": "https://www.franceinfo.fr/sports/directs/direct-ligue-des-champions-villarreal-psg-bodo-glimt-lille-suivez-la-quatrieme-journee-de-la-phase-de-ligue-avec-nous_8264123.html",
+			"description": "Apr\u00e8s les succ\u00e8s contre le Slovan Bratislava, Manchester City et le FC Barcelone, les joueurs de Luis Enrique vont tenter de rester en t\u00eate de la phase de ligue."
+		},
+		{
+			"title": "Cinq nations majeures du hockey sur glace refusent d'affronter la Russie apr\u00e8s sa r\u00e9int\u00e9gration aux Mondiaux par le Tribunal arbitral du sport - franceinfo",
+			"link": "https://www.franceinfo.fr/sports/hockey-sur-glace/cinq-nations-majeures-du-hockey-sur-glace-refusent-d-affronter-la-russie-apres-sa-reintegration-aux-mondiaux-par-le-tribunal-arbitral-du-sport_8266328.html",
+			"pubDate": "Tue, 03 Nov 2026 17:42:21 GMT",
+			"image": "https://www.franceinfo.fr/pictures/4d7QOXUV6rmyS3YHuQ_A-Pxg6-Q/0x0:8192x4608/1500x843/2026/11/03/6aea1ad764df1525635462.jpg",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "franceinfo",
+			"url": "https://www.franceinfo.fr/sports/hockey-sur-glace/cinq-nations-majeures-du-hockey-sur-glace-refusent-d-affronter-la-russie-apres-sa-reintegration-aux-mondiaux-par-le-tribunal-arbitral-du-sport_8266328.html",
+			"description": "Apr\u00e8s la Finlande, quatre autres nations ont exprim\u00e9, mardi, leur volont\u00e9 de boycotter la Russie lors des prochains championnats du monde : la Norv\u00e8ge, la Su\u00e8de, le Danemark et la R\u00e9publique tch\u00e8que."
+		},
+		{
+			"title": "Pour ses 130 ans, le FC Lausanne livre un sc\u00e9nario hors du commun devant son public - F\u00e9d\u00e9ration Fran\u00e7aise de la Lose",
+			"link": "https://fflose.com/pour-ses-130-ans-le-fc-lausanne-livre-un-scenario-hors-du-commun-devant-son-public/",
+			"pubDate": "Tue, 03 Nov 2026 17:25:16 GMT",
+			"image": "https://static.fflose.com/2026/11/6ea6232b-iconsport_364479_0009-1-1-scaled.jpg",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "FFL",
+			"url": "https://fflose.com/pour-ses-130-ans-le-fc-lausanne-livre-un-scenario-hors-du-commun-devant-son-public/",
+			"description": "Le FC Lausanne-Sport c\u00e9l\u00e9brait ses 130 ans. Avec le recul, la f\u00eate n'aurait pas pu \u00eatre plus belle. Plus que jamais : Y'a pas plus fort !"
+		},
+		{
+			"title": "La Voulte-sur-Rh\u00f4ne. La Voulte Sport p\u00e9tanque \u00e0 l\u2019honneur aux Victoires du sport - Le Dauphin\u00e9 Lib\u00e9r\u00e9",
+			"link": "https://www.ledauphine.com/sport/2026/11/03/la-voulte-sport-petanque-a-l-honneur-aux-victoires-du-sport",
+			"pubDate": "Tue, 03 Nov 2026 17:24:52 GMT",
+			"image": "https://cdn-s-www.ledauphine.com/images/1798ECD0-B47F-42D2-AFE9-91881A036045/FB1200/photo-1793726070.jpg",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "",
+			"url": "https://www.ledauphine.com/sport/2026/11/03/la-voulte-sport-petanque-a-l-honneur-aux-victoires-du-sport",
+			"description": "Vendredi 30\u00a0octobre, lors des Victoires du sport ard\u00e9choises, qui se d\u00e9roulaient au th\u00e9\u00e2tre de Vals-les-Bains, Christian F\u00e9roussier, ..."
+		},
+		{
+			"title": "Sport adapt\u00e9 : la belle id\u00e9e de sourires et sant\u00e9 02 - L'Union",
+			"link": "https://www.lunion.fr/id837921/article/2026-11-03/sport-adapte-la-belle-idee-de-sourires-et-sante-02",
+			"pubDate": "Tue, 03 Nov 2026 17:15:00 GMT",
+			"image": "",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "",
+			"url": "",
+			"description": ""
+		},
+		{
+			"title": "VOILE : Zapp40 #1 \u2013 Route du Rhum, les premi\u00e8res 24h - Presse Agence Sport",
+			"link": "http://www.pa-sport.fr/2026/11/03/voile-zapp40-1-route-du-rhum-les-premieres-24h-2/",
+			"pubDate": "Tue, 03 Nov 2026 17:14:03 GMT",
+			"image": "http://www.pa-sport.fr/wp-content/uploads/VOILE-Zapp40-1-Route-du-Rhum-les-premieres-24h-1.jpg",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "Presse Agence Sport",
+			"url": "https://www.pa-sport.fr/2026/11/03/voile-zapp40-1-route-du-rhum-les-premieres-24h-2/",
+			"description": "Les skippers prennent le rythme. Retour sur les premi\u00e8res journ\u00e9es de course de la Route du Rhum \u2013 Destination Guadeloupe. Voir la vid\u00e9o."
+		},
+		{
+			"title": "Is\u00e8re. Secret Santa, sport, influenceurs\u2026 : Hasardio, une appli pour en finir avec les tirages au sort douteux - Le Dauphin\u00e9 Lib\u00e9r\u00e9",
+			"link": "https://www.ledauphine.com/economie/2026/11/03/secret-santa-sport-influenceurs-hasardio-une-appli-pour-en-finir-avec-les-tirages-au-sort-douteux",
+			"pubDate": "Tue, 03 Nov 2026 17:13:20 GMT",
+			"image": "https://cdn-s-www.ledauphine.com/images/942FDB7E-E5D0-4F62-BFF9-11DCF0AD1E3F/FB1200/photo-1793725762.jpg",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "",
+			"url": "https://www.ledauphine.com/economie/2026/11/03/secret-santa-sport-influenceurs-hasardio-une-appli-pour-en-finir-avec-les-tirages-au-sort-douteux",
+			"description": "Originaire de Vif, pr\u00e8s de Grenoble, Julien Buzzi a d\u00e9velopp\u00e9 une plateforme de tirage au sort en ligne\u00a0: Hasardio. Appli gratuite pour le grand ..."
+		},
+		{
+			"title": "Saint-Cirgues-en-Montagne. Trois membres du club de karat\u00e9 aux Victoires du sport - Le Dauphin\u00e9 Lib\u00e9r\u00e9",
+			"link": "https://www.ledauphine.com/sport/2026/11/03/trois-membres-du-club-de-karate-aux-victoires-du-sport",
+			"pubDate": "Tue, 03 Nov 2026 17:08:51 GMT",
+			"image": "https://cdn-s-www.ledauphine.com/images/E089C096-D88B-4304-8B50-256AE71CEA9B/FB1200/photo-1793725464.jpg",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "",
+			"url": "https://www.ledauphine.com/sport/2026/11/03/trois-membres-du-club-de-karate-aux-victoires-du-sport",
+			"description": "Le comit\u00e9 d\u00e9partemental olympique et sportif de l\u2019Ard\u00e8che (CDOS) organise les Victoires du sport, un rendez-vous qui met \u00e0 l\u2019honneur celles et ..."
+		},
+		{
+			"title": "Utah 2034 : Le CIO ent\u00e9rinera le Programme des Jeux en 2028 - Sport & Soci\u00e9t\u00e9",
+			"link": "https://sportetsociete.org/2026/11/03/utah-2034-le-cio-enterinera-le-programme-des-jeux-en-2028/",
+			"pubDate": "Tue, 03 Nov 2026 17:06:19 GMT",
+			"image": "https://i0.wp.com/sportetsociete.org/wp-content/uploads/2026/02/629993893_1295538529051983_1788836804188158135_n.jpg?fit=1200%2C800&ssl=1",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "Sport & Soci\u00e9t\u00e9",
+			"url": "https://sportetsociete.org/2026/11/03/utah-2034-le-cio-enterinera-le-programme-des-jeux-en-2028/",
+			"description": "A un peu plus de 2 650 jours de l\u2019ouverture des Jeux d\u2019hiver de 2034, le Comit\u00e9 International Olympique (CIO) se projette sur l\u2019officialisation des disciplines qui constitueront l\u2026"
+		},
+		{
+			"title": "LA MINUTE SPORT L'actualit\u00e9 sportive de ce mardi 3 novembre 2026 - Objectif Gard",
+			"link": "https://www.objectifsud.fr/sports-gard/nimes-olympique/la-minute-sport-lactualite-sportive-de-ce-mardi-3-novembre-2026-171765.php",
+			"pubDate": "Tue, 03 Nov 2026 17:05:05 GMT",
+			"image": "https://medias.objectifgard.com/api/v1/images/view/6aea025ecfe7be869604c07d/article/image.jpg",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "Objectif Sud",
+			"url": "/sports-gard/nimes-olympique/la-minute-sport-lactualite-sportive-de-ce-mardi-3-novembre-2026-171765.php",
+			"description": "Thierry Cenatiempo \u00e0 domicile \u00e0 Seyssinet, la grogne contre la FFF, la MHB attend l'USAM, un N\u00eemois champion de France de natation et un week-end 100 % f\u00e9minin autour du tennis de table."
+		},
+		{
+			"title": "M\u00e9decine du sport. Intelligence artificielle, sport f\u00e9minin, cyclisme... Un congr\u00e8s pour faire le lien entre sportifs de haut niveau et patients de tous les jours - dna.fr",
+			"link": "https://www.dna.fr/sante/2026/11/03/intelligence-artificielle-sport-feminin-cyclisme-un-congres-pour-faire-le-lien-entre-sportifs-de-haut-niveau-et-patients-de-tous-les-jours",
+			"pubDate": "Tue, 03 Nov 2026 17:01:52 GMT",
+			"image": "https://cdn-s-www.dna.fr/images/B824A25B-2B63-4CA2-A8B1-B3B2943A5159/FB1200/photo-1793713647.jpg",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "",
+			"url": "https://www.dna.fr/sante/2026/11/03/intelligence-artificielle-sport-feminin-cyclisme-un-congres-pour-faire-le-lien-entre-sportifs-de-haut-niveau-et-patients-de-tous-les-jours",
+			"description": "La SMATSH r\u00e9unit les praticiens du sport pour son 49e \u00a0congr\u00e8s, qui aura lieu le 7\u00a0novembre \u00e0 l\u2019Ircad \u00e0 Strasbourg. Avec un focus, en pr\u00e9sence de ..."
+		},
+		{
+			"title": "Le sport pour tous avec la CAB ! - Corse Net Infos",
+			"link": "https://www.corsenetinfos.corsica/notes/Le-sport-pour-tous-avec-la-CAB-_b98586457.html",
+			"pubDate": "Tue, 03 Nov 2026 17:00:35 GMT",
+			"image": "https://www.corsenetinfos.corsica/var/style/logo.jpg?v=1686730484",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "Corse Net Infos - Pure player corse",
+			"url": "https://www.corsenetinfos.corsica/notes/Le-sport-pour-tous-avec-la-CAB-_b98586457.html",
+			"description": "Dans le cadre de sa politique sportive, la Communaut\u00e9 d\u2019Agglom\u00e9ration de Bastia poursuit son engagement en faveur du sport inclusif et de l\u2019acc\u00e8s \u00e0 la pratique sportive pour tous. A ce titre, des sessions d\u00e9couvertes de basket fauteuil ont \u00e9t\u00e9 organis\u00e9es en avril dernier afin d\u2019identifier le..."
+		},
+		{
+			"title": "PARIS : Pr\u00e9sidentielle 2027 - Le monde du sport s'unit pour un d\u00e9bat t\u00e9l\u00e9vis\u00e9 entre les candidats - Presse Agence",
+			"link": "https://presseagence.fr/paris-presidentielle-2027-le-monde-du-sport-sunit-pour-un-debat-televise-entre-les-candidats/",
+			"pubDate": "Tue, 03 Nov 2026 17:00:00 GMT",
+			"image": "https://presseagence.fr/wp-content/uploads/PARIS_PRESIDENTIELLE_2027_MONDE_SPORT_img_01-Copy.jpg",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "Presse Agence",
+			"url": "https://presseagence.fr/paris-presidentielle-2027-le-monde-du-sport-sunit-pour-un-debat-televise-entre-les-candidats/",
+			"description": "Huit acteurs majeurs du sport fran\u00e7ais s\u2019unissent pour peser sur la pr\u00e9sidentielle 2027 et organiseront un d\u00e9bat t\u00e9l\u00e9vis\u00e9 le 1er f\u00e9vrier. \u00c0 l\u2019approche de l\u2019\u00e9lection pr\u00e9sidentielle de 2027, le monde du sport fran\u00e7ais entend faire entendre sa voix. Huit des principales t\u00eates de r\u00e9seaux du secteur ont annonc\u00e9 la cr\u00e9ation du collectif \u00ab Sport 2027 [\u2026]"
+		},
+		{
+			"title": "Route du Rhum : abandon pour le tenant du titre Charles Caudrelier - tv5monde",
+			"link": "https://information.tv5monde.com/sport/route-du-rhum-abandon-pour-le-tenant-du-titre-charles-caudrelier-2844291",
+			"pubDate": "Tue, 03 Nov 2026 16:50:00 GMT",
+			"image": "",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "",
+			"url": "",
+			"description": ""
+		},
+		{
+			"title": "Masters 1000 de Paris : Djokovic souffre mais vient \u00e0 bout de Vacherot - tv5monde",
+			"link": "https://information.tv5monde.com/sport/masters-1000-de-paris-djokovic-souffre-mais-vient-bout-de-vacherot-2844284",
+			"pubDate": "Tue, 03 Nov 2026 16:48:41 GMT",
+			"image": "",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "",
+			"url": "",
+			"description": ""
+		},
+		{
+			"title": "Ligue des champions EN DIRECT : Galatasaray-Stuttgart, Shakhtar-Sporting, Atl\u00e9tico de Madrid-Bayern Munich, Barcelone-Aston Villa, Bod\u00f8/Glimt-Lille, LASK-Slovan Bratislava, Villarreal-PSG - Yahoo Actualit\u00e9s",
+			"link": "https://fr.news.yahoo.com/sport/ligue-champions-direct-galatasaray-stuttgart-163830938.html",
+			"pubDate": "Tue, 03 Nov 2026 16:38:30 GMT",
+			"image": "https://s.yimg.com/lo/mysterio/api/5058cf53601fab927c97ae6fc135f95e5c7956d35f78ad0c723b99ffa4d61f30/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Ffr%2Fgoal_fr_797%2F7a1e8ddf8fd14eefe83ec1df4a2d2c53.jpg",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "Yahoo! Actualit\u00e9s",
+			"url": "https://fr.news.yahoo.com/sport/ligue-champions-direct-galatasaray-stuttgart-163830938.html",
+			"description": "Premi\u00e8re partie de la quatri\u00e8me journ\u00e9e de la phase de ligue de la Ligue des champions"
+		},
+		{
+			"title": "\"Rassembler les passionn\u00e9s\" : malgr\u00e9 les difficult\u00e9s, le V\u00e9lo sport de Neuill\u00e9-Pont-Pierre pr\u00e9pare l\u2019avenir - lanouvellerepublique.fr",
+			"link": "https://www.lanouvellerepublique.fr/indre-et-loire/commune/neuille-pont-pierre/rassembler-les-passionnes-malgre-les-difficultes-le-velo-sport-de-neuille-pont-pierre-prepare-l-avenir-1793722277",
+			"pubDate": "Tue, 03 Nov 2026 16:11:09 GMT",
+			"image": "https://images.lanouvellerepublique.fr/image/upload/v1793467825/6aea07a3e33d403c6e8b4609.jpg",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "lanouvellerepublique.fr",
+			"url": "https://www.lanouvellerepublique.fr/indre-et-loire/commune/neuille-pont-pierre/rassembler-les-passionnes-malgre-les-difficultes-le-velo-sport-de-neuille-pont-pierre-prepare-l-avenir-1793722277",
+			"description": "Le club cycliste de Neuill\u00e9-Pont-Pierre (Indre-et-Loire) a dress\u00e9 un bilan en demi-teinte lors de son assembl\u00e9e g\u00e9n\u00e9rale, vendredi 30 octobre 2026. Face \u00e0 un d\u00e9ficit financier, l\u2019association doit innover pour ses futures organisations, malgr\u00e9 un palmar\u00e8s sportif satisfaisant."
+		},
+		{
+			"title": "\"1, 2, 3 Monteils\" : un quart de si\u00e8cle de sport, de convivialit\u00e9 et de partage - ladepeche.fr",
+			"link": "https://www.ladepeche.fr/2026/11/03/1-2-3-monteils-un-quart-de-siecle-de-sport-de-convivialite-et-de-partage-13634050.php",
+			"pubDate": "Tue, 03 Nov 2026 16:00:00 GMT",
+			"image": "https://images.ladepeche.fr/api/v1/images/view/6ae9ec1b8a99ad41020c176e/hd/image.jpg?v=1",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "ladepeche.fr",
+			"url": "https://www.ladepeche.fr/2026/11/03/1-2-3-monteils-un-quart-de-siecle-de-sport-de-convivialite-et-de-partage-13634050.php",
+			"description": "Cr\u00e9\u00e9e en juillet 2001, l\u2019association de gymnastique volontaire de Monteils (Tarn-et-Garonne) c\u00e9l\u00e8bre ses 25 ans. Forte de 150 adh\u00e9rentes, elle poursuit son engagement en faveur du sport, de la sant\u00e9 et du bien-\u00eatre."
+		},
+		{
+			"title": "Route du Rhum : Frayeur pour Coville, Tripon abandonne - Sports - Orange",
+			"link": "https://sports.orange.fr/plus-de-sport/sports-nautiques/article/route-du-rhum-frayeur-pour-coville-tripon-abandonne-exclu-CNT000002twSLO.html",
+			"pubDate": "Tue, 03 Nov 2026 15:59:00 GMT",
+			"image": "http://media3.woopic.com/api/v1/images/504%2Fsport%2FMedia365-Sport-News%2Ffc1%2F35b%2Fddef7ba6a2f6b6ee8a92cb68eb%2Froute-du-rhum-frayeur-pour-coville-tripon-abandonne%7Ccoville-sodebo-route-du-rhum-031126.jpg?format=470x264&facedetect=1&quality=85",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "Orange Actualit\u00e9s",
+			"url": "https://sports.orange.fr/plus-de-sport/sports-nautiques/article/route-du-rhum-frayeur-pour-coville-tripon-abandonne-exclu-CNT000002twSLO.html",
+			"description": "[bold]Thomas Coville a d\u00fb larguer une voile en mer, avant de pouvoir reprendre sa Route du Rhum. Armel Tripon et Fabien Delahaye n'ont pas eu cette chance et ont d\u00fb abandonner la course.[/bold]"
+		},
+		{
+			"title": "\u00ab Quelle immense tris\u00adtesse \u00bb, Rafael Nadal et le monde du sport en deuil - We Love Tennis",
+			"link": "https://www.welovetennis.fr/actu/quelle-immense-tristesse-rafael-nadal-et-le-monde-du-sport-en-deuil",
+			"pubDate": "Tue, 03 Nov 2026 15:44:00 GMT",
+			"image": "https://www.welovetennis.fr/wp-content/uploads/2024/07/Nadal-regard.jpeg",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "We Love Tennis",
+			"url": "https://www.welovetennis.fr/actu/quelle-immense-tristesse-rafael-nadal-et-le-monde-du-sport-en-deuil",
+			"description": "Quelques jours apr\u00e8s avoir \u00e9t\u00e9 frapp\u00e9e par un terrible acci\u00addent ferro\u00adviaire qui a fait 69 morts, l\u2019Espagne fait encore la une de l\u2019ac\u00adtua\u00adlit\u00e9 ces derni\u00e8res heures du c\u00f4t\u00e9 des drames. Et c\u2019est tout le monde du foot\u00adball et du sport qui en deuil \u00e0 la suite du d\u00e9c\u00e8s du foot\u00adbal\u00adleur Jesus de Miguel, atta\u00adquant de [\u2026]"
+		},
+		{
+			"title": "Test : Nintendo Switch Sports Resort, le sport \u00e0 la fra\u00eeche - IGN France",
+			"link": "https://fr.ign.com/nintendo-switch-sports-resort/93589/test-nintendo-switch-sports-resort-le-sport-a-la-fraiche",
+			"pubDate": "Tue, 03 Nov 2026 15:36:00 GMT",
+			"image": "https://sm.ign.com/ign_fr/seo/6/68477/68477_4sa1.jpg",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "IGN France",
+			"url": "https://fr.ign.com/nintendo-switch-sports-resort/93589/test-nintendo-switch-sports-resort-le-sport-a-la-fraiche",
+			"description": "Allez Marcus, (re)met ton short !!"
+		},
+		{
+			"title": "\u00c9quipe de France: Esteban Lepaul toujours bless\u00e9, un retour chez les Bleus s'\u00e9loigne - RMC Sport",
+			"link": "https://rmcsport.bfmtv.com/football/equipe-de-france/equipe-de-france-esteban-lepaul-toujours-blesse-un-retour-chez-les-bleus-s-eloigne_AV-202611030675.html",
+			"pubDate": "Tue, 03 Nov 2026 15:29:33 GMT",
+			"image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/mVm5smt_QDQgjcYbb4cc_XdYtzQ=/0x106:2048x1258/images/Esteban-Lepaul-lors-de-France-Belgique-le-5-octobre-2026-2377222.jpg",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "RMC Sport",
+			"url": "https://rmcsport.bfmtv.com/football/equipe-de-france/equipe-de-france-esteban-lepaul-toujours-blesse-un-retour-chez-les-bleus-s-eloigne_AV-202611030675.html",
+			"description": "Absent depuis trois matchs en raison d'une entorse \u00e0 la cheville, Est\u00e9ban Lepaul pourrait \u00eatre trop juste pour le prochain rassemblement de l'\u00e9quipe de France, qui d\u00e9bute la semaine prochaine."
+		},
+		{
+			"title": "OL : Paulo Fonseca attendu \u00e0 Lisbonne ce mardi - Sport.fr",
+			"link": "https://www.sport.fr/football/ol-paulo-fonseca-attendu-a-lisbonne-ce-mardi-1496827.shtm",
+			"pubDate": "Tue, 03 Nov 2026 15:25:00 GMT",
+			"image": "",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "",
+			"url": "",
+			"description": ""
+		},
+		{
+			"title": "\u00ab Autour du terrain \u00bb o\u00f9 je veux, quand je veux : l\u2019appli qui r\u00e9volutionne le sport amateur - La Voix du Nord",
+			"link": "https://www.lavoixdunord.fr/1751710/article/2026-11-03/autour-du-terrain-ou-je-veux-quand-je-veux-l-appli-qui-revolutionne-le-sport",
+			"pubDate": "Tue, 03 Nov 2026 15:20:41 GMT",
+			"image": "",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "",
+			"url": "",
+			"description": ""
+		},
+		{
+			"title": "Le maillot des 125 ans de l\u2019Amiens SC \u00e0 gagner dans \u00ab 100 % Sport en Picardie \u00bb - Courrier picard",
+			"link": "https://www.courrier-picard.fr/id756885/article/2026-11-03/le-maillot-des-125-ans-de-lamiens-sc-gagner-dans-100-sport-en-picardie",
+			"pubDate": "Tue, 03 Nov 2026 15:12:56 GMT",
+			"image": "",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "",
+			"url": "",
+			"description": ""
+		},
+		{
+			"title": "Contre-la-montre en montagne, Zoncolan comme ultime juge de paix : parcours cors\u00e9 pour le Tour d'Italie 2027 - franceinfo",
+			"link": "https://www.franceinfo.fr/sports/cyclisme/giro/contre-la-montre-en-montagne-zoncolan-comme-ultime-juge-de-paix-parcours-corse-pour-le-tour-d-italie-2027_8265926.html",
+			"pubDate": "Tue, 03 Nov 2026 14:57:47 GMT",
+			"image": "https://www.franceinfo.fr/pictures/9461uzg1sIl_A0zS-BujmgxyWKA/0x860:8256x5504/1500x843/2026/11/03/6ae9f78330679859124397.jpg",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "franceinfo",
+			"url": "https://www.franceinfo.fr/sports/cyclisme/giro/contre-la-montre-en-montagne-zoncolan-comme-ultime-juge-de-paix-parcours-corse-pour-le-tour-d-italie-2027_8265926.html",
+			"description": "Le parcours du prochain Giro a \u00e9t\u00e9 pr\u00e9sent\u00e9 mardi et s'annonce une fois encore pour les costauds, alors que Paul Seixas et Tadej Pogacar n'ont pas ferm\u00e9 la porte \u00e0 une \u00e9ventuelle participation"
+		},
+		{
+			"title": "F1 : Les Grands Prix au Moyen-Orient menac\u00e9s ? : Sports - Orange - Sports - Orange",
+			"link": "https://sports.orange.fr/plus-de-sport/auto-moto/article/f1-les-grands-prix-au-moyen-orient-menaces-exclu-CNT000002twPTq.html",
+			"pubDate": "Tue, 03 Nov 2026 14:55:00 GMT",
+			"image": "http://media2.woopic.com/api/v1/images/504%2Fsport%2FMedia365-Sport-News%2F6c1%2F1a2%2F0365f296e737a8694e724f8440%2Ff1-les-grands-prix-au-moyen-orient-menaces%7Cgpdabudhabi-03112026.jpg?format=470x264&facedetect=1&quality=85",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "Orange Actualit\u00e9s",
+			"url": "https://sports.orange.fr/plus-de-sport/auto-moto/article/f1-les-grands-prix-au-moyen-orient-menaces-exclu-CNT000002twPTq.html",
+			"description": "[bold]Le champion du monde \u00e9tant d\u00e9sormais connu, y'aura-t-il un vrai int\u00e9r\u00eat \u00e0 prendre des risques le cas \u00e9ch\u00e9ant ? Si le conflit reprend en Iran, la question sera obligatoire.\n[/bold]"
+		},
+		{
+			"title": "Le PSG battu lourdement par Villarreal en Youth League - Sport.fr",
+			"link": "https://www.sport.fr/football/le-psg-battu-lourdement-par-villarreal-en-youth-league-1496813.shtm",
+			"pubDate": "Tue, 03 Nov 2026 14:41:00 GMT",
+			"image": "",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "",
+			"url": "",
+			"description": ""
+		},
+		{
+			"title": "Sport : A \u00e7a d'une victoire dans le derby - www.lesherbiers.fr",
+			"link": "https://www.lesherbiers.fr/decouvrir/actualites/12676-sport-:-a-ca-d-une-victoire-dans-le-derby.html",
+			"pubDate": "Tue, 03 Nov 2026 14:34:17 GMT",
+			"image": "",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "www.lesherbiers.fr",
+			"url": "",
+			"description": ""
+		},
+		{
+			"title": "OL : \u00c7a se confirme pour le nouveau coach ! - Sport.fr",
+			"link": "https://www.sport.fr/football/ol-ca-se-confirme-pour-le-nouveau-coach-1496808.shtm",
+			"pubDate": "Tue, 03 Nov 2026 14:32:00 GMT",
+			"image": "",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "",
+			"url": "",
+			"description": ""
+		},
+		{
+			"title": "RC Lens : Todibo, le club r\u00e9agit - Sport.fr",
+			"link": "https://www.sport.fr/football/rc-lens-todibo-le-club-reagit-1496806.shtm",
+			"pubDate": "Tue, 03 Nov 2026 14:32:00 GMT",
+			"image": "",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "",
+			"url": "",
+			"description": ""
+		},
+		{
+			"title": "\u00ab C\u2019est le premier studio Lagree de Bretagne \u00bb : une nouvelle salle de sport pour les femmes ouvre \u00e0 Pl\u00e9rin - Ouest-France",
+			"link": "https://www.ouest-france.fr/sport/fitness/cest-le-premier-studio-lagree-de-bretagne-une-nouvelle-salle-de-sport-pour-les-femmes-ouvre-a-plerin-060939c4-d791-11f1-afd1-11a702fe972e",
+			"pubDate": "Tue, 03 Nov 2026 14:29:03 GMT",
+			"image": "",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "",
+			"url": "",
+			"description": ""
+		},
+		{
+			"title": "Salles de sport : la croissance ne suffira plus - Xerfi Canal",
+			"link": "https://www.xerficanal.com/economie/emission/Alexandre-Boulegue-Salles-de-sport-la-croissance-ne-suffira-plus_3754626.html",
+			"pubDate": "Tue, 03 Nov 2026 14:27:08 GMT",
+			"image": "https://www.xerficanal.com/img/Video/Alexandre-Boulegue-Test-Rado-Salle-de-Sport-306353147.jpg",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "",
+			"url": "",
+			"description": ""
+		},
+		{
+			"title": "UEFA Champions League : suivre le football europ\u00e9en \u00e0 prix r\u00e9duit avec l\u2019EDITION SPECIALE CANAL+ SPORT* - BFM",
+			"link": "https://www.bfmtv.com/tech/bons-plans/uefa-champions-league-suivre-le-football-europeen-a-prix-reduit-avec-l-edition-speciale-canal-sport_AB-202611030633.html",
+			"pubDate": "Tue, 03 Nov 2026 14:25:43 GMT",
+			"image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/B3zclB-yItE9P9oYunJmbP7sGQQ=/0x0:1280x720/1280x0/images/UEFA-Champions-League-comment-suivre-les-matchs-Villareal-Paris-SG-et-Lens-Come-des-3-et-4-novembre-2026-2377193.jpg",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "BFM",
+			"url": "https://www.bfmtv.com/tech/bons-plans/uefa-champions-league-suivre-le-football-europeen-a-prix-reduit-avec-l-edition-speciale-canal-sport_AB-202611030633.html",
+			"description": "Vous aimez le football ? L\u2019UEFA Champions League fait son grand retour sur CANAL+. Pour que vous profitiez vous aussi du championnat, CANAL+ vous propose l\u2019EDITION SPECIALE CANAL+ SPORT*. Visionnez tous les matchs et jouez avec les joueurs !"
+		},
+		{
+			"title": "Youth League : Le LOSC tombe face \u00e0 Bod\u00f8/Glimt - Sport.fr",
+			"link": "https://www.sport.fr/football/youth-league-le-losc-tombe-face-a-bodo-glimt-1496811.shtm",
+			"pubDate": "Tue, 03 Nov 2026 14:25:00 GMT",
+			"image": "",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "",
+			"url": "",
+			"description": ""
+		},
+		{
+			"title": "UEFA Champions League : comment suivre les matchs Villareal - Paris SG et Lens - Come des 3 et 4 novembre 2026 ? - RMC Sport",
+			"link": "https://rmcsport.bfmtv.com/football/ligue-des-champions/uefa-champions-league-comment-suivre-les-matchs-villareal-paris-sg-et-lens-come-des-3-et-4-novembre-2026_AB-202611030631.html",
+			"pubDate": "Tue, 03 Nov 2026 14:23:41 GMT",
+			"image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/snEuBMv8cZsmGpWV0iJ1nYhe_pU=/0x0:1280x720/images/UEFA-Champions-League-comment-suivre-les-matchs-Villareal-Paris-SG-et-Lens-Come-des-3-et-4-novembre-2026-2377193.jpg",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "RMC Sport",
+			"url": "https://rmcsport.bfmtv.com/football/ligue-des-champions/uefa-champions-league-comment-suivre-les-matchs-villareal-paris-sg-et-lens-come-des-3-et-4-novembre-2026_AB-202611030631.html",
+			"description": "Villarreal - Paris SG, Lens - Come, ou encore Barcelone - Aston Villa, 9 matchs sont \u00e0 suivre \u00e0 l\u2019occasion de l\u2019UEFA Champions League . Vous ne savez pas sur quelle cha\u00eene suivre les matchs ? On vous dit tout."
+		},
+		{
+			"title": "RADIO FRANCE / DEMAIN LE SPORT RENDEZ-VOUS DANS 7 JOURS ! - Radio France",
+			"link": "https://www.radiofrance.com/presse/radio-france-demain-le-sport-rendez-vous-dans-7-jours",
+			"pubDate": "Tue, 03 Nov 2026 14:19:01 GMT",
+			"image": "",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "Radio France",
+			"url": "",
+			"description": ""
+		},
+		{
+			"title": "\u00ab Le sport passe quand m\u00eame apr\u00e8s \u00bb : fan ardennais de cyclisme, Jackies Ambroise doit faire des choix - L'Ardennais",
+			"link": "https://www.lardennais.fr/id837869/article/2026-11-03/le-sport-passe-quand-meme-apres-fan-ardennais-de-cyclisme-jackies-ambroise-doit",
+			"pubDate": "Tue, 03 Nov 2026 14:15:00 GMT",
+			"image": "",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "",
+			"url": "",
+			"description": ""
+		},
+		{
+			"title": "L\u2019OM a enfin trouv\u00e9 un gardien - Sport.fr",
+			"link": "https://www.sport.fr/football/lom-a-enfin-trouve-un-gardien-1496802.shtm",
+			"pubDate": "Tue, 03 Nov 2026 14:12:00 GMT",
+			"image": "",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "",
+			"url": "",
+			"description": ""
+		},
+		{
+			"title": "CFMoto 125SC-S : l\u2019esprit sport du Magnet Concept ! - Motoservices",
+			"link": "https://www.motoservices.com/actualite-scooter/cfmoto-125sc-s-esprit-sport-du-magnet-concept.htm",
+			"pubDate": "Tue, 03 Nov 2026 14:03:24 GMT",
+			"image": "https://media.motoservices.com/media/cache/slider_lg/media/gallery/24087/cfmoto-125sc-s-2027-eicma-2026.jpg",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "Motoservices",
+			"url": "https://www.motoservices.com/actualite-scooter/cfmoto-125sc-s-esprit-sport-du-magnet-concept.htm",
+			"description": "Voici le premier scooter commercialis\u00e9 par CFMoto ! Apr\u00e8s s\u2019\u00eatre forg\u00e9 une belle r\u00e9putation sur le segment moto, le 6e constructeur en France proposera prochainement le 125SC-C, un commuter permis B/A1 qui se veut vif et pratique au quotidien. Sur les terres des Nmax, PCX et autres, il se distingue d\u00e9j\u00e0 pour son look tr\u00e8s affut\u00e9, qui n\u2019est pas sans rappeler le style d\u2019un concept d\u00e9voil\u00e9 ici m\u00eame il y a 4 ans."
+		},
+		{
+			"title": "ASSE : Une grossi\u00e8re erreur, Ian Cathro avoue - Sport.fr",
+			"link": "https://www.sport.fr/football/asse-une-grossiere-erreur-ian-cathro-avoue-1496804.shtm",
+			"pubDate": "Tue, 03 Nov 2026 14:02:00 GMT",
+			"image": "",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "",
+			"url": "",
+			"description": ""
+		},
+		{
+			"title": "Joe Rogan constern\u00e9 par Dan Miragliotta : \u00ab Ce n'est plus un sport si les arbitres font \u00e7a \u00bb - UFC Fans",
+			"link": "https://www.ufc-fr.com/joe-rogan-consterne-par-dan-miragliotta-ce-n-est-plus-un-sport-si-les-arbitres-font-ca-14985.html",
+			"pubDate": "Tue, 03 Nov 2026 14:00:09 GMT",
+			"image": "https://www.ufc-fr.com/data/actualite/14985/large/joe-rogan-consterne-par-dan-miragliotta-ce-n-est-plus-un-sport-si-les-arbitres-font-ca-photo___ID_2026-11-03-02-58-07_14985.jpg",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "UFC Fans",
+			"url": "https://www.ufc-fr.com/joe-rogan-consterne-par-dan-miragliotta-ce-n-est-plus-un-sport-si-les-arbitres-font-ca-14985.html",
+			"description": "Tr\u00e8s remont\u00e9 apr\u00e8s la d\u00e9cision controvers\u00e9e de Dan Miragliotta lors du main event de l'UFC Vegas 123, Joe Rogan a exprim\u00e9 son indignation en priv\u00e9. Des \u00e9changes r\u00e9v\u00e9l\u00e9s par Jon Anik mettent en lumi\u00e8re l'incompr\u00e9hension g\u00e9n\u00e9rale."
+		},
+		{
+			"title": "PSG : 100 millions d\u2019euros, le club derri\u00e8re cette offre d\u00e9voil\u00e9 - Sport.fr",
+			"link": "https://www.sport.fr/football/psg-100-millions-deuros-le-club-derriere-cette-offre-devoile-1494964.shtm",
+			"pubDate": "Tue, 03 Nov 2026 13:45:00 GMT",
+			"image": "",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "",
+			"url": "",
+			"description": ""
+		},
+		{
+			"title": "Route du Rhum 2026 : carnet de bord jour 1 d'Alexia Barrier - idec sport",
+			"link": "https://www.idecsport.com/route-du-rhum-2026-carnet-de-bord-jour-1/",
+			"pubDate": "Tue, 03 Nov 2026 13:32:36 GMT",
+			"image": "https://www.idecsport.com/wp-content/uploads/2026/11/route-du-rhum-2026-carnet-de-bord-jour-1-alexia-barrier.jpg",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "IDEC SPORT",
+			"url": "https://www.idecsport.com/route-du-rhum-2026-carnet-de-bord-jour-1/",
+			"description": "Pointes \u00e0 plus de 35 n\u0153uds, rafales \u00e0 30 n\u0153uds et 20 minutes de sommeil : Alexia Barrier raconte sa premi\u00e8re nuit \u00e0 bord de l'Ultim IDEC SPORT-CIC."
+		},
+		{
+			"title": "Le FC Barcelone a un souci de plus en plus remarqu\u00e9 avec le Camp Nou - Foot Mercato",
+			"link": "https://www.footmercato.net/a246310162163358457-le-fc-barcelone-a-un-souci-de-plus-en-plus-remarque-avec-le-camp-nou",
+			"pubDate": "Tue, 03 Nov 2026 13:18:23 GMT",
+			"image": "https://assets-fr.imgfoot.com/media/cache/1200x675/lamineyamalraphinha-6aab0d001be59.jpg",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "Foot Mercato : Info Transferts Football - Actu Foot Transfert",
+			"url": "https://www.footmercato.net/a246310162163358457-le-fc-barcelone-a-un-souci-de-plus-en-plus-remarque-avec-le-camp-nou",
+			"description": "Si le FC Barcelone vit un d\u00e9but de saison plut\u00f4t int\u00e9ressant sur le plan sportif, les probl\u00e8mes d\u2019ambiance au Camp Nou inqui\u00e8tent de plus en plus (...) - Footmercato"
+		},
+		{
+			"title": "Sport : avec \u00ab La tribu du trail et du running \u00bb, fini les foul\u00e9es en solitaire - Quidam Hebdo",
+			"link": "https://quidam-hebdo.com/2026/11/03/sport-avec-la-tribu-du-trail-et-du-running-fini-les-foulees-en-solitaire/",
+			"pubDate": "Tue, 03 Nov 2026 13:03:38 GMT",
+			"image": "https://quidam-hebdo.com/wp-content/uploads/2026/10/Photo-Tribu-du-trail-et-du-running-Pujols-1.jpg",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "Quidam Hebdo",
+			"url": "https://quidam-hebdo.com/2026/11/03/sport-avec-la-tribu-du-trail-et-du-running-fini-les-foulees-en-solitaire/",
+			"description": "Combien de coureurs se croisent chaque semaine sur les routes et chemins autour de Pujols d\u2019un simple signe de la main, avant de poursuivre leur effort chacun de leur c\u00f4t\u00e9 ? C\u2019est de ce constat tout simple qu\u2019est n\u00e9e, fin juin, la page Facebook \u00ab La tribu du trail et du running, Pujols \u00bb. \u00ab [\u2026]"
+		},
+		{
+			"title": "Deco a trouv\u00e9 le nouveau lat\u00e9ral droit du Bar\u00e7a - Sport.fr",
+			"link": "https://www.sport.fr/football/deco-a-trouve-le-nouveau-lateral-droit-du-barca-1496771.shtm",
+			"pubDate": "Tue, 03 Nov 2026 13:02:00 GMT",
+			"image": "",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "",
+			"url": "",
+			"description": ""
+		},
+		{
+			"title": "La Bar\u00e7a envoie ce lat\u00e9ral au PSG - Sport.fr",
+			"link": "https://www.sport.fr/football/la-barca-envoie-ce-lateral-au-psg-1496763.shtm",
+			"pubDate": "Tue, 03 Nov 2026 12:45:00 GMT",
+			"image": "",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "",
+			"url": "",
+			"description": ""
+		},
+		{
+			"title": "OM : La priorit\u00e9 de Genesio a fuit\u00e9 - Sport.fr",
+			"link": "https://www.sport.fr/football/om-la-priorite-de-genesio-a-fuite-1496765.shtm",
+			"pubDate": "Tue, 03 Nov 2026 12:14:00 GMT",
+			"image": "",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "",
+			"url": "",
+			"description": ""
+		},
+		{
+			"title": "Ligue des champions : Robin Risser, un parfum de confirmation - tv5monde",
+			"link": "https://information.tv5monde.com/sport/ligue-des-champions-robin-risser-un-parfum-de-confirmation-2844268",
+			"pubDate": "Tue, 03 Nov 2026 12:11:00 GMT",
+			"image": "",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "",
+			"url": "",
+			"description": ""
+		},
+		{
+			"title": "RC Lens : Le recrutement de cette p\u00e9pite valid\u00e9 ! - Sport.fr",
+			"link": "https://www.sport.fr/football/rc-lens-le-recrutement-de-cette-pepite-valide-1496767.shtm",
+			"pubDate": "Tue, 03 Nov 2026 12:02:00 GMT",
+			"image": "",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "",
+			"url": "",
+			"description": ""
+		},
+		{
+			"title": "Canal+ 4K Ultra HD : la liste des films, s\u00e9ries et sport jusqu'au 30 novembre 2026 - AVcesar",
+			"link": "https://www.avcesar.com/canal-4k-ultra-hd-la-liste-des-films-series-et-sport-jusqu-au-30-novembre-2026-48937",
+			"pubDate": "Tue, 03 Nov 2026 11:53:00 GMT",
+			"image": "https://www.avcesar.com/source/actualites/00/00/BF/29/main_liste-des-contenus-4k-ultra-hd-canal-jusquau-31smarss2024_0309339.webp",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "AVcesar",
+			"url": "https://www.avcesar.com/canal-4k-ultra-hd-la-liste-des-films-series-et-sport-jusqu-au-30-novembre-2026-48937",
+			"description": "On vous propose de d\u00e9couvrir (avec un peu de retard) les programmes ultra haute d\u00e9finition 4K pr\u00e9vus sur les..."
+		},
+		{
 			"title": "PSG : Le Bar\u00e7a veut Luis Enrique, il r\u00e9pond - Sport.fr",
 			"link": "https://www.sport.fr/football/psg-le-barca-veut-luis-enrique-il-repond-1496761.shtm",
 			"pubDate": "Tue, 03 Nov 2026 11:43:00 GMT",
+			"image": "",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "",
+			"url": "",
+			"description": ""
+		},
+		{
+			"title": "Mbapp\u00e9, Piqu\u00e9, Hakimi, Nadal... Le monde du sport rend hommage \u00e0 Jesus de Miguel - Eurosport",
+			"link": "https://www.eurosport.fr/football/mort-de-jesus-de-miguel-tenerife-le-monde-du-football-mbappe-hakimi...-rend-hommage-a-lattaquant-de-30-ans-mort-apres-un-choc-lors-dun-match_sto23351749/story.shtml",
+			"pubDate": "Tue, 03 Nov 2026 11:36:00 GMT",
 			"image": "",
 			"logo": "https://picsum.photos/32/32?grayscale",
 			"site_name": "",
@@ -89,6 +689,16 @@
 			"site_name": "Savoie News",
 			"url": "https://www.savoie-news.fr/reportages/sport/article/a-20-ans-le-savoyard-dadoption-ianis-triomphe-reve-des-jeux-olympiques",
 			"description": " Arriv\u00e9 en Savoie pendant son enfance, Ianis Triomphe s'est illustr\u00e9 cette saison sur la sc\u00e8ne internationale du kayak-cross. \u00c0 20 ans, le licenci\u00e9 ..."
+		},
+		{
+			"title": "Regarder Mighty Blackpool FC vs. Star Sport Academy en Direct Live | DAZN FR - DAZN",
+			"link": "https://www.dazn.com/fr-FR/home/16owmr2rar0le18136fjh74wdz/1ax5fstrzh3qr1gde293s8nk25",
+			"pubDate": "Tue, 03 Nov 2026 10:56:47 GMT",
+			"image": "",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "",
+			"url": "",
+			"description": ""
 		},
 		{
 			"title": "Le skieur Cyprien Sarrazin, \u00ab pass\u00e9 pas loin de mourir \u00bb en 2024, s\u2019appr\u00eate \u00e0 retrouver la comp\u00e9tition - Le Monde.fr",
@@ -464,6 +1074,16 @@
 			"title": "OM : Le mur, c\u2019est tout droit\u2026 - Sport.fr",
 			"link": "https://www.sport.fr/football/om-le-mur-cest-tout-droit-1496731.shtm",
 			"pubDate": "Tue, 03 Nov 2026 08:14:00 GMT",
+			"image": "",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "",
+			"url": "",
+			"description": ""
+		},
+		{
+			"title": "C\u2019est la guerre entre Lens et Stade Rennais pour\u2026 - Sport.fr",
+			"link": "https://www.sport.fr/football/cest-la-guerre-entre-lens-et-stade-rennais-pour-1494902.shtm",
+			"pubDate": "Tue, 03 Nov 2026 08:02:00 GMT",
 			"image": "",
 			"logo": "https://picsum.photos/32/32?grayscale",
 			"site_name": "",
@@ -1379,627 +1999,7 @@
 			"site_name": "",
 			"url": "https://www.ledauphine.com/societe/2026/11/02/l-association-sport-handicap-de-maurienne-a-un-nouveau-sponsor",
 			"description": "La g\u00e9n\u00e9rosit\u00e9 a montr\u00e9 toute sa bienveillance dans la station. Samedi 31\u00a0octobre, l\u2019Association sport handicap de Maurienne (ASHM) s\u2019est vue ..."
-		},
-		{
-			"title": "Votez pour le Troph\u00e9e Sport & Collectif \u00e0 Saint-Quentin-en-Yvelines - tv78",
-			"link": "https://tv78.com/trophee-sport-collectif-a-saint-quentin-en-yvelines/",
-			"pubDate": "Mon, 02 Nov 2026 16:40:41 GMT",
-			"image": "https://tv78.com/wp-content/uploads/2026/11/VIGNETTE-MOP-MERCI-DE-NE-PAS-SUPP.png",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "tv78",
-			"url": "https://tv78.com/trophee-sport-collectif-a-saint-quentin-en-yvelines/",
-			"description": "D\u00e9couvrez les candidats au Troph\u00e9e Sport & Collectif \u00e0 Saint-Quentin-en-Yvelines. Soutenez les initiatives solidaires locales avec tv78 !"
-		},
-		{
-			"title": "Saint-Maurice-de-Beynost. Art\u00e9\u2019Jeunes : des vacances entre sport et Halloween pour 30 coll\u00e9giens - Le Progr\u00e8s",
-			"link": "https://www.leprogres.fr/culture-loisirs/2026/11/02/arte-jeunes-des-vacances-entre-sport-et-halloween-pour-30-collegiens",
-			"pubDate": "Mon, 02 Nov 2026 16:23:45 GMT",
-			"image": "https://cdn-s-www.leprogres.fr/images/1072C95F-18DC-40C9-9207-7E18207DD763/FB1200/photo-1793641178.jpg",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "",
-			"url": "https://www.leprogres.fr/culture-loisirs/2026/11/02/arte-jeunes-des-vacances-entre-sport-et-halloween-pour-30-collegiens",
-			"description": "Entre sorties, d\u00e9couvertes sportives et animations Halloween, le programme d\u2019Art\u00e9\u2019Jeunes a s\u00e9duit une trentaine de coll\u00e9giens. En cette p\u00e9riode ..."
-		},
-		{
-			"title": "Voile - Route du Rhum : Joyon a chavir\u00e9, Laperche toujours leader : Sports - Orange - Sports - Orange",
-			"link": "https://sports.orange.fr/plus-de-sport/sports-nautiques/article/voile-route-du-rhum-joyon-a-chavire-laperche-toujours-leader-exclu-CNT000002tvNaq.html",
-			"pubDate": "Mon, 02 Nov 2026 16:20:00 GMT",
-			"image": "http://media1.woopic.com/api/v1/images/504%2Fsport%2FMedia365-Sport-News%2F7fe%2F61d%2F48ae6a6b4cc7761c54d7587668%2Fvoile-route-du-rhum-joyon-a-chavire-laperche-toujours-leader%7Cfrancis-joyon-route-rhum-20261031.jpg?format=470x264&facedetect=1&quality=85",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "Orange Actualit\u00e9s",
-			"url": "https://sports.orange.fr/plus-de-sport/sports-nautiques/article/voile-route-du-rhum-joyon-a-chavire-laperche-toujours-leader-exclu-CNT000002tvNaq.html",
-			"description": "[bold]A la barre d'Oc\u00e9ans, engag\u00e9 en Vintage Multi, Francis Joyon a chavir\u00e9 ce lundi. Une op\u00e9ration de sauvetage a \u00e9t\u00e9 d\u00e9clench\u00e9e alors que le navigateur a rassur\u00e9 sur sa sant\u00e9. La Route du Rhum reste emmen\u00e9 par Tom Laperche dans la cat\u00e9gorie Ultim.[/bold]"
-		},
-		{
-			"title": "C\u00e9dric Doumb\u00e8 va affronter Jake Paul en boxe ! : Sports - Orange - Sports - Orange",
-			"link": "https://sports.orange.fr/plus-de-sport/sports-de-combat/article/cedric-doumbe-va-affronter-jake-paul-en-boxe-exclu-CNT000002tvN9p.html",
-			"pubDate": "Mon, 02 Nov 2026 16:16:00 GMT",
-			"image": "http://media2.woopic.com/api/v1/images/504%2Fsport%2FMedia365-Sport-News%2F122%2F0d4%2F9c31a8086ae1fc5db2b749982d%2Fcedric-doumbe-va-affronter-jake-paul-en-boxe%7Ccedric_doumbe021126.jpg?format=470x264&facedetect=1&quality=85",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "Orange Actualit\u00e9s",
-			"url": "https://sports.orange.fr/plus-de-sport/sports-de-combat/article/cedric-doumbe-va-affronter-jake-paul-en-boxe-exclu-CNT000002tvN9p.html",
-			"description": "[bold]Plus apparu dans une cage depuis 2024, C\u00e9dric Doumb\u00e8 va effectuer son retour \u00e0 la comp\u00e9tition, mais sur un ring de boxe anglaise contre l'Am\u00e9ricain Jake Paul.\n[/bold]"
-		},
-		{
-			"title": "Village-Neuf. Le pickleball, un nouveau sport de raquette en vogue \u00e0 d\u00e9couvrir avec le club V3F - L'Alsace",
-			"link": "https://www.lalsace.fr/societe/2026/11/02/le-pickleball-un-nouveau-sport-de-raquettes-en-vogue-a-decouvrir-avec-le-club-v3f",
-			"pubDate": "Mon, 02 Nov 2026 16:03:32 GMT",
-			"image": "https://cdn-s-www.lalsace.fr/images/73953647-02E0-4AC5-B60A-D8318F3BBA00/FB1200/photo-1793627924.jpg",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "",
-			"url": "https://www.lalsace.fr/societe/2026/11/02/le-pickleball-un-nouveau-sport-de-raquettes-en-vogue-a-decouvrir-avec-le-club-v3f",
-			"description": "Le club de badminton du V3F (Volant des 3 fronti\u00e8res) propose une s\u00e9ance de d\u00e9couverte du pickleball, sport de raquette en vogue aux \u00c9tats-Unis ..."
-		},
-		{
-			"title": "Hausse des carburants : le sport aubois va devoir s\u2019adapter - L'Est \u00e9clair",
-			"link": "https://www.lest-eclair.fr/id837693/article/2026-11-02/hausse-des-carburants-le-sport-aubois-va-devoir-sadapter",
-			"pubDate": "Mon, 02 Nov 2026 15:59:30 GMT",
-			"image": "",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "",
-			"url": "",
-			"description": ""
-		},
-		{
-			"title": "Moutiers - La Mo\u00fbtiers Winter Run revient pour une nouvelle \u00e9dition - Savoie News",
-			"link": "https://www.savoie-news.fr/reportages/sport/article/la-moutiers-winter-run-revient-pour-une-nouvelle-edition",
-			"pubDate": "Mon, 02 Nov 2026 15:49:45 GMT",
-			"image": "https://www.savoie-news.fr/uploads/11671-6ae8b156e6723-vierge-jpg.jpg",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "Savoie News",
-			"url": "https://www.savoie-news.fr/reportages/sport/article/la-moutiers-winter-run-revient-pour-une-nouvelle-edition",
-			"description": " La Mo\u00fbtiers Winter Run revient vendredi 4 d\u00e9cembre pour une course de nuit au c\u0153ur de Mo\u00fbtiers, avec un d\u00e9part depuis la place de la Cath\u00e9dra..."
-		},
-		{
-			"title": "L\u00e9on XIV : \u00ab Le sport peut enseigner les valeurs de coop\u00e9ration et de partage \u00bb - ZENIT - Fran\u00e7ais - Le monde vu de Rome",
-			"link": "https://fr.zenit.org/2026/11/02/leon-xiv-le-sport-peut-enseigner-les-valeurs-de-cooperation-et-de-partage/",
-			"pubDate": "Mon, 02 Nov 2026 15:48:00 GMT",
-			"image": "https://fr.zenit.org/wp-content/uploads/sites/4/2026/11/14-o.jpeg",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "ZENIT - Fran\u00e7ais",
-			"url": "https://fr.zenit.org/2026/11/02/leon-xiv-le-sport-peut-enseigner-les-valeurs-de-cooperation-et-de-partage/",
-			"description": "Discours du Saint-P\u00e8re L\u00e9on XIV aux d\u00e9l\u00e9gations de la \u00ab Villanova University \u00bb et de l'\u00ab University of Notre Dame \u00bb"
-		},
-		{
-			"title": "Volley-ball : Houda Bensoussi, l\u2019exemplaire capitaine de la MJC Rodez - Centre Presse Aveyron",
-			"link": "https://www.centrepresseaveyron.fr/2026/11/02/volley-ball-houda-bensoussi-lexemplaire-capitaine-de-la-mjc-rodez-13632527.php",
-			"pubDate": "Mon, 02 Nov 2026 15:48:00 GMT",
-			"image": "https://images.centrepresseaveyron.fr/api/v1/images/view/6ae8aedc09f20a8887068b52/hd/image.jpg?v=11",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "centrepresseaveyron.fr",
-			"url": "https://www.centrepresseaveyron.fr/2026/11/02/volley-ball-houda-bensoussi-lexemplaire-capitaine-de-la-mjc-rodez-13632527.php",
-			"description": "Pr\u00e9sente au club depuis 2020, la joueuse de 40 ans apporte son exp\u00e9rience \u00e0 un groupe rel\u00e9gu\u00e9 en R\u00e9gional 1 en fin de saison derni\u00e8re."
-		},
-		{
-			"title": "R\u00e9sum\u00e9 et casting MotoGP - Fin de saison p\u00e9rilleuse pour Aprilia en passe de tout perdre Sport M\u00e9canique 1 min 2026 - Canal+",
-			"link": "https://www.canalplus.com/sport/motogp-fin-de-saison-perilleuse-pour-aprilia-en-passe-de-tout-perdre/h/48182116_50001",
-			"pubDate": "Mon, 02 Nov 2026 15:48:00 GMT",
-			"image": "",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "",
-			"url": "",
-			"description": ""
-		},
-		{
-			"title": "Ski alpin - Coupe du Monde (H) : Sarrazin tr\u00e8s proche d'un retour \u00e0 la comp\u00e9tition : Sports - Orange - Sports - Orange",
-			"link": "https://sports.orange.fr/plus-de-sport/sports-hiver/article/ski-alpin-coupe-du-monde-h-sarrazin-tres-proche-d-un-retour-a-la-competition-exclu-CNT000002tvMB9.html",
-			"pubDate": "Mon, 02 Nov 2026 15:45:00 GMT",
-			"image": "http://media1.woopic.com/api/v1/images/504%2Fsport%2FMedia365-Sport-News%2Face%2Fca6%2Ff62cfef67c5da9cedb437d02a2%2Fski-alpin-coupe-du-monde-h-sarrazin-tres-proche-d-un-retour-a-la-competition%7Ccyprien-sarrazin-ski-20241226.jpg?format=470x264&facedetect=1&quality=85",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "Orange Actualit\u00e9s",
-			"url": "https://sports.orange.fr/plus-de-sport/sports-hiver/article/ski-alpin-coupe-du-monde-h-sarrazin-tres-proche-d-un-retour-a-la-competition-exclu-CNT000002tvMB9.html",
-			"description": "[bold]Pr\u00e8s de deux ans apr\u00e8s la chute qui aurait pu lui \u00eatre fatale, Cyprien Sarrazin a confirm\u00e9 son intention de reprendre la comp\u00e9tition dans les semaines \u00e0 venir, \u00e0 l'occasion de la tourn\u00e9e nord-am\u00e9ricaine de la Coupe du Monde.[/bold]"
-		},
-		{
-			"title": "\"L\u2019essentiel, c\u2019est de faire d\u00e9couvrir le sport\" : le tournoi inter-entreprises de Saint-Avertin a de nouveau fait le plein de sourires - lanouvellerepublique.fr",
-			"link": "https://www.lanouvellerepublique.fr/indre-et-loire/commune/saint-avertin/l-essentiel-c-est-de-faire-decouvrir-le-sport-le-tournoi-inter-entreprises-de-saint-avertin-a-de-nouveau-fait-le-plein-de-sourires-1793633889",
-			"pubDate": "Mon, 02 Nov 2026 15:37:54 GMT",
-			"image": "https://images.lanouvellerepublique.fr/image/upload/v1793447123/6ae8ae5f1d8f892d118b465b.jpg",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "lanouvellerepublique.fr",
-			"url": "https://www.lanouvellerepublique.fr/indre-et-loire/commune/saint-avertin/l-essentiel-c-est-de-faire-decouvrir-le-sport-le-tournoi-inter-entreprises-de-saint-avertin-a-de-nouveau-fait-le-plein-de-sourires-1793633889",
-			"description": "Quoi de mieux qu\u2019un tournoi de tennis de table avec ses coll\u00e8gues pour finir la semaine ? C\u2019est ce qu\u2019organise depuis plusieurs ann\u00e9es la section du Saint-Avertin sports d\u00e9di\u00e9e \u00e0 la petite balle blanche avec son tournoi inter-entreprises, qui s\u2019est d\u00e9roul\u00e9 vendredi 30 octobre 2026"
-		},
-		{
-			"title": "Nouvelle Honda Africa Twin 2027 : 1150 cm3 et 118 ch, version Adventure Sport et Enduro Sport - Moto-Station",
-			"link": "https://moto-station.com/moto-revue/diaporama/nouvelle-honda-africa-twin-2027-1150-cm3-et-118-ch-version-adventure-sport-et-enduro-sport/735033",
-			"pubDate": "Mon, 02 Nov 2026 15:36:49 GMT",
-			"image": "https://moto-station.com/wp-content/uploads/2026/11/02/HONDA_AFRICA_TWIN_2027_EICMA-7.jpg",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "Moto-Station",
-			"url": "https://moto-station.com/moto-revue/diaporama/nouvelle-honda-africa-twin-2027-1150-cm3-et-118-ch-version-adventure-sport-et-enduro-sport/735033",
-			"description": "Nouvelles Honda Africa Twin X3 pour 2027, 1150 cm3, 118,4 ch, version standard, version Adventure Sports, Version Enduro Sport, Permis A"
-		},
-		{
-			"title": "Football (Nouvelle-Aquitaine) : Hasparren poursuit sa s\u00e9rie de victoires - Sud Ouest",
-			"link": "https://www.sudouest.fr/sport/football-nouvelle-aquitaine-hasparren-poursuit-sa-serie-de-victoires-31340238.php",
-			"pubDate": "Mon, 02 Nov 2026 15:36:39 GMT",
-			"image": "https://media.sudouest.fr/31340238/1200x-1/20261101100528-img7632.jpg",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "SudOuest.fr",
-			"url": "https://www.sudouest.fr/sport/football-nouvelle-aquitaine-hasparren-poursuit-sa-serie-de-victoires-31340238.php",
-			"description": "En R3, carton plein dans la poule L o\u00f9 le HFC encha\u00eene un sixi\u00e8me succ\u00e8s cons\u00e9cutif. Un seul succ\u00e8s en R2 pour Saint-Pierre-d\u2019Irube qui s\u2019impose \u00e0 Porte d\u2019Aquitaine. Deux d\u00e9faites en R1"
-		},
-		{
-			"title": "Route du Rhum: \u00e7a tient pour Caudrelier, \u00e7a casse pour Marchand et Dorange - tv5monde",
-			"link": "https://information.tv5monde.com/sport/route-du-rhum-ca-tient-pour-caudrelier-ca-casse-pour-marchand-et-dorange-2844109",
-			"pubDate": "Mon, 02 Nov 2026 15:29:32 GMT",
-			"image": "",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "",
-			"url": "",
-			"description": ""
-		},
-		{
-			"title": "McLaren annonce sa prochaine voiture sport d\u2019une dr\u00f4le de fa\u00e7on - Le Guide de l'auto",
-			"link": "https://www.guideautoweb.com/articles/83695/mclaren-annonce-sa-prochaine-voiture-sport-d-une-drole-de-facon/",
-			"pubDate": "Mon, 02 Nov 2026 15:28:00 GMT",
-			"image": "",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "",
-			"url": "",
-			"description": ""
-		},
-		{
-			"title": "Il avait totalement disparu des radars : cet ancien joueur embl\u00e9matique de la Ligue 1 refait parler de lui et brille au Mexique - ladepeche.fr",
-			"link": "https://www.ladepeche.fr/2026/11/02/il-avait-totalement-disparu-des-radars-cet-ancien-joueur-emblematique-de-la-ligue-1-refait-parler-de-lui-et-brille-au-mexique-13632296.php",
-			"pubDate": "Mon, 02 Nov 2026 15:22:00 GMT",
-			"image": "https://images.ladepeche.fr/api/v1/images/view/6ae8aa660e32c47e53025370/hd/image.jpg?v=1",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "ladepeche.fr",
-			"url": "https://www.ladepeche.fr/2026/11/02/il-avait-totalement-disparu-des-radars-cet-ancien-joueur-emblematique-de-la-ligue-1-refait-parler-de-lui-et-brille-au-mexique-13632296.php",
-			"description": "Lucas Ocampos s'est illustr\u00e9 avec son club de Monterrey, ce dimanche 1er octobre, lors de la 15e journ\u00e9e du championnat mexicain. L'Argentin a inscrit un but superbe, d'un retourn\u00e9 acrobatique, face \u00e0 Tijuana. Une..."
-		},
-		{
-			"title": "\"Jouer et d\u00e9couvrir en s\u2019amusant\" : le pari r\u00e9ussi du programme Sport et vacances pour les jeunes \u00e0 Montlouis-sur-Loire - lanouvellerepublique.fr",
-			"link": "https://www.lanouvellerepublique.fr/indre-et-loire/commune/montlouis-sur-loire/jouer-et-decouvrir-en-s-amusant-le-pari-reussi-du-programme-sport-et-vacances-pour-les-jeunes-a-montlouis-sur-loire-1793632911",
-			"pubDate": "Mon, 02 Nov 2026 15:21:42 GMT",
-			"image": "https://images.lanouvellerepublique.fr/image/upload/v1793441723/6ae8aa8e44f01c243d8b4636.jpg",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "lanouvellerepublique.fr",
-			"url": "https://www.lanouvellerepublique.fr/indre-et-loire/commune/montlouis-sur-loire/jouer-et-decouvrir-en-s-amusant-le-pari-reussi-du-programme-sport-et-vacances-pour-les-jeunes-a-montlouis-sur-loire-1793632911",
-			"description": "Donner le go\u00fbt du sport et permettre la d\u00e9couverte de nouvelles activit\u00e9s, tel \u00e9tait le pari de la municipalit\u00e9 de Montlouis-sur-Loire (Indre-et-Loire). Une initiative qui a rassembl\u00e9 de nombreux jeunes pendant les cong\u00e9s, curieux de s\u2019essayer \u00e0 des disciplines vari\u00e9es."
-		},
-		{
-			"title": "Sport, esprit de famille et grillades partag\u00e9es rythment la journ\u00e9e des trails \u00e0 Sor\u00e8de - L'Ind\u00e9pendant",
-			"link": "https://www.lindependant.fr/2026/11/02/sport-esprit-de-famille-et-grillades-partagees-rythment-la-journee-des-trails-a-sorede-13631212.php",
-			"pubDate": "Mon, 02 Nov 2026 15:13:00 GMT",
-			"image": "https://images.lindependant.fr/api/v1/images/view/6ae78317d9bcd9c5040c2a5e/hd/image.jpg?v=1",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "lindependant.fr",
-			"url": "https://www.lindependant.fr/2026/11/02/sport-esprit-de-famille-et-grillades-partagees-rythment-la-journee-des-trails-a-sorede-13631212.php",
-			"description": "Sous le soleil de Sor\u00e8de, les trails du N\u00e9oulous et d\u2019Ultrera ont rassembl\u00e9 sportifs, familles et b\u00e9n\u00e9voles, confirmant leur r\u00f4le cl\u00e9 dans la vie locale. Retour sur une journ\u00e9e de comp\u00e9tition et de convivialit\u00e9 au..."
-		},
-		{
-			"title": "Antonelli, Riner, Bolt, Tyson\u2026 Ces champions du monde pr\u00e9coces qui ont \u00e9crit l'histoire de leur sport - Sud Radio",
-			"link": "https://www.sudradio.fr/sud-radio/antonelli-riner-bolt-tyson-ces-champions-du-monde-precoces-qui-ont-ecrit-lhistoire-de-leur-sport",
-			"pubDate": "Mon, 02 Nov 2026 15:10:32 GMT",
-			"image": "https://www.sudradio.fr/wp-content/uploads/2026/11/AFP__20261102__dorst-formule1261101_npPWb__v1__HighRes__F1GrandPrixOfMexico.jpg",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "Sud Radio",
-			"url": "https://www.sudradio.fr/sud-radio/antonelli-riner-bolt-tyson-ces-champions-du-monde-precoces-qui-ont-ecrit-lhistoire-de-leur-sport",
-			"description": "Avant Kimi Antonelli, Mike Tyson, Kelly Slater, Usain Bolt, Teddy Riner ou Simone Biles avaient eux aussi d\u00e9croch\u00e9 tr\u00e8s t\u00f4t un premier sacre."
-		},
-		{
-			"title": "Sport, sant\u00e9 et motricit\u00e9 pour la jeunesse lors d'une semaine d\u00e9di\u00e9e \u00e0 l'ovalie \u00e0 Espira-de-l'Agly - L'Ind\u00e9pendant",
-			"link": "https://www.lindependant.fr/2026/11/02/sport-sante-et-motricite-pour-la-jeunesse-lors-dune-semaine-dediee-a-lovalie-a-espira-de-lagly-13632297.php",
-			"pubDate": "Mon, 02 Nov 2026 15:09:00 GMT",
-			"image": "https://images.lindependant.fr/api/v1/images/view/6ae88e48e13612d8840d3d4d/hd/image.jpg?v=1",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "lindependant.fr",
-			"url": "https://www.lindependant.fr/2026/11/02/sport-sante-et-motricite-pour-la-jeunesse-lors-dune-semaine-dediee-a-lovalie-a-espira-de-lagly-13632297.php",
-			"description": "En partenariat avec le Comit\u00e9 d\u00e9partemental olympique et sportif dans le cadre du programme \"Manger, Bouger\", ce cycle de cinq matin\u00e9es a permis de sensibiliser les plus jeunes aux bienfaits de l'activit\u00e9 physique et..."
-		},
-		{
-			"title": "Une salle de sport de Sa\u00f4ne-et-Loire incendi\u00e9e pour la deuxi\u00e8me fois en moins de deux ans, une enqu\u00eate ouverte - Ouest-France",
-			"link": "https://www.ouest-france.fr/societe/faits-divers/saone-et-loire-une-salle-de-sport-incendiee-pour-la-deuxieme-fois-depuis-janvier-2025-une-enquete-ouverte-3f963928-d6cc-11f1-bce4-49c6ba196371",
-			"pubDate": "Mon, 02 Nov 2026 15:02:28 GMT",
-			"image": "",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "",
-			"url": "",
-			"description": ""
-		},
-		{
-			"title": "TRAIL : Le Challenge GTWS prolonge l\u2019aventure Sur Kinomap - Presse Agence Sport",
-			"link": "http://www.pa-sport.fr/2026/11/02/trail-le-challenge-gtws-prolonge-laventure-sur-kinomap/",
-			"pubDate": "Mon, 02 Nov 2026 14:44:17 GMT",
-			"image": "http://www.pa-sport.fr/wp-content/uploads/TRAIL-Le-Challenge-GTWS-prolonge-laventure-Sur-Kinomap.jpg",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "Presse Agence Sport",
-			"url": "http://www.pa-sport.fr/2026/11/02/trail-le-challenge-gtws-prolonge-laventure-sur-kinomap/",
-			"description": "Le Challenge GTWS sur Kinomap permet aux passionn\u00e9s de vivre l\u2019exp\u00e9rience des Golden Trail World Series depuis chez eux, en parcourant certaines des courses les plus spectaculaires de la saison 2026 sur un tapis de course. Les Golden Trail World Series ont cl\u00f4tur\u00e9 leur saison le week-end dernier au Muju Trail, en Cor\u00e9e du Sud, [\u2026]"
-		},
-		{
-			"title": "TOUT COMPRENDRE - Prix, dates, cha\u00eenes candidates... tout ce qu'il faut savoir sur l'appel d'offres des droits TV de la Ligue 1 - RMC Sport",
-			"link": "https://rmcsport.bfmtv.com/football/ligue-1/tout-comprendre-prix-dates-chaines-candidates-tout-ce-qu-il-faut-savoir-sur-l-appel-d-offres-des-droits-tv-de-la-ligue-1_AV-202611020615.html",
-			"pubDate": "Mon, 02 Nov 2026 14:41:13 GMT",
-			"image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/xco6HoN-2RU3cfuYEs1jt_B3L4w=/0x106:2048x1258/images/Ligue-1-detient-les-droits-de-diffusion-de-l-integralite-de-la-Ligue-1-cette-saison-2336918.jpg",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "RMC Sport",
-			"url": "https://rmcsport.bfmtv.com/football/ligue-1/tout-comprendre-prix-dates-chaines-candidates-tout-ce-qu-il-faut-savoir-sur-l-appel-d-offres-des-droits-tv-de-la-ligue-1_AV-202611020615.html",
-			"description": "C\u2019est le grand jour pour le football fran\u00e7ais. Apr\u00e8s seulement un an et demi de diffusion sur la plateforme Ligue 1+, la LFP remet en jeu les droits de la Ligue 1 ce mardi. Cet appel d\u2019offres doit permettre aux dirigeants de la Ligue de trouver un diffuseur solide, capable d\u2019offrir un minimum..."
-		},
-		{
-			"title": "OL : le d\u00e9part de Fonseca, un jackpot \u00e0 6 M\u20ac avant la DNCG - Sport.fr",
-			"link": "https://www.sport.fr/football/ol-le-depart-de-fonseca-un-jackpot-a-6-me-avant-la-dncg-1496427.shtm",
-			"pubDate": "Mon, 02 Nov 2026 14:40:00 GMT",
-			"image": "",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "",
-			"url": "",
-			"description": ""
-		},
-		{
-			"title": "Vente de boudin, tombola, sport boules\u2026 1 600 \u20ac collect\u00e9s par les pompiers pour Octobre rose - Le JSL",
-			"link": "https://www.lejsl.com/societe/2026/11/02/vente-de-boudin-tombola-sport-boules-1-600-collectes-par-les-pompiers-pour-octobre-rose",
-			"pubDate": "Mon, 02 Nov 2026 14:31:02 GMT",
-			"image": "https://cdn-s-www.lejsl.com/images/AB68E8C6-C17E-4ED8-9A3C-9563875BC294/FB1200/photo-1793640880.jpg",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "",
-			"url": "https://www.lejsl.com/societe/2026/11/02/vente-de-boudin-tombola-sport-boules-1-600-collectes-par-les-pompiers-pour-octobre-rose",
-			"description": "L\u2019amicale des sapeurs-pompiers de Saint-Martin-Belle-Roche \u00e9tait aux manettes de sa traditionnelle journ\u00e9e d\u00e9di\u00e9e \u00e0 Octobre rose le 11\u00a0octobre. ..."
-		},
-		{
-			"title": "Basket-ball : le sans-faute sur les parquets continue pour l\u2019EAB et Rodez en Pr\u00e9nationales - Centre Presse Aveyron",
-			"link": "https://www.centrepresseaveyron.fr/2026/11/02/basket-ball-le-sans-faute-sur-les-parquets-continue-pour-leab-et-rodez-en-prenationales-13632321.php",
-			"pubDate": "Mon, 02 Nov 2026 14:22:00 GMT",
-			"image": "https://images.centrepresseaveyron.fr/api/v1/images/view/6ae893da92996508fe0c4ee2/hd/image.jpg?v=1",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "centrepresseaveyron.fr",
-			"url": "https://www.centrepresseaveyron.fr/2026/11/02/basket-ball-le-sans-faute-sur-les-parquets-continue-pour-leab-et-rodez-en-prenationales-13632321.php",
-			"description": "Vainqueurs respectivement \u00e0 Toulouse et \u00e0 N\u00eemes ce week-end, les Ruth\u00e9nois et les joueuses de l\u2019\u00c9lan Aveyron ont poursuivi leur s\u00e9rie de victoires lors de la 5e journ\u00e9e de Pr\u00e9nationales masculine et f\u00e9minine."
-		},
-		{
-			"title": "Pau Pass' Sport & Culture : une aide \u00e0 la pratique sportive et artistique - Pau Agglom\u00e9ration",
-			"link": "https://www.pau.fr/pau-pass-sport-culture-une-aide-la-pratique-sportive-et-artistique",
-			"pubDate": "Mon, 02 Nov 2026 13:57:38 GMT",
-			"image": "",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "",
-			"url": "",
-			"description": ""
-		},
-		{
-			"title": "Pau Pass' Sport & Culture : une aide \u00e0 la pratique sportive et artistique - Pau Agglom\u00e9ration",
-			"link": "https://www.pau.fr/culturesports-loisirs/sports/pau-pass-sport-culture-une-aide-la-pratique-sportive-et-artistique",
-			"pubDate": "Mon, 02 Nov 2026 13:57:38 GMT",
-			"image": "",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "",
-			"url": "",
-			"description": ""
-		},
-		{
-			"title": "Ce d\u00e9couvreur de Limoges qui a lanc\u00e9 le nouveau champion du monde de Formule 1 - Le Populaire du Centre",
-			"link": "https://www.lepopulaire.fr/limoges-87000/sports/ce-decouvreur-de-limoges-qui-a-lance-le-nouveau-champion-du-monde-de-formule-1_15073058/",
-			"pubDate": "Mon, 02 Nov 2026 13:41:00 GMT",
-			"image": "https://img.centrefrance.com/Rm6DRqohb1VnEoMoGRWM0W1C2_PTQjQRXFvLIO3jvFE/rs:fill:1200:800:1:0/g:sm/bG9jYWw6Ly8vMDAvMDAvMDcvODUvMjMvMjAwMDAwNzg1MjM3Nw.jpg",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "Le Populaire du Centre",
-			"url": "https://www.lepopulaire.fr/limoges-87000/sports/ce-decouvreur-de-limoges-qui-a-lance-le-nouveau-champion-du-monde-de-formule-1_15073058/",
-			"description": "Le Limougeaud Gwen Lagrue a d\u00e9couvert le pilote italien Kimi Antonelli \u00e0 11 ans lorsqu\u2019il d\u00e9butait en karting."
-		},
-		{
-			"title": "Betclic renforce son soutien au sport fran\u00e7ais - Sport Buzz Business",
-			"link": "https://www.sportbuzzbusiness.fr/betclic-augmente-son-budget-sponsoring-de-7-et-lance-une-nouvelle-campagne-pour-le-sport-francais.html",
-			"pubDate": "Mon, 02 Nov 2026 13:32:17 GMT",
-			"image": "https://www.sportbuzzbusiness.fr/wp-content/uploads/2026/11/Betclic-sport-francais.png",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "Sport Buzz Business",
-			"url": "https://www.sportbuzzbusiness.fr/betclic-augmente-son-budget-sponsoring-de-7-et-lance-une-nouvelle-campagne-pour-le-sport-francais.html",
-			"description": "Betclic lance une campagne, augmente son budget sponsoring de 7 % en 2027 et annonce 87 millions d'euros de contribution annuelle."
-		},
-		{
-			"title": "\u00ab Un alli\u00e9 trop souvent oubli\u00e9 \u00bb : ce que le sport apporte r\u00e9ellement aux femmes enceintes - Nice-Matin",
-			"link": "https://www.nicematin.com/sante/un-allie-trop-souvent-oublie-ce-que-le-sport-apporte-reellement-aux-femmes-enceintes-10748719",
-			"pubDate": "Mon, 02 Nov 2026 13:00:02 GMT",
-			"image": "https://assets.nicematin.com/articles/10/74/87/19/OG-10748719-1200-800-d9d76b1_upload-1-yia2n9jq59xo-image-istock-1346783187.jpg?width=1200&crop=3:2,smart&format=auto&quality=75&optimize=medium&upscale=false",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "Nice-Matin",
-			"url": "https://www.nicematin.com/sante/un-allie-trop-souvent-oublie-ce-que-le-sport-apporte-reellement-aux-femmes-enceintes-10748719",
-			"description": ""
-		},
-		{
-			"title": "Formule 1. Que p\u00e8se Kimi Antonelli sur le plan business ? - Sport Business Club",
-			"link": "https://www.sportbusiness.club/for-2/",
-			"pubDate": "Mon, 02 Nov 2026 12:57:22 GMT",
-			"image": "https://www.sportbusiness.club/app/uploads/2026/11/kimi-antonelli.jpg",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "Sport Business Club",
-			"url": "https://www.sportbusiness.club/for-2/",
-			"description": "Salaires, primes, sponsors : tout savoir sur le pilote qui vient d'\u00eatre sacr\u00e9 champion du Monde de Formule 1."
-		},
-		{
-			"title": "Course p\u00e9destre : du sport mais aussi la f\u00eate pendant la Ronde des vignes - La Provence",
-			"link": "https://www.laprovence.com/article/region/6371575724649914/course-pedestre-du-sport-mais-aussi-la-fete-pendant-la-ronde-des-vignes",
-			"pubDate": "Mon, 02 Nov 2026 12:56:29 GMT",
-			"image": "https://pictures.laprovence.com/cdn-cgi/image/width=1200,quality=80,format=auto,/media/melody/2026/11/02/trail-ronde-des-vignes-roquefort-la-bedoule-course-011126jcu01-1793624188_108d950478ea6b48d950478ea9a8d9v_.jpg",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "",
-			"url": "https://www.laprovence.com/article/region/6371575724649914/course-pedestre-du-sport-mais-aussi-la-fete-pendant-la-ronde-des-vignes?id=6371575724649914",
-			"description": "Course p\u00e9destre : du sport mais aussi la f\u00eate pendant la Ronde des vignes"
-		},
-		{
-			"title": "Ski alpin: \"Je suis en pleine possession de mes moyens\", Sarrazin de retour en Coupe du monde apr\u00e8s sa grave chute - RMC Sport",
-			"link": "https://rmcsport.bfmtv.com/sports-d-hiver/ski-alpin/ski-alpin-je-suis-en-pleine-possession-de-mes-moyens-sarrazin-de-retour-en-coupe-du-monde-apres-sa-grave-chute_AV-202611020519.html",
-			"pubDate": "Mon, 02 Nov 2026 12:46:33 GMT",
-			"image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/yQ0UMml7ARbBFKTkUVdzclsXoww=/0x63:1680x1008/images/Cyprien-Sarrazin-en-decembre-2024-2350920.jpg",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "RMC Sport",
-			"url": "https://rmcsport.bfmtv.com/sports-d-hiver/ski-alpin/ski-alpin-je-suis-en-pleine-possession-de-mes-moyens-sarrazin-de-retour-en-coupe-du-monde-apres-sa-grave-chute_AV-202611020519.html",
-			"description": "Moins de deux ans apr\u00e8s son grave accident \u00e0 la t\u00eate survenu \u00e0 l\u2019entra\u00eenement sur la piste de Bormio, Cyprien Sarrazin peaufine son retour sur le circuit Coupe du monde. Quelques jours avant son d\u00e9part pour les Etats-Unis o\u00f9 il encha\u00eenera un stage de pr\u00e9paration puis Copper Mountain et Beaver Creek,..."
-		},
-		{
-			"title": "OL: Paulo Fonseca a annonc\u00e9 son d\u00e9part \u00e0 son groupe - RMC Sport",
-			"link": "https://rmcsport.bfmtv.com/football/clubs/olympique-lyon/ol-paulo-fonseca-a-annonce-son-depart-a-son-groupe_AV-202611020518.html",
-			"pubDate": "Mon, 02 Nov 2026 12:41:29 GMT",
-			"image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/_ayxWNMhC-elaHk2JbfcLn421Nk=/0x0:2048x1152/images/Paulo-FONSECA-2371827.jpg",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "RMC Sport",
-			"url": "https://rmcsport.bfmtv.com/football/clubs/olympique-lyon/ol-paulo-fonseca-a-annonce-son-depart-a-son-groupe_AV-202611020518.html",
-			"description": "Paulo Fonseca a annonc\u00e9 ce lundi matin \u00e0 son groupe son d\u00e9part de l'OL. Le Portugais Jorge Maciel va assurer l'int\u00e9rim. "
-		},
-		{
-			"title": "Le chiffre con de la semaine. Les arbitres de sport amateur, meilleurs t\u00e9moins de notre \u00e9poque - Charlie Hebdo",
-			"link": "https://charliehebdo.fr/2026/11/societe/le-chiffre-con-de-la-semaine-les-arbitres-de-sport-amateur-meilleurs-temoins-de-notre-epoque/",
-			"pubDate": "Mon, 02 Nov 2026 12:36:00 GMT",
-			"image": "https://charliehebdo.fr/wp-content/uploads/2026/09/chiffrecondelasemaine-copie.png",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "",
-			"url": "https://charliehebdo.fr/2026/11/societe/le-chiffre-con-de-la-semaine-les-arbitres-de-sport-amateur-meilleurs-temoins-de-notre-epoque/",
-			"description": "D\u00e9fiance, d\u00e9fiance, d\u00e9fiance. C\u2019est clairement l\u2019un des mots pr\u00e9f\u00e9r\u00e9s des commentateurs du d\u00e9bat public qui le r\u00e9p\u00e8tent \u00e0 longueur de journ\u00e9e pour raconter avec beaucoup d\u2019aplomb le rapport des Fran\u00e7ais \u00e0 tout ce qui touche de pr\u00e8s ou de loin les diff\u00e9rents trucs cens\u00e9s organiser et r\u00e9guler la soci\u00e9t\u00e9. Faites le test, vous verrez c\u2019est [\u2026]"
-		},
-		{
-			"title": "Accessibilit\u00e9, mixit\u00e9, attractivit\u00e9, le cocktail gagnant du baseball5 - Francs Jeux",
-			"link": "https://www.francsjeux.com/2026/11/02/dakar-2026-le-baseball5-le-nouveau-sport-des-joj-qui-a-ouvert-dautres-horizons-a-la-wbsc/112587/",
-			"pubDate": "Mon, 02 Nov 2026 12:21:39 GMT",
-			"image": "https://ptext.sopress.dev/francsjeux/2026/11/02/dakar-2026-le-baseball5-le-nouveau-sport-des-joj-qui-a-ouvert-dautres-horizons-a-la-wbsc/112587.jpg?hash=482bca22a7f67c30147eaa752e5f1b97",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "Francs Jeux",
-			"url": "https://www.francsjeux.com/2026/11/02/dakar-2026-le-baseball5-le-nouveau-sport-des-joj-qui-a-ouvert-dautres-horizons-a-la-wbsc/112587/",
-			"description": "Le baseball5 est au programme des Jeux olympiques de la Jeunesse pour la premi\u00e8re..."
-		},
-		{
-			"title": "\u00c0 lire. En librairie : plus vite, plus haut, plus fou (Les 35 incroyables d\u00e9fis qui ont chang\u00e9 la face du sport) - Le Republicain Lorrain",
-			"link": "https://www.republicain-lorrain.fr/sport/2026/11/02/plus-vite-plus-haut-plus-fou-(les-35-incroyables-defis-qui-ont-change-la-face-du-sport)",
-			"pubDate": "Mon, 02 Nov 2026 12:01:47 GMT",
-			"image": "https://cdn-s-www.republicain-lorrain.fr/images/F216767E-87B4-4129-9685-1801E20E9C90/FB1200/photo-1792748504.jpg",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "",
-			"url": "https://www.republicain-lorrain.fr/sport/2026/11/02/plus-vite-plus-haut-plus-fou-(les-35-incroyables-defis-qui-ont-change-la-face-du-sport)",
-			"description": "Ils ont os\u00e9 l'impossible, d\u00e9fi\u00e9 les conventions et repouss\u00e9 les limites de leur discipline : notre conseil de lecture du jour."
-		},
-		{
-			"title": "Vid\u00e9os : 100% sport en Picardie du 2 novembre 2026 - Courrier picard",
-			"link": "https://www.courrier-picard.fr/videos/a_la_une_cp_player/100-sport-en-picardie-du-2-novembre-2026?param01=3z3xkru&param02=01338879&param03=33",
-			"pubDate": "Mon, 02 Nov 2026 11:45:27 GMT",
-			"image": "",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "",
-			"url": "",
-			"description": ""
-		},
-		{
-			"title": "Vid\u00e9os : 100% sport en Picardie du 2 novembre 2026 - Courrier picard",
-			"link": "https://www.courrier-picard.fr/videos/actu-60/100-sport-en-picardie-du-2-novembre-2026?param01=3z3xkru&param02=01338879&param03=38",
-			"pubDate": "Mon, 02 Nov 2026 11:45:27 GMT",
-			"image": "",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "",
-			"url": "",
-			"description": ""
-		},
-		{
-			"title": "Vid\u00e9os : 100% sport en Picardie du 2 novembre 2026 - Courrier picard",
-			"link": "https://www.courrier-picard.fr/videos/sports-cp/100-sport-en-picardie-du-2-novembre-2026?param01=3z3xkru&param02=01338879&param03=38",
-			"pubDate": "Mon, 02 Nov 2026 11:45:27 GMT",
-			"image": "",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "",
-			"url": "",
-			"description": ""
-		},
-		{
-			"title": "Shokz OpenRun Pro 2 : le casque de sport ultime est \u00e0 son meilleur prix avec ce rabais de 61 % - iPhon.fr",
-			"link": "https://www.iphon.fr/post/shokz-openrun-pro-2-casque-sport-ultime-meilleur-prix-rabais-61",
-			"pubDate": "Mon, 02 Nov 2026 11:33:24 GMT",
-			"image": "https://www.iphon.fr/app/uploads/2026/11/shokz-openrun-pro-2-orange-femme-1600x900.jpg",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "iPhon.fr",
-			"url": "https://www.iphon.fr/post/shokz-openrun-pro-2-casque-sport-ultime-meilleur-prix-rabais-61",
-			"description": "C'est la premi\u00e8re fois que ce casque sans fil tombe \u00e0 un prix aussi all\u00e9chant. Mieux vaut ne pas trop tarder, car les stocks vont se vider \u00e0 toute vitesse."
-		},
-		{
-			"title": "OL : un disciple de Guardiola pour tout chambouler \u00e0 Lyon ? - Sport.fr",
-			"link": "https://www.sport.fr/football/ol-un-disciple-de-guardiola-pour-tout-chambouler-a-lyon-1496459.shtm",
-			"pubDate": "Mon, 02 Nov 2026 11:20:00 GMT",
-			"image": "",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "",
-			"url": "",
-			"description": ""
-		},
-		{
-			"title": "Le jockey fran\u00e7ais Micka\u00ebl Barzalona Cravache d'Or 2026 - tv5monde",
-			"link": "https://information.tv5monde.com/sport/le-jockey-francais-mickael-barzalona-cravache-dor-2026-2844126",
-			"pubDate": "Mon, 02 Nov 2026 11:12:00 GMT",
-			"image": "",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "",
-			"url": "",
-			"description": ""
-		},
-		{
-			"title": "Ces \u00e9couteurs ouverts Shokz confortables et pens\u00e9s pour le sport sont \u00e0 moiti\u00e9 prix - Frandroid",
-			"link": "https://www.frandroid.com/bons-plans/3079589_ces-ecouteurs-ouverts-shokz-confortables-et-penses-pour-le-sport-sont-a-moitie-prix",
-			"pubDate": "Mon, 02 Nov 2026 11:07:43 GMT",
-			"image": "https://img.frandroid.com/images.frandroid.com/wp-content/uploads/2026/11/shokz-opendots-one-1111.jpg?resize=1600,900&key=01b2e4de",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "Frandroid",
-			"url": "https://www.frandroid.com/bons-plans/3079589_ces-ecouteurs-ouverts-shokz-confortables-et-penses-pour-le-sport-sont-a-moitie-prix",
-			"description": "Les Shokz OpenDots One sont des \u00e9couteurs ouverts en forme de clip d'oreille en promo \u00e0 84,33 euros au lieu de 199,99 euros gr\u00e2ce \u00e0 un code promo pendant"
-		},
-		{
-			"title": "Sport. Mazamet : la 1001 D, la course solidaire jusqu'au pic de Nore au profit des plus d\u00e9munis - letarnlibre.com",
-			"link": "https://www.letarnlibre.com/actualite-15468-sport-mazamet-la-1001-d-la-course-solidaire-jusqu-au-pic-de-nore-au-profit-des-plus-demunis",
-			"pubDate": "Mon, 02 Nov 2026 11:00:00 GMT",
-			"image": "https://medias.letarnlibre.com/photos/1200/15468-un-challenge-sportif-en-faveur-des-plus-precaires?v=1793605258",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "letarnlibre.com",
-			"url": "https://www.letarnlibre.com/actualite-15468-sport-mazamet-la-1001-d-la-course-solidaire-jusqu-au-pic-de-nore-au-profit-des-plus-demunis",
-			"description": "L'Arm\u00e9e du Salut de Mazamet et ses partenaires organisent la premi\u00e8re \u00e9dition de La 1001 D. Cette course \u00e0 pied sur route de 25 km se d\u00e9roulera au profit des plus d\u00e9munis."
-		},
-		{
-			"title": "700 000 \u20ac pour d\u00e9carboner les trajets du sport amateur en Nouvelle-Aquitaine - Presse Agence",
-			"link": "https://presseagence.fr/bordeaux-nouvelle-aquitaine-mobilite-700-000-e-pour-decarboner-les-trajets-du-sport-amateur/",
-			"pubDate": "Mon, 02 Nov 2026 11:00:00 GMT",
-			"image": "https://presseagence.fr/wp-content/uploads/Logo-nouvelle-aquitaine.png",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "Presse Agence",
-			"url": "https://presseagence.fr/bordeaux-nouvelle-aquitaine-mobilite-700-000-e-pour-decarboner-les-trajets-du-sport-amateur/",
-			"description": "La r\u00e9gion Nouvelle-Aquitaine lance un plan de 700 000 \u20ac pour r\u00e9duire l'empreinte carbone des d\u00e9placements li\u00e9s au sport amateur."
-		},
-		{
-			"title": "Du sport et un stand de la ligue contre le cancer pour finir Octobre Rose \u00e0 B\u00e9theny - L'Union",
-			"link": "https://www.lunion.fr/id837623/article/2026-11-02/du-sport-et-un-stand-de-la-ligue-contre-le-cancer-pour-finir-octobre-rose",
-			"pubDate": "Mon, 02 Nov 2026 10:45:49 GMT",
-			"image": "",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "",
-			"url": "",
-			"description": ""
-		},
-		{
-			"title": "Violences, ob\u00e9sit\u00e9, harc\u00e8lement : \u201cDe Fatman \u00e0 Ironman\" ou comment Sylvain Dhugues s\u2019est reconstruit par le sport - Le Dauphin\u00e9 Lib\u00e9r\u00e9",
-			"link": "https://www.ledauphine.com/culture-loisirs/2026/11/02/violences-obesite-harcelement-sylvain-dhugues-s-est-reconstruit-par-le-sport",
-			"pubDate": "Mon, 02 Nov 2026 10:45:21 GMT",
-			"image": "https://cdn-s-www.ledauphine.com/images/5563B7EA-F1BF-4117-A3AB-6351D5AEE092/FB1200/photo-1793636096.jpg",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "",
-			"url": "https://www.ledauphine.com/culture-loisirs/2026/11/02/violences-obesite-harcelement-sylvain-dhugues-s-est-reconstruit-par-le-sport",
-			"description": "Ce mardi 3\u00a0novembre, Sylvain Dhugues animera la conf\u00e9rence \u201cDe Fatman \u00e0 Ironman, reconstruction par le sport\u201d \u00e0 l\u2019Espace Louis-Simon. Il y ..."
-		},
-		{
-			"title": "\u00ab Il se nourrit de pain et de sport m\u00e9canique \u00bb : Kimi Antonelli, un passionn\u00e9 \u00ab pr\u00e9destin\u00e9 \u00bb racont\u00e9 par ses formateurs - L'\u00c9quipe",
-			"link": "https://www.lequipe.fr/Formule-1/Article/-il-se-nourrit-de-pain-et-de-sport-mecanique-kimi-antonelli-un-passionne-predestine-raconte-par-ses-formateurs/1740436",
-			"pubDate": "Mon, 02 Nov 2026 10:42:00 GMT",
-			"image": "",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "",
-			"url": "",
-			"description": ""
-		},
-		{
-			"title": "Les amateurs et experts d'hyrox ont une nouvelle salle \u00e0 Entraigues-sur-la-Sorgue - La Provence",
-			"link": "https://www.laprovence.com/article/societe/98692036711559/hybrid-moov-a-entraigues-sur-la-sorgue-inaugure-sa-salle-de-sport-dediee-au-cross-training-et-a-lhyrox",
-			"pubDate": "Mon, 02 Nov 2026 10:31:01 GMT",
-			"image": "https://pictures.laprovence.com/cdn-cgi/image/width=1200,quality=80,format=auto,/media/melody/2026/11/02/clara-epie-2eme-a-gauche-entouree-des-etudiantes-du-groupe-belmont-anaelle-et-vanessa-et-leur-format-1793602745_2708dc0873ea62b08dc0873eaee08dv_.jpg",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "",
-			"url": "https://www.laprovence.com/article/societe/98692036711559/hybrid-moov-a-entraigues-sur-la-sorgue-inaugure-sa-salle-de-sport-dediee-au-cross-training-et-a-lhyrox?id=98692036711559",
-			"description": "Hybrid Moov \u00e0 Entraigues-sur-la-Sorgue inaugure sa salle de sport d\u00e9di\u00e9e au Cross training et \u00e0 l'Hyrox"
-		},
-		{
-			"title": "Esport - League of Legends\u00a0: La Karmine Corp en quarts de finale des Worlds : Sports - Orange - Sports - Orange",
-			"link": "https://sports.orange.fr/plus-de-sport/article/esport-league-of-legends-la-karmine-corp-en-quarts-de-finale-des-worlds-exclu-CNT000002tvxV8.html",
-			"pubDate": "Mon, 02 Nov 2026 10:30:00 GMT",
-			"image": "http://media1.woopic.com/api/v1/images/504%2Fsport%2FMedia365-Sport-News%2Fd6e%2F77f%2F3e71fc4a97b6edabc4fc8fd6a3%2Fesport-league-of-legends-la-karmine-corp-en-quarts-de-finale-des-worlds%7Ckc-0409.jpg?format=470x264&facedetect=1&quality=85",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "Orange Actualit\u00e9s",
-			"url": "https://sports.orange.fr/plus-de-sport/article/esport-league-of-legends-la-karmine-corp-en-quarts-de-finale-des-worlds-exclu-CNT000002tvxV8.html",
-			"description": "[bold]La ronde suisse des Worlds de League of Legends, \u00e0 Allen, aux \u00c9tats-Unis, a tenu toutes ses promesses. La Karmine Corp s'est qualifi\u00e9e, ce samedi, pour la premi\u00e8re fois de son histoire pour les quarts de finale en battant son ennemi de toujours Movistar KOI (2-0). C'est une premi\u00e8re pour une structure fran\u00e7aise depuis 15 ans.[/bold]"
-		},
-		{
-			"title": "Les sports de cam\u00e9lid\u00e9s rejoignent l'AIMS - Francs Jeux",
-			"link": "https://www.francsjeux.com/breves/world-camelids-sport-les-sports-de-camelides-rejoignent-laims/",
-			"pubDate": "Mon, 02 Nov 2026 10:06:34 GMT",
-			"image": "https://ptext.sopress.dev/francsjeux/breves/world-camelids-sport-les-sports-de-camelides-rejoignent-laims.jpg?hash=34d49cb05280f1146c70903297a7a1a0",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "Francs Jeux",
-			"url": "https://www.francsjeux.com/breves/world-camelids-sport-les-sports-de-camelides-rejoignent-laims/",
-			"description": "World Camelids Sport (WCS) est d\u00e9sormais membre associ\u00e9 de l\u2019Alliance des membres ind\u00e9pendants..."
-		},
-		{
-			"title": "En \u00e9tat de stress ou en manque de sommeil, le sport peut am\u00e9liorer votre \u00e9tat si vous ne faites pas cette erreur selon une coach sportive - Linternaute.com",
-			"link": "https://www.linternaute.com/sport/id/11312129-article/",
-			"pubDate": "Mon, 02 Nov 2026 09:54:00 GMT",
-			"image": "https://www.linternaute.com/sport/id/11312129-article/1500x-95531783.jpg",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "",
-			"url": "https://www.linternaute.com/sport/id/11312129-article/",
-			"description": "Personne stress\u00e9e ou en manque de sommeil, attention \u00e0 ne pas commettre cette erreur selon notre coach."
-		},
-		{
-			"title": "Sport - Ancien vainqueur du Giro, Tom Dumoulin impressionne sur marathon \u00e0 New York - Cyclism'Actu",
-			"link": "https://www.cyclismactu.net/news-cyclisme-route-sport-ancien-vainqueur-du-giro-tom-dumoulin-impressionne-sur-marathon-new-york-96677.html",
-			"pubDate": "Mon, 02 Nov 2026 09:52:42 GMT",
-			"image": "https://www.cyclismactu.net/photo/news/96677_dgv_ghds_bghds_dv.jpg",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "",
-			"url": "https://www.cyclismactu.net/news-route-sport-ancien-vainqueur-du-giro-tom-dumoulin-impressionne-sur-marathon-new-york-96677.html",
-			"description": ""
-		},
-		{
-			"title": "Sport: Tom Dumoulin avec un temps record sur le marathon de New York - Cyclism'Actu",
-			"link": "https://www.cyclismactu.net/news-cyclisme-route-sport-tom-dumoulin-avec-un-temps-record-sur-marathon-de-new-york-96677.html",
-			"pubDate": "Mon, 02 Nov 2026 09:52:42 GMT",
-			"image": "https://www.cyclismactu.net/photo/news/96677_dgv_ghds_bghds_dv.jpg",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "",
-			"url": "https://www.cyclismactu.net/news-route-marathon-tom-dumoulin-a-impressionne-marathon-de-new-york-96677.html",
-			"description": ""
-		},
-		{
-			"title": "Le vrai d\u00e9fi : bouger au-del\u00e0 de l'heure de sport - JDN",
-			"link": "https://www.journaldunet.com/management/vie-personnelle/1557151-le-vrai-defi-bouger-au-dela-de-l-heure-de-sport/",
-			"pubDate": "Mon, 02 Nov 2026 09:49:59 GMT",
-			"image": "https://img-0.journaldunet.com/-IIlnmjn4cXHUeBR9Wk5DG-S80c=/1500x/smart/bc71fa05bcb042b38135fafb36ea1c2d/user-jdn/39498460-sebastien-bequart.jpg",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "",
-			"url": "https://www.journaldunet.com/management/vie-personnelle/1557151-le-vrai-defi-bouger-au-dela-de-l-heure-de-sport/",
-			"description": "Malgr\u00e9 une pratique sportive en hausse, les Fran\u00e7ais restent s\u00e9dentaires. L'enjeu\u00a0: int\u00e9grer davantage de mouvement au quotidien, avec un r\u00f4le cl\u00e9 pour les entreprises."
-		},
-		{
-			"title": "La championne de roller artistique se bat contre les violences sexuelles dans le sport, une table ronde \u00e0 Nantes ce soir - Ouest-France",
-			"link": "https://www.ouest-france.fr/faits-divers/violence-sexuelle/le-combat-de-la-championne-de-roller-artistique-contre-les-violences-sexuelles-dans-le-sport-40117b4e-d2f6-11f1-81f2-0d14b9f9c452",
-			"pubDate": "Mon, 02 Nov 2026 09:45:42 GMT",
-			"image": "",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "",
-			"url": "",
-			"description": ""
-		},
-		{
-			"title": "Chamb\u00e9ry - 5,56 millions d\u2019euros pour soutenir le sport et la s\u00e9curit\u00e9 des jeunes - Savoie News",
-			"link": "https://www.savoie-news.fr/reportages/sport-dhiver/article/5-56-millions-d-rsquo-euros-pour-soutenir-le-sport-et-la-securite-des-jeunes",
-			"pubDate": "Mon, 02 Nov 2026 09:39:00 GMT",
-			"image": "https://www.savoie-news.fr/uploads/11683-6ae85a748d474-vierge-22-jpg.jpg",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "Savoie News",
-			"url": "https://www.savoie-news.fr/reportages/sport-dhiver/article/5-56-millions-d-rsquo-euros-pour-soutenir-le-sport-et-la-securite-des-jeunes",
-			"description": " Le 30 octobre 2026, \u00e0 Chamb\u00e9ry, les 35 soci\u00e9t\u00e9s de remont\u00e9es m\u00e9caniques de Savoie adh\u00e9rentes de Domaines Skiables de France (DSF) ont remis ..."
-		},
-		{
-			"title": "Les trajectoires se confirment : Les r\u00e9sultats du sport nantais - Journal Nantes Sport",
-			"link": "https://nantessport.fr/les-trajectoires-se-confirment-les-resultats-du-sport-nantais",
-			"pubDate": "Mon, 02 Nov 2026 09:29:00 GMT",
-			"image": "https://nantessport.fr/uploads/images/202611/image_870x580_6ae853e3e2eb8.jpg",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "JNS",
-			"url": "https://nantessport.fr/les-trajectoires-se-confirment-les-resultats-du-sport-nantais",
-			"description": "Le FC Nantes poursuit sa saison gal\u00e8re. Derby sans difficult\u00e9 pour le HBC Nantes. Le FC Nantes F\u00e9minines s'incline face \u00e0 son ancien coach. Le Stade Nantais et les Corsaires de Nantes continuent sur leur lanc\u00e9e."
-		},
-		{
-			"title": "Dorange frein\u00e9e, Williams reine des parquets, Antonelli roi de la F1 : les infos sport du week-end - France 24",
-			"link": "https://www.france24.com/fr/sports/20261102-dorange-violette-gabby-williams-wnba-antonelli-f1",
-			"pubDate": "Mon, 02 Nov 2026 09:13:48 GMT",
-			"image": "",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "",
-			"url": "",
-			"description": ""
 		}
 	],
-	"timestamp": "2026-11-03T11:51:26.987380"
+	"timestamp": "2026-11-03T19:27:48.906942"
 }
