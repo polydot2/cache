@@ -1,6 +1,986 @@
 {
 	"content": [
 		{
+			"title": "Avec l\u2019aide de l\u2019IA | Un math\u00e9maticien annonce la r\u00e9solution d\u2019un des plus c\u00e9l\u00e8bres probl\u00e8mes du monde - La Presse",
+			"link": "https://www.lapresse.ca/actualites/sciences/2026-11-20/avec-l-aide-de-l-ia/un-mathematicien-annonce-la-resolution-d-un-des-plus-celebres-problemes-du-monde.php",
+			"pubDate": "Fri, 20 Nov 2026 22:39:18 GMT",
+			"image": "",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "",
+			"url": "",
+			"description": ""
+		},
+		{
+			"title": "L'IA aurait-elle r\u00e9solu le probl\u00e8me math\u00e9matique qui r\u00e9siste aux chercheurs depuis 167 ans ? - La Libre.be",
+			"link": "https://www.lalibre.be/planete/sciences-espace/2026/11/20/lia-aurait-elle-resolu-le-probleme-mathematique-qui-resiste-aux-chercheurs-depuis-167-ans-DYPKI6RAFZHYPHZDX6OTJ3KO4U/",
+			"pubDate": "Fri, 20 Nov 2026 22:01:00 GMT",
+			"image": "https://www.lalibre.be/resizer/v2/6QWBPJMN55CXJDG2ALBRPTAGOM.jpeg?auth=95b3d293cc8b1c99fc98b33b715238ae7c314583430daf11bf06af155e902e9b&width=1200&height=630&quality=85&focal=2500%2C1667",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "La Libre.be",
+			"url": "https://www.lalibre.be/planete/sciences-espace/2026/11/20/lia-aurait-elle-resolu-le-probleme-mathematique-qui-resiste-aux-chercheurs-depuis-167-ans-DYPKI6RAFZHYPHZDX6OTJ3KO4U/",
+			"description": "La preuve avanc\u00e9e par le chercheur n'a pas encore \u00e9t\u00e9 v\u00e9rifi\u00e9e par d'autres sp\u00e9cialistes. La d\u00e9couverte reste donc \u00e0 confirmer."
+		},
+		{
+			"title": "Ces \u00e9tranges microbes des abysses meurent normalement \u00e0 la surface: des chercheurs les ont maintenus en vie pendant six mois - Slate.fr",
+			"link": "https://www.slate.fr/sciences/etranges-microbes-abysses-surface-vie-laboratoire-oceans-profondeur-robot-intelligence-artificielle-energie",
+			"pubDate": "Fri, 20 Nov 2026 19:55:03 GMT",
+			"image": "https://cdn.slate.fr/uploads/store/story_274035/large_landscape_274035.jpg",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "Slate.fr",
+			"url": "https://www.slate.fr/sciences/etranges-microbes-abysses-surface-vie-laboratoire-oceans-profondeur-robot-intelligence-artificielle-energie",
+			"description": "Gr\u00e2ce \u00e0 un dispositif robotis\u00e9 pilot\u00e9 par intelligence artificielle, des scientifiques sont parvenus \u00e0 pr\u00e9lever et cultiver des micro-organismes\u2026"
+		},
+		{
+			"title": "Un myst\u00e8re math\u00e9matique vieux de 167 ans enfin r\u00e9solu ? L'IA Claude pourrait avoir r\u00e9alis\u00e9 un exploit historique - RTL",
+			"link": "https://www.rtl.fr/actu/sciences-tech/un-mystere-mathematique-vieux-de-167-ans-enfin-resolu-l-ia-claude-pourrait-avoir-realise-un-exploit-historique-7900698894",
+			"pubDate": "Fri, 20 Nov 2026 19:51:06 GMT",
+			"image": "https://images.rtl.fr/~c/2000v2000/rtl/www/1243623-un-probleme-de-mathematiques.jpg",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "RTL.fr",
+			"url": "https://www.rtl.fr/actu/sciences-tech/un-mystere-mathematique-vieux-de-167-ans-enfin-resolu-l-ia-claude-pourrait-avoir-realise-un-exploit-historique-7900698894",
+			"description": "Le chercheur Levent Alp\u00f6ge affirme avoir r\u00e9solu l'hypoth\u00e8se de Riemann, formul\u00e9e en 1859, avec l'aide de l'IA Claude d'Anthropic. Une annonce potentiellement historique."
+		},
+		{
+			"title": "La sonde Voyager 1 est \u00e0 26 milliards de km de la Terre et continue d'\u00e9mettre - franceinfo",
+			"link": "https://www.franceinfo.fr/sciences/espace/la-sonde-voyager-1-est-a-26-milliards-de-km-de-la-terre-et-continue-d-emettre_8292917.html",
+			"pubDate": "Fri, 20 Nov 2026 19:50:56 GMT",
+			"image": "https://www.franceinfo.fr/pictures/-_afeYCU8ikZIjhcaz-iO_Opy-U/0x0:1080x1920/fit-in/1500x843/filters:upscale():fill(blur)/2026/11/20/6b00a485c1254637897785.jpg",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "franceinfo",
+			"url": "https://www.franceinfo.fr/sciences/espace/la-sonde-voyager-1-est-a-26-milliards-de-km-de-la-terre-et-continue-d-emettre_8292917.html",
+			"description": "C\u2019est l\u2019objet fabriqu\u00e9 par l\u2019\u00eatre humain le plus \u00e9loign\u00e9 de la Terre. La sonde Voyager 1 de la Nasa a atteint, mercredi 18 novembre, la distance vertigineuse d\u2019un \u201cjour-lumi\u00e8re\u201d, soit pr\u00e8s de 26 milliards de kilom\u00e8tres. Lanc\u00e9e en 1977, elle transporte \u00e0 son bord un disque contenant des images et des sons, t\u00e9moins de notre humanit\u00e9."
+		},
+		{
+			"title": "Une \u00e9toile g\u00e9ante engloutit sa compagne dans une fusion stellaire in\u00e9dite - Journal Chr\u00e9tien",
+			"link": "https://chretiens.com/science-et-technologies/une-etoile-geante-engloutit/2026/11/20/15/59/",
+			"pubDate": "Fri, 20 Nov 2026 19:41:15 GMT",
+			"image": "https://chretiens.com/chretiens/2023/05/journal-chretien-par-defaut.png",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "Journal Chr\u00e9tien - Actualit\u00e9 chr\u00e9tienne",
+			"url": "https://chretiens.com/actualites/une-etoile-geante-engloutit/2026/11/20/15/59/",
+			"description": "Le Journal Chr\u00e9tien est un m\u00e9dia chr\u00e9tien francophone qui traite de l'actualit\u00e9 chr\u00e9tienne, soci\u00e9tale, culturelle et spirituelle.- WASHINGTON, 20 novembre (Reuters) - Des astronomes ont observ\u00e9 une \u00e9toile g\u00e9ante en fin de vie, sept fois plus massive et 18.000 fois plus brillante que - Journal Chr\u00e9tien - Actualit\u00e9 chr\u00e9tienne"
+		},
+		{
+			"title": "Nvidia passe derri\u00e8re Alphabet en termes de capitalisation boursi\u00e8re - Journal Chr\u00e9tien",
+			"link": "https://chretiens.com/actualites/nvidia-passe-derriere-alphabet/2026/11/20/17/46/",
+			"pubDate": "Fri, 20 Nov 2026 19:41:15 GMT",
+			"image": "https://chretiens.com/chretiens/2023/05/journal-chretien-par-defaut.png",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "Journal Chr\u00e9tien - Actualit\u00e9 chr\u00e9tienne",
+			"url": "https://chretiens.com/actualites/nvidia-passe-derriere-alphabet/2026/11/20/17/46/",
+			"description": "Le Journal Chr\u00e9tien est un m\u00e9dia chr\u00e9tien francophone qui traite de l'actualit\u00e9 chr\u00e9tienne, soci\u00e9tale, culturelle et spirituelle.- 20 novembre (Reuters) - Nvidia s'est retrouv\u00e9 vendredi rel\u00e9gu\u00e9 \u00e0 la quatri\u00e8me place en termes de capitalisation boursi\u00e8re mondiale, passant derri\u00e8re - Journal Chr\u00e9tien - Actualit\u00e9 chr\u00e9tienne"
+		},
+		{
+			"title": "\u00c9tats-Unis: Les d\u00e9mocrates veulent savoir si Nvidia a influenc\u00e9 une enqu\u00eate sur Megaspeed - Journal Chr\u00e9tien",
+			"link": "https://chretiens.com/science-et-technologies/etats-unis-les-democrates-veulent/2026/11/20/15/56/",
+			"pubDate": "Fri, 20 Nov 2026 19:41:15 GMT",
+			"image": "https://chretiens.com/chretiens/2023/05/journal-chretien-par-defaut.png",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "Journal Chr\u00e9tien - Actualit\u00e9 chr\u00e9tienne",
+			"url": "https://chretiens.com/actualites/etats-unis-les-democrates-veulent/2026/11/20/15/56/",
+			"description": "Le Journal Chr\u00e9tien est un m\u00e9dia chr\u00e9tien francophone qui traite de l'actualit\u00e9 chr\u00e9tienne, soci\u00e9tale, culturelle et spirituelle.- par Karen Freifeld NEW YORK, 20 novembre (Reuters) - Les d\u00e9mocrates am\u00e9ricains ont demand\u00e9 l'ouverture d'une enqu\u00eate visant \u00e0 d\u00e9terminer si Nvidia a pu - Journal Chr\u00e9tien - Actualit\u00e9 chr\u00e9tienne"
+		},
+		{
+			"title": "\u00ab C\u2019est un moment monumental dans l\u2019histoire de l\u2019humanit\u00e9 \u00bb : avec l\u2019aide de l\u2019IA, un math\u00e9maticien affirme avoir r\u00e9solu l\u2019un des probl\u00e8mes les plus importants du monde - Sud Ouest",
+			"link": "https://www.sudouest.fr/sciences-et-technologie/intelligence-artificielle/c-est-un-moment-monumental-dans-l-histoire-de-l-humanite-avec-l-aide-de-l-ia-un-mathematicien-affirme-avoir-resolu-l-un-des-problemes-les-plus-importants-du-monde-31600126.php",
+			"pubDate": "Fri, 20 Nov 2026 18:58:56 GMT",
+			"image": "https://media.sudouest.fr/31600126/1200x-1/sudouest-photo-1-3773950.jpg",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "SudOuest.fr",
+			"url": "https://www.sudouest.fr/sciences-et-technologie/intelligence-artificielle/c-est-un-moment-monumental-dans-l-histoire-de-l-humanite-avec-l-aide-de-l-ia-un-mathematicien-affirme-avoir-resolu-l-un-des-problemes-les-plus-importants-du-monde-31600126.php",
+			"description": "Gr\u00e2ce \u00e0 Anthropic et son interface Claude, un chercheur assura avoir r\u00e9solu l\u2019hypoth\u00e8se de Riemann qui porte sur la r\u00e9partition des nombres premiers et fait partie des sept probl\u00e8mes dits du mill\u00e9naire"
+		},
+		{
+			"title": "Nouveau blocus \u00e9tudiant \u00e0 la facult\u00e9 de sciences ce vendredi 20 novembre 2026 \u00e0 Lorient - maville.com",
+			"link": "https://pontivy.maville.com/actu/actudet_-nouveau-blocus-etudiant-a-la-faculte-de-sciences-ce-vendredi-20-novembre-2026-a-lorient_fil-7578788_actu.Htm",
+			"pubDate": "Fri, 20 Nov 2026 18:58:00 GMT",
+			"image": "",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "",
+			"url": "",
+			"description": ""
+		},
+		{
+			"title": "Montpellier : la jeunesse antimilitariste se mobilise, la fac de sciences occup\u00e9e - Info Libertaire",
+			"link": "https://www.infolibertaire.net/montpellier-la-jeunesse-antimilitariste-se-mobilise-la-fac-de-sciences-occupee/",
+			"pubDate": "Fri, 20 Nov 2026 18:36:58 GMT",
+			"image": "",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "",
+			"url": "",
+			"description": ""
+		},
+		{
+			"title": "TotalEnergies recal\u00e9 au rattrapage \u00e0 la fac des sciences de Montpellier - Info Libertaire",
+			"link": "https://www.infolibertaire.net/totalenergies-recale-au-rattrapage-a-la-fac-des-sciences-de-montpellier/",
+			"pubDate": "Fri, 20 Nov 2026 18:36:37 GMT",
+			"image": "",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "",
+			"url": "",
+			"description": ""
+		},
+		{
+			"title": "\u00c9cologie : en Haute-Garonne, pour bifurquer, l\u2019alliance des cerveaux et des voix - Politis.fr",
+			"link": "https://www.politis.fr/articles/2026/11/idees-ecologie-en-haute-garonne-pour-bifurquer-lalliance-des-cerveaux-et-des-voix/",
+			"pubDate": "Fri, 20 Nov 2026 18:33:32 GMT",
+			"image": "https://www.politis.fr/wp-content/uploads/2026/11/080_HL_PCARTIER_3203225-1-e1795178539357.jpeg",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "POLITIS",
+			"url": "https://www.politis.fr/articles/2026/11/idees-ecologie-en-haute-garonne-pour-bifurquer-lalliance-des-cerveaux-et-des-voix/",
+			"description": "Depuis l\u2019\u00e9t\u00e9 dernier, le conseil scientifique cr\u00e9\u00e9 par le Conseil d\u00e9partemental de la Haute-Garonne r\u00e9unit vingt-trois chercheur\u00b7ses pour accompagner la d\u00e9cision publique. Une occasion pour les scientifiques de tenter d\u2019investir les institutions sans renoncer \u00e0 leur libert\u00e9 de parole."
+		},
+		{
+			"title": "Nouveau blocus \u00e9tudiant \u00e0 la facult\u00e9 de sciences ce vendredi 20 novembre 2026 \u00e0 Lorient - Ouest-France",
+			"link": "https://www.ouest-france.fr/education/etudiant/universites/nouveau-blocus-etudiant-a-la-faculte-de-sciences-ce-vendredi-20-novembre-2026-a-lorient-caeb4944-e4e8-11f1-bd4e-6f30b8f49e21",
+			"pubDate": "Fri, 20 Nov 2026 17:58:02 GMT",
+			"image": "",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "",
+			"url": "",
+			"description": ""
+		},
+		{
+			"title": "\u00ab Chercheurs \u00bb : au laboratoire, la passion des sciences face \u00e0 la violence du pouvoir - Unidivers",
+			"link": "https://unidivers.fr/chercheurs-aurelien-peilloux-film-laboratoire-these/",
+			"pubDate": "Fri, 20 Nov 2026 17:36:48 GMT",
+			"image": "https://unidivers.fr/wp-content/uploads/2026/11/chercheurs-peilloux-espci-paris-scaled.jpg",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "Unidivers",
+			"url": "https://unidivers.fr/chercheurs-aurelien-peilloux-film-laboratoire-these/",
+			"description": "Dans \u00ab Chercheurs \u00bb, premier long m\u00e9trage d\u2019Aur\u00e9lien Peilloux attendu le 13 janvier 2027, une jeune chimiste d\u00e9couvre les rapports de pouvoir d\u2019un laboratoire\u2026"
+		},
+		{
+			"title": "PORTRAIT. Patrick Cormier, chercheur en biologie, partage sa passion, samedi 21 novembre, \u00e0 Plouescat - Ouest-France",
+			"link": "https://www.ouest-france.fr/bretagne/plouescat-29430/patrick-cormier-chercheur-en-biologie-partage-sa-passion-au-pole-culturel-latelier-samedi-21-novembre-63a4c20e-e445-11f1-8937-e3b17ddb6abc",
+			"pubDate": "Fri, 20 Nov 2026 17:34:10 GMT",
+			"image": "",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "",
+			"url": "",
+			"description": ""
+		},
+		{
+			"title": "Et si Einstein s\u2019\u00e9tait tromp\u00e9 ? L\u2019astrophysicien David Elbaz r\u00e9pond - Le Figaro",
+			"link": "https://www.lefigaro.fr/sciences/et-si-einstein-s-etait-trompe-l-astrophysicien-david-elbaz-repond-20261120",
+			"pubDate": "Fri, 20 Nov 2026 17:24:11 GMT",
+			"image": "https://i.f1g.fr/media/cms/1200x630_crop/2026/11/20/8ab7bc7b2db7a60e13869cd8ed02a8bb3f1242f09f743e69900032cfdb5138e4.jpg",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "Le Figaro",
+			"url": "https://www.lefigaro.fr/sciences/et-si-einstein-s-etait-trompe-l-astrophysicien-david-elbaz-repond-20261120",
+			"description": "\u00abLe jour d\u2019apr\u00e8s Einstein est peut-\u00eatre arriv\u00e9\u00bb, affirme l\u2019astrophysicien David Elbaz qui consacre son livre Le syndrome de la tache rose (Robert Laffont) aux toutes derni\u00e8res observations r\u00e9centes de l\u2019Univers. Il est l\u2019invit\u00e9 du podcast vid\u00e9o Plan\u00e9tarium."
+		},
+		{
+			"title": "ENQU\u00caTE DE L\u2019OBSERVATOIRE DE LA DEMOCRATIE DE PROXIMITE AMF-CEVIPOF/SCIENCES PO \u00c9tat d\u2019esprit des maires 6 mois apr\u00e8s les \u00e9lections municipales de 2026 - AMF",
+			"link": "https://www.amf.asso.fr/documents-enqute-lobservatoire-la-democratie-proximite-amf-cevipofsciences-poetat-desprit-maires-6-mois-apres-les-elections-municipales-2026/43416",
+			"pubDate": "Fri, 20 Nov 2026 17:20:13 GMT",
+			"image": "https://medias.amf.asso.fr/thumbmails/A201800_8cadc983c7d46fcf457194a11481af86.png",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "Association des Maire de France et des pr\u00e9sidents d'intercommunalit\u00e9 de France - AMF",
+			"url": "",
+			"description": "Dans le cadre de l\u2019Observatoire de la d\u00e9mocratie de proximit\u00e9, cr\u00e9\u00e9 par l\u2019AMF et le CEVIPOF/Sciences Po, une enqu\u00eate a \u00e9t\u00e9 conduite aupr\u00e8s de l\u2019ensemble des maires de France pour suivre et mieux comprendre leur \u00e9tat d\u2019esprit six mois apr\u00e8s les \u00e9lections municipales 2026. Les nouveaux maires restent plus optimistes que leurs coll\u00e8gues r\u00e9\u00e9lus, et ils se distinguent d\u2019eux par leur profil\u00a0: plus de personnes en activit\u00e9 et plus de femmes. Une part de cet optimisme tient sans doute \u00e0 leur exp\u00e9rience plus nouvelle comme maire bien qu\u2019ils connaissent le conseil municipal. En six mois, ils n\u2019ont pas encore \u00e9t\u00e9 confront\u00e9s aux difficult\u00e9s qui p\u00e8sent sur le moral des maires r\u00e9\u00e9lus : finances contraintes, normes jug\u00e9es trop nombreuses, violences qui s\u2019accumulent au fil du mandat."
+		},
+		{
+			"title": "Les Presses de Sciences Po recrutent une nouvelle \u00e9ditrice - ActuaLitt\u00e9.com",
+			"link": "https://actualitte.com/article/135365/edition/les-presses-de-sciences-po-recrutent-une-nouvelle-editrice",
+			"pubDate": "Fri, 20 Nov 2026 17:01:00 GMT",
+			"image": "https://actualitte.com/uploads/images/les-presses-de-sciences-po-recrutent-une-nouvelle-editrice-6b00bad58e203313741246.jpg",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "ActuaLitt\u00e9.com",
+			"url": "https://actualitte.com/article/135365/edition/les-presses-de-sciences-po-recrutent-une-nouvelle-editrice",
+			"description": "Violette Grunenberger a rejoint les Presses de Sciences Po en novembre 2026, en qualit&eacute; d&rsquo;&eacute;ditrice. Elle prend en charge 20 &amp; 21. Revue d&rsquo;histoire, anciennement Vingti&egrave;me Si&egrave;cle. Revue d&rsquo;histoire, publication scientifique trimestrielle consacr&eacute;e &agrave; l&rsquo;histoire contemporaine. Elle occupait auparavant un poste d&rsquo;&eacute;ditrice de p&eacute;riodiques scientifiques au Mus&eacute;um national d&rsquo;Histoire naturelle."
+		},
+		{
+			"title": "Sciences Maroc Paris - Couscous Party : A Taste of Morocco - Sciences Po",
+			"link": "https://www.sciencespo.fr/students/fr/evenements/sciences-maroc-paris-couscous-party-a-taste-of-morocco/",
+			"pubDate": "Fri, 20 Nov 2026 16:50:49 GMT",
+			"image": "https://www.sciencespo.fr/students/fr/static/491008dd4691d0f01795aefba6ce0f8c/aa0a9/couscous_party_paysage_27_novembre_Soumaya_LARAICHI_9e4ae7d9c9.jpg",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "\u00c9tudiants",
+			"url": "",
+			"description": "Join Sciences Maroc Paris on Friday, November 27, from 12:30 for a friendly couscous lunch at Sciences Po. \nMeet fellow students and discover Moroccan culture through its flavors. Registration is mandatory, with limited places allocated on a first come, first served basis."
+		},
+		{
+			"title": "Il faut mieux prendre en consid\u00e9ration les sciences du vivant ! - Pour la Science",
+			"link": "https://www.pourlascience.fr/p/opinions/il-faut-mieux-prendre-en-consideration-les-sciences-du-vivant-29797.php",
+			"pubDate": "Fri, 20 Nov 2026 16:39:21 GMT",
+			"image": "https://medias.pourlascience.fr/api/v1/images/view/68e7c8489b2fbb164b0782d6/wide_1300/image.jpg",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "Pourlascience.fr",
+			"url": "https:https://www.pourlascience.fr/p/opinions/il-faut-mieux-prendre-en-consideration-les-sciences-du-vivant-29797.php",
+			"description": "Les crises auxquelles est confront\u00e9e la soci\u00e9t\u00e9 fran\u00e7aise rendent indispensable la revalorisation de l\u2019enseignement des sciences du vivant."
+		},
+		{
+			"title": "Homo erectus aurait surv\u00e9cu en Chine 200 000 ans plus longtemps qu\u2019on ne le pensait - National Geographic",
+			"link": "https://www.nationalgeographic.fr/sciences/paleontologie-homo-erectus-aurait-survecu-en-chine-200-000-ans-plus-longtemps-quon-ne-le-pensait",
+			"pubDate": "Fri, 20 Nov 2026 16:10:00 GMT",
+			"image": "https://static.nationalgeographic.fr/files/styles/image_3200/public/img3baxiancaveentrance.jpg?w=1600&h=1103",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "National Geographic",
+			"url": "https://www.nationalgeographic.fr/sciences/paleontologie-homo-erectus-aurait-survecu-en-chine-200-000-ans-plus-longtemps-quon-ne-le-pensait",
+			"description": "On pensait que seuls les humains modernes pouvaient s\u2019adapter aux for\u00eats tropicales. La d\u00e9couverte de dents d\u2019Homo erectus dans le sud de la Chine remet cette id\u00e9e en question."
+		},
+		{
+			"title": "Gilead Sciences, Inc. : Mizuho Securities toujours \u00e0 l'achat - Zonebourse Suisse",
+			"link": "https://ch.zonebourse.com/actualite-bourse/gilead-sciences-inc-mizuho-securities-toujours-a-l-achat-ce785ed3da8cf22d",
+			"pubDate": "Fri, 20 Nov 2026 16:00:52 GMT",
+			"image": "",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "",
+			"url": "",
+			"description": ""
+		},
+		{
+			"title": "Une nouvelle pr\u00e9sidente va remplacer Mathieu Gallet \u00e0 Sciences Po Bordeaux - Sud Ouest",
+			"link": "https://www.sudouest.fr/etudiant/vie-etudiante/une-nouvelle-presidente-va-remplacer-mathieu-gallet-a-sciences-po-bordeaux-31597516.php",
+			"pubDate": "Fri, 20 Nov 2026 15:36:28 GMT",
+			"image": "https://media.sudouest.fr/31597516/1200x-1/christine-musselin-linkedin.jpg",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "SudOuest.fr",
+			"url": "https://www.sudouest.fr/etudiant/vie-etudiante/une-nouvelle-presidente-va-remplacer-mathieu-gallet-a-sciences-po-bordeaux-31597516.php",
+			"description": "Christine Musselin, directrice de recherche \u00e9m\u00e9rite au CNRS, a \u00e9t\u00e9 \u00e9lue ce vendredi 20\u00a0novembre et remplace l\u2019ancien pr\u00e9sident de Radio France Mathieu Gallet"
+		},
+		{
+			"title": "Luc Beaulieu re\u00e7oit le prix Urgel Archambault - Universit\u00e9 Laval",
+			"link": "https://www.fsg.ulaval.ca/faculte/actualites/luc-beaulieu-recoit-le-prix-urgel-archambault-5192",
+			"pubDate": "Fri, 20 Nov 2026 14:08:03 GMT",
+			"image": "https://www.fsg.ulaval.ca/fileadmin/_processed_/b/b/csm_2024_luc_beaulieu_credit_photo_sandrine_gilbert-4_9fd228c6f3.jpg",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "Facult\u00e9 des sciences et de g\u00e9nie de l'Universit\u00e9 Laval",
+			"url": "",
+			"description": "Luc Beaulieu est le laur\u00e9at du prix Urgel Archambault 2026 de l\u2019Association canadienne-fran\u00e7aise pour l\u2019avancement des sciences (ACFAS)."
+		},
+		{
+			"title": "Faut-il confier l'\u00e9cologie aux experts ? \u00ab Ces choix ne rel\u00e8vent pas de la seule science \u00bb - Les Echos",
+			"link": "https://www.lesechos.fr/idees-debats/cercle/faut-il-confier-lecologie-aux-experts-ces-choix-ne-relevent-pas-de-la-seule-science-2263803",
+			"pubDate": "Fri, 20 Nov 2026 14:05:09 GMT",
+			"image": "",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "",
+			"url": "",
+			"description": ""
+		},
+		{
+			"title": "Ya\u00eblle, chercheuse en microbiologie : \u00ab Il y a un c\u00f4t\u00e9 tr\u00e8s manuel dans la recherche scientifique \u00bb - CIDJ",
+			"link": "https://www.cidj.com/s-orienter/avec-nos-focus-metiers/yaelle-chercheuse-en-microbiologie-il-y-a-un-cote-tres-manuel-dans-la-recherche-scientifique",
+			"pubDate": "Fri, 20 Nov 2026 14:04:59 GMT",
+			"image": "https://www.cidj.com/sites/default/files/2026-11/Yaelle_microbiologiste.webp",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "",
+			"url": "",
+			"description": ""
+		},
+		{
+			"title": "Des drones au service de la science - N\u00e9o UQTR",
+			"link": "https://neo.uqtr.ca/2026/11/20/des-drones-au-service-de-la-science/",
+			"pubDate": "Fri, 20 Nov 2026 13:52:34 GMT",
+			"image": "https://neo.uqtr.ca/wp-content/uploads/2026/07/des_drones_au_service_de_la_science_philippe_aubichon_couverture.jpg",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "N\u00e9o UQTR",
+			"url": "https://neo.uqtr.ca/2026/11/20/des-drones-au-service-de-la-science/",
+			"description": "Cet article\u00a0\u2013\u00a0Courant d\u2019id\u00e9es\u00a0\u2013 est r\u00e9dig\u00e9 par Philippe Aubichon, \u00e9tudiant \u00e0 la\u00a0ma\u00eetrise en sciences de l\u2019environnement (profil avec m\u00e9moire)\u00a0de l\u2019Universit\u00e9 du Qu\u00e9bec \u00e0 Trois-Rivi\u00e8res (UQTR). Pour"
+		},
+		{
+			"title": "Le private equity au service du bien commun - Les Echos",
+			"link": "https://www.lesechos.fr/idees-debats/sciences-prospective/le-private-equity-au-service-du-bien-commun-2263797",
+			"pubDate": "Fri, 20 Nov 2026 13:30:09 GMT",
+			"image": "",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "",
+			"url": "",
+			"description": ""
+		},
+		{
+			"title": "Festival Cin\u00e9-Ceri 2026 \"D\u2019autres mondes : Filmer les utopies\" - Sciences Po",
+			"link": "https://www.sciencespo.fr/ceri/fr/evenements/festival-cine-ceri-2026-d-autres-mondes-filmer-les-utopies/",
+			"pubDate": "Fri, 20 Nov 2026 13:30:06 GMT",
+			"image": "https://www.sciencespo.fr/ceri/fr/static/8f2abde5320f9e48926034d2b5d36132/4a49b/123_Walkabout_077_eca128958c.jpg",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "Centre de recherches internationales",
+			"url": "",
+			"description": "Pour la troisi\u00e8me ann\u00e9e cons\u00e9cutive, dans le cadre de son cin\u00e9club, le Centre de recherches internationales (Sciences Po/CNRS) organise un festival en partenariat avec le cin\u00e9ma ind\u00e9pendant L'Entrep\u00f4t, du 20 au 22 novembre."
+		},
+		{
+			"title": "Vivre avec la guerre, un temps entre les temps. - Sciences Po",
+			"link": "https://www.sciencespo.fr/ceri/fr/evenements/vivre-avec-la-guerre-un-temps-entre-les-temps/",
+			"pubDate": "Fri, 20 Nov 2026 13:30:06 GMT",
+			"image": "https://www.sciencespo.fr/ceri/fr/static/04fe47aafcd7f18725089205570b3440/9392e/CERI_Fariba_IRAN_Conf_4a8be58321.jpg",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "Centre de recherches internationales",
+			"url": "",
+			"description": "Conf\u00e9rence en pr\u00e9sentiel avec Fariba Adelkhah (CERI-Sciences Po/CNRS) et Kian Tadjbakhsh (Columbia University)"
+		},
+		{
+			"title": "Comment la science surveille la sant\u00e9 des poissons face aux polluants ? - RTBF",
+			"link": "https://www.rtbf.be/article/comment-la-science-surveille-la-sante-des-poissons-face-aux-polluants-11816656",
+			"pubDate": "Fri, 20 Nov 2026 13:25:40 GMT",
+			"image": "https://static-content.rtbf.be/article/image/1920x1080/2/1/d/23c7921c8dd006520ceec29b610de538.jpg",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "RTBF",
+			"url": "https://www.rtbf.be/article/comment-la-science-surveille-la-sante-des-poissons-face-aux-polluants-11816656",
+			"description": "Principalement caus\u00e9e par les activit\u00e9s humaines, telles que l\u2019agriculture, l\u2019industrie ou encore les activit\u00e9s..."
+		},
+		{
+			"title": "Cycle \u00e9pist\u00e9mologie et communication scientifique 2026 #3 : Cr\u00e9ativit\u00e9, imagination et intelligence en sciences - Universit\u00e9 de Lorraine",
+			"link": "https://factuel.univ-lorraine.fr/evenement/cycle-epistemologie-et-communication-scientifique-2026-3-creativite-imagination-et-intelligence-en-sciences/",
+			"pubDate": "Fri, 20 Nov 2026 12:59:26 GMT",
+			"image": "https://factuel.univ-lorraine.fr/wp-content/uploads/2026/11/Visuel_20263.png",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "Factuel - l'Info de l'Universit\u00e9 de Lorraine",
+			"url": "https://factuel.univ-lorraine.fr/evenement/cycle-epistemologie-et-communication-scientifique-2026-3-creativite-imagination-et-intelligence-en-sciences/",
+			"description": "La prochaine s\u00e9ance du cycle de conf\u00e9rences \u00ab \u00c9pist\u00e9mologie et communication scientifique \u00bb sera anim\u00e9e par Steve Humbert-Droz, chercheur \u00e0 l'Universit\u00e9 de Z\u00fcrich."
+		},
+		{
+			"title": "BCE : Lagarde met en garde contre les cybermenaces amplifi\u00e9es par l\u2019IA - Journal Chr\u00e9tien",
+			"link": "https://chretiens.com/science-et-technologies/bce-lagarde-met/2026/11/20/13/24/",
+			"pubDate": "Fri, 20 Nov 2026 12:36:21 GMT",
+			"image": "https://chretiens.com/chretiens/2023/05/journal-chretien-par-defaut.png",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "Journal Chr\u00e9tien - Actualit\u00e9 chr\u00e9tienne",
+			"url": "https://chretiens.com/science-et-technologies/bce-lagarde-met/2026/11/20/13/24/",
+			"description": "Le Journal Chr\u00e9tien est un m\u00e9dia chr\u00e9tien francophone qui traite de l'actualit\u00e9 chr\u00e9tienne, soci\u00e9tale, culturelle et spirituelle.- FRANCFORT, 20 novembre (Reuters) - Le plus grand d\u00e9fi imm\u00e9diat auquel est confront\u00e9 le monde de la finance pourrait bien \u00eatre celui des cybermenaces, - L\u2019info du jour Journal Chr\u00e9tien - Actualit\u00e9 chr\u00e9tienne"
+		},
+		{
+			"title": "Place limit\u00e9e de la science, d\u00e9sinformation climatique\u2026 ce que montre l\u2019analyse des conversations en ligne sur la COP31 - The Conversation",
+			"link": "https://theconversation.com/place-limitee-de-la-science-desinformation-climatique-ce-que-montre-lanalyse-des-conversations-en-ligne-sur-la-cop31-296968",
+			"pubDate": "Fri, 20 Nov 2026 11:59:46 GMT",
+			"image": "https://images.theconversation.com/files/772831/original/file-20261118-78-i38bzg.jpg?ixlib=rb-4.1.1&rect=0%2C438%2C7008%2C3504&q=45&auto=format&w=1356&h=668&fit=crop",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "The Conversation",
+			"url": "https://theconversation.com/place-limitee-de-la-science-desinformation-climatique-ce-que-montre-lanalyse-des-conversations-en-ligne-sur-la-cop31-296968",
+			"description": "Sur la premi\u00e8re semaine du sommet, seulement 1,8\u00a0% des publications des r\u00e9seaux sociaux class\u00e9es par ce tableau de bord, d\u00e9velopp\u00e9 par des chercheurs de CY Cergy Universit\u00e9, se basaient sur la science."
+		},
+		{
+			"title": "Bastia : un colloque sur le vin corse organis\u00e9 par la Soci\u00e9t\u00e9 des sciences, ce vendredi 27 novembre - Corse Matin",
+			"link": "https://www.corsematin.com/article/societe/53043534383447/bastia-un-colloque-sur-le-vin-corse-organise-par-la-societe-des-sciences-ce-vendredi-27-novembre",
+			"pubDate": "Fri, 20 Nov 2026 11:25:01 GMT",
+			"image": "https://pictures.corsematin.com/cdn-cgi/image/width=1200,quality=80,format=auto,/media/melody/2026/11/20/cave-vinted-1795165366_b2bb7bb56cfa696bb7bb56cfa9abb7v_.jpg",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "",
+			"url": "https://www.corsematin.com/article/societe/53043534383447/bastia-un-colloque-sur-le-vin-corse-organise-par-la-societe-des-sciences-ce-vendredi-27-novembre?id=53043534383447",
+			"description": "Bastia\u00a0: un colloque sur le vin corse organis\u00e9 par la Soci\u00e9t\u00e9 des sciences, ce vendredi 27 novembre"
+		},
+		{
+			"title": "\"Une premi\u00e8re mondiale\" : URGO cr\u00e9e une peau artificielle pr\u00eate \u00e0 \u00eatre greff\u00e9e, des essais pr\u00e9vus en 2030 - Radio SCOOP",
+			"link": "https://www.radioscoop.com/infos/une-premiere-mondiale-urgo-cree-une-peau-artificielle-prete-a-etre-greffee-des-essais-prevus-en-2030_368169",
+			"pubDate": "Fri, 20 Nov 2026 10:50:00 GMT",
+			"image": "https://www.radioscoop.com/imgs/762479_952_475.png",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "",
+			"url": "https://www.radioscoop.com/infos/une-premiere-mondiale-urgo-cree-une-peau-artificielle-prete-a-etre-greffee-des-essais-prevus-en-2030_368169",
+			"description": "URGO et ses partenaires, dont l'Universit\u00e9 Lyon 1, annoncent avoir cr\u00e9\u00e9 en laboratoire une peau artificielle vivante pouvant \u00eatre conserv\u00e9e puis greff\u00e9e. Un premier essai clinique est envisag\u00e9 en 2030, avant une commercialisation vis\u00e9e \u00e0 l\u2019horizon 2040."
+		},
+		{
+			"title": "En 2035, 50 000 miroirs pourraient \u00e9clairer nos nuits depuis plus de 600 km d\u2019altitude. En Californie, des habitants ont d\u00e9j\u00e0 \u00e9t\u00e9 \u00ab aveugl\u00e9s \u00bb par un test ! - Futura, le m\u00e9dia qui explore le monde",
+			"link": "https://www.futura-sciences.com/sciences/actualites/constellation-satellites-2035-50-000-miroirs-pourraient-eclairer-nos-nuits-depuis-plus-600-km-altitude-californie-habitants-ont-deja-ete-aveugles-test-139483/",
+			"pubDate": "Fri, 20 Nov 2026 10:07:00 GMT",
+			"image": "https://cdn8.futura-sciences.com/a1920/images/actu/miroirs-reflect-orbital.png",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "Futura",
+			"url": "https://www.futura-sciences.com/sciences/actualites/constellation-satellites-2035-50-000-miroirs-pourraient-eclairer-nos-nuits-depuis-plus-600-km-altitude-californie-habitants-ont-deja-ete-aveugles-test-139483/",
+			"description": "Une clart\u00e9 inhabituelle a illumin\u00e9 la nuit dans le d\u00e9sert californien. Ce n\u2019\u00e9tait pas la Lune, mais une r\u00e9p\u00e9tition grandeur nature d\u2019un projet encore plus vertigineux : \u00e9clairer la Terre depuis l\u2019e..."
+		},
+		{
+			"title": "Croquis d\u2019animaux, peintures botaniques, \u0153uvres contemporaines\u2026 Au Mus\u00e9um national d\u2019histoire naturelle, 400 ans de dialogue entre arts et sciences - Lib\u00e9ration",
+			"link": "https://www.liberation.fr/environnement/animaux/croquis-danimaux-peintures-botaniques-oeuvres-contemporaines-au-museum-dhistoire-naturelle-400-ans-de-dialogue-entre-arts-et-sciences-20261120_XKS45FNI3BGMDLV754ITTWFVZ4/",
+			"pubDate": "Fri, 20 Nov 2026 10:01:08 GMT",
+			"image": "",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "",
+			"url": "",
+			"description": ""
+		},
+		{
+			"title": "Depuis l\u2019espace, la Terre appara\u00eet de plus en plus claire\u2026 La faute aux d\u00e9chets plastiques - L'Humanit\u00e9",
+			"link": "https://www.humanite.fr/sciences/sciences/depuis-lespace-la-terre-apparait-de-plus-en-plus-claire-la-faute-aux-dechets-plastiques",
+			"pubDate": "Fri, 20 Nov 2026 09:55:24 GMT",
+			"image": "https://www.humanite.fr/wp-content/uploads/2026/11/science-2_HD3Autr.jpg",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "L'Humanit\u00e9",
+			"url": "https://www.humanite.fr/sciences/sciences/depuis-lespace-la-terre-apparait-de-plus-en-plus-claire-la-faute-aux-dechets-plastiques",
+			"description": "\nPr\u00e8s de la grande zone d\u2019accumulation de d\u00e9chets du Pacifique Nord, vingt ann\u00e9es d\u2019observations satellitaires r\u00e9v\u00e8lent un \u00e9claircissement particulier de l\u2019eau. Des chercheurs y ..."
+		},
+		{
+			"title": "Une odyss\u00e9e spatiale - www.francetelevisions.fr",
+			"link": "https://www.francetelevisions.fr/et-vous/notre-tele/les-programmes-a-ne-pas-rater/science-grand-format-les-mondes-de-glace-et-les-mondes-de-lobscurite-61966",
+			"pubDate": "Fri, 20 Nov 2026 08:51:06 GMT",
+			"image": "//static.francetelevisions.fr/styles/scale_520/public/2026-11/Science grand format Myst\u00e8res du syst\u00e8me solaire Les mondes de l'obscurit\u00e9.jpeg?itok=k564ESp-",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "France tv & vous",
+			"url": "https://www.francetelevisions.fr/et-vous/notre-tele/les-programmes-a-ne-pas-rater/science-grand-format-les-mondes-de-glace-et-les-mondes-de-lobscurite-61966",
+			"description": "Il y a dans l\u2019espace mati\u00e8re \u00e0 s\u2019\u00e9merveiller. La preuve avec ces deux documentaires, extraits de la s\u00e9rie \u00ab&nbsp;Myst\u00e8res du Syst\u00e8me solaire&nbsp;\u00bb, diffus\u00e9s jeudi 26 novembre \u00e0 partir de 21.05 sur France&nbsp;5. De mondes gel\u00e9s \u00e0 d\u2019autres cach\u00e9s,\u2026"
+		},
+		{
+			"title": "Transport maritime : adapter les routes pour \u00e9viter les collisions d\u2019animaux ne co\u00fbterait pas plus cher, selon une \u00e9tude - Le marin",
+			"link": "https://lemarin.ouest-france.fr/sciences-environnement/transport-maritime-adapter-les-routes-pour-eviter-les-collisions-danimaux-ne-couterait-pas-plus-cher-selon-une-etude-d65c3742-e291-11f1-a3b1-0c6de532ce7d",
+			"pubDate": "Fri, 20 Nov 2026 08:41:02 GMT",
+			"image": "",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "",
+			"url": "",
+			"description": ""
+		},
+		{
+			"title": "Un consortium fran\u00e7ais cr\u00e9e une peau artificielle pr\u00eate \u00e0 la greffe : une premi\u00e8re mondiale - L'Humanit\u00e9",
+			"link": "https://www.humanite.fr/sciences/cellules-souches/un-consortium-francais-cree-une-peau-artificielle-prete-a-la-greffe-une-premiere-mondiale",
+			"pubDate": "Fri, 20 Nov 2026 08:00:00 GMT",
+			"image": "https://www.humanite.fr/wp-content/uploads/2026/10/sante-1-1.jpg",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "L'Humanit\u00e9",
+			"url": "https://www.humanite.fr/sciences/cellules-souches/un-consortium-francais-cree-une-peau-artificielle-prete-a-la-greffe-une-premiere-mondiale",
+			"description": "\nC\u2019est une avanc\u00e9e qui pourrait devenir \u00ab\u00a0une r\u00e9volution m\u00e9dicale\u00a0\u00bb. Un consortium, compos\u00e9 d\u2019acteurs publics et priv\u00e9s, a annonc\u00e9, vendredi 20\u00a0novembre, avoir r\u00e9ussi \u00e0 cr\u00e9..."
+		},
+		{
+			"title": "\u00ab L'ordinateur quantique est crucial pour la souverainet\u00e9 de la France \u00bb : l'alerte d'Alain Aspect, prix Nobel de physique - Les Echos",
+			"link": "https://www.lesechos.fr/idees-debats/sciences-prospective/alain-aspect-lordinateur-quantique-est-crucial-pour-la-souverainete-de-la-france-2263688",
+			"pubDate": "Fri, 20 Nov 2026 07:25:09 GMT",
+			"image": "",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "",
+			"url": "",
+			"description": ""
+		},
+		{
+			"title": "Ces \u00eeles perdues au milieu du Pacifique sont les derniers endroits laiss\u00e9s intacts par l'homme, des scientifiques s'y sont rendus - Slate.fr",
+			"link": "https://www.slate.fr/sciences/iles-perdues-pacifique-atolls-preserve-faune-flore-aquatique-homme-environnement-pollution",
+			"pubDate": "Fri, 20 Nov 2026 06:55:05 GMT",
+			"image": "https://cdn.slate.fr/uploads/store/story_274032/large_landscape_274032.jpg",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "Slate.fr",
+			"url": "https://www.slate.fr/sciences/iles-perdues-pacifique-atolls-preserve-faune-flore-aquatique-homme-environnement-pollution",
+			"description": "Au c\u0153ur des \u00eeles Marshall, les atolls isol\u00e9s de Bikar et Bokak abritent des \u00e9cosyst\u00e8mes marins d'une richesse exceptionnelle. Une exp\u00e9dition\u2026"
+		},
+		{
+			"title": "Les chauves-souris poss\u00e8dent des capacit\u00e9s extraordinaires que les scientifiques commencent \u00e0 peine \u00e0 comprendre - Futura, le m\u00e9dia qui explore le monde",
+			"link": "https://blogs.futura-sciences.com/animaux/les-chauves-souris-possedent-des-capacites-extraordinaires-que-les-scientifiques-commencent-a-peine-a-comprendre_24347/",
+			"pubDate": "Fri, 20 Nov 2026 06:34:17 GMT",
+			"image": "https://blogs.futura-sciences.com/animaux/wp-content/uploads/2026/11/Ondrej-Prosicky.jpg",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "Futura-Sciences",
+			"url": "https://blogs.futura-sciences.com/animaux/les-chauves-souris-possedent-des-capacites-extraordinaires-que-les-scientifiques-commencent-a-peine-a-comprendre_24347/",
+			"description": "Il suffit d\u2019observer une chauve-souris traverser un jardin \u00e0 la tomb\u00e9e de la nuit pour comprendre qu\u2019elle n\u2019a rien d\u2019un mammif\u00e8re ordinaire. Ses ailes sont form\u00e9es de membranes tendues entre des doigts allong\u00e9s, et son syst\u00e8me d\u2019\u00e9cholocalisation lui permet, chez de nombreuses esp\u00e8ces, de rep\u00e9rer des obstacles ou des insectes..."
+		},
+		{
+			"title": "Cinquante personnes ayant v\u00e9cu une exp\u00e9rience de mort imminente ont dessin\u00e9 leurs souvenirs : 108 sc\u00e8nes suivent quatre grandes formes g\u00e9om\u00e9triques - Science et vie",
+			"link": "https://www.science-et-vie.com/corps-et-sante/50-personnes-ayant-vecu-une-experience-de-mort-imminente-ont-dessine-leurs-souvenirs-108-scenes-suivent-quatre-grandes-formes-geometriques-265722.html",
+			"pubDate": "Fri, 20 Nov 2026 06:00:41 GMT",
+			"image": "https://www.science-et-vie.com/wp-content/uploads/scienceetvie/2026/11/pexels-santhosh-kanthala-372615-39588770-1200x660.jpg",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "Science et vie",
+			"url": "https://www.science-et-vie.com/corps-et-sante/50-personnes-ayant-vecu-une-experience-de-mort-imminente-ont-dessine-leurs-souvenirs-108-scenes-suivent-quatre-grandes-formes-geometriques-265722.html",
+			"description": "D\u00e9couvrez les quatre formes g\u00e9om\u00e9triques et les couleurs que 50 t\u00e9moins associent \u00e0 leur exp\u00e9rience de mort imminente"
+		},
+		{
+			"title": "La long\u00e9vit\u00e9 mobilise les sciences biologiques en cosm\u00e9tique - Industries Cosm\u00e9tiques",
+			"link": "https://www.industries-cosmetiques.fr/la-longevite-mobilise-les-sciences-biologiques-en-cosmetique/",
+			"pubDate": "Fri, 20 Nov 2026 06:00:00 GMT",
+			"image": "https://www.industries-cosmetiques.fr/wp-content/uploads/2026/11/incos-global20-atlas-video-hero-1920x937-first-frame-image-a28dc71f81.jpg",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "Industries Cosm\u00e9tiques",
+			"url": "https://www.industries-cosmetiques.fr/la-longevite-mobilise-les-sciences-biologiques-en-cosmetique/",
+			"description": "Les soins personnels \u00e9voluent de l\u2019anti-\u00e2ge vers la long\u00e9vit\u00e9, selon l\u2019\u00e9tude in-cosmetics Global. Les avanc\u00e9es scientifiques et les tendances de consommation orientent ce mouvement, qui ouvre des possibilit\u00e9s pour les ingr\u00e9dients, les produits et leur formulation."
+		},
+		{
+			"title": "\u00c0 Montpellier, coup de pompe pour TotalEnergies \u00e9ject\u00e9 de la facult\u00e9 des sciences - Actu.fr",
+			"link": "https://actu.fr/occitanie/montpellier_34172/a-montpellier-coup-de-pompe-pour-totalenergies-ejecte-de-la-faculte-des-sciences_65079412.html",
+			"pubDate": "Fri, 20 Nov 2026 05:14:01 GMT",
+			"image": "https://static.actu.fr/uploads/2026/11/photo-totalenergies-hjbc-adobestock.jpg",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "actu.fr",
+			"url": "https://actu.fr/occitanie/montpellier_34172/a-montpellier-coup-de-pompe-pour-totalenergies-ejecte-de-la-faculte-des-sciences_65079412.html",
+			"description": "\u00c0 Montpellier, le Conseil de la facult\u00e9 des sciences a vot\u00e9, d\u00e9non\u00e7ant la convention sign\u00e9e avec TotalEnergies. La pr\u00e9sidence de l'UM doit encore confirmer la d\u00e9cision."
+		},
+		{
+			"title": "\"Une action climatique fond\u00e9e sur la science est plus cruciale que jamais\" : \u00e0 la COP31, les experts du Giec au centre d'un bras de fer - franceinfo",
+			"link": "https://www.franceinfo.fr/environnement/crise-climatique/cop-climat/une-action-climatique-fondee-sur-la-science-est-plus-cruciale-que-jamais-a-la-cop31-les-experts-du-giec-au-centre-d-un-bras-de-fer_8289713.html",
+			"pubDate": "Fri, 20 Nov 2026 04:39:46 GMT",
+			"image": "https://www.franceinfo.fr/pictures/6Ymt4fpSbdA4WYYBkdiQBSG98YA/0x0:3543x1992/1500x843/2026/11/19/6aff12bac4720371080778.jpg",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "franceinfo",
+			"url": "https://www.franceinfo.fr/environnement/crise-climatique/cop-climat/une-action-climatique-fondee-sur-la-science-est-plus-cruciale-que-jamais-a-la-cop31-les-experts-du-giec-au-centre-d-un-bras-de-fer_8289713.html",
+			"description": "Plusieurs pays s'opposent sur la date de publication du prochain rapport du Groupe d'experts intergouvernemental sur l'\u00e9volution du climat, qui devrait \u00e9clairer une \u00e9tape majeure des conf\u00e9rences de l'ONU sur le climat dans deux ans."
+		},
+		{
+			"title": "La grande pauvret\u00e9, angle mort de la recherche en sciences sociales - Alternatives \u00e9conomiques",
+			"link": "https://www.alternatives-economiques.fr/la-grande-pauvrete-angle-mort-de-la-recherche-en-sciences-sociales_20-11-2026",
+			"pubDate": "Fri, 20 Nov 2026 03:55:01 GMT",
+			"image": "https://www.alternatives-economiques.fr/sites/default/files/styles/for_social_networks/public/images/AFP__20240305__HL_FPETRY_2313044__v1__HighRes__FranceRestosDuCoeur.jpg.webp?itok=AZFm2h4y",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "Alternatives \u00e9conomiques",
+			"url": "https://www.alternatives-economiques.fr/la-grande-pauvrete-angle-mort-de-la-recherche-en-sciences-sociales_20-11-2026",
+			"description": "Les \u00e9conomistes connaissent bien moins les plus pauvres que les plus riches. Pour comprendre qui tombe dans l\u2019extr\u00eame pr\u00e9carit\u00e9, et pourquoi il est difficile d\u2026"
+		},
+		{
+			"title": "SPMA - Syrie : deux ans apr\u00e8s Assad, quel avenir pour l\u2019\u00c9tat et sa souverainet\u00e9 ? - Sciences Po",
+			"link": "https://www.sciencespo.fr/students/fr/evenements/spma-syrie-deux-ans-apres-assad-quel-avenir-pour-l-etat-et-sa-souverainete/",
+			"pubDate": "Fri, 20 Nov 2026 02:42:45 GMT",
+			"image": "https://www.sciencespo.fr/students/fr/static/d57be07a818bc86336322fe810f272d2/e9bbc/Image_19_11_2026_a_10_05_Nouha_IDRISSI_GHLIMI_9bc5aa7a45.jpg",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "\u00c9tudiants",
+			"url": "",
+			"description": "Deux ans apr\u00e8s la chute de Bachar al-Assad, la Syrie poursuit une transition fragile. Entre reconstruction de l\u2019\u00c9tat, violences contre les minorit\u00e9s et ing\u00e9rences \u00e9trang\u00e8res, quatre sp\u00e9cialistes analyseront les recompositions politiques, \u00e9conomiques et s\u00e9curitaires du pays et les d\u00e9fis de sa souverainet\u00e9."
+		},
+		{
+			"title": "CSG - Comment parler des violences au sein de l'Eglise ? - Sciences Po",
+			"link": "https://www.sciencespo.fr/students/fr/evenements/csg-comment-parler-des-violences-au-sein-de-l-eglise/",
+			"pubDate": "Fri, 20 Nov 2026 02:42:44 GMT",
+			"image": "https://www.sciencespo.fr/students/fr/static/f04123a5530f2c835bb51834264bacb4/be765/Capture_d_ecran_2026_11_18_161355_Eloise_GRES_6961423d93.png",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "\u00c9tudiants",
+			"url": "",
+			"description": "Le Centre Saint Guillaume vous invite pour sa conf\u00e9rence hebdomadaire, \u00e0 21h15, au 42 bis rue de Grenelle (\u00e0 1 minute de Sciences Po), pour traiter du sujet des violences au sein de l\u2019Eglise. Claire-Marie Peruta sera notre invit\u00e9e.\nVous \u00eates aussi les bienvenus au d\u00eener qui pr\u00e9c\u00e8de la conf\u00e9rence, \u00e0 20h."
+		},
+		{
+			"title": "La Renaissance r\u00e9imagin\u00e9e : arts et sciences humaines sous un jour nouveau (Bologne & Venise) - Fabula, la recherche en litt\u00e9rature",
+			"link": "https://www.fabula.org/actualites/138013/la-renaissance-reimaginee-arts-et-sciences-humaines-sous-un.html",
+			"pubDate": "Fri, 20 Nov 2026 01:29:00 GMT",
+			"image": "https://www.fabula.org/actualites/documents/138013_8e38c0e29656fe90d091aacea3e56c20.png",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "",
+			"url": "https://www.fabula.org/actualites/138013/la-renaissance-reimaginee-arts-et-sciences-humaines-sous-un.html",
+			"description": "La 14e Conf\u00e9rence scientifique internationale SWS en arts et sciences humaines \u2014 \u00ab La Renaissance r\u00e9imagin\u00e9e : les arts et les sciences humaines sous un jour nouveau \u00bb \u2014 se tiendra \u00e0 Bologne (Italie) du..."
+		},
+		{
+			"title": "50 ans de la facult\u00e9 des lettres et des sciences humaines de l\u2019USJ - L'Orient-Le Jour",
+			"link": "https://www.lorientlejour.com/article/1555102/50-ans-de-la-faculte-des-lettres-et-des-sciences-humaines-de-lusj.html",
+			"pubDate": "Thu, 19 Nov 2026 22:00:00 GMT",
+			"image": "https://www.lorientlejour.com/assets/images/meta-tags-article-placeholder.jpg",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "L'Orient-Le Jour",
+			"url": "https://www.lorientlejour.com/article/1555102/50-ans-de-la-faculte-des-lettres-et-des-sciences-humaines-de-lusj.html",
+			"description": "La facult\u00e9 des lettres et des sciences humaines (FLSH) de l\u2019Universit\u00e9 Saint-Joseph de Beyrouth (USJ) organise pour ses 50 ans un colloque sur le th\u00e8me\u00a0: \u00ab\u00a0D\u00e9fis d\u2019hier, crises d\u2019aujourd\u2019hui,..."
+		},
+		{
+			"title": "Une professeure d'\u00e9conomie de Grenoble convoqu\u00e9e le 26 novembre au rectorat \"pour recueillir son point de vue\", apr\u00e8s un devoir faisant \u00e9cho au mouvement lyc\u00e9en - franceinfo",
+			"link": "https://www.franceinfo.fr/societe/education/une-professeure-d-economie-de-grenoble-convoquee-le-26-novembre-au-rectorat-pour-recueillir-son-point-de-vue-apres-un-devoir-faisant-echo-au-mouvement-lyceen_8290589.html",
+			"pubDate": "Thu, 19 Nov 2026 19:21:56 GMT",
+			"image": "https://www.franceinfo.fr/pictures/DQU1ZhRTHafv6NnOXy4UEMiJ7p0/0x162:4256x2556/1500x843/2026/11/19/6aff4c4fa1d38114545771.jpg",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "franceinfo",
+			"url": "https://www.franceinfo.fr/societe/education/une-professeure-d-economie-de-grenoble-convoquee-le-26-novembre-au-rectorat-pour-recueillir-son-point-de-vue-apres-un-devoir-faisant-echo-au-mouvement-lyceen_8290589.html",
+			"description": "Une enseignante de sciences \u00e9conomiques et sociales (SES) de Grenoble est convoqu\u00e9e au rectorat apr\u00e8s que plusieurs familles ont saisi la proviseure du lyc\u00e9e Louise-Michel de Grenoble au sujet d'un devoir facultatif faisant \u00e9cho au mouvement lyc\u00e9en."
+		},
+		{
+			"title": "B\u00e9atrice Cointe, sociologue : \u00ab Il est devenu impossible d\u2019ignorer que les sciences du climat sont politiques de bout en bout \u00bb - Le Monde.fr",
+			"link": "https://www.lemonde.fr/idees/article/2026/11/19/beatrice-cointe-sociologue-il-est-devenu-impossible-d-ignorer-que-les-sciences-du-climat-sont-politiques-de-bout-en-bout_6813350_3232.html",
+			"pubDate": "Thu, 19 Nov 2026 17:00:09 GMT",
+			"image": "",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "",
+			"url": "",
+			"description": ""
+		},
+		{
+			"title": "Vers la fin du partenariat p\u00e9dagogique controvers\u00e9 entre TotalEnergies et la fac des sciences de Montpellier - Midi Libre",
+			"link": "https://www.midilibre.fr/2026/11/19/vers-la-fin-du-partenariat-pedagogique-controverse-entre-totalenergies-et-la-fac-des-sciences-de-montpellier-13661521.php",
+			"pubDate": "Thu, 19 Nov 2026 16:50:00 GMT",
+			"image": "https://images.midilibre.fr/api/v1/images/view/6aff2716e68904c7170fb563/hd/image.jpg?v=1",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "midilibre.fr",
+			"url": "https://www.midilibre.fr/2026/11/19/vers-la-fin-du-partenariat-pedagogique-controverse-entre-totalenergies-et-la-fac-des-sciences-de-montpellier-13661521.php",
+			"description": "Le partenariat p\u00e9dagogique sign\u00e9 en juin entre TotalEnergies et la fac des sciences de Montpellier a \u00e9t\u00e9 remis en cause, ce mercredi, lors d\u2019un vote du conseil de l\u2019\u00e9tablissement. La participation du g\u00e9ant p\u00e9trolier..."
+		},
+		{
+			"title": "Damien Deldicque et Damien Laage, laur\u00e9ats de l\u2019Acad\u00e9mie des sciences 2026 - l'ENS - PSL",
+			"link": "https://www.ens.psl.eu/actualites/damien-deldicque-et-damien-laage-laureats-de-l-academie-des-sciences-2026",
+			"pubDate": "Thu, 19 Nov 2026 16:41:17 GMT",
+			"image": "",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "",
+			"url": "",
+			"description": ""
+		},
+		{
+			"title": "Justice algorithmique des \u00e9lections : une approche interdisciplinaire du contentieux \u00e9lectoral - Sciences Po",
+			"link": "https://www.sciencespo.fr/liepp/fr/evenements/justice-algorithmique-des-elections-une-approche-interdisciplinaire-du-contentieux-electoral/",
+			"pubDate": "Thu, 19 Nov 2026 15:28:44 GMT",
+			"image": "https://www.sciencespo.fr/liepp/fr/static/65d31975b422deae7a9053817fe338a7/bf9cf/Sans_titre_16_septembre_2025_a_12_57_36_9_1_10c90c7b92.png",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "Laboratoire interdisciplinaire d\u2019\u00e9valuation des politiques publiques",
+			"url": "",
+			"description": "Pr\u00e9sentation du projet JADE par Romain Rambaud (UGA/CRJ, LIEPP)"
+		},
+		{
+			"title": "IA : entre science et fiction, le futur est d\u00e9j\u00e0 l\u00e0 ! - ECHOSCIENCES - Grenoble",
+			"link": "https://www.echosciences-grenoble.fr/articles/ia-le-futur-est-deja-la-sebastien",
+			"pubDate": "Thu, 19 Nov 2026 15:17:49 GMT",
+			"image": "https://www.echosciences-grenoble.fr/uploads/article/image/attachment/1005567694/lg_Logo_mardis_du_futur_en_imp_%C3%A9cran.png",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "",
+			"url": "",
+			"description": "IA : entre science et fiction Le futur est d\u00e9j\u00e0 l\u00e0 ! Retour sur la 1\u00e8re soir\u00e9e du cycle \u201cl\u2019IA entre Science et Fiction\u201d, qui a eu lieu le mardi 17..."
+		},
+		{
+			"title": "Des scientifiques ont utilis\u00e9 GTA pour simuler la mont\u00e9e des eaux : voici ce qui arriverait \u00e0 Los Angeles - Futura, le m\u00e9dia qui explore le monde",
+			"link": "https://www.futura-sciences.com/tech/actualites/gta-vi-scientifiques-ont-utilise-gta-simuler-montee-eaux-voici-ce-arriverait-los-angeles-139468/",
+			"pubDate": "Thu, 19 Nov 2026 15:04:00 GMT",
+			"image": "https://cdn8.futura-sciences.com/a1280/images/Archipel%20montagneux%20au%20c%C5%93ur%20du%20bleu%20profond.png",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "Futura",
+			"url": "https://www.futura-sciences.com/tech/actualites/gta-vi-scientifiques-ont-utilise-gta-simuler-montee-eaux-voici-ce-arriverait-los-angeles-139468/",
+			"description": "Alors que Grand Theft Auto VI vient de sortir, des chercheurs ont publi\u00e9 une \u00e9tude scientifique pour le moins \u00e9tonnante : ils ont utilis\u00e9 GTA V pour simuler la mont\u00e9e des eaux et montrer \u00e0 quoi pou..."
+		},
+		{
+			"title": "Le festival Sud de Sciences investit les \u00e9crans de la m\u00e9tropole de Montpellier du 1er au 6 d\u00e9cembre - Midi Libre",
+			"link": "https://www.midilibre.fr/2026/11/19/le-festival-sud-de-sciences-investit-les-ecrans-de-la-metropole-de-montpellier-du-1er-au-6-decembre-13660946.php",
+			"pubDate": "Thu, 19 Nov 2026 13:10:00 GMT",
+			"image": "https://images.midilibre.fr/api/v1/images/view/6afec96cefab33443f065c85/hd/image.jpg?v=16",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "midilibre.fr",
+			"url": "https://www.midilibre.fr/2026/11/19/le-festival-sud-de-sciences-investit-les-ecrans-de-la-metropole-de-montpellier-du-1er-au-6-decembre-13660946.php",
+			"description": "Pour sa 9e \u00e9dition, l\u2019\u00e9v\u00e9nement d\u00e9di\u00e9 au documentaire scientifique propose six jours de projections gratuites et de d\u00e9bats avec des chercheurs. De Clapiers au quartier Antigone en passant par le campus Triolet, la..."
+		},
+		{
+			"title": "Sellas Life Sciences s'effondre apr\u00e8s une cession d'actions de 150 millions de dollars \u00e0 un prix fortement r\u00e9d - Boursorama",
+			"link": "https://www.boursorama.com/bourse/actualites/sellas-life-sciences-s-effondre-apres-une-cession-d-actions-de-150-millions-de-dollars-a-un-prix-fortement-reduit-d12c58c547ed8fdf858e10e3dce23ed8",
+			"pubDate": "Thu, 19 Nov 2026 11:45:45 GMT",
+			"image": "https://www.boursorama.com/bundles/boursoramaui/images/news/trading-news-4.jpg",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "Boursorama",
+			"url": "https://www.boursorama.com/bourse/actualites/sellas-life-sciences-s-effondre-apres-une-cession-d-actions-de-150-millions-de-dollars-a-un-prix-fortement-reduit-d12c58c547ed8fdf858e10e3dce23ed8",
+			"description": "** L'action de Sellas Life Sciences SLS.O a chut\u00e9 de 24,2 % \u00e0 13,61 dollars avant l'ouverture de la s\u00e9ance de jeudi, apr\u00e8s l'annonce du prix d'une nouvelle \u00e9mission \u00e0 forte d\u00e9cote de 150 millions de dollars ** Mercredi en fin de journ\u00e9e, la soci\u00e9t\u00e9 biopharmaceutique"
+		},
+		{
+			"title": "S\u00e9lestat et environs. March\u00e9s de No\u00ebl, sciences... Notre s\u00e9lection de sorties ce week-end des 20, 21 et 22 novembre - DNA.fr",
+			"link": "https://www.dna.fr/culture-loisirs/2026/11/19/marche-de-noel-sciences-notre-selection-de-sorties-ce-week-end-des-20-21-et-22-novembre",
+			"pubDate": "Thu, 19 Nov 2026 11:01:36 GMT",
+			"image": "https://cdn-s-www.dna.fr/images/8D84F1B5-82CD-49DF-8965-CCEB525859EB/FB1200/photo-1795020842.jpg",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "",
+			"url": "https://www.dna.fr/culture-loisirs/2026/11/19/marche-de-noel-sciences-notre-selection-de-sorties-ce-week-end-des-20-21-et-22-novembre",
+			"description": "\u00c7a y est ! Les march\u00e9s et autres festivit\u00e9s de No\u00ebl s'installent en Centre-Alsace ce week-end des 20, 21 et 22 novembre, notamment \u00e0 Ch\u00e2tenois, S\u00e9lestat et Marckolsheim. Si vous \u00eates plut\u00f4t branch\u00e9 animations scientifiques ou \u00e0 la recherche de votre paire de skis pour cet hiver, il y aura aussi de quoi faire dans le secteur."
+		},
+		{
+			"title": "Faut-il avoir peur de la FIV ? Ce que dit vraiment la science, loin des peurs et des fantasmes - L'Express",
+			"link": "https://www.lexpress.fr/sciences-sante/faut-il-avoir-peur-de-la-fiv-ce-que-dit-vraiment-la-science-loin-des-peurs-et-des-fantasmes-X7O7WKY3MFGLXLVHSLDSVSAI4U/",
+			"pubDate": "Thu, 19 Nov 2026 11:00:00 GMT",
+			"image": "https://www.lexpress.fr/resizer/v2/2CDEJQOZHRALBNBMUGOAXQM6HI.png?auth=86da0f2c92754d24d4abda1ae8c69dae2435b0a4871b9a0c545404e1732b1ce5&width=1200&height=630&quality=85&focal=1111%2C425",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "L'Express",
+			"url": "https://www.lexpress.fr/sciences-sante/faut-il-avoir-peur-de-la-fiv-ce-que-dit-vraiment-la-science-loin-des-peurs-et-des-fantasmes-X7O7WKY3MFGLXLVHSLDSVSAI4U/",
+			"description": "Les militants oppos\u00e9s \u00e0 la procr\u00e9ation m\u00e9dicalement assist\u00e9e distillent de nombreuses fausses informations, esp\u00e9rant faire reculer cette pratique jug\u00e9e contre-nature. A l\u2019int\u00e9rieur de ces discours, un peu de vrai et beaucoup de mensonges. "
+		},
+		{
+			"title": "Intelligence artificielle et science des donn\u00e9es : deux jeunes chercheurs internationaux rejoignent l\u2019Institut du Cerveau - Institut du Cerveau",
+			"link": "https://institutducerveau.org/actualites/intelligence-artificielle-et-science-donnees-deux-jeunes-chercheurs-internationaux-rejoignent-linstitut-cerveau",
+			"pubDate": "Thu, 19 Nov 2026 10:47:50 GMT",
+			"image": "https://institutducerveau.org/sites/default/files/styles/seo/public/2026-11/adobestock_724667752.jpeg?itok=-4qJMJv9",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "Institut du Cerveau",
+			"url": "https://institutducerveau.org/actualites/intelligence-artificielle-et-science-donnees-deux-jeunes-chercheurs-internationaux-rejoignent-linstitut-cerveau",
+			"description": "\u00c0 l\u2019issue d\u2019un appel \u00e0 candidatures pour des responsables d\u2019\u00e9quipe junior en intelligence artificielle qui a suscit\u00e9 96 candidatures, l\u2019Institut du Cerveau a s\u00e9lectionn\u00e9 deux jeunes chercheurs, Valeria Fascianelli et Jonathan Nicholas, pour d\u00e9velopper leur propre \u00e9quipe de recherche au sein de son Centre d\u2019intelligence artificielle et science des donn\u00e9es. Leurs travaux exploreront notamment la mani\u00e8re dont le cerveau organise l\u2019information, mobilise ses souvenirs et prend ses d\u00e9cisions. Leurs \u00e9quipes rejoindront l\u2019Institut en f\u00e9vrier et en septembre 2027 respectivement."
+		},
+		{
+			"title": "L\u2019Acad\u00e9mie des sciences d\u2019Arm\u00e9nie accueille de nouveaux membres pour la premi\u00e8re fois depuis 12 ans - CIVILNET",
+			"link": "https://civilnet.am/fr/news/1015464",
+			"pubDate": "Thu, 19 Nov 2026 10:36:00 GMT",
+			"image": "https://civilnet.am/storage/media/26/11/18/sDhA3iu2YQgbPVox.webp",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "CIVILNET",
+			"url": "https://civilnet.am/fr/news/1015464",
+			"description": "Par Siranush Adamyan L\u2019Acad\u00e9mie nationale des sciences d\u2019Arm\u00e9nie a accueilli 31 nouveaux membres correspondants, une premi\u00e8re depuis pr\u00e8s de 12 ans...."
+		},
+		{
+			"title": "\"Comment l'IA r\u00e9volutionne les maths\" : c'est la couverture de Sciences et Avenir de d\u00e9cembre 2026 - Sciences et Avenir",
+			"link": "https://www.sciencesetavenir.fr/decouvrir/agenda/edito-comment-l-ia-revolutionne-les-maths-a-decouvrir-dans-sciences-et-avenir-de-decembre-2026_196203",
+			"pubDate": "Thu, 19 Nov 2026 07:00:00 GMT",
+			"image": "",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "",
+			"url": "",
+			"description": ""
+		},
+		{
+			"title": "La science se met \u00e0 table ! - martinique.franceantilles.fr",
+			"link": "https://www.martinique.franceantilles.fr/actualite/culture/la-science-se-met-a-table-1100162.php",
+			"pubDate": "Thu, 19 Nov 2026 05:38:10 GMT",
+			"image": "https://medias.franceantilles.fr/api/v1/images/view/6afe89a3641b06ad240664a2/width_1000/image.jpg",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "martinique.franceantilles.fr",
+			"url": "",
+			"description": "La 35e \u00e9dition de la F\u00eate de la science, coordonn\u00e9e par le Carbet des Sciences, a \u00e9t\u00e9 plac\u00e9e sous le signe du go\u00fbt. De nombreuses animations sont propos\u00e9es au grand public pour d\u00e9couvrir de savoureuses richesses martiniquaises."
+		},
+		{
+			"title": "A Montpellier, des doctorants font reculer l\u2019universit\u00e9 sur une convention sign\u00e9e avec TotalEnergies - Le Monde.fr",
+			"link": "https://www.lemonde.fr/planete/article/2026/11/18/a-montpellier-des-doctorants-font-reculer-l-universite-sur-une-convention-signee-avec-totalenergies_6813190_3244.html",
+			"pubDate": "Wed, 18 Nov 2026 18:30:04 GMT",
+			"image": "",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "",
+			"url": "",
+			"description": ""
+		},
+		{
+			"title": "Quatre chercheuses distingu\u00e9es au Prix de la jeune recherche 2026 - M\u00e9tropole de Lyon",
+			"link": "https://www.grandlyon.com/actualite/quatre-chercheuses-distinguees-au-prix-de-la-jeune-recherche-2026",
+			"pubDate": "Wed, 18 Nov 2026 15:59:00 GMT",
+			"image": "https://www.grandlyon.com/fileadmin/_processed_/c/f/csm_2026-prixjeunerecherche-AnaisMercey_b2e0ee0ad9.jpg",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "",
+			"url": "https://www.grandlyon.com/actualite/quatre-chercheuses-distinguees-au-prix-de-la-jeune-recherche-2026",
+			"description": "Le Prix de la jeune recherche 2026, remis ce mardi 17 novembre, a r\u00e9compens\u00e9 le travail de quatre chercheuses dans diff\u00e9rents domaines scientifiques. \n"
+		},
+		{
+			"title": "Oracle annonce les agents d\u2019intelligence artificielle Oracle Life Sciences pour les op\u00e9rations des essais cliniques - Zonebourse Suisse",
+			"link": "https://ch.zonebourse.com/actualite-bourse/oracle-annonce-les-agents-da-intelligence-artificielle-oracle-life-sciences-pour-les-operations-des-ce785eddda88f32d",
+			"pubDate": "Wed, 18 Nov 2026 14:20:36 GMT",
+			"image": "",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "",
+			"url": "",
+			"description": ""
+		},
+		{
+			"title": "Une \u00e9toile morte envoie des signaux radio toutes les 8 minutes : les astronomes d\u00e9couvrent un ph\u00e9nom\u00e8ne inattendu - Futura, le m\u00e9dia qui explore le monde",
+			"link": "https://www.futura-sciences.com/sciences/actualites/astronomie-etoile-morte-envoie-signaux-radio-toutes-8-minutes-astronomes-decouvrent-phenomene-inattendu-139392/",
+			"pubDate": "Wed, 18 Nov 2026 14:11:00 GMT",
+			"image": "https://cdn8.futura-sciences.com/a1280/images/pulsar%20naine%20blanche%20IA_N%20Hurley-Walker%20chatgpt.png",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "Futura",
+			"url": "https://www.futura-sciences.com/sciences/actualites/astronomie-etoile-morte-envoie-signaux-radio-toutes-8-minutes-astronomes-decouvrent-phenomene-inattendu-139392/",
+			"description": "\u00c0 plus de 5 000 ann\u00e9es-lumi\u00e8re de la Terre, des astronomes ont identifi\u00e9 l&#039;origine de myst\u00e9rieuses impulsions radio qui se r\u00e9p\u00e8tent toutes les huit minutes. Leur d\u00e9couverte ne permet pas seule..."
+		},
+		{
+			"title": "Alsasciences - La science... les pieds dans l'eau - Universit\u00e9 de Strasbourg",
+			"link": "https://www.unistra.fr/fr/agenda/2026/alsasciences-la-science-les-pieds-leau",
+			"pubDate": "Wed, 18 Nov 2026 13:43:32 GMT",
+			"image": "",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "",
+			"url": "",
+			"description": ""
+		},
+		{
+			"title": "En 1963, les \u00c9tats-Unis dispersent des millions d'aiguilles de cuivre autour de la Terre pour communiquer par radio. Plus de 60 ans apr\u00e8s, des amas sont toujours en orbite - Futura, le m\u00e9dia qui explore le monde",
+			"link": "https://www.futura-sciences.com/sciences/actualites/espace-1963-etats-unis-dispersent-millions-aiguilles-cuivre-autour-terre-communiquer-radio-plus-60-ans-apres-amas-sont-toujours-orbite-139426/",
+			"pubDate": "Wed, 18 Nov 2026 12:41:00 GMT",
+			"image": "https://cdn8.futura-sciences.com/a1920/images/actu/aiguilles-cuivre-projet-west-ford.jpg",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "Futura",
+			"url": "https://www.futura-sciences.com/sciences/actualites/espace-1963-etats-unis-dispersent-millions-aiguilles-cuivre-autour-terre-communiquer-radio-plus-60-ans-apres-amas-sont-toujours-orbite-139426/",
+			"description": "Et si, l\u00e0-haut, au milieu des d\u00e9bris modernes, flottaient encore les vestiges d&#039;un immense anneau m\u00e9tallique oubli\u00e9 depuis la guerre froide ? En 1963, les \u00c9tats-Unis ont tent\u00e9 de ceinturer la ..."
+		},
+		{
+			"title": "Nancy : l\u2019occupation du campus Lettres et Sciences Humaines prend fin sous la contrainte, la pr\u00e9sidente refuse le \u00ab semestre blanc \u00bb - MAGNUM LA RADIO",
+			"link": "https://www.magnumlaradio.com/nancy-l-occupation-du-campus-lettres-et-sciences-humaines-prend-fin-sous-la-contrainte-la-presidente-refuse-le-semestre-blanc",
+			"pubDate": "Wed, 18 Nov 2026 12:35:00 GMT",
+			"image": "https://medias.lesindesradios.fr/t:app(web)/t:r(unknown)/filters:format(jpeg)/medias/Ufhbm7hWrE/image/Campus_nancy1795005801697.png",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "",
+			"url": "https://www.magnumlaradio.com/nancy-l-occupation-du-campus-lettres-et-sciences-humaines-prend-fin-sous-la-contrainte-la-presidente-refuse-le-semestre-blanc",
+			"description": "Apr\u00e8s plus de 24 \u00a0heures d\u2019occupation, l\u2019Universit\u00e9 de Lorraine a fait appel aux forces de l\u2019ordre et plac\u00e9 le campus sous fermeture administrative."
+		},
+		{
+			"title": "La magie de No\u00ebl s'invite \u00e0 la Cit\u00e9 des sciences et de l'industrie, pour un week-end festif et cr\u00e9atif - Sortir \u00e0 Paris",
+			"link": "https://www.sortiraparis.com/arts-culture/exposition/articles/357705-la-magie-de-noel-s-invite-a-la-cite-des-sciences-et-de-l-industrie-pour-un-week-end-festif-et-creatif",
+			"pubDate": "Wed, 18 Nov 2026 10:23:15 GMT",
+			"image": "https://cdn.sortiraparis.com/images/80/115560/1337760-cite-des-sciences-et-de-l-industrie-grande-fete-de-fin-d-annee-csi-sortiraparis-849x549px-fetefinannee26.jpg",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "",
+			"url": "https://www.sortiraparis.com/arts-culture/exposition/articles/357705-la-magie-de-noel-s-invite-a-la-cite-des-sciences-et-de-l-industrie-pour-un-week-end-festif-et-creatif",
+			"description": ""
+		},
+		{
+			"title": "COP31 : bras de fer autour du r\u00f4le de la science dans les d\u00e9cisions climatiques - La Croix",
+			"link": "https://www.la-croix.com/planete/cop31-bras-de-fer-autour-du-role-de-la-science-dans-les-decisions-climatiques-20261118",
+			"pubDate": "Wed, 18 Nov 2026 09:44:31 GMT",
+			"image": "https://i.la-croix.com/1400x933/5x5/2026/11/18/2591823-au-centre-des-congres-mimar-sinan-a-antalya-turqui.jpg",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "La Croix",
+			"url": "https://www.la-croix.com/planete/cop31-bras-de-fer-autour-du-role-de-la-science-dans-les-decisions-climatiques-20261118",
+			"description": "\u00c0 la 31e COP sur le climat, qui se tient jusqu\u2019au 20\u00a0novembre 2026 en Turquie, il est beaucoup question de la remise en cause du Giec, dont les prochains rapports sont tr\u00e8s attendus pour inspirer les d\u00e9cisions futures."
+		},
+		{
+			"title": "Les \u00c9tats-Unis perdent leur statut de pays ayant \u00e9limin\u00e9 la rougeole - Sciences et Avenir",
+			"link": "https://www.sciencesetavenir.fr/sante/les-etats-unis-perdent-leur-statut-de-pays-ayant-elimine-la-rougeole_196186",
+			"pubDate": "Wed, 18 Nov 2026 09:04:58 GMT",
+			"image": "",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "",
+			"url": "",
+			"description": ""
+		},
+		{
+			"title": "Eau, alimentation, conflits : \u00e0 Sciences Po Menton, une conf\u00e9rence pour d\u00e9crypter les nouveaux enjeux de s\u00e9curit\u00e9 internationale - Nice-Matin",
+			"link": "https://www.nicematin.com/societe/eau-alimentation-conflits-a-sciences-po-menton-une-conference-pour-decrypter-les-nouveaux-enjeux-de-securite-internationale-10762849",
+			"pubDate": "Wed, 18 Nov 2026 09:00:05 GMT",
+			"image": "",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "",
+			"url": "",
+			"description": ""
+		},
+		{
+			"title": "\u00ab Voyager 1 s'appr\u00eate \u00e0 franchir un seuil historique : j'allais avoir 8 ans lorsqu'elle a d\u00e9coll\u00e9 et elle a marqu\u00e9 ma vie \u00bb - Futura, le m\u00e9dia qui explore le monde",
+			"link": "https://www.futura-sciences.com/sciences/actualites/astronomie-voyager-1-apprete-franchir-seuil-historique-jallais-avoir-8-ans-lorsquelle-decolle-elle-marque-vie-139256/",
+			"pubDate": "Wed, 18 Nov 2026 08:01:00 GMT",
+			"image": "https://cdn8.futura-sciences.com/a1920/images/voyager%201_nasa.jpg",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "Futura",
+			"url": "https://www.futura-sciences.com/sciences/actualites/astronomie-voyager-1-apprete-franchir-seuil-historique-jallais-avoir-8-ans-lorsquelle-decolle-elle-marque-vie-139256/",
+			"description": "Pr\u00e8s d&#039;un demi-si\u00e8cle apr\u00e8s son lancement, Voyager 1 s&#039;appr\u00eate \u00e0 \u00e9tablir un nouveau record historique. Mais l&#039;extraordinaire aventure de cette sonde spatiale ne se mesure pas seuleme..."
+		},
+		{
+			"title": "Politique du logement abordable : des logiques de gestion d\u2019actifs au coeur de l\u2019\u00c9tat - Sciences Po",
+			"link": "https://www.sciencespo.fr/centre-etudes-europeennes/fr/actualites/politique-du-logement-abordable-des-logiques-de-gestion-d-actifs-au-coeur-de-l-etat/",
+			"pubDate": "Wed, 18 Nov 2026 08:00:00 GMT",
+			"image": "https://www.sciencespo.fr/centre-etudes-europeennes/fr/static/cac4153bec173e4a79034770f1f02abd/107b5/couverture_tap_antoine_guironnet_prix_de_la_recherche_2026_471a746209.jpg",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "Centre d'\u00e9tudes europ\u00e9ennes et de politique compar\u00e9e",
+			"url": "",
+			"description": "Entretien avec Antoine Guironnet, laur\u00e9at du Grand Prix 2026 de la recherche sur l'habitat social pour un article issu de ses recherches postdoctorales au CEE."
+		},
+		{
+			"title": "\u00abUne minorit\u00e9 d\u00e9cide du sort de tout l\u2019IEP\u00bb : comment une poign\u00e9e d\u2019\u00e9tudiants a bloqu\u00e9 Sciences Po Strasbourg pendant un mois avant d\u2019obtenir des concessions - Le Figaro",
+			"link": "https://www.lefigaro.fr/actualite-france/une-minorite-decide-du-sort-de-tout-l-iep-comment-une-poignee-d-etudiants-a-bloque-sciences-po-strasbourg-pendant-un-mois-avant-d-obtenir-des-concessions-20261118",
+			"pubDate": "Wed, 18 Nov 2026 06:00:12 GMT",
+			"image": "https://i.f1g.fr/media/cms/1200x630_crop/2026/11/19/0b48c0eb076820b58f7894c6bcb683a0e2b911063b1631c4a6508dcbc0196e80.jpg",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "Le Figaro",
+			"url": "https://www.lefigaro.fr/actualite-france/une-minorite-decide-du-sort-de-tout-l-iep-comment-une-poignee-d-etudiants-a-bloque-sciences-po-strasbourg-pendant-un-mois-avant-d-obtenir-des-concessions-20261118",
+			"description": "R\u00c9CIT - Sur le campus du Cardo, les enseignements ont repris le 9 novembre apr\u00e8s un accord sur l\u2019assiduit\u00e9 et la notation. L\u2019issue met fin \u00e0 plusieurs semaines d\u2019incertitude et de d\u00e9crochage, au cours desquelles la vie de l\u2019\u00e9cole s\u2019est trouv\u00e9e suspendue aux d\u00e9cisions des \u00abmobilis\u00e9s\u00bb."
+		},
+		{
+			"title": "Universit\u00e9 de Lorraine : 25 manifestants d\u00e9log\u00e9s par la police du campus Lettres et Sciences Humaines - ici.fr",
+			"link": "https://www.ici.fr/infos/education/universite-de-lorraine-25-manifestants-deloges-par-la-police-du-campus-lettres-et-sciences-humaines-7359230",
+			"pubDate": "Wed, 18 Nov 2026 05:54:19 GMT",
+			"image": "https://www.ici.fr/pikapi/images/1475b660-34a5-4e32-9109-75066c92db0f/1200x630?webp=false",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "ici.fr",
+			"url": "https://www.ici.fr/infos/education/universite-de-lorraine-25-manifestants-deloges-par-la-police-du-campus-lettres-et-sciences-humaines-7359230",
+			"description": "Les forces de l'ordre sont intervenues, ce mardi soir, pour d\u00e9loger 25 manifestants, qui occupaient des locaux du campus Lettres depuis lundi apr\u00e8s-midi. L'universit\u00e9 de Lorraine, apr\u00e8s avoir dialogu\u00e9 en vain pendant 24h a d\u00e9cid\u00e9 de porter plainte."
+		},
+		{
+			"title": "Sellas Life Sciences renonce \u00e0 son projet de lev\u00e9e de fonds apr\u00e8s la forte hausse de son cours - Boursorama",
+			"link": "https://www.boursorama.com/bourse/actualites/sellas-life-sciences-renonce-a-son-projet-de-levee-de-fonds-apres-la-forte-hausse-de-son-cours-b9b71668e6f9f86ac2b69ea9e56b02f6",
+			"pubDate": "Tue, 17 Nov 2026 21:20:48 GMT",
+			"image": "https://www.boursorama.com/bundles/boursoramaui/images/news/trading-news-3.jpg",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "Boursorama",
+			"url": "https://www.boursorama.com/bourse/actualites/sellas-life-sciences-renonce-a-son-projet-de-levee-de-fonds-apres-la-forte-hausse-de-son-cours-b9b71668e6f9f86ac2b69ea9e56b02f6",
+			"description": "** L'action de Sellas Life Sciences SLS.O a recul\u00e9 de 13,3 % \u00e0 16,61 dollars apr\u00e8s la cl\u00f4ture, alors que la soci\u00e9t\u00e9 cherche \u00e0 lever des fonds, apr\u00e8s avoir plus que doubl\u00e9 de valeur pendant la s\u00e9ance r\u00e9guli\u00e8re ** L'action SLS a cl\u00f4tur\u00e9 en hausse de 156,4 % \u00e0 19,15"
+		},
+		{
+			"title": "Les certifications : une option id\u00e9ale pour approfondir une th\u00e9matique d\u00e8s le bachelor - Sciences Po",
+			"link": "https://www.sciencespo.fr/fr/actualites/les-certifications-une-option-ideale-pour-approfondir-une-thematique-des-le-bachelor/",
+			"pubDate": "Tue, 17 Nov 2026 16:50:08 GMT",
+			"image": "https://www.sciencespo.fr/fr/static/e272582650156ca20b5a5562dcb3ae28/239fc/certification_ceremonie_CU_civica_2026_sciencespo_c8837b09e6.jpg",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "Sciences Po",
+			"url": "",
+			"description": "Europe, genre, mers, villes : pens\u00e9es comme un compl\u00e9ment au dipl\u00f4me de bachelor, les quatre certifications du Coll\u00e8ge universitaire permettent d'affiner ses connaissances et comp\u00e9tences sur certains th\u00e8mes."
+		},
+		{
+			"title": "Appel \u00e0 initiatives \"Jeunes Publics\" science, culture et soci\u00e9t\u00e9 - Sorbonne Universit\u00e9",
+			"link": "https://www.sorbonne-universite.fr/la-culture/universite-des-enfants-et-des-adolescents/appel-initiatives-jeunes-publics-science",
+			"pubDate": "Tue, 17 Nov 2026 15:07:17 GMT",
+			"image": "https://www.sorbonne-universite.fr/sites/default/files/media/2026-11/culture_actions_jeunes_publics.jpg",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "Sorbonne Universit\u00e9",
+			"url": "https://www.sorbonne-universite.fr/la-culture/universite-des-enfants-et-des-adolescents/appel-initiatives-jeunes-publics-science",
+			"description": "C\u2019est la quatri\u00e8me \u00e9dition de l\u2019appel \u00e0 Initiatives Jeunes Publics. Il a permis de soutenir, en 2026, vingt-cinq initiatives destin\u00e9es aux Jeunes publics. Cet appel \u00e0 initiatives est financ\u00e9 par le projet SOUND, un projet France 2030 du programme ExcellencES. La Direction des relations Science, Culture, Soci\u00e9t\u00e9 pilote l\u2019appel \u00e0 initiatives et peut apporter un accompagnement en ing\u00e9nierie de m\u00e9diation. En 2027, un nouvel appel, ouvert \u00e0 l\u2019\u00e9chelle de l\u2019Alliance Sorbonne Universit\u00e9, propose de soutenir des initiatives Science Culture Soci\u00e9t\u00e9 \u2013 Jeunes Publics \u2013 port\u00e9es par les personnels de recherche et d\u2019enseignement de l\u2019ASU."
+		},
+		{
+			"title": "Visible depuis l\u2019espace, un ruban brun de 8 850 km traverse l\u2019Atlantique et bat un nouveau record - Futura, le m\u00e9dia qui explore le monde",
+			"link": "https://www.futura-sciences.com/planete/actualites/ocean-visible-depuis-espace-ruban-brun-8-850-km-traverse-atlantique-bat-nouveau-record-g6r7-139326/",
+			"pubDate": "Tue, 17 Nov 2026 15:00:00 GMT",
+			"image": "https://cdn8.futura-sciences.com/a1280/images/ruban-atlantique.jpg",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "Futura",
+			"url": "https://www.futura-sciences.com/planete/actualites/ocean-visible-depuis-espace-ruban-brun-8-850-km-traverse-atlantique-bat-nouveau-record-g6r7-139326/",
+			"description": "Depuis quelques ann\u00e9es, une pr\u00e9sence \u00e9trange s\u2019\u00e9tire en silence \u00e0 la surface de l\u2019Atlantique. Vue de l\u2019espace, elle dessine un immense ruban brun reliant deux continents. Ce ph\u00e9nom\u00e8ne, quasi inconn..."
+		},
+		{
+			"title": "Les acad\u00e9mies des sciences du G20 appellent \u00e0 renforcer la r\u00e9silience face aux catastrophes par la coop\u00e9ration internationale - Acad\u00e9mie des sciences",
+			"link": "https://www.academie-sciences.fr/les-academies-des-sciences-du-g20-appellent-renforcer-la-resilience-face-aux-catastrophes-par-la",
+			"pubDate": "Tue, 17 Nov 2026 14:48:57 GMT",
+			"image": "",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "",
+			"url": "",
+			"description": ""
+		},
+		{
+			"title": "Mobilisation lyc\u00e9enne : chercheurs et enseignants de Sciences Po d\u00e9cryptent l'actualit\u00e9 sur le m\u00e9dia Conf\u00e9rence - Newsroom Sciences Po",
+			"link": "https://newsroom.sciencespo.fr/?p=19003",
+			"pubDate": "Tue, 17 Nov 2026 14:42:03 GMT",
+			"image": "https://newsroom.sciencespo.fr/wp-content/uploads/2026/11/da74190b60f2bf1f3cd5a3fb0f844a4b.png",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "Newsroom Sciences Po",
+			"url": "https://newsroom.sciencespo.fr/?p=19003",
+			"description": "Paris, le 17 novembre \u2013 Mobilisation de la jeunesse, manifestations lyc\u00e9ennes, contestations sociales : pour comprendre les ressorts derri\u00e8re ces mouvements qui font l\u2019actualit\u00e9 en France depuis plusieurs semaines, pour analyser leurs formes d\u2019expression et les enjeux politiques et soci\u00e9taux qu\u2019ils interrogent, Sciences Po propose sur son m\u00e9dia Conf\u00e9rence un dossier de d\u00e9cryptage par les [\u2026]"
+		},
+		{
+			"title": "Sciences Po Strasbourg : le directeur d\u00e9ment un 10/20 automatique accord\u00e9 aux \u00e9tudiants apr\u00e8s le blocage - Actu.fr",
+			"link": "https://actu.fr/grand-est/strasbourg_67482/sciences-po-strasbourg-le-directeur-dement-un-10-20-automatique-accorde-aux-etudiants-apres-le-blocage_65065635.html",
+			"pubDate": "Tue, 17 Nov 2026 13:51:42 GMT",
+			"image": "https://static.actu.fr/uploads/2021/02/20210212-123159.jpg",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "actu.fr",
+			"url": "https://actu.fr/grand-est/strasbourg_67482/sciences-po-strasbourg-le-directeur-dement-un-10-20-automatique-accorde-aux-etudiants-apres-le-blocage_65065635.html",
+			"description": "Le directeur de Sciences Po Strasbourg, Emmanuel Droit, d\u00e9ment qu'un 10/20 automatique ait \u00e9t\u00e9 accord\u00e9 aux \u00e9tudiants pour mettre fin au blocage de l'\u00e9tablissement."
+		},
+		{
+			"title": "Le titre Sellas Life Sciences s'envole apr\u00e8s qu'un vaccin contre le cancer a prolong\u00e9 la survie des patients l - Boursorama",
+			"link": "https://www.boursorama.com/bourse/actualites/le-titre-sellas-life-sciences-s-envole-apres-qu-un-vaccin-contre-le-cancer-a-prolonge-la-survie-des-patients-lors-d-un-essai-clinique-010013b8a3825e532c7630abd74498b7",
+			"pubDate": "Tue, 17 Nov 2026 13:39:26 GMT",
+			"image": "https://www.boursorama.com/bundles/boursoramaui/images/news/trading-news-3.jpg",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "Boursorama",
+			"url": "https://www.boursorama.com/bourse/actualites/le-titre-sellas-life-sciences-s-envole-apres-qu-un-vaccin-contre-le-cancer-a-prolonge-la-survie-des-patients-lors-d-un-essai-clinique-010013b8a3825e532c7630abd74498b7",
+			"description": "** Les actions du laboratoire pharmaceutique Sellas Life Sciences SLS.O grimpent de 301% pour atteindre 29,98 dollars avant l'ouverture du march\u00e9 ** SLS indique que son vaccin exp\u00e9rimental , le galinpepimut-S (ou GPS), a permis \u00e0 des patients atteints d\u2019un type"
+		},
+		{
+			"title": "Prix Michel Gouilloud 2026 de l'Acad\u00e9mie des Sciences pour Diane RIVET - Observatoire de la C\u00f4te d'Azur",
+			"link": "https://www.oca.eu/fr/acc-geoazur/6012-prix-michel-gouilloud-2026-de-lacademie-des-sciences-pour-diane-rivet",
+			"pubDate": "Tue, 17 Nov 2026 12:02:23 GMT",
+			"image": "",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "",
+			"url": "",
+			"description": ""
+		},
+		{
+			"title": "\u00ab Naturellement ! \u00bb, les 5e rencontres du vivant et de la Terre - Pour la Science",
+			"link": "https://www.pourlascience.fr/p/contenus-sponsorises/naturellement-les-5e-rencontres-du-vivant-et-de-la-terre-29774.php",
+			"pubDate": "Tue, 17 Nov 2026 11:00:35 GMT",
+			"image": "https://medias.pourlascience.fr/api/v1/images/view/6afc33a633721e716e0babfe/wide_1300/image.jpg",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "Pourlascience.fr",
+			"url": "https:https://www.pourlascience.fr/p/contenus-sponsorises/naturellement-les-5e-rencontres-du-vivant-et-de-la-terre-29774.php",
+			"description": "La f\u00e9d\u00e9ration d\u2019associations, de soci\u00e9t\u00e9s savantes et d\u2019institutions Biog\u00e9e organise les rencontres \u00ab Naturellement ! \u00bb, \u00e0 Rouen du 20 au 22 novembre 2026 sur le th\u00e8me : \u00ab la biodiversit\u00e9, notre avenir \u00bb. Rencontre avec Anne Hosmalin, directrice de l\u2019Institut Hors Murs (IHM) d\u2019immunologie et d\u2019immunopathologie Paris-Cit\u00e9, et membre du bureau de BioG\u00e9e."
+		},
+		{
+			"title": "Acad\u00e9miciens laur\u00e9ats de l\u2019appel ERC Synergy Grant 2026 - Acad\u00e9mie des sciences",
+			"link": "https://www.academie-sciences.fr/academiciens-laureats-de-lappel-erc-synergy-grant-2026",
+			"pubDate": "Tue, 17 Nov 2026 09:57:32 GMT",
+			"image": "",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "",
+			"url": "",
+			"description": ""
+		},
+		{
+			"title": "Antibiotiques : moins de consommation, plus de r\u00e9sistance - Sciences et Avenir",
+			"link": "https://www.sciencesetavenir.fr/sante/antibioresistance-la-france-face-a-une-menace-qui-progresse-malgre-la-baisse-des-prescriptions_196166",
+			"pubDate": "Tue, 17 Nov 2026 09:04:16 GMT",
+			"image": "",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "",
+			"url": "",
+			"description": ""
+		},
+		{
+			"title": "L\u2019IA ma\u00eetrise les sciences du climat\u2026 jusqu\u2019\u00e0 ce que les utilisateurs la contredisent - UN News",
+			"link": "https://news.un.org/fr/story/2026/11/1159853",
+			"pubDate": "Tue, 17 Nov 2026 07:00:00 GMT",
+			"image": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/2026/06/22-06-2026-Adobe-artificial-intelligence-02.jpg/image770x420cropped.jpg",
+			"logo": "https://picsum.photos/32/32?grayscale",
+			"site_name": "ONU Info",
+			"url": "https://news.un.org/fr/story/2026/11/1159853",
+			"description": "Les principaux mod\u00e8les d\u2019intelligence artificielle r\u00e9pondent correctement \u00e0 la plupart des questions sur les sciences du climat. Mais ils ont une faiblesse pr\u00e9occupante : ils peuvent renier des faits scientifiques \u00e9tablis d\u00e8s qu\u2019un utilisateur les contredit, selon une nouvelle \u00e9tude r\u00e9alis\u00e9e avec la participation de l\u2019ONU."
+		},
+		{
 			"title": "\"Le gouvernement ne s'engage pas, il faut continuer de manifester et rester mobilis\u00e9s !\" Des \u00e9tudiants reconduisent l'occupation de la facult\u00e9 des Lettres et Sciences Humaines - France 3 R\u00e9gions",
 			"link": "https://france3-regions.franceinfo.fr/nouvelle-aquitaine/haute-vienne/limoges/le-gouvernement-ne-s-engage-pas-il-faut-continuer-de-manifester-et-rester-mobilises-des-etudiants-reconduisent-l-occupation-de-la-faculte-des-lettres-et-sciences-humaines-de-limoges-3450849.html",
 			"pubDate": "Mon, 16 Nov 2026 18:11:49 GMT",
@@ -1019,987 +1999,7 @@
 			"site_name": "",
 			"url": "",
 			"description": ""
-		},
-		{
-			"title": "Premi\u00e8re mondiale : un trou noir primordial n\u00e9 du Big Bang viendrait d'\u00eatre observ\u00e9 - Science et vie",
-			"link": "https://www.science-et-vie.com/ciel-et-espace/premiere-mondiale-un-trou-noir-primordial-ne-du-big-bang-aurait-ete-observe-233670.html",
-			"pubDate": "Sat, 14 Nov 2026 16:40:01 GMT",
-			"image": "https://sf.science-et-vie.com/wp-content/uploads/scienceetvie/2026/04/trou-noir-primordial-decouverte-1200x660.jpg",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "Science et vie",
-			"url": "https://www.science-et-vie.com/ciel-et-espace/premiere-mondiale-un-trou-noir-primordial-ne-du-big-bang-aurait-ete-observe-233670.html",
-			"description": "LIGO a peut-\u00eatre d\u00e9tect\u00e9 le premier trou noir primordial de l'histoire. Les chercheurs analysent un signal gravitationnel sans pr\u00e9c\u00e9dent."
-		},
-		{
-			"title": "Les \u00e9tudiants de Sciences Po Strasbourg n\u00e9gocient un minimum garanti de 10/20 aux oraux pour mettre fin aux blocages - Fronti\u00e8res",
-			"link": "https://www.frontieresmedia.fr/societe/les-etudiants-de-sciences-po-strasbourg-negocient-un-minimum-garanti-de-1020-aux-oraux-pour-mettre---20805",
-			"pubDate": "Sat, 14 Nov 2026 16:35:22 GMT",
-			"image": "",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "",
-			"url": "",
-			"description": ""
-		},
-		{
-			"title": "Jusqu'\u00e0 39 fois moins de ressources : une IA surclasse les chercheurs pour concevoir des circuits quantiques - Futura, le m\u00e9dia qui explore le monde",
-			"link": "https://www.futura-sciences.com/tech/actualites/intelligence-artificielle-jusqua-39-fois-moins-ressources-ia-surclasse-chercheurs-concevoir-circuits-quantiques-139073/",
-			"pubDate": "Sat, 14 Nov 2026 16:02:00 GMT",
-			"image": "https://cdn8.futura-sciences.com/a1280/images/IA%20quantique.jpg",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "Futura",
-			"url": "https://www.futura-sciences.com/tech/actualites/intelligence-artificielle-jusqua-39-fois-moins-ressources-ia-surclasse-chercheurs-concevoir-circuits-quantiques-139073/",
-			"description": "Apr\u00e8s avoir d\u00e9montr\u00e9 ses capacit\u00e9s en programmation et en math\u00e9matiques, l&#039;intelligence artificielle s\u2019attaque d\u00e9sormais \u00e0 l\u2019un des d\u00e9fis les plus complexes de l\u2019informatique."
-		},
-		{
-			"title": "Les g\u00e9nies sont-ils forc\u00e9ment tous un peu fous? La science a enqu\u00eat\u00e9 - Slate.fr",
-			"link": "https://www.slate.fr/sciences/folie-genie-lien-etude-correlation-artistes-sante-mentale-trouble",
-			"pubDate": "Sat, 14 Nov 2026 15:55:03 GMT",
-			"image": "https://cdn.slate.fr/uploads/store/story_273983/large_landscape_273983.jpg",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "Slate.fr",
-			"url": "https://www.slate.fr/sciences/folie-genie-lien-etude-correlation-artistes-sante-mentale-trouble",
-			"description": "Des chercheurs ont tent\u00e9 de trouver une preuve scientifique qui expliquerait pourquoi les artistes sont plus expos\u00e9s \u00e0 certains probl\u00e8mes de sant\u00e9\u2026"
-		},
-		{
-			"title": "\"L'IA est aussi importante pour la guerre que l'invention du langage\" : la th\u00e8se de l'anthropologue Jean-Claude Favin-L\u00e9v\u00eaque - L'Express",
-			"link": "https://www.lexpress.fr/sciences-sante/lia-est-aussi-importante-pour-la-guerre-que-linvention-du-langage-la-these-de-lanthropologue-jean-4W44S2EFLNF5BIV2OMAYD3AJZM/",
-			"pubDate": "Sat, 14 Nov 2026 15:00:00 GMT",
-			"image": "https://www.lexpress.fr/resizer/v2/SHMMM54CBRG6LKU4HRCX2PPBLQ.jpg?auth=6582d47710c82d7bda76b46dee86728cb4fcaee8b3caddc227c9c177eaab5ed8&width=1200&height=630&quality=85&focal=3227%2C1100",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "L'Express",
-			"url": "https://www.lexpress.fr/sciences-sante/lia-est-aussi-importante-pour-la-guerre-que-linvention-du-langage-la-these-de-lanthropologue-jean-4W44S2EFLNF5BIV2OMAYD3AJZM/",
-			"description": "Chercheur associ\u00e9 au Mus\u00e9um d'histoire naturelle et ex-officier de l'Arm\u00e9e de l'air, Jean-Claude Favin-L\u00e9v\u00eaque publie \"Et l\u2019Homme cr\u00e9a la guerre\". Il y d\u00e9fend une hypoth\u00e8se audacieuse : la violence collective r\u00e9sulte d\u2019une longue co\u00e9volution entre l\u2019organisation familiale, l\u2019arme et le langage."
-		},
-		{
-			"title": "Le minist\u00e8re des Sciences et de la Technologie examine les documents juridiques et l\u00e8ve les obstacles institutionnels. - Vietnam.vn",
-			"link": "https://www.vietnam.vn/fr/bo-kh-cn-ra-soat-van-ban-quy-pham-phap-luat-thao-go-vuong-mac-the-che",
-			"pubDate": "Sat, 14 Nov 2026 14:51:37 GMT",
-			"image": "https://vstatic.vietnam.vn/vietnam/resource/IMAGE/2026/11/14/1794654541446_db-qppl1.jpeg",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "vietnam.vn",
-			"url": "https://www.vietnam.vn/fr/bo-kh-cn-ra-soat-van-ban-quy-pham-phap-luat-thao-go-vuong-mac-the-che",
-			"description": "\u00c0 travers l'examen de 494 documents juridiques, le minist\u00e8re des Sciences et de la Technologie (MST) a identifi\u00e9 plusieurs lacunes qui doivent \u00eatre corrig\u00e9es et a par la suite propos\u00e9 des solutions pour am\u00e9liorer le cadre institutionnel, supprimer les obstacles et promouvoir le d\u00e9veloppement de la science, de la technologie, de l'innovation et de la transformation num\u00e9rique \u00e0 l'\u00e9chelle nationale."
-		},
-		{
-			"title": "L'Union de la jeunesse du minist\u00e8re des Sciences et de la Technologie et l'Union de la jeunesse de la province de Lang Son ont sign\u00e9 un programme de coop\u00e9ration. - Vietnam.vn",
-			"link": "https://www.vietnam.vn/fr/doan-thanh-nien-bo-khoa-hoc-va-cong-nghe-va-tinh-doan-lang-son-ky-ket-chuong-trinh-phoi-hop",
-			"pubDate": "Sat, 14 Nov 2026 13:57:17 GMT",
-			"image": "https://vstatic.vietnam.vn/vietnam/resource/IMAGE/2026/11/14/1794648210875_707068_img_9226_11021314.jpeg",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "vietnam.vn",
-			"url": "https://www.vietnam.vn/fr/doan-thanh-nien-bo-khoa-hoc-va-cong-nghe-va-tinh-doan-lang-son-ky-ket-chuong-trinh-phoi-hop",
-			"description": "Les derni\u00e8res nouvelles officielles et exactes."
-		},
-		{
-			"title": "Euclid : 900 millions de galaxies observ\u00e9es, le t\u00e9lescope europ\u00e9en s'attaque aux grands myst\u00e8res de l'Univers - L'Express",
-			"link": "https://www.lexpress.fr/sciences-sante/sciences/euclid-le-telescope-europeen-qui-cartographie-lunivers-revele-ses-premieres-donnees-M6FGYOKWPFBY3HVPQOWZGJLKKE/",
-			"pubDate": "Sat, 14 Nov 2026 13:53:18 GMT",
-			"image": "https://www.lexpress.fr/resizer/v2/4H6SFRLXLFHQLNVY3BBCRATCZE.jpg?auth=42ca9dcac4b5e75608150bf0fec088daf43fec2bc21c144da0692b0a4d2be62a&width=1200&height=630&quality=85&focal=1814%2C1111",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "L'Express",
-			"url": "https://www.lexpress.fr/sciences-sante/sciences/euclid-le-telescope-europeen-qui-cartographie-lunivers-revele-ses-premieres-donnees-M6FGYOKWPFBY3HVPQOWZGJLKKE/",
-			"description": "Le t\u00e9lescope cr\u00e9\u00e9 par l'Agence Spatiale Europ\u00e9enne a d\u00e9voil\u00e9 ses premi\u00e8res donn\u00e9es apr\u00e8s avoir observ\u00e9 900 millions de galaxies. Cette cartographie doit aider \u00e0 percer les principaux myst\u00e8res de l'univers : l'\u00e9nergie sombre, \u00e0 l'origine de son expansion, et la mati\u00e8re noire, qui maintiendrait les galaxies ensemble."
-		},
-		{
-			"title": "Tunisie - Italie : lancement d\u2019un master sp\u00e9cialis\u00e9 en sciences pour la transition \u00e9cologique . - Nessma TV",
-			"link": "https://www.nessma.tv/fr/nationale/actu/tunisie-italie-lancement-dun-master-specialise-en-sciences/600664",
-			"pubDate": "Sat, 14 Nov 2026 13:24:00 GMT",
-			"image": "",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "",
-			"url": "",
-			"description": ""
-		},
-		{
-			"title": "D\u00e9velopper l'\u00e9cosyst\u00e8me de l'\u00e9dition en sciences sociales et humaines. - Vietnam.vn",
-			"link": "https://www.vietnam.vn/fr/phat-trien-he-sinh-thai-xuat-ban-khoa-hoc-xa-hoi-va-nhan-van",
-			"pubDate": "Sat, 14 Nov 2026 13:18:27 GMT",
-			"image": "https://vstatic.vietnam.vn/vietnam/resource/IMAGE/2026/11/14/1794659999281_408-202611140159429.jpeg",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "vietnam.vn",
-			"url": "https://www.vietnam.vn/fr/phat-trien-he-sinh-thai-xuat-ban-khoa-hoc-xa-hoi-va-nhan-van",
-			"description": "Au-del\u00e0 de la simple augmentation du nombre d'articles qualifi\u00e9s, l'atelier \u00ab Cr\u00e9ation de sources d'articles pour le Vietnam Journal of Social Sciences and Humanities (VMOST JOSSH) Edition D \u00bb a dress\u00e9 un tableau complet et perspicace de l'\u00e9cosyst\u00e8me de l'\u00e9dition en sciences sociales et humaines."
-		},
-		{
-			"title": "Dans un manuscrit anglais vieux de 1 000 ans, des chercheurs ont d\u00e9couvert l'ADN d'un virus mortel pour les moutons, dont l'histoire remonte \u00e0 3 700 ans - Science et vie",
-			"link": "https://www.science-et-vie.com/nature-et-environnement/animaux/dans-un-manuscrit-anglais-vieux-de-1-000-ans-des-chercheurs-ont-decouvert-ladn-dun-virus-mortel-pour-les-moutons-dont-lhistoire-remonte-a-3-700-ans-266241.html",
-			"pubDate": "Sat, 14 Nov 2026 12:30:50 GMT",
-			"image": "https://www.science-et-vie.com/wp-content/uploads/scienceetvie/2026/11/epistles-of-st-paul-1200x660.webp",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "Science et vie",
-			"url": "https://www.science-et-vie.com/nature-et-environnement/animaux/dans-un-manuscrit-anglais-vieux-de-1-000-ans-des-chercheurs-ont-decouvert-ladn-dun-virus-mortel-pour-les-moutons-dont-lhistoire-remonte-a-3-700-ans-266241.html",
-			"description": "D\u00e9couvrez comment l'ADN de la variole ovine, un virus mortel pour les moutons, a \u00e9t\u00e9 retrouv\u00e9 dans la peau de manuscrits m\u00e9di\u00e9vaux."
-		},
-		{
-			"title": "Fusion nucl\u00e9aire : des physiciens trouvent un raccourci pour atteindre l'allumage en consommant moins d'\u00e9nergie - Futura, le m\u00e9dia qui explore le monde",
-			"link": "https://www.futura-sciences.com/sciences/actualites/fusion-nucleaire-fusion-nucleaire-physiciens-trouvent-raccourci-atteindre-allumage-consommant-moins-energie-139134/",
-			"pubDate": "Sat, 14 Nov 2026 12:01:00 GMT",
-			"image": "https://cdn8.futura-sciences.com/a1280/images/fusion%20nucle%CC%81aire.jpg",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "Futura",
-			"url": "https://www.futura-sciences.com/sciences/actualites/fusion-nucleaire-fusion-nucleaire-physiciens-trouvent-raccourci-atteindre-allumage-consommant-moins-energie-139134/",
-			"description": "Aux \u00c9tats-Unis, une \u00e9quipe de chercheurs vient d&#039;identifier une voie potentiellement nettement moins \u00e9nergivore pour d\u00e9clencher et entretenir les r\u00e9actions qui permettent la fusion nucl\u00e9aire."
-		},
-		{
-			"title": "L'Universit\u00e9 du commerce ext\u00e9rieur cr\u00e9e une \u00e9cole de technologie et de sciences appliqu\u00e9es, sp\u00e9cialis\u00e9e dans la formation en intelligence artificielle et en blockchain. - Vietnam.vn",
-			"link": "https://www.vietnam.vn/fr/truong-dai-hoc-ngoai-thuong-thanh-lap-truong-cong-nghe-va-khoa-hoc-ung-dung-dao-tao-ai-blockchain",
-			"pubDate": "Sat, 14 Nov 2026 11:55:57 GMT",
-			"image": "https://vstatic.vietnam.vn/vietnam/resource/IMAGE/2026/11/14/1794654830884_34941910541791840378025ceee340d1aa3360cc40eac78d640ab-17946505945281072503780-162-0-1502-2560-crop-17946506720321532490162-73-190-964-1892-crop-179465.jpeg",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "vietnam.vn",
-			"url": "https://www.vietnam.vn/fr/truong-dai-hoc-ngoai-thuong-thanh-lap-truong-cong-nghe-va-khoa-hoc-ung-dung-dao-tao-ai-blockchain",
-			"description": "L'\u00c9cole de technologie et de sciences appliqu\u00e9es est la cinqui\u00e8me \u00e9cole relevant de l'Universit\u00e9 du commerce ext\u00e9rieur, sp\u00e9cialis\u00e9e dans la formation dans des domaines tels que l'IA, la science des donn\u00e9es, la cybers\u00e9curit\u00e9 et l'informatique quantique."
-		},
-		{
-			"title": "\"Nous n\u2019avons pas \u00e9volu\u00e9 pour faire un r\u00e9gime\" : les le\u00e7ons pour bien manger du professeur \u00e0 Harvard Daniel Lieberman - L'Express",
-			"link": "https://www.lexpress.fr/sciences-sante/nous-navons-pas-evolue-pour-faire-un-regime-les-lecons-pour-bien-manger-du-professeur-a-harvard-DW2CNWKBY5CVVOIBHNAXSK5ZOU/",
-			"pubDate": "Sat, 14 Nov 2026 11:00:00 GMT",
-			"image": "https://www.lexpress.fr/resizer/v2/MXD4LH2LPFFOZHKYOYNYZJGSZU.JPG?auth=512800dd613eb5faafdfe7088089b1408bbb379592c276945018038febf46553&width=1200&height=630&quality=85&focal=1732%2C982",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "L'Express",
-			"url": "https://www.lexpress.fr/sciences-sante/nous-navons-pas-evolue-pour-faire-un-regime-les-lecons-pour-bien-manger-du-professeur-a-harvard-DW2CNWKBY5CVVOIBHNAXSK5ZOU/",
-			"description": "Et si nos difficult\u00e9s \u00e0 maigrir \u00e9taient d\u2019abord un h\u00e9ritage de l\u2019\u00e9volution ? Le pal\u00e9oanthropologue am\u00e9ricain de renom explique que les humains ont \u00e9volu\u00e9 pour stocker de la graisse de mani\u00e8re surprenante, et en profite pour dynamiter les mythes autour des r\u00e9gimes."
-		},
-		{
-			"title": "Comment la NASA pr\u00e9pare-t-elle son grand retour sur la Lune? - magazine GEO",
-			"link": "https://www.geo.fr/sciences/comment-la-nasa-prepare-t-elle-son-grand-retour-sur-la-lune-234394",
-			"pubDate": "Sat, 14 Nov 2026 10:49:00 GMT",
-			"image": "https://www.geo.fr/imgre/fit/~1~geo~2026~11~10~574b01a2-998f-4c3c-96e8-d0682a60d5f0.jpg/1200x630/focus-point/1408%2C681/comment-la-nasa-prepare-t-elle-son-grand-retour-sur-la-lune.jpg",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "Geo.fr",
-			"url": "https://www.geo.fr/sciences/comment-la-nasa-prepare-t-elle-son-grand-retour-sur-la-lune-234394",
-			"description": "Apr\u00e8s le succ\u00e8s d'Artemis II, qui a permis \u00e0 quatre astronautes de survoler la face cach\u00e9e de la Lune, la NASA pr\u00e9pare d\u00e9j\u00e0 la suite de son programme. Artemis III servira de r\u00e9p\u00e9tition g\u00e9n\u00e9rale en orbite terrestre, tandis qu'Artemis IV tentera d'acheminer des astronautes jusqu'\u00e0 la surface lunaire. Une strat\u00e9gie ambitieuse qui doit, \u00e0 terme, permettre \u00e0 l'agence spatiale am\u00e9ricaine d'\u00e9tablir une pr\u00e9sence humaine durable sur la Lune."
-		},
-		{
-			"title": "Aucune sonde n'a jamais \u00e9t\u00e9 aussi loin dans le cosmos : Voyager 1 arrive \u00e0 un jour lumi\u00e8re de la Terre, et la NASA lance un jeu - Numerama",
-			"link": "https://www.numerama.com/sciences/2374607-aucune-sonde-na-jamais-ete-aussi-loin-dans-le-cosmos-voyager-1-arrive-a-un-jour-lumiere-de-la-terre-et-la-nasa-lance-un-jeu.html",
-			"pubDate": "Sat, 14 Nov 2026 10:11:21 GMT",
-			"image": "https://img.numerama.com/www.numerama.com/wp-content/uploads/2026/11/voyager-1.jpg?resize=1600,900&key=2c425d30",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "Numerama",
-			"url": "https://www.numerama.com/sciences/2374607-aucune-sonde-na-jamais-ete-aussi-loin-dans-le-cosmos-voyager-1-arrive-a-un-jour-lumiere-de-la-terre-et-la-nasa-lance-un-jeu.html",
-			"description": "La sonde Voyager 1 sera \u00e0 un jour-lumi\u00e8re de la Terre le mercredi 18 novembre 2026, soit 25,9 milliards de kilom\u00e8tres. La veille au soir, la NASA propose \u00e0"
-		},
-		{
-			"title": "Implants c\u00e9r\u00e9braux en essais : comment les participants d\u00e9fendent leurs droits sur leurs donn\u00e9es - Entrevue.fr",
-			"link": "https://entrevue.fr/sciences-tech/implants-cerebraux-les-cobayes-humains-reclament-des-droits/",
-			"pubDate": "Sat, 14 Nov 2026 09:47:27 GMT",
-			"image": "https://entrevue.fr/wp-content/uploads/2026/11/images-73-1.jpg?fmt=orig",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "News France et internationales : m\u00e9dias, politique, sport, culture et people - ENTREVUE.FR",
-			"url": "https://entrevue.fr/sciences-tech/implants-cerebraux-les-cobayes-humains-reclament-des-droits/",
-			"description": "Des participants \u00e0 des essais cliniques d\u2019interfaces cerveau-ordinateur ont publi\u00e9 un ensemble de recommandations \u00e9thiques pour encadrer ces recherches\u2026"
-		},
-		{
-			"title": "Cit\u00e9 des Sciences : rendez-vous autour des neurosciences et de l\u2019IA le 28 novembre - Le Temps News",
-			"link": "https://letemps.news/2026/11/14/cite-des-sciences-rendez-vous-autour-des-neurosciences-et-de-lia-le-28-novembre/",
-			"pubDate": "Sat, 14 Nov 2026 09:28:14 GMT",
-			"image": "https://letemps.news/wp-content/uploads/2022/07/290155775_5514159311936978_4194560164837151326_n.jpg",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "Le Temps News",
-			"url": "https://letemps.news/2026/11/14/cite-des-sciences-rendez-vous-autour-des-neurosciences-et-de-lia-le-28-novembre/",
-			"description": "La Cit\u00e9 des Sciences \u00e0 Tunis organisera, le 28 novembre 2026, un s\u00e9minaire scientifique sur le th\u00e8me \u00ab Neurosciences & Soci\u00e9t\u00e9 : Explorer le Cerveau \u00e0 l\u2019\u00e8re de l\u2019Intelligence Artificielle\u00bb. Cet \u00e9v\u00e8nement, qui cible les enseignants, les \u00e9ducateurs, les professionnels de sant\u00e9, les \u00e9tudiants, les doctorants, les chercheurs, le grand public et les familles, se"
-		},
-		{
-			"title": "VID\u00c9O. La m\u00e9gafus\u00e9e Starship d\u00e9colle, Space X renonce \u00e0 r\u00e9cup\u00e9rer le premier \u00e9tage qui s'\u00e9crase dans le golfe du Mexique - Ouest-France",
-			"link": "https://www.ouest-france.fr/sciences/espace/video-la-megafusee-starship-decolle-et-renonce-a-recuperer-le-premier-etage-qui-s-ecrase-dans-le-golfe-du-mexique-7f33e16c-4ed5-46e5-a97f-fb7be18b9d66",
-			"pubDate": "Sat, 14 Nov 2026 09:13:11 GMT",
-			"image": "",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "",
-			"url": "",
-			"description": ""
-		},
-		{
-			"title": "Moral en berne d\u00e8s que les jours raccourcissent ? Ce que la science sait vraiment de la d\u00e9pression saisonni\u00e8re - Futura, le m\u00e9dia qui explore le monde",
-			"link": "https://www.futura-sciences.com/sante/actualites/depression-moral-berne-jours-raccourcissent-ce-science-sait-vraiment-depression-saisonniere-k2m6-139267/",
-			"pubDate": "Sat, 14 Nov 2026 09:00:00 GMT",
-			"image": "https://cdn8.futura-sciences.com/a1920/images/depression-saison-luminotherapie.png",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "Futura",
-			"url": "https://www.futura-sciences.com/sante/actualites/depression-moral-berne-jours-raccourcissent-ce-science-sait-vraiment-depression-saisonniere-k2m6-139267/",
-			"description": "Chaque automne, des millions de personnes ressentent une fatigue inexpliqu\u00e9e, une tristesse tenace, une envie compulsive de glucides. Ce n&#039;est pas de la flemme : c&#039;est peut-\u00eatre un troubl..."
-		},
-		{
-			"title": "Un m\u00e9dicament prometteur face au cancer du pancr\u00e9as - Sciences et Avenir",
-			"link": "https://www.sciencesetavenir.fr/sante/cancer-du-pancreas-la-percee-du-daraxonrasib_195859",
-			"pubDate": "Sat, 14 Nov 2026 09:00:00 GMT",
-			"image": "",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "",
-			"url": "",
-			"description": ""
-		},
-		{
-			"title": "Les implants c\u00e9r\u00e9braux, nouveau champ de la f\u00e9roce comp\u00e9tition sino-am\u00e9ricaine dans les bio-sciences - Atlantico",
-			"link": "https://atlantico.fr/article/decryptage/les-implants-cerebraux-nouveau-champ-de-la-feroce-competition-sino-americaine-dans-les-bio-sciences",
-			"pubDate": "Sat, 14 Nov 2026 08:36:49 GMT",
-			"image": "https://atlantico.codexcdn.net/assets/asU9nlvzs8ENG4HSN.jpg?width=1600&height=900&quality=75",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "",
-			"url": "https://atlantico.fr/article/decryptage/les-implants-cerebraux-nouveau-champ-de-la-feroce-competition-sino-americaine-dans-les-bio-sciences",
-			"description": "Les implants c\u00e9r\u00e9braux, entre espoirs m\u00e9dicaux et rivalit\u00e9s g\u00e9opolitiques, enjeux \u00e9thiques et futurs patients"
-		},
-		{
-			"title": "Pleine lune de novembre 2026 : quel jour et \u00e0 quelle heure voir la lune du Castor - La R\u00e9publique des Pyr\u00e9n\u00e9es",
-			"link": "https://www.larepubliquedespyrenees.fr/sciences-et-technologie/astronomie/pleine-lune-de-novembre-2026-quel-jour-et-a-quelle-heure-voir-la-lune-du-castor-31520361.php",
-			"pubDate": "Sat, 14 Nov 2026 08:01:06 GMT",
-			"image": "https://media.larepubliquedespyrenees.fr/31520361/1200x-1/pexels-ev4r137-39335277.jpg",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "LaRepubliqueDesPyrenees",
-			"url": "https://www.larepubliquedespyrenees.fr/sciences-et-technologie/astronomie/pleine-lune-de-novembre-2026-quel-jour-et-a-quelle-heure-voir-la-lune-du-castor-31520361.php",
-			"description": "La pleine lune de novembre 2026 aura lieu le mardi 24\u00a0novembre 2026 \u00e0 15h53 (heure de Paris). Pourquoi porte-t-elle le nom de la pleine lune du Castor et quelles sont les particularit\u00e9s de cette pleine lune de novembre\u00a0? Voici toutes les informations \u00e0 conna\u00eetre pour ne rien manquer de cet \u00e9v\u00e9nement c\u00e9leste."
-		},
-		{
-			"title": "Pourquoi tombe-t-on en vieillissant ? La science de la chute - Science et vie",
-			"link": "https://www.science-et-vie.com/corps-et-sante/pourquoi-tombe-t-on-en-vieillissant-la-science-de-la-chute-266391.html",
-			"pubDate": "Sat, 14 Nov 2026 07:58:10 GMT",
-			"image": "https://sf.science-et-vie.com/wp-content/uploads/scienceetvie/2026/11/images-8.jpeg",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "Science et vie",
-			"url": "https://www.science-et-vie.com/corps-et-sante/pourquoi-tombe-t-on-en-vieillissant-la-science-de-la-chute-266391.html",
-			"description": "La chute n'a rien d'une fatalit\u00e9 ni d'un simple manque d'attention. C'est un ph\u00e9nom\u00e8ne biologique complexe, r\u00e9sultat du vieillissement conjoint de plusieurs syst\u00e8mes de notre corps. Comprendre ces m\u00e9canismes \u00e9claire pourquoi le risque grimpe avec l'\u00e2ge, et comment la technologie aide d\u00e9sormais \u00e0 en limiter les cons\u00e9quences."
-		},
-		{
-			"title": "Le pape L\u00e9on XIV d\u00e9nonce une science devenue un \"privil\u00e8ge r\u00e9serv\u00e9 aux millionnaires en qu\u00eate d'immortalit\u00e9\" - La Libre.be",
-			"link": "https://www.lalibre.be/international/europe/2026/11/14/le-pape-leon-xiv-denonce-une-science-devenue-un-privilege-reserve-aux-millionnaires-en-quete-dimmortalite-E63IJXVT6BCJNIYUH4TBEOFQZA/",
-			"pubDate": "Sat, 14 Nov 2026 07:54:00 GMT",
-			"image": "https://www.lalibre.be/resizer/v2/3OZ4MOVDVVCEFCK5OWCK4XTOCM.jpg?auth=059298c2b9bd8f21ec7f17ef87b878b6c3c03fd76cc4e4cf0af65ef311253b54&width=1200&height=630&quality=85&focal=3543%2C2360",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "La Libre.be",
-			"url": "https://www.lalibre.be/international/europe/2026/11/14/le-pape-leon-xiv-denonce-une-science-devenue-un-privilege-reserve-aux-millionnaires-en-quete-dimmortalite-E63IJXVT6BCJNIYUH4TBEOFQZA/",
-			"description": "En d\u00e9placement dans une r\u00e9gion marqu\u00e9e par de fortes in\u00e9galit\u00e9s sociales, le souverain pontife a profit\u00e9 de sa visite pour interpeller la jeune..."
-		},
-		{
-			"title": "D'o\u00f9 viennent les couleurs des aurores bor\u00e9ales ? - franceinfo",
-			"link": "https://www.franceinfo.fr/replay-radio/le-billet-sciences-du-week-end/d-ou-viennent-les-couleurs-des-aurores-boreales_8261246.html",
-			"pubDate": "Sat, 14 Nov 2026 07:30:08 GMT",
-			"image": "https://www.franceinfo.fr/pictures/9ruagYzwVPA7GL4G51BMEvwQnZI/0x110:2121x1303/1500x843/2026/11/11/6af45c31e3892893704288.jpg",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "franceinfo",
-			"url": "https://www.franceinfo.fr/replay-radio/le-billet-sciences-du-week-end/d-ou-viennent-les-couleurs-des-aurores-boreales_8261246.html",
-			"description": "Des scientifiques allemands viennent de percer le secret des aurores bor\u00e9ales rouges, gr\u00e2ce \u00e0 de simples photos prises par des touristes."
-		},
-		{
-			"title": "M\u00eame les oiseaux peuvent subir un d\u00e9calage horaire : cette d\u00e9couverte scientifique r\u00e9v\u00e8le comment ils perdent leur chemin - Futura, le m\u00e9dia qui explore le monde",
-			"link": "https://blogs.futura-sciences.com/animaux/meme-les-oiseaux-peuvent-subir-un-decalage-horaire-cette-decouverte-scientifique-revele-comment-ils-perdent-leur-chemin_24282/",
-			"pubDate": "Sat, 14 Nov 2026 07:15:01 GMT",
-			"image": "https://blogs.futura-sciences.com/animaux/wp-content/uploads/2026/11/Stu-Weiss.jpg",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "Futura-Sciences",
-			"url": "https://blogs.futura-sciences.com/animaux/meme-les-oiseaux-peuvent-subir-un-decalage-horaire-cette-decouverte-scientifique-revele-comment-ils-perdent-leur-chemin_24282/",
-			"description": "De nombreux animaux, notamment les oiseaux, utilisent la position du soleil pour d\u00e9terminer leur direction. Cependant, comme l\u2019astre se d\u00e9place dans le ciel au cours de la journ\u00e9e, ils doivent disposer d\u2019une horloge interne suffisamment pr\u00e9cise pour interpr\u00e9ter correctement sa position. Habituellement, les oiseaux synchronisent leur rythme biologique avec le..."
-		},
-		{
-			"title": "Le t\u00e9lescope Euclid d\u00e9tecte de nouvelles galaxies : \u00abOn a vraiment la sensation d\u2019ouvrir un coffre au tr\u00e9sor - Lib\u00e9ration",
-			"link": "https://www.liberation.fr/sciences/espace/le-telescope-euclid-detecte-de-nouvelles-galaxies-on-a-vraiment-la-sensation-douvrir-un-coffre-au-tresor-20261114_HFGVN7QWQRGFJNBHNZDVBEGFIA/",
-			"pubDate": "Sat, 14 Nov 2026 07:15:00 GMT",
-			"image": "",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "",
-			"url": "",
-			"description": ""
-		},
-		{
-			"title": "Et si m\u00e9langer de l'eau \u00e0 du diesel dans les moteur thermiques \u00e9tait une bonne id\u00e9e ? Des \u00e9tudes montrent que cela r\u00e9duirait jusqu'\u00e0 67% les \u00e9missions polluantes - Science et vie",
-			"link": "https://www.science-et-vie.com/energie/et-si-melanger-de-leau-et-du-diesel-dans-les-moteur-thermiques-etait-une-bonne-idee-des-etudes-montrent-que-cela-reduirait-jusqua-67-les-emissions-polluantes-236332.html",
-			"pubDate": "Sat, 14 Nov 2026 07:00:17 GMT",
-			"image": "https://sf.science-et-vie.com/wp-content/uploads/scienceetvie/2026/04/moteur-diesel-eau-1200x660.jpg",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "Science et vie",
-			"url": "https://www.science-et-vie.com/energie/et-si-melanger-de-leau-et-du-diesel-dans-les-moteur-thermiques-etait-une-bonne-idee-des-etudes-montrent-que-cela-reduirait-jusqua-67-les-emissions-polluantes-236332.html",
-			"description": "L'\u00e9mulsion eau-diesel pourrait transformer la lutte contre la pollution des moteurs thermiques sans toucher \u00e0 une seule pi\u00e8ce m\u00e9canique."
-		},
-		{
-			"title": "Pour la premi\u00e8re fois en 40 ans, l\u2019eau froide n\u2019est pas remont\u00e9e au large du Panama, et les chercheurs s\u2019alarment - Futura, le m\u00e9dia qui explore le monde",
-			"link": "https://www.futura-sciences.com/planete/actualites/ocean-premiere-fois-40-ans-eau-froide-nest-pas-remontee-large-panama-chercheurs-alarment-w2t8-139309/",
-			"pubDate": "Sat, 14 Nov 2026 07:00:00 GMT",
-			"image": "https://cdn8.futura-sciences.com/a1080/images/golfe-panama-remontees-eaux-froides.png",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "Futura",
-			"url": "https://www.futura-sciences.com/planete/actualites/ocean-premiere-fois-40-ans-eau-froide-nest-pas-remontee-large-panama-chercheurs-alarment-w2t8-139309/",
-			"description": "Un ph\u00e9nom\u00e8ne oc\u00e9anographique in\u00e9dit a frapp\u00e9 le golfe du Panama en 2025 : les eaux profondes et froides, riches en nutriments, n\u2019ont pas r\u00e9ussi \u00e0 remonter \u00e0 la surface. Une absence totale d\u2019upwelli..."
-		},
-		{
-			"title": "Le ma\u00eetre de la brousse : un crotale vivant cach\u00e9 dans la for\u00eat amazonienne - National Geographic",
-			"link": "https://www.nationalgeographic.fr/video/animaux-reptiles-serpents-le-maitre-de-la-brousse-un-crotale-vivant-cache-dans-la-foret-amazonienne",
-			"pubDate": "Sat, 14 Nov 2026 06:01:08 GMT",
-			"image": "https://static.nationalgeographic.fr/files/styles/image_3200/public/4-maitre-de-la-brousse.png?w=1600&h=900",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "National Geographic",
-			"url": "https://www.nationalgeographic.fr/video/animaux-reptiles-serpents-le-maitre-de-la-brousse-un-crotale-vivant-cache-dans-la-foret-amazonienne",
-			"description": "Ce serpent \u00e0 la robe aux teintes de feuilles mortes est le plus grand des vip\u00e9rid\u00e9s et peut frapper \u00e0 1,5 m de distance, ce qui complique fortement sa capture."
-		},
-		{
-			"title": "Le pape L\u00e9on XIV critique une science r\u00e9serv\u00e9e aux \"millionnaires en qu\u00eate d'immortalit\u00e9\" - BFM",
-			"link": "https://www.bfmtv.com/societe/religions/le-pape-leon-xiv-critique-une-science-reservee-aux-millionnaires-en-quete-d-immortalite_AN-202611140098.html",
-			"pubDate": "Sat, 14 Nov 2026 05:32:44 GMT",
-			"image": "https://io-fsly-bfmtv.cdn.nextradiotv.com/5xfL45EPaGA8BHSaH7PrvFmJSvM=/0x0:2048x1152/2048x0/images/Leon-XIV-2355577.jpg",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "BFM",
-			"url": "https://www.bfmtv.com/societe/religions/le-pape-leon-xiv-critique-une-science-reservee-aux-millionnaires-en-quete-d-immortalite_AN-202611140098.html",
-			"description": "Apr\u00e8s l'Uruguay et l'Argentine, le premier pape am\u00e9ricain de l'histoire, est arriv\u00e9 mercredi au P\u00e9rou, pays dont il d\u00e9tient \u00e9galement la nationalit\u00e9 et o\u00f9 il a v\u00e9cu pendant pr\u00e8s de vingt ans.  "
-		},
-		{
-			"title": "Le ministre des Sciences et des Technologies explique : \u00ab Quelles sont les technologies cl\u00e9s que le Vietnam ma\u00eetrise ? \u00bb - Vietnam.vn",
-			"link": "https://www.vietnam.vn/fr/bo-truong-khoa-hoc-va-cong-nghe-ly-giai-viet-nam-da-lam-chu-cong-nghe-loi-gi",
-			"pubDate": "Sat, 14 Nov 2026 04:52:57 GMT",
-			"image": "https://vstatic.vietnam.vn/vietnam/resource/IMAGE/2026/11/14/1794629869010_707020_502a47932596dc584f4cd28a01a8f475.jpeg",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "vietnam.vn",
-			"url": "https://www.vietnam.vn/fr/bo-truong-khoa-hoc-va-cong-nghe-ly-giai-viet-nam-da-lam-chu-cong-nghe-loi-gi",
-			"description": "Poursuivant la s\u00e9ance de questions-r\u00e9ponses de la 2e session, le ministre des Sciences et de la Technologie, Vu Hai Quan, a r\u00e9pondu aux questions des d\u00e9put\u00e9s de l'Assembl\u00e9e nationale."
-		},
-		{
-			"title": "La Fert\u00e9-Bernard. Les sciences se d\u00e9couvrent aussi dans les entreprises du coin - maville.com",
-			"link": "https://lemans.maville.com/actu/actudet_-la-ferte-bernard-les-sciences-se-decouvrent-aussi-dans-les-entreprises-du-coin_-7569637_actu.Htm",
-			"pubDate": "Sat, 14 Nov 2026 04:33:00 GMT",
-			"image": "https://www.maville.com/photosmvi/2026/11/14/P36261973D7569637G_crop_1200-675_.jpg",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "maville.com - Le Mans",
-			"url": "https://lemans.maville.com/actu/actudet_-la-ferte-bernard-les-sciences-se-decouvrent-aussi-dans-les-entreprises-du-coin_-7569637_actu.Htm",
-			"description": "Pendant les vacances de la Toussaint, les scientifiques en herbe de Plan\u00e8te sciences se sont rendus dans trois entreprises locales : Delta Neo, Delta\u2026"
-		},
-		{
-			"title": "L'Universit\u00e9 des sciences et technologies de Hano\u00ef verse environ 800 milliards de VND par an en salaires et revenus \u00e0 ses enseignants. - Vietnam.vn",
-			"link": "https://www.vietnam.vn/fr/dai-hoc-bach-khoa-ha-noi-chi-tra-luong-thu-nhap-cho-giang-vien-khoang-800-ty-nam",
-			"pubDate": "Sat, 14 Nov 2026 03:46:37 GMT",
-			"image": "https://vstatic.vietnam.vn/vietnam/resource/IMAGE/2026/11/14/1794626549754_nam-588.jpeg",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "vietnam.vn",
-			"url": "https://www.vietnam.vn/fr/dai-hoc-bach-khoa-ha-noi-chi-tra-luong-thu-nhap-cho-giang-vien-khoang-800-ty-nam",
-			"description": "2025 sera la premi\u00e8re ann\u00e9e o\u00f9 les recettes de l'Universit\u00e9 des sciences et technologies de Hano\u00ef d\u00e9passeront 1\u00a0800 milliards de VND, tandis que les salaires et les revenus des enseignants s'\u00e9l\u00e8veront \u00e0 environ 800 milliards de VND par an."
-		},
-		{
-			"title": "SpaceX \u00e9choue \u00e0 rattraper le premier \u00e9tage de la fus\u00e9e Starship - rts.ch",
-			"link": "https://www.rts.ch/info/sciences-tech/2026/article/spacex-echoue-a-rattraper-le-premier-etage-de-la-fusee-starship-29415815.html",
-			"pubDate": "Sat, 14 Nov 2026 03:17:59 GMT",
-			"image": "https://img.rts.ch/articles/2026/image/e9c48321-29415794.image?w=1200&h=630",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "rts.ch",
-			"url": "https://www.rts.ch/info/sciences-tech/2026/article/spacex-echoue-a-rattraper-le-premier-etage-de-la-fusee-starship-29415815.html",
-			"description": "SpaceX a renonc\u00e9 vendredi \u00e0 rattraper le premier \u00e9tage de sa fus\u00e9e Starship, juste apr\u00e8s son lancement \u00e0 16h47 locales (23h47 en Suisse). L'entreprise d'Elon Musk compte quand m\u00eame tenter samedi de r\u00e9cup\u00e9rer le second \u00e9tage, ce qui serait in\u00e9dit."
-		},
-		{
-			"title": "Apr\u00e8s 18 heures de panne, Outlook revient lentement dans le monde entier - Entrevue.fr",
-			"link": "https://entrevue.fr/sciences-tech/panne-microsoft-outlook-reprend-vie-apres-dix-huit-heures-de-coupure-mondiale/",
-			"pubDate": "Sat, 14 Nov 2026 03:05:00 GMT",
-			"image": "https://entrevue.fr/wp-content/uploads/2026/11/d139cd4131723e299e31c55b3d688648-1200x675.jpg?fmt=orig",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "News France et internationales : m\u00e9dias, politique, sport, culture et people - ENTREVUE.FR",
-			"url": "https://entrevue.fr/sciences-tech/panne-microsoft-outlook-reprend-vie-apres-dix-huit-heures-de-coupure-mondiale/",
-			"description": "Les services de messagerie de Microsoft ont commenc\u00e9 \u00e0 se r\u00e9tablir vendredi apr\u00e8s une interruption d\u2019environ dix-huit\u2026"
-		},
-		{
-			"title": "SpaceX tente de r\u00e9cup\u00e9rer les deux \u00e9tages de Starship en un seul vol - Entrevue.fr",
-			"link": "https://entrevue.fr/sciences-tech/espace/spacex-tente-de-recuperer-les-deux-etages-de-starship-en-un-seul-vol/",
-			"pubDate": "Sat, 14 Nov 2026 02:17:00 GMT",
-			"image": "https://entrevue.fr/wp-content/uploads/2026/11/e3260bb1066e5614ecf912ccafbb9635-1200x675.jpg?fmt=orig",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "News France et internationales : m\u00e9dias, politique, sport, culture et people - ENTREVUE.FR",
-			"url": "https://entrevue.fr/sciences-tech/espace/spacex-tente-de-recuperer-les-deux-etages-de-starship-en-un-seul-vol/",
-			"description": "La gigantesque fus\u00e9e Starship s\u2019appr\u00eate \u00e0 effectuer son second vol orbital, avec un objectif sans pr\u00e9c\u00e9dent : ramene."
-		},
-		{
-			"title": "Une premi\u00e8re historique | SpaceX rattrape l\u2019\u00e9tage sup\u00e9rieur de sa m\u00e9gafus\u00e9e Starship - La Presse",
-			"link": "https://www.lapresse.ca/actualites/sciences/2026-11-13/une-premiere-historique/spacex-rattrape-l-etage-superieur-de-sa-megafusee-starship.php",
-			"pubDate": "Sat, 14 Nov 2026 02:05:34 GMT",
-			"image": "",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "",
-			"url": "",
-			"description": ""
-		},
-		{
-			"title": "Album Photos Cit\u00e9 des sciences et de l'industrie - Grande f\u00eate de fin d'ann\u00e9e - Sortir \u00e0 Paris",
-			"link": "https://www.sortiraparis.com/album-photo/115560-cite-des-sciences-et-de-l-industrie-grande-fete-de-fin-d-annee",
-			"pubDate": "Sat, 14 Nov 2026 01:32:42 GMT",
-			"image": "",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "",
-			"url": "",
-			"description": ""
-		},
-		{
-			"title": "Apr\u00e8s avoir \u00e9chou\u00e9 \u00e0 rattraper le premier \u00e9tage de Starship, SpaceX se concentre sur le second - tv5monde",
-			"link": "https://information.tv5monde.com/science/apres-avoir-echoue-rattraper-le-premier-etage-de-starship-spacex-se-concentre-sur-le-second-2845655",
-			"pubDate": "Sat, 14 Nov 2026 00:08:27 GMT",
-			"image": "",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "",
-			"url": "",
-			"description": ""
-		},
-		{
-			"title": "Conf\u00e9rence \u2013 Femmes et sciences - AOC media",
-			"link": "https://aoc.media/agenda/conference-femmes-et-sciences/",
-			"pubDate": "Fri, 13 Nov 2026 23:30:32 GMT",
-			"image": "https://aoc.media/wp-content/uploads/2026/11/agenda_PSL_novembre_2026.jpg",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "AOC media - Analyse Opinion Critique",
-			"url": "https://aoc.media/agenda/conference-femmes-et-sciences/",
-			"description": "Le 19 novembre, \u00e0 17h Tuyau perc\u00e9, plancher collant, effet Matilda, \u2026 et maintenant que fait-on ? Comment comprendre les"
-		},
-		{
-			"title": "L\u2019IA G\u00e9n\u00e9rative en agriculture : de l\u2019objet de curiosit\u00e9 \u00e0 la r\u00e9ponse \u00e0 un besoin concret. 1ers retours d\u2019exp\u00e9rience, Bordeaux Sciences Agro, Gradignan - Unidivers",
-			"link": "https://unidivers.fr/event/lia-generative-en-agriculture-de-lobjet-de-curiosite-a-la-reponse-a-un-besoin-concret-1ers-retours-dexperience-bordeaux-sciences-agro-gradignan-2026-12-15t0900000100/",
-			"pubDate": "Fri, 13 Nov 2026 23:23:52 GMT",
-			"image": "https://unidivers.fr/wp-content/uploads/2026/11/lia-generative-en-agriculture-de-lobjet-de-curiosite-a-la-reponse-a-un-besoin-concret.-1ers-retours-dexperience-bordeaux-sciences-agro-gradignan-2026-12-15t0900000100.jpg",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "Unidivers",
-			"url": "https://unidivers.fr/event/lia-generative-en-agriculture-de-lobjet-de-curiosite-a-la-reponse-a-un-besoin-concret-1ers-retours-dexperience-bordeaux-sciences-agro-gradignan-2026-12-15t0900000100/",
-			"description": "\u00c0 Gradignan, l\u2019\u00e9v\u00e9nement \u00ab L\u2019IA G\u00e9n\u00e9rative en agriculture : de l\u2019objet de curiosit\u00e9 \u00e0 la r\u00e9ponse \u00e0 un besoin concret. 1ers retours d\u2019exp\u00e9rience, Bord\u2026"
-		},
-		{
-			"title": "Voyage \u00e0 la d\u00e9couverte des sciences, M\u00e9diah\u00e8que Bourg, Saint-Herblain \u2013 25 novembre 2026 - Unidivers",
-			"link": "https://unidivers.fr/event/voyage-a-la-decouverte-des-sciences-mediaheque-bourg-saint-herblain-2026-11-25t1630000100/",
-			"pubDate": "Fri, 13 Nov 2026 22:17:20 GMT",
-			"image": "https://unidivers.fr/wp-content/uploads/2026/11/voyage-a-la-decouverte-des-sciences-mediaheque-bourg-saint-herblain-2026-11-25t1630000100.jpg",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "Unidivers",
-			"url": "https://unidivers.fr/event/voyage-a-la-decouverte-des-sciences-mediaheque-bourg-saint-herblain-2026-11-25t1630000100/",
-			"description": "\u00c0 Saint-Herblain, l\u2019\u00e9v\u00e9nement \u00ab Voyage \u00e0 la d\u00e9couverte des sciences, M\u00e9diah\u00e8que Bourg, Saint-Herblain \u00bb est annonc\u00e9 le mercredi 25 novembre 2026, de 16 h 30 \u00e0 16 h 30.\u2026"
-		},
-		{
-			"title": "L\u2019Institut des finances c\u00e9l\u00e8bre son anniversaire \u00e0 Sciences Po Paris - L'Orient-Le Jour",
-			"link": "https://www.lorientlejour.com/article/1554411/linstitut-des-finances-celebre-son-anniversaire-a-sciences-po-paris.html",
-			"pubDate": "Fri, 13 Nov 2026 22:00:00 GMT",
-			"image": "",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "",
-			"url": "",
-			"description": ""
-		},
-		{
-			"title": "Oaktree Acquisition Corp. III Life Sciences publie ses r\u00e9sultats pour le troisi\u00e8me trimestre et les neuf mois clos le 30 septembre 2026 - Zonebourse",
-			"link": "https://www.zonebourse.com/actualite-bourse/oaktree-acquisition-corp-iii-life-sciences-publie-ses-resultats-pour-le-troisieme-trimestre-et-les-ce785ededd8cf626",
-			"pubDate": "Fri, 13 Nov 2026 21:32:00 GMT",
-			"image": "",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "",
-			"url": "",
-			"description": ""
-		},
-		{
-			"title": "La coh\u00e9sion sociale des \u00e9l\u00e9phants d\u2019Asie s\u2019affaiblit : quels sont les causes et les risques pour l\u2019esp\u00e8ce ? - Le Figaro",
-			"link": "https://www.lefigaro.fr/sciences/la-cohesion-sociale-des-elephants-d-asie-s-affaiblit-quels-sont-les-causes-et-les-risques-pour-l-espece-20261113",
-			"pubDate": "Fri, 13 Nov 2026 20:30:00 GMT",
-			"image": "https://i.f1g.fr/media/cms/1200x630_crop/2026/11/13/f717488fdf444c96049bba3c5bdc7ea3e3960b400e712720deaf60bd9b2a24a9.jpg",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "Le Figaro",
-			"url": "https://www.lefigaro.fr/sciences/la-cohesion-sociale-des-elephants-d-asie-s-affaiblit-quels-sont-les-causes-et-les-risques-pour-l-espece-20261113",
-			"description": "D\u00c9CRYPTAGE - Une \u00e9tude men\u00e9e dans un parc national au Sri Lanka met en \u00e9vidence un morcellement et un isolement des hardes, qui pourraient fragiliser un peu plus l\u2019esp\u00e8ce."
-		},
-		{
-			"title": "Nouveau vol orbital en Europe, ce que dit la justice si vous refusez un compteur Linky, 15e vol du Starship \u2013 le r\u00e9cap\u2019 sciences de la semaine - Numerama",
-			"link": "https://www.numerama.com/sciences/2374195-nouveau-vol-orbital-en-europe-ce-que-dit-la-justice-si-vous-refusez-un-compteur-linky-15e-vol-du-starship-le-recap-sciences-de-la-semaine.html",
-			"pubDate": "Fri, 13 Nov 2026 20:10:00 GMT",
-			"image": "https://img.numerama.com/www.numerama.com/wp-content/uploads/2026/11/linky.jpg?resize=1600,900&key=e7269d61",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "Numerama",
-			"url": "https://www.numerama.com/sciences/2374195-nouveau-vol-orbital-en-europe-ce-que-dit-la-justice-si-vous-refusez-un-compteur-linky-15e-vol-du-starship-le-recap-sciences-de-la-semaine.html",
-			"description": "Peut-on refuser d'installer chez soi un compteur comme Linky ? La justice europ\u00e9enne a tranch\u00e9. C'est l'une des actualit\u00e9s de la semaine dans la rubrique Sciences de Numerama, aux c\u00f4t\u00e9s de d\u00e9collages imminents de fus\u00e9es Starship et Spectrum. D\u00e9couvrez le r\u00e9cap' ! Un rat\u00e9, une r\u00e9ussite historique et d\u00e9j\u00e0 le troisi\u00e8me"
-		},
-		{
-			"title": "Si les femmes ont plus froid que les hommes, c'est peut-\u00eatre une question de testost\u00e9rone - Slate.fr",
-			"link": "https://www.slate.fr/sciences/temperatures-femmes-froid-hommes-testosterone-etude-scientifique-systeme-nerveux-souris",
-			"pubDate": "Fri, 13 Nov 2026 19:55:02 GMT",
-			"image": "https://cdn.slate.fr/uploads/store/story_273980/large_landscape_273980.jpg",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "Slate.fr",
-			"url": "https://www.slate.fr/sciences/temperatures-femmes-froid-hommes-testosterone-etude-scientifique-systeme-nerveux-souris",
-			"description": "Une \u00e9tude sur des souris sugg\u00e8re que la testost\u00e9rone joue un r\u00f4le dans les diff\u00e9rences de perception de temp\u00e9rature entre les sexes."
-		},
-		{
-			"title": "Des \"progr\u00e8s\" en vue de finaliser l'accord de l'OMS sur les pand\u00e9mies - tv5monde",
-			"link": "https://information.tv5monde.com/science/des-progres-en-vue-de-finaliser-laccord-de-loms-sur-les-pandemies-2845754",
-			"pubDate": "Fri, 13 Nov 2026 19:42:00 GMT",
-			"image": "",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "",
-			"url": "",
-			"description": ""
-		},
-		{
-			"title": "Distinction | Alsace. Le chimiste Herv\u00e9 This m\u00e9daill\u00e9 par l\u2019Acad\u00e9mie des sciences - L'Est R\u00e9publicain",
-			"link": "https://www.estrepublicain.fr/magazine-cuisine-et-vins/2026/11/13/le-chimiste-herve-this-medaille-par-l-academie-des-sciences",
-			"pubDate": "Fri, 13 Nov 2026 19:14:53 GMT",
-			"image": "https://cdn-s-www.estrepublicain.fr/images/3516C827-90AA-4265-9802-5C8D79FF182E/FB1200/photo-1794597303.jpg",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "",
-			"url": "https://www.estrepublicain.fr/magazine-cuisine-et-vins/2026/11/13/le-chimiste-herve-this-medaille-par-l-academie-des-sciences",
-			"description": "Le chimiste Herv\u00e9 This, alsacien d\u2019origine et de c\u0153ur, a ajout\u00e9 une m\u00e9daille \u00e0 la liste de ses distinctions, en recevant celle de la chimie ..."
-		},
-		{
-			"title": "L'Europe veut saisir le \"tournant\" de l'IA, d\u00e9cisif pour les d\u00e9cennies \u00e0 venir - tv5monde",
-			"link": "https://information.tv5monde.com/science/leurope-veut-saisir-le-tournant-de-lia-decisif-pour-les-decennies-venir-2845658",
-			"pubDate": "Fri, 13 Nov 2026 19:08:02 GMT",
-			"image": "",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "",
-			"url": "",
-			"description": ""
-		},
-		{
-			"title": "\u00ab On voulait marquer le coup \u00bb : 27 sp\u00e9cimens de dinosaures \u00e0 voir absolument ce week-end en Maine-et-Loire - Ouest-France",
-			"link": "https://www.ouest-france.fr/sciences/on-voulait-marquer-le-coup-27-specimens-de-dinosaures-a-voir-absolument-ce-week-end-en-maine-et-loire-28bc592a-ded4-11f1-9a04-3c520384c4a6",
-			"pubDate": "Fri, 13 Nov 2026 19:00:14 GMT",
-			"image": "",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "",
-			"url": "",
-			"description": ""
-		},
-		{
-			"title": "L\u2019Argenti\u00e8re-la-Bess\u00e9e. La 13e rencontre Montagnes et sciences se pr\u00e9pare - Le Dauphin\u00e9 Lib\u00e9r\u00e9",
-			"link": "https://www.ledauphine.com/societe/2026/11/13/la-13e-rencontre-montagnes-et-sciences-se-prepare",
-			"pubDate": "Fri, 13 Nov 2026 18:53:09 GMT",
-			"image": "https://cdn-s-www.ledauphine.com/images/D512684B-A48F-4B59-8F33-56FBDEC15CAA/FB1200/photo-1794596444.jpg",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "",
-			"url": "https://www.ledauphine.com/societe/2026/11/13/la-13e-rencontre-montagnes-et-sciences-se-prepare",
-			"description": "Ce festival de films d\u2019aventures scientifiques, \u00e9dition 2026, fera escale au foyer culturel vendredi 4\u00a0d\u00e9cembre \u00e0 partir de 19\u00a0heures avec la ..."
-		},
-		{
-			"title": "Euclid, M87, NGC 4449, Curiosity : les nouvelles images du cosmos - magazine GEO",
-			"link": "https://www.geo.fr/sciences/de-900-millions-de-galaxies-a-une-eclipse-de-saturne-les-images-de-la-semaine-234422",
-			"pubDate": "Fri, 13 Nov 2026 18:19:00 GMT",
-			"image": "https://www.geo.fr/imgre/fit/~1~geo~2026~11~13~195735d1-074b-483e-8f7a-010ea407650d.jpeg/1200x630/focus-point/701%2C399/de-900-millions-de-galaxies-a-une-eclipse-de-saturne-les-images-de-la-semaine.jpg",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "Geo.fr",
-			"url": "https://www.geo.fr/sciences/de-900-millions-de-galaxies-a-une-eclipse-de-saturne-les-images-de-la-semaine-234422",
-			"description": "Un t\u00e9lescope qui cartographie des centaines de millions de galaxies, une nouvelle m\u00e9thode pour examiner l\u2019image historique d\u2019un trou noir, un rover qui \"reprend son souffle\" sur Mars\u2026 Cette semaine encore, les images spatiales nous offrent un aper\u00e7u des d\u00e9couvertes et des myst\u00e8res qui animent notre exploration de l\u2019Univers."
-		},
-		{
-			"title": "\u00ab \u00c7a serait pr\u00e9tentieux de penser que la vie n\u2019existe que sur Terre \u00bb : les \u00e9toiles un peu plus \u00e0 port\u00e9e de main avec l\u2019astrophysicien David Elbaz - Sud Ouest",
-			"link": "https://www.sudouest.fr/sciences-et-technologie/rencontres-michel-serres-les-etoiles-un-peu-plus-a-portee-de-main-avec-l-astrophysicien-david-elbaz-31509619.php",
-			"pubDate": "Fri, 13 Nov 2026 18:00:00 GMT",
-			"image": "https://media.sudouest.fr/31509619/1200x-1/20261113114653-thi73653.jpg",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "SudOuest.fr",
-			"url": "https://www.sudouest.fr/sciences-et-technologie/rencontres-michel-serres-les-etoiles-un-peu-plus-a-portee-de-main-avec-l-astrophysicien-david-elbaz-31509619.php",
-			"description": "\u00c0 Agen, lors des Rencontres Michel-Serres, le scientifique et vulgarisateur a su communiquer au public son savoir mais aussi ses doutes dans l\u2019exploration de l\u2019univers"
-		},
-		{
-			"title": "COP31 : ces grandes conf\u00e9rences sur le climat peuvent-elles encore changer la donne ? - Futura, le m\u00e9dia qui explore le monde",
-			"link": "https://www.futura-sciences.com/planete/actualites/environnement-cop31-ces-grandes-conferences-climat-peuvent-elles-encore-changer-donne-139181/",
-			"pubDate": "Fri, 13 Nov 2026 18:00:00 GMT",
-			"image": "https://cdn8.futura-sciences.com/a1920/images/cop31%201920%20px.jpg",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "Futura",
-			"url": "https://www.futura-sciences.com/planete/actualites/environnement-cop31-ces-grandes-conferences-climat-peuvent-elles-encore-changer-donne-139181/",
-			"description": "Rio, Kyoto, Copenhague, Paris, Glasgow, Duba\u00ef, Bakou\u2026 L&#039;encha\u00eenement de ces grandes dates de la n\u00e9gociation climatique dessine une courbe constamment contredite par celle des \u00e9missions. Alors ..."
-		},
-		{
-			"title": "Big Tech rate ses cibles de r\u00e9duction de GES - Agence Science-Presse",
-			"link": "https://www.sciencepresse.qc.ca/actualites-scientifiques/2026/11/13/big-tech-rate-cibles-reduction-ges",
-			"pubDate": "Fri, 13 Nov 2026 17:48:19 GMT",
-			"image": "https://www.sciencepresse.qc.ca/sites/default/files/styles/og_image/public/2026-10/centre-donnees-nuit.jpeg?itok=3sTWXNtq",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "Agence Science-Presse",
-			"url": "https://www.sciencepresse.qc.ca/actualites-scientifiques/2026/11/13/big-tech-rate-cibles-reduction-ges",
-			"description": "Il n\u2019y a pas que les pays qui ratent leurs cibles de r\u00e9duction des gaz \u00e0 effet de serre: les g\u00e9ants du secteur des technologies aussi. Un nouveau rapport reproche \u00e0 Google, Microsoft et Amazon d\u2019avoir \u00e9mis deux fois et demi plus de CO2 en\u00a0 quatre ans que les cibles que ces compagnies s\u2019\u00e9taient elles-m\u00eames fix\u00e9es."
-		},
-		{
-			"title": "D\u00e9couvrez N\u0101p\u014dwaw\u0101\u02bbenakaulua, un couple de quasars datant des d\u00e9buts de l\u2019Univers - Numerama",
-			"link": "https://www.numerama.com/sciences/2373725-decouvrez-napowawa%CA%BBenakaulua-un-couple-de-quasars-datant-des-debuts-de-lunivers.html",
-			"pubDate": "Fri, 13 Nov 2026 17:10:00 GMT",
-			"image": "https://img.numerama.com/www.numerama.com/wp-content/uploads/2026/11/noirlab2627a.jpg?resize=1600,900&key=9a9720a5",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "Numerama",
-			"url": "https://www.numerama.com/sciences/2373725-decouvrez-napowawa\u02bbenakaulua-un-couple-de-quasars-datant-des-debuts-de-lunivers.html",
-			"description": "N\u00e9e \u00e0 peine 900 millions d'ann\u00e9es apr\u00e8s le Big Bang, la paire de quasars N\u0101p\u014dwaw\u0101\u02bbenakaulua est la plus ancienne paire compacte connue. Elle a \u00e9t\u00e9 rep\u00e9r\u00e9e gr\u00e2ce au t\u00e9lescope spatial James Webb et au t\u00e9lescope Gemini North, et les astrophysiciens ne comprennent pas comment elle a pu voir le jour. On l'appelle"
-		},
-		{
-			"title": "Imerys | Etang du Crazius, o\u00f9 est la science ? - Eau et Rivi\u00e8res de Bretagne |",
-			"link": "https://www.eau-et-rivieres.org/imerys-etang-du-crazius-o%C3%B9-est-la-science",
-			"pubDate": "Fri, 13 Nov 2026 16:47:54 GMT",
-			"image": "https://www.eau-et-rivieres.org/sites/erb.fr/files/article/20261113-Glomel.png",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "Eau et Rivi\u00e8res de Bretagne",
-			"url": "https://www.eau-et-rivieres.org/imerys-etang-du-crazius-o%C3%B9-est-la-science",
-			"description": "Retour sur le groupe de travail r\u00e9uni sur le devenir de l'\u00e9tang du Craizus dans lequel se d\u00e9versent les rejets liquides de la carri\u00e8re exploit\u00e9e par la soci\u00e9t\u00e9 Imerys."
-		},
-		{
-			"title": "Le sens des affaires | Dans les sciences du vivant, rien n'est jamais totalement perdu - L'Echo",
-			"link": "https://www.lecho.be/entreprises/pharma-biotechnologie/le-sens-des-affaires-dans-les-sciences-du-vivant-rien-n-est-jamais-totalement-perdu/10699667.html",
-			"pubDate": "Fri, 13 Nov 2026 16:35:09 GMT",
-			"image": "",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "",
-			"url": "",
-			"description": ""
-		},
-		{
-			"title": "Peut-on cr\u00e9er la vie en laboratoire ? - Association fran\u00e7aise pour l\u2019information scientifique",
-			"link": "https://www.afis.org/Peut-on-creer-la-vie-en-laboratoire",
-			"pubDate": "Fri, 13 Nov 2026 16:09:05 GMT",
-			"image": "https://www.afis.org/local/cache-gd2/f0/09e38f3c5b2062f21effd2f1dee341.jpg?1794585523",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "Afis Science - Association fran\u00e7aise pour l\u2019information scientifique",
-			"url": "https://www.afis.org/Peut-on-creer-la-vie-en-laboratoire",
-			"description": "Peut-on cr\u00e9er la vie en laboratoire ? Cyrille Jeancolas EDP Sciences, 2026, 192 pages, 16 \u20ac Qu\u2019est-ce qui s\u00e9pare un assemblage de mol\u00e9cules d\u2019un (\u2026)"
-		},
-		{
-			"title": "Le combat contre les cancers du sein de la femme jeune s'intensifie - Les Echos",
-			"link": "https://www.lesechos.fr/idees-debats/sciences-prospective/le-combat-contre-les-cancers-du-sein-de-la-femme-jeune-sintensifie-2262605",
-			"pubDate": "Fri, 13 Nov 2026 16:06:51 GMT",
-			"image": "",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "",
-			"url": "",
-			"description": ""
-		},
-		{
-			"title": "Sciences Po Lille devrait obtenir le grade de licence pour son dipl\u00f4me de premier cycle - AEF info",
-			"link": "https://www.aefinfo.fr/depeche/760171-sciences-po-lille-devrait-obtenir-le-grade-de-licence-pour-son-diplome-de-premier-cycle",
-			"pubDate": "Fri, 13 Nov 2026 15:50:20 GMT",
-			"image": "https://www.aefinfo.fr/assets/medias/documents/5/2/524636_grande.webp",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "",
-			"url": "https://www.aefinfo.fr/depeche/760171-sciences-po-lille-devrait-obtenir-le-grade-de-licence-pour-son-diplome-de-premier-cycle",
-			"description": ""
-		},
-		{
-			"title": "\u00c9tude | L\u2019interaction entre l\u2019alimentation et le microbiote influencerait l\u2019immunoth\u00e9rapie - La Presse",
-			"link": "https://www.lapresse.ca/actualites/sciences/2026-11-13/etude/l-interaction-entre-l-alimentation-et-le-microbiote-influencerait-l-immunotherapie.php",
-			"pubDate": "Fri, 13 Nov 2026 15:46:34 GMT",
-			"image": "",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "",
-			"url": "",
-			"description": ""
-		},
-		{
-			"title": "IA: l'Europe somm\u00e9e d'agir pour rester dans la course mondiale - tv5monde",
-			"link": "https://information.tv5monde.com/science/ia-leurope-sommee-dagir-pour-rester-dans-la-course-mondiale-2845658",
-			"pubDate": "Fri, 13 Nov 2026 15:32:37 GMT",
-			"image": "",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "",
-			"url": "",
-			"description": ""
-		},
-		{
-			"title": "Une sonde spatiale va r\u00e9aliser un exploit historique mardi - 20 Minutes",
-			"link": "https://www.20minutes.fr/high-tech/sciences/4262744-20261113-sonde-lancee-espace-1977-plus-60-000-km-h-va-realiser-exploit-historique-mardi-annonce-nasa",
-			"pubDate": "Fri, 13 Nov 2026 15:32:00 GMT",
-			"image": "https://img.20mn.fr/lf_eI8WbTwKOUyUTq-owLyk/1444x920_la-planete-terre-illustration",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "20 Minutes",
-			"url": "https://www.20minutes.fr/high-tech/sciences/4262744-20261113-sonde-lancee-espace-1977-plus-60-000-km-h-va-realiser-exploit-historique-mardi-annonce-nasa",
-			"description": "Le 17 novembre, Nasa organisera une op\u00e9ration pour c\u00e9l\u00e9brer le premier jour-lumi\u00e8re atteint par un\u00a0engin spatial con\u00e7u par l\u2019homme"
-		},
-		{
-			"title": "Le c\u0153ur de Pluton est bris\u00e9 depuis des milliards d\u2019ann\u00e9es - National Geographic",
-			"link": "https://www.nationalgeographic.fr/espace/astronomie-systeme-solaire-le-coeur-de-pluton-est-brise-depuis-des-milliards-annees",
-			"pubDate": "Fri, 13 Nov 2026 15:11:00 GMT",
-			"image": "https://static.nationalgeographic.fr/files/styles/image_3200/public/tn-p_lorri_fullframe_color.jpg?w=1600&h=1600",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "National Geographic",
-			"url": "https://www.nationalgeographic.fr/espace/astronomie-systeme-solaire-le-coeur-de-pluton-est-brise-depuis-des-milliards-annees",
-			"description": "La r\u00e9gion glac\u00e9e en forme de c\u0153ur d'environ 2 000 kilom\u00e8tres de large, observable sur Pluton, intrigue les astronomes depuis des ann\u00e9es."
-		},
-		{
-			"title": "L\u2019ALECSO adopte des mesures pour soutenir les secteurs de l\u2019\u00e9ducation, de la culture et des sciences en Palestine - \u0648\u0643\u0627\u0644\u0629 \u0627\u0644\u0627\u0646\u0628\u0627\u0621 \u0648\u0627\u0644\u0645\u0639\u0644\u0648\u0645\u0627\u062a \u0627\u0644\u0641\u0644\u0633\u0637\u064a\u0646\u064a\u0629 - \u0648\u0641\u0627",
-			"link": "https://french.wafa.ps/Pages/Details/248284",
-			"pubDate": "Fri, 13 Nov 2026 14:42:54 GMT",
-			"image": "/image/NewsThumbImg/Default/3a16ddab-7dd0-424f-b47c-da37ac996e7b.jpeg",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "WAFA Agency",
-			"url": "http://french.wafa.ps/Pages/Details/248284",
-			"description": ""
-		},
-		{
-			"title": "Sciences Po Strasbourg : pour lever le blocage, la direction garantit le 10/20 \u00e0 l\u2019oral - Boulevard Voltaire",
-			"link": "https://www.bvoltaire.fr/sciences-po-strasbourg-pour-lever-le-blocage-la-direction-garantit-le-10-20-a-loral/",
-			"pubDate": "Fri, 13 Nov 2026 14:26:00 GMT",
-			"image": "https://media.bvoltaire.fr/file/Bvoltaire/2026/11/sc-po-strasbourg-bfm-scaled.png",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "Boulevard Voltaire",
-			"url": "https://www.bvoltaire.fr/sciences-po-strasbourg-pour-lever-le-blocage-la-direction-garantit-le-10-20-a-loral/",
-			"description": "Apr\u00e8s des semaines de blocage, la direction de Sciences Po Strasbourg c\u00e8de et revoit ses exigences \u00e0 la baisse."
-		},
-		{
-			"title": "Les pluies sont de retour : pourquoi les nappes phr\u00e9atiques restent en danger en France - Futura, le m\u00e9dia qui explore le monde",
-			"link": "https://www.futura-sciences.com/planete/actualites/terre-pluies-sont-retour-nappes-phreatiques-restent-danger-france-139296/",
-			"pubDate": "Fri, 13 Nov 2026 14:01:00 GMT",
-			"image": "https://cdn8.futura-sciences.com/a1920/tmp/morgane/lit_doubs_secheresse2026.JPG",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "Futura",
-			"url": "https://www.futura-sciences.com/planete/actualites/terre-pluies-sont-retour-nappes-phreatiques-restent-danger-france-139296/",
-			"description": "Qu\u2019on ne s\u2019y trompe pas : si les pluies automnales ont bien fait leur retour, les nappes phr\u00e9atiques sont loin d&#039;avoir retrouv\u00e9 leur niveau habituel. Apr\u00e8s un \u00e9t\u00e9 marqu\u00e9 par une s\u00e9cheresse exc..."
-		},
-		{
-			"title": "Et si aveugles et malvoyants pouvaient \u00ab revoir \u00bb gr\u00e2ce aux ultrasons ? Dans les secrets du labo qui d\u00e9fie la c\u00e9cit\u00e9 - Le Parisien",
-			"link": "https://www.leparisien.fr/sciences/et-si-aveugles-et-malvoyants-pouvaient-revoir-grace-aux-ultrasons-dans-les-secrets-du-labo-qui-defie-la-cecite-13-11-2026-476NBC2XVBGA7N6FJUVYOLOHQ4.php",
-			"pubDate": "Fri, 13 Nov 2026 13:36:01 GMT",
-			"image": "",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "",
-			"url": "",
-			"description": ""
-		},
-		{
-			"title": "Chine: Plus de $3 milliards de projets li\u00e9s \u00e0 des technologies Nvidia - Journal Chr\u00e9tien",
-			"link": "https://chretiens.com/actualites/chine-plus-de-3/2026/11/13/13/24/",
-			"pubDate": "Fri, 13 Nov 2026 13:13:55 GMT",
-			"image": "https://chretiens.com/chretiens/2023/05/journal-chretien-par-defaut.png",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "Journal Chr\u00e9tien - Actualit\u00e9 chr\u00e9tienne",
-			"url": "https://chretiens.com/actualites/chine-plus-de-3/2026/11/13/13/24/",
-			"description": "par Eduardo Baptista P\u00c9KIN, 13 novembre (Reuters) - Nvidia assure que les contr\u00f4les \u00e0 l'exportation mis en place par les Etats-Unis l'ont de fait exclu du - Journal Chr\u00e9tien - Actualit\u00e9 chr\u00e9tienne"
-		},
-		{
-			"title": "Les filles prennent leur place en sciences - Estrieplus.com",
-			"link": "https://www.estrieplus.com/contenu-sherbrooke_filles_sciences_stephanie_jolicoeur_2026-1989-57396.html",
-			"pubDate": "Fri, 13 Nov 2026 13:13:14 GMT",
-			"image": "https://www.estrieplus.com/contenu/2026/11/13/large_57396.jpg",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "",
-			"url": "https://www.estrieplus.com/contenu-sherbrooke_filles_sciences_stephanie_jolicoeur_2026-1989-57396.html",
-			"description": "La 19e \u00e9dition de l\u2019\u00e9v\u00e9nement \u00ab Les filles et les sciences, un DUO \u00e9lectrisant! \u00bb se tiendra le samedi 14 novembre 2026, \u00e0 l\u2019Institut Quantique de l\u2019Universit\u00e9 de Sherbrooke."
-		},
-		{
-			"title": "IA: premier sommet des dirigeants de l'UE \u00e0 Dublin - rts.ch",
-			"link": "https://www.rts.ch/info/sciences-tech/2026/article/ia-premier-sommet-des-dirigeants-de-l-ue-a-dublin-29415098.html",
-			"pubDate": "Fri, 13 Nov 2026 13:09:10 GMT",
-			"image": "https://img.rts.ch/articles/2026/image/c2a0158b-29415110.image?w=1200&h=630",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "rts.ch",
-			"url": "https://www.rts.ch/info/sciences-tech/2026/article/ia-premier-sommet-des-dirigeants-de-l-ue-a-dublin-29415098.html",
-			"description": "Les chefs d'Etat et de gouvernement de l'UE d\u00e9battent pour la premi\u00e8re fois des risques et des promesses de l'intelligence artificielle, lors d'un sommet vendredi \u00e0 Dublin, alors que l'Europe tente de rester dans la course face aux Etats-Unis et \u00e0 la Chine."
-		},
-		{
-			"title": "Notions du programme de SES Tle g\u00e9n\u00e9rale et technologique - La finance pour tous",
-			"link": "https://www.lafinancepourtous.com/juniors/lyceens/reviser-leconomie/notions-du-programme-de-ses-tle-generale-et-technologique/",
-			"pubDate": "Fri, 13 Nov 2026 12:21:26 GMT",
-			"image": "https://www.lafinancepourtous.com/wp-content/thumbnails/uploads/2026/11/ses_tle460-tt-width-460-height-630-fill-0-crop-1-bgcolor-ffffff.png",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "La finance pour tous",
-			"url": "https://www.lafinancepourtous.com/juniors/lyceens/reviser-leconomie/notions-du-programme-de-ses-tle-generale-et-technologique/",
-			"description": "Programme de sciences \u00e9conomiques et sociales \u2013 Tle g\u00e9n\u00e9rale et technologique Quels sont les sources et les d\u00e9fis de la croissance \u00e9conomique ? Quels sont"
-		},
-		{
-			"title": "Surpoids et ob\u00e9sit\u00e9 : pourquoi il faut aussi mesurer le tour de taille - Sciences et Avenir",
-			"link": "https://www.sciencesetavenir.fr/sante/obesite-une-etude-confirme-les-limites-de-l-imc-pour-evaluer-l-exces-de-graisse_196082",
-			"pubDate": "Fri, 13 Nov 2026 12:09:47 GMT",
-			"image": "https://www.sciencesetavenir.fr/assets/img/2026/11/11/cover-r4x3w1200-6af49884157f8-7afb3a30c7e10983f7ad43e8ee3ecbdb889d52af-jpg.jpg",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "Sciences et Avenir",
-			"url": "https://www.sciencesetavenir.fr/sante/obesite-une-etude-confirme-les-limites-de-l-imc-pour-evaluer-l-exces-de-graisse_196082",
-			"description": "L\u2019IMC seul ne suffit pas pour \u00e9valuer le surpoids et l\u2019ob\u00e9sit\u00e9. Une \u00e9tude men\u00e9e aupr\u00e8s de plus de 844 000 adultes montre qu\u2019il est important de le compl\u00e9ter par d\u2019autres indicateurs, notamment le tour de taille."
-		},
-		{
-			"title": "Ces contretemps qui nous d\u00e9priment - Les Echos",
-			"link": "https://www.lesechos.fr/idees-debats/sciences-prospective/ces-contretemps-qui-nous-depriment-2262547",
-			"pubDate": "Fri, 13 Nov 2026 12:00:09 GMT",
-			"image": "",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "",
-			"url": "",
-			"description": ""
-		},
-		{
-			"title": "Mettre des livres de sciences et de technologies \u00e0 la disposition des biblioth\u00e8ques et universit\u00e9s locales. - Vietnam.vn",
-			"link": "https://www.vietnam.vn/fr/dua-sach-khoa-hoc-va-cong-nghe-den-thu-vien-dia-phuong-va-truong-dai-hoc",
-			"pubDate": "Fri, 13 Nov 2026 11:56:21 GMT",
-			"image": "https://vstatic.vietnam.vn/vietnam/resource/IMAGE/2026/11/13/1794568088466_3-1794494415220801934927-38-0-582-870-crop-1794494420318532066486.jpeg",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "vietnam.vn",
-			"url": "https://www.vietnam.vn/fr/dua-sach-khoa-hoc-va-cong-nghe-den-thu-vien-dia-phuong-va-truong-dai-hoc",
-			"description": "\u00c0 partir de 2027, les livres imprim\u00e9s du Programme de livres sur la science, la technologie, l'innovation et la transformation num\u00e9rique pour la p\u00e9riode 2026-2030 seront distribu\u00e9s aux biblioth\u00e8ques provinciales et municipales ainsi qu'aux biblioth\u00e8ques des universit\u00e9s et des coll\u00e8ges."
-		},
-		{
-			"title": "Qui ? La m\u00e9moire ne va pas de soi - Radio France",
-			"link": "https://www.radiofrance.fr/franceculture/podcasts/le-point-idees-le-journal-des-sciences-sociales/qui-la-memoire-ne-va-pas-de-soi-2482241",
-			"pubDate": "Fri, 13 Nov 2026 11:50:00 GMT",
-			"image": "https://www.radiofrance.fr/pikapi/images/aca55c3b-0657-4987-b477-295ba86e20c9/1200x680",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "France Culture",
-			"url": "https://www.radiofrance.fr/franceculture/podcasts/le-point-idees-le-journal-des-sciences-sociales/qui-la-memoire-ne-va-pas-de-soi-2482241",
-			"description": "Le livre fondateur du sociologue Maurice Halbwachs sur la m\u00e9moire collective, \"Les Cadres de la m\u00e9moire\", a d\u00e9sormais un si\u00e8cle. Entre-temps, des travaux pionniers comme ceux de Marie-Claire Lavabre sont venus \u00e9tayer une approche constructiviste du souvenir. Quoi de neuf et qui prend-on en compte\u00a0?"
-		},
-		{
-			"title": "Quatre scientifiques toulousains r\u00e9compens\u00e9s par le CNRS pour leurs avanc\u00e9es en microscopie, \u00e9conomie, climat et intelligence artificielle - ladepeche.fr",
-			"link": "https://www.ladepeche.fr/2026/11/13/quatre-scientifiques-toulousains-recompenses-par-le-cnrs-pour-leurs-avancees-en-microscopie-economie-climat-et-intelligence-artificielle-13650775.php",
-			"pubDate": "Fri, 13 Nov 2026 11:44:00 GMT",
-			"image": "https://images.ladepeche.fr/api/v1/images/view/6af6f7ed8b03c9f5f30b0baf/hd/image.png?v=1",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "ladepeche.fr",
-			"url": "https://www.ladepeche.fr/2026/11/13/quatre-scientifiques-toulousains-recompenses-par-le-cnrs-pour-leurs-avancees-en-microscopie-economie-climat-et-intelligence-artificielle-13650775.php",
-			"description": "Quatre scientifiques et ing\u00e9nieurs toulousains seront honor\u00e9s par le CNRS le 17 novembre \u00e0 Toulouse. Sophie Meuret et Maxime Derex recevront la m\u00e9daille de bronze pour leurs recherches novatrices, tandis que Sophie..."
-		},
-		{
-			"title": "Sciences sociales et humaines \u00e0 l'\u00e8re de l'IA : affirmer les valeurs, fa\u00e7onner l'avenir. - Vietnam.vn",
-			"link": "https://www.vietnam.vn/fr/khoa-hoc-xa-hoi-va-nhan-van-trong-ky-nguyen-ai-khang-dinh-gia-tri-kien-tao-tuong-lai",
-			"pubDate": "Fri, 13 Nov 2026 11:38:16 GMT",
-			"image": "https://vstatic.vietnam.vn/vietnam/resource/IMAGE/2026/11/13/1794569142444_anh1-109_1.jpeg",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "vietnam.vn",
-			"url": "https://www.vietnam.vn/fr/khoa-hoc-xa-hoi-va-nhan-van-trong-ky-nguyen-ai-khang-dinh-gia-tri-kien-tao-tuong-lai",
-			"description": "\u00ab Les sciences sociales et humaines auront-elles encore leur place lorsque les machines deviendront de plus en plus intelligentes ? \u00bb \u2013 Cette question, pos\u00e9e par le professeur agr\u00e9g\u00e9 Dang Hong Son, vice-recteur de l\u2019Universit\u00e9 des sciences sociales et humaines de l\u2019Universit\u00e9 nationale du Vietnam \u00e0 Hano\u00ef (VNU-USSH), lors de la c\u00e9r\u00e9monie de remise des dipl\u00f4mes de licence, de master et de doctorat en novembre 2026, suscite non seulement une r\u00e9flexion sur l\u2019avenir professionnel des \u00e9tudiants, mais r\u00e9affirme \u00e9galement la mission des sciences sociales et humaines \u00e0 l\u2019\u00e8re de l\u2019intelligence artificielle (IA) : plus la technologie se d\u00e9veloppe, plus la soci\u00e9t\u00e9 a besoin de personnes dot\u00e9es d\u2019un esprit critique, d\u2019empathie et d\u2019un sens des responsabilit\u00e9s envers la communaut\u00e9."
-		},
-		{
-			"title": "Une \u00e9tude de 1960 avait calcul\u00e9 la fin du monde pour aujourd'hui, le vendredi 13 novembre 2026 - Numerama",
-			"link": "https://www.numerama.com/sciences/2373805-une-etude-de-1960-avait-calcule-la-fin-du-monde-pour-aujourdhui-le-vendredi-13-novembre-2026.html",
-			"pubDate": "Fri, 13 Nov 2026 11:15:00 GMT",
-			"image": "https://img.numerama.com/www.numerama.com/wp-content/uploads/2026/11/fin-du-monde-13-novembre-2026.jpg?resize=1600,900&key=4eb58c53",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "Numerama",
-			"url": "https://www.numerama.com/sciences/2373805-une-etude-de-1960-avait-calcule-la-fin-du-monde-pour-aujourdhui-le-vendredi-13-novembre-2026.html",
-			"description": "Publi\u00e9e dans la revue Science le 4 novembre 1960, une \u00e9tude fixait la fin de l'humanit\u00e9 \u00e0 ce vendredi 13 novembre 2026, jour o\u00f9 la population mondiale deva"
-		},
-		{
-			"title": "\"Nous voulons une dynamique d'excellence de la formation en sciences infirmi\u00e8res\" - Hospimedia",
-			"link": "https://www.hospimedia.fr/actualite/interviews/20261113-isabelle-bayle-presidente-du-nous-voulons-une-dynamique",
-			"pubDate": "Fri, 13 Nov 2026 11:05:00 GMT",
-			"image": "https://cdn.hospimedia.fr/images/245776/47369/large/open-uri20261113-1485043-bbgg49-v1",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "HOSPIMEDIA",
-			"url": "https://www.hospimedia.fr/actualite/interviews/20261113-isabelle-bayle-presidente-du-nous-voulons-une-dynamique",
-			"description": "Six mois apr\u00e8s son \u00e9lection \u00e0 la t\u00eate du Cefiec, Isabelle Bayle fait le point sur les enjeux du mandat. R\u00e9forme de la formation infirmi\u00e8re, ancrage dans les\u2026"
-		},
-		{
-			"title": "Chantal Delsol : \u00ab La cancel culture s\u2019invite \u00e0 l\u2019Institut de France \u00bb - Valeurs actuelles",
-			"link": "https://www.valeursactuelles.com/clubvaleurs/societe/chantal-delsol-peut-on-encore-etudier-jacques-bainville-sans-etre-accuse-dantisemitisme",
-			"pubDate": "Fri, 13 Nov 2026 11:04:23 GMT",
-			"image": "https://www.valeursactuelles.com/assets/uploads/2026/11/6439_document-1.jpg",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "Valeurs actuelles",
-			"url": "https://www.valeursactuelles.com/clubvaleurs/societe/chantal-delsol-peut-on-encore-etudier-jacques-bainville-sans-etre-accuse-dantisemitisme",
-			"description": "Sid\u00e9ration l\u2019autre jour \u00e0 la s\u00e9ance solennelle sous la Coupole. C\u2019est une premi\u00e8re : la \u00ab culture de l\u2019annulation \u00bb est entr\u00e9e \u00e0 l\u2019Institut. Au milieu d\u2019un parterre d\u2019acad\u00e9miciens en..."
-		},
-		{
-			"title": "Rhonda Patrick, docteure en sciences biom\u00e9dicales : \"Les personnes \u00e2g\u00e9es ont besoin du double de prot\u00e9ines par repas que les adultes plus jeunes\" - Doctissimo",
-			"link": "https://www.doctissimo.fr/nutrition/news-nutrition/rhonda-patrick-docteure-en-sciences-biomedicales-les-personnes-agees-ont-besoin-du-double-de-proteines-par-repas-que-les-adultes-plus-jeunes-824898.htm",
-			"pubDate": "Fri, 13 Nov 2026 11:03:31 GMT",
-			"image": "https://sf1.doctissimo.fr/wp-content/uploads/doctissimo/2026/11/shutterstock_1939152424.jpg",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "Doctissimo",
-			"url": "https://www.doctissimo.fr/nutrition/news-nutrition/rhonda-patrick-docteure-en-sciences-biomedicales-les-personnes-agees-ont-besoin-du-double-de-proteines-par-repas-que-les-adultes-plus-jeunes-824898.htm",
-			"description": "Apr\u00e8s 60 ans, l\u2019\u00e9quilibre entre prot\u00e9ines, renforcement musculaire et r\u00e9sistance anabolique devient crucial pour rester en forme."
-		},
-		{
-			"title": "Les couvertures de survie, cl\u00e9s de la conqu\u00eate spatiale? - magazine GEO",
-			"link": "https://www.geo.fr/sciences/ce-plastique-du-quotidien-pourrait-permettre-de-survivre-sur-la-lune-234413",
-			"pubDate": "Fri, 13 Nov 2026 10:41:00 GMT",
-			"image": "https://www.geo.fr/imgre/fit/~1~geo~2026~11~12~fc7ec415-543f-410a-919e-ebe735927ba2.jpg/1200x630/focus-point/1382%2C1105/ce-plastique-du-quotidien-pourrait-permettre-de-survivre-sur-la-lune.jpg",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "Geo.fr",
-			"url": "https://www.geo.fr/sciences/ce-plastique-du-quotidien-pourrait-permettre-de-survivre-sur-la-lune-234413",
-			"description": "Alors que les scientifiques r\u00eavent d'installer une mission spatiale durable sur la Lune, la question de la fabrication de leur habitat interroge. Sur notre satellite naturel, les conditions de vie sont extr\u00eames. Pour prot\u00e9ger les astronautes, des chercheurs ont mis\u00e9 sur un mat\u00e9riau inattendu : le Mylar\u2026 Que l'on retrouve dans les couvertures de survie. "
-		},
-		{
-			"title": "L\u2019IA repr\u00e9sente un quart de la croissance du cr\u00e9dit dans la zone euro \u2013 Lane (BCE) - Journal Chr\u00e9tien",
-			"link": "https://chretiens.com/science-et-technologies/lia-represente-un-quart/2026/11/13/10/55/",
-			"pubDate": "Fri, 13 Nov 2026 10:32:17 GMT",
-			"image": "https://chretiens.com/chretiens/2023/05/journal-chretien-par-defaut.png",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "Journal Chr\u00e9tien - Actualit\u00e9 chr\u00e9tienne",
-			"url": "https://chretiens.com/actualites/lia-represente-un-quart/2026/11/13/10/55/",
-			"description": "FRANCFORT, 13 novembre (Reuters) - Le financement de l'intelligence artificielle (IA) repr\u00e9sente actuellement un quart de la croissance des pr\u00eats - Journal Chr\u00e9tien - Actualit\u00e9 chr\u00e9tienne"
-		},
-		{
-			"title": "L\u2019IA repr\u00e9sente un quart de la croissance du cr\u00e9dit dans la zone euro \u2013 Lane (BCE) - Journal Chr\u00e9tien",
-			"link": "https://chretiens.com/actualites/lia-represente-un-quart/2026/11/13/10/55/",
-			"pubDate": "Fri, 13 Nov 2026 10:32:17 GMT",
-			"image": "https://chretiens.com/chretiens/2023/05/journal-chretien-par-defaut.png",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "Journal Chr\u00e9tien - Actualit\u00e9 chr\u00e9tienne",
-			"url": "https://chretiens.com/actualites/lia-represente-un-quart/2026/11/13/10/55/",
-			"description": "FRANCFORT, 13 novembre (Reuters) - Le financement de l'intelligence artificielle (IA) repr\u00e9sente actuellement un quart de la croissance des pr\u00eats - Journal Chr\u00e9tien - Actualit\u00e9 chr\u00e9tienne"
-		},
-		{
-			"title": "Les particules peuvent-elles vraiment traverser les murs ? Une exp\u00e9rience relance le d\u00e9bat - Futura, le m\u00e9dia qui explore le monde",
-			"link": "https://www.futura-sciences.com/sciences/actualites/mecanique-quantique-particules-peuvent-elles-vraiment-traverser-murs-experience-relance-debat-138935/",
-			"pubDate": "Fri, 13 Nov 2026 10:30:00 GMT",
-			"image": "https://cdn8.futura-sciences.com/a1920/images/passe-muraille-quantique%201920%20px.jpg",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "Futura",
-			"url": "https://www.futura-sciences.com/sciences/actualites/mecanique-quantique-particules-peuvent-elles-vraiment-traverser-murs-experience-relance-debat-138935/",
-			"description": "Longtemps \u00e9cart\u00e9e des d\u00e9bats dominants, la th\u00e9orie de Broglie-Bohm revient dans l\u2019actualit\u00e9 scientifique \u00e0 la faveur de nouvelles exp\u00e9riences sur l\u2019effet tunnel. Ses d\u00e9fenseurs estiment que ces r\u00e9s..."
-		},
-		{
-			"title": "O\u00f9 partent vraiment les coccinelles et les abeilles quand les premi\u00e8res gel\u00e9es arrivent ? - Futura, le m\u00e9dia qui explore le monde",
-			"link": "https://www.futura-sciences.com/planete/questions-reponses/insecte-partent-vraiment-coccinelles-abeilles-premieres-gelees-arrivent-26615/",
-			"pubDate": "Fri, 13 Nov 2026 10:30:00 GMT",
-			"image": "https://cdn8.futura-sciences.com/a1920/logitheque/abeille-hiver",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "Futura",
-			"url": "https://www.futura-sciences.com/planete/questions-reponses/insecte-partent-vraiment-coccinelles-abeilles-premieres-gelees-arrivent-26615/",
-			"description": "Si les jardins semblent d\u00e9sert\u00e9s d\u00e8s le retour du gel, nos pr\u00e9cieux auxiliaires ne meurent pas pour autant : entre grappes thermiques chauff\u00e9es \u00e0 plus de 30 \u00b0C et cachettes collectives, ils d\u00e9ploie..."
-		},
-		{
-			"title": "Donn\u00e9es de la recherche : Montpellier au c\u0153ur des enjeux scientifiques du vivant - Universit\u00e9 de Montpellier",
-			"link": "https://www.umontpellier.fr/articles/donnees-de-la-recherche-montpellier-au-coeur-des-enjeux-scientifiques-du-vivant",
-			"pubDate": "Fri, 13 Nov 2026 09:45:20 GMT",
-			"image": "",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "",
-			"url": "",
-			"description": ""
-		},
-		{
-			"title": "A Dublin, les 27 d\u00e9battent pour la premi\u00e8re fois des dangers et bienfaits de l'IA - Sciences et Avenir",
-			"link": "https://www.sciencesetavenir.fr/sciences/a-dublin-les-27-debattent-pour-la-premiere-fois-des-dangers-et-bienfaits-de-l-ia_196114",
-			"pubDate": "Fri, 13 Nov 2026 09:45:05 GMT",
-			"image": "https://www.sciencesetavenir.fr/assets/img/2026/11/13/cover-r4x3w1200-6af729f109637-c952724424717ea46a2209558780e161cc563638-jpg.jpg",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "Sciences et Avenir",
-			"url": "https://www.sciencesetavenir.fr/sciences/a-dublin-les-27-debattent-pour-la-premiere-fois-des-dangers-et-bienfaits-de-l-ia_196114",
-			"description": "Face \u00e0 la concurrence am\u00e9ricaine et chinoise, l'Europe tente de rester dans la course \u00e0 l'IA. Pour la premi\u00e8re fois, les dirigeants des 27 vont d\u00e9battre des promesses et enjeux de la technologie lors d'un sommet \u00e0 Dublin."
-		},
-		{
-			"title": "Filles et sciences : le d\u00e9samour ? - ECHOSCIENCES - Grenoble",
-			"link": "https://www.echosciences-grenoble.fr/communautes/cafe-sciences-et-citoyens-de-l-agglomeration-grenobloise/articles/filles-et-sciences-le-desamour",
-			"pubDate": "Fri, 13 Nov 2026 09:18:56 GMT",
-			"image": "https://www.echosciences-grenoble.fr/uploads/article/image/attachment/1005567425/lg_vitaly-gariev-awPYrJLbNdU-unsplash__2_.jpg",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "",
-			"url": "",
-			"description": "Ce caf\u00e9 a eu lieu le Mardi 3 novembre 2026 \u00e0 \u00a0l'Espace Vie Etudiant (EVE\ufeff)\ufeff\ufeff.\u00a0Son enregistrement est disponible ici\ufeff.  Depuis la r\u00e9forme du bac,..."
-		},
-		{
-			"title": "Le p\u00f4le Nord magn\u00e9tique file vers la Sib\u00e9rie, mais il vient de faire quelque chose que les scientifiques n'avaient jamais vu - Futura, le m\u00e9dia qui explore le monde",
-			"link": "https://www.futura-sciences.com/planete/actualites/geophysique-pole-nord-magnetique-file-vers-siberie-mais-il-vient-faire-quelque-chose-scientifiques-navaient-jamais-vu-k2m6-139246/",
-			"pubDate": "Fri, 13 Nov 2026 09:00:00 GMT",
-			"image": "https://cdn8.futura-sciences.com/a1920/images/pole-nord-magnetique.png",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "Futura",
-			"url": "https://www.futura-sciences.com/planete/actualites/geophysique-pole-nord-magnetique-file-vers-siberie-mais-il-vient-faire-quelque-chose-scientifiques-navaient-jamais-vu-k2m6-139246/",
-			"description": "Depuis 1831, le p\u00f4le Nord magn\u00e9tique de la Terre ne cesse de d\u00e9river vers la Sib\u00e9rie. Un d\u00e9placement de 2 300 kilom\u00e8tres qui semble spectaculaire mais ne pr\u00e9figure aucune catastrophe. Pourtant, des..."
-		},
-		{
-			"title": "Rayons cosmiques : comment les scientifiques tentent de percer l\u2019un des grands myst\u00e8res de l\u2019astrophysique - L'Humanit\u00e9",
-			"link": "https://www.humanite.fr/sciences/astrophysique/rayons-cosmiques-comment-les-scientifiques-tentent-de-percer-lun-des-grands-mysteres-de-lastrophysique",
-			"pubDate": "Fri, 13 Nov 2026 08:59:00 GMT",
-			"image": "https://www.humanite.fr/wp-content/uploads/2026/11/Pano-3-5-copia.jpg",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "L'Humanit\u00e9",
-			"url": "https://www.humanite.fr/sciences/astrophysique/rayons-cosmiques-comment-les-scientifiques-tentent-de-percer-lun-des-grands-mysteres-de-lastrophysique",
-			"description": "\nCe flux de particules venues de l\u2019espace bombarde la Terre en permanence. En cours d\u2019installation dans les Canaries et au Chili, l\u2019observatoire europ\u00e9en CTAO (Cherenkov Telescope Arr..."
-		},
-		{
-			"title": "Le labo et la faucille - Association fran\u00e7aise pour l\u2019information scientifique",
-			"link": "https://www.afis.org/Le-labo-et-la-faucille",
-			"pubDate": "Fri, 13 Nov 2026 08:28:57 GMT",
-			"image": "https://www.afis.org/local/cache-gd2/ca/76c5caa98d8de319741ee183fcdb9c.png?1794551488",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "Afis Science - Association fran\u00e7aise pour l\u2019information scientifique",
-			"url": "https://www.afis.org/Le-labo-et-la-faucille",
-			"description": "Le labo et la faucille Marcel Prenant (1893-1983), biologiste communiste Yann Kindo \u00c9ditions Mat\u00e9riologiques, 2026, 504 pages, 34 \u20ac Le moins que (\u2026)"
-		},
-		{
-			"title": "Comment le monde quantique est devenu macroscopique - Pour la Science",
-			"link": "https://www.pourlascience.fr/sd/physique-quantique/comment-le-monde-quantique-est-devenu-macroscopique-29769.php",
-			"pubDate": "Fri, 13 Nov 2026 08:26:03 GMT",
-			"image": "https://medias.pourlascience.fr/api/v1/images/view/6af585a451d54be24f0b1b62/wide_1300/image.jpg",
-			"logo": "https://picsum.photos/32/32?grayscale",
-			"site_name": "Pourlascience.fr",
-			"url": "https:https://www.pourlascience.fr/sd/physique-quantique/comment-le-monde-quantique-est-devenu-macroscopique-29769.php",
-			"description": "En 1985, Michel Devoret et ses coll\u00e8gues ont montr\u00e9 qu\u2019un circuit \u00e9lectrique pouvait se comporter comme un \u00ab atome artificiel \u00bb. Une d\u00e9couverte qui leur a valu le prix Nobel en 2025."
 		}
 	],
-	"timestamp": "2026-11-16T18:19:42.151332"
+	"timestamp": "2026-11-21T01:21:24.317423"
 }
